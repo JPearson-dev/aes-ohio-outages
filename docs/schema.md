@@ -71,7 +71,7 @@ To preserve clean Git version history and prevent repository bloat:
 
 The `data` branch organizes cumulative records at the root, and ephemeral rolling snapshots in a `current/` subdirectory:
 
-```
+```txt
 data branch
 ├── README.md              <-- Explains the branch for visitors
 ├── heartbeat.csv          <-- Cumulative historical time series

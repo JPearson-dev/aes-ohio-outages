@@ -69,6 +69,16 @@ def clean_str(val):
     return s
 
 
+def parse_int(val, default=None):
+    """Safely converts a string or value into an int, returning default on failure."""
+    if val is None:
+        return default
+    try:
+        return int(val)
+    except (ValueError, TypeError):
+        return default
+
+
 def fetch_xml(url):
     """Fetches raw XML bytes from the given URL."""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
@@ -107,10 +117,7 @@ def process_data(xml_bytes, out_dir):
     markers = []
     for m in root.findall("Markers"):
         inc_id_raw = m.findtext("INCIDENTID")
-        try:
-            inc_id = int(inc_id_raw)
-        except (TypeError, ValueError):
-            inc_id = clean_str(inc_id_raw)
+        inc_id = parse_int(inc_id_raw, default=clean_str(inc_id_raw))
 
         lat_raw = m.findtext("LAT")
         lng_raw = m.findtext("LNG")
@@ -120,7 +127,7 @@ def process_data(xml_bytes, out_dir):
             "id": inc_id,
             "lat": float(lat_raw) if lat_raw else None,
             "lng": float(lng_raw) if lng_raw else None,
-            "customers_affected": int(custs_raw) if custs_raw else 0,
+            "customers_affected": parse_int(custs_raw, default=0),
             "county": clean_str(m.findtext("COUNTY")),
             "indicator": clean_str(m.findtext("IND")),
             "outage_time": parse_datetime(m.findtext("OutageTime")),
@@ -142,7 +149,7 @@ def process_data(xml_bytes, out_dir):
         tot_out_raw = c.findtext("TotOut")
         counties.append({
             "county": clean_str(c.findtext("County")),
-            "customers_affected": int(tot_out_raw) if tot_out_raw else 0,
+            "customers_affected": parse_int(tot_out_raw, default=0),
         })
     counties.sort(key=lambda x: x["county"] or "")
 
@@ -155,10 +162,7 @@ def process_data(xml_bytes, out_dir):
     msg_elem = root.find("Message")
     if msg_elem is not None:
         total_out_raw = msg_elem.findtext("TotalOut")
-        try:
-            total_out = int(total_out_raw)
-        except (TypeError, ValueError):
-            total_out = 0
+        total_out = parse_int(total_out_raw, default=0)
 
         raw_outage_at = clean_str(msg_elem.findtext("Outageat"))
         iso_outage_at = parse_datetime(raw_outage_at, "%m/%d/%Y %I:%M:%S %p")
