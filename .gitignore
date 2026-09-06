@@ -1,0 +1,11 @@
+# Local data branch worktree
+.data-branch/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+# Test output from sample runs
+test-output/
