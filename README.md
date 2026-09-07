@@ -6,9 +6,24 @@ Please visit [AES Ohio's official dashboard](https://myprofile.aes-ohio.com/Outa
 
 This is the `main` branch, which hosts the code for collecting and making sense of the data. The `data` branch is for data.
 
-## 📊 How This Data Can Be Used
+## 🚧 Project Status & Roadmap
 
 ***TODO: the project is temporarily just the data collection. A UI should be available by 9/10/26.***
+
+**Upcoming:**
+* Change to an external cron service to improve data fetch reliability
+* Add a front end
+  * Basic chart of incidents and customers impacted over time (only uses heartbeat.csv)
+  * The same, but splitting by incident size
+  * Incident map with time-travel scrub-bar
+
+**Low Priority:**
+* Consider normalizing times to absolute time (e.g. UTC), when possible. Only impacts one hour per year.
+
+**Out of Scope:**
+* Real-time parity with the official dashboard. Implementing this feature could count as creating a substitute for the official dashboard. This project is focused on understanding historical facts. While data refresh is handy, any such feature should be focused on ease of use and historical context, not attempting to provide the most up-to-date data possible.
+
+## 📊 How This Data Can Be Used
 
 Commercial outage aggregators typically roll up data to the county, city, or zip-code level. By tracking the raw incident data over time, this dataset enables:
 
@@ -18,16 +33,6 @@ Commercial outage aggregators typically roll up data to the county, city, or zip
 * **Incident Dynamics:** Correlating weather events to the physical size and spread of failures. Where did the storm hit first?
 
 This project doesn't aim to implement all of those features, but it might try to answer many of them. And where the project doesn't provide an analysis, other members of the community can do their own.
-
-### Status: Early Development
-
-TODOs:
-
-* Change to an external cron service to improve data fetch reliability
-* Add a front end
-  * Basic chart of incidents and customers impacted over time (only uses heartbeat.csv)
-  * The same, but splitting by incident size
-* Consider normalizing times to absolute time (e.g. UTC), when possible. Only impacts one hour per year, so it's low priority.
 
 ## 📡 Data Source & Civic Usage
 
