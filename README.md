@@ -11,6 +11,7 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ***TODO: the project is temporarily just the data collection. A UI should be available by 9/10/26.***
 
 **Upcoming:**
+* Consider splitting heartbeat into folders by year then month?
 * Add a front end
 * Basic chart of incidents and customers impacted over time (only uses heartbeat.csv)
 * The same, but splitting by incident size
