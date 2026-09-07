@@ -1,9 +1,11 @@
 name: Fetch Outage Data
 
 on:
-  schedule:
-    - cron: '8,23,38,53 * * * *'
+  # schedule: # This is now handled by an external cron job that is more consistent
+  #   - cron: '8,23,38,53 * * * *'
   workflow_dispatch:
+  repository_dispatch:
+    types: [invoke-fetch]
 
 permissions:
   contents: write
