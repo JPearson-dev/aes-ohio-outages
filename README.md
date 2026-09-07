@@ -1,6 +1,8 @@
 # AES Ohio Outage Tracker
 
-This repository automatically tracks power outages in the AES Ohio (formerly DP&L) service area. It polls the utility's public map data to build a historical, incident-level dataset that is otherwise unavailable to the public.
+This community repository automatically tracks power outages in the AES Ohio (formerly DP&L) service area. It polls the utility's public map data to build a historical, incident-level dataset that is otherwise unavailable to the public.
+
+Please visit [AES Ohio's official dashboard](https://myprofile.aes-ohio.com/Outages/Outages.html) for auto-refreshing current outage information.
 
 This is the `main` branch, which hosts the code for collecting and making sense of the data. The `data` branch is for data.
 
@@ -11,11 +13,21 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 Commercial outage aggregators typically roll up data to the county, city, or zip-code level. By tracking the raw incident data over time, this dataset enables:
 
 * **Temporal Accessibility:** A time-lapse view. The simple feeling that you can see what is happening. The ability to not just see a number go down, but to see the dots disappear as incidents resolve. The ability to see how big those numbers were before, so you know how bad it got and that progress has been steadily made, without needing to remember or physically record the numbers for yourself.
-* **Restoration Dynamics:** Have incidents near me been resolved recently? Have incidents of the size affecting me been resolved recently? Are larger outages typically resolved faster than smaller ones? Provide an unofficial estimate for how long recovery will take.
+* **Restoration Dynamics:** Have incidents near me been resolved recently? Have incidents of the size affecting me been resolved recently? Are larger outages typically resolved faster than smaller ones? Provide an unofficial estimate for how long recovery will take. What were the cummulative outage hours? Were outages reported earlier resolved any sooner than those reported later, once those later ones were reported?
 * **Anomaly Detection:** Identifying long-lived outages that persist after the main recovery period.
 * **Incident Dynamics:** Correlating weather events to the physical size and spread of failures. Where did the storm hit first?
 
 This project doesn't aim to implement all of those features, but it might try to answer many of them. And where the project doesn't provide an analysis, other members of the community can do their own.
+
+### Status: Early Development
+
+TODOs:
+
+* Change to an external cron service to improve data fetch reliability
+* Add a front end
+  * Basic chart of incidents and customers impacted over time (only uses heartbeat.csv)
+  * The same, but splitting by incident size
+* Consider normalizing times to absolute time (e.g. UTC), when possible. Only impacts one hour per year, so it's low priority.
 
 ## 📡 Data Source & Civic Usage
 
@@ -37,14 +49,23 @@ This project uses **Git Scraping**, a pattern pioneered by the civic tech commun
 
 ## ⚖️ Policy & Acceptable Use
 
-This project operates on the principle that civic data relevant to public safety and utility reliability should be accessible for non-commercial analysis.
+*If you represent AES Ohio or GitHub and disagree with this understanding, please contact a project maintainer or submit an Issue on this GitHub project.*
 
-* **Public Access:** The data is public and unauthenticated. This project uses the same endpoint as AES Ohio's official dashboard. Under established legal precedent (such as the CFAA rulings in *Van Buren* and *hiQ Labs v. LinkedIn*), automated access of public web data does not constitute unauthorized access.
+* **Civic Purpose**: This project operates on the principle that civic data relevant to public safety and utility reliability should be accessible for non-commercial analysis.
+* **Public Access:** The data is public and unauthenticated. This project uses the same endpoint as [AES Ohio's official dashboard](https://myprofile.aes-ohio.com/Outages/Outages.html). Automated access of public web data does not inherently constitute unauthorized access. (*Van Buren* established a gates-up/gates-down distinction, which the Ninth Circuit later applied to public web data in *hiQ Labs v. LinkedIn*, establishing persuasive federal precedent).
+* **Facts aren't Copyrightable**: The outage figures are facts, and facts themselves are not copyrightable. We convert this data into our own schema: we use json and csv instead of xml, use field names of our choice, normalize field data, and split entity types (incident, county, total) across files.
+  * This project does currently store the upstream XML verbatim so that script behavior can be audited against the original; we believe any copyright interest by AES would rest in the selection and arrangement of that file rather than the underlying data. Since there are limited ways to format the essential core of outage incident data and the selection is based on whether or not the incident is known to exist, the presentation and selection in the file might not be copyrightable. Retention for non-commercial research, with no substitution for AES Ohio's own service, is a fair use posture, though not a determination anyone but a court can make. If requested, the project can drop retention of the raw XML.
 * **Absence of Damages:** The system generates no meaningful load and causes no service degradation. Its operation is equivalent to someone leaving the dashboard open on a desktop computer.
-* **GitHub Acceptable Use:** GitHub allows Actions related to the production, testing, deployment, or publication of a software project. Data collection is a necessary prequisite for producing and testing software built to display the data. Making the data available for visitors is also part of publication of a usable webapp. While GitHub restricts using Actions as a "serverless backend," they permit and host thousands of Git Scraping projects for civic data, provided the compute burden remains negligible (running for ~3 seconds every 15 minutes) and the data contributes to an open-source research project.
-
-If you represent AES Ohio or GitHub and disagree with this understanding, please contact a project maintainer or submit an Issue on this GitHub project.
+* **Data Granularity**: AES already appears to apply fuzzing to incident locations, saying that "outage locations are approximate." Therefore, the risk of identifying specific AES Customers in a way that negatively impacts them is considered low.
+  * A maintainer couldn't tell which exact incident affected them, since the reporting subsystem acknowledged the outage existed for the address, but none were shown particularly close to them.
+  * The dataset underlying this web app allows finding when an incident was actually resolved, with at most 15min precision. This is considered negligibly different from the system already reporting: when an incident occurred, at one-minute precision; when an incident is expected to be resolved, at half-hour precision; or a user simply sitting there and checking every 15min. The main difference between the dashboard and this app is just the simultaneous and later-retrievable existence of incident data from multiple points in time.
+* **No Applicable Terms**: The dashboard domain, myprofile.aes-ohio.com, does not have a robots.txt, nor does it have Terms of Service that could be located on 2026-09-06.
+  * For comparison, Google's ToS were easily locatable on the dashboard's map. A search in the Chrome Developer Tools did not show any other instance of the word "terms" in the page's HTML elements.
+  * The related subdomain, [www.aes-ohio.com](https://www.aes-ohio.com) does have a [robots.txt](https://www.aes-ohio.com/robots.txt) and a [ToS](https://www.aes-ohio.com/terms-use), but neither suggests that they apply to the dashboard's subdomain. Browsewrap ToS are generally considered weak absent conspicuous notice or active consent, but that's barely relevant here.
+    * The robots.txt permits all user-agents to access many public parts of that site, with exclusions appearing to mainly be for site configuration, administration, user accounts, and content with dynamic paths. It has no default rule to allow or deny unenumerated paths and patterns.
+    * The ToS file, dated 2023-01-01 when observed on 2026-09-06, specifies that it is for `aes.com, the website ("Site")`, does not mention Ohio, aes-ohio.com, or any subdomains of aes-ohio.com, and it only uses the plural "sites" when discussing links from the Site to third party websites. So it's not clear if it even applies to [www.aes-ohio.com](https://www.aes-ohio.com).
+* **GitHub Acceptable Use:** GitHub hosts numerous Git Scraping projects for civic data. GitHub Next, an R&D team at GitHub, released [Flat Data](https://githubnext.com/projects/flat-data/) (not currently used by this project), a project which explicitly referenced the Git Scraping phenomenon as its basis. That doesn't provide absolute proof that this is within GitHub's ToS, but it does show clear institutional support for the pattern. Our compute burden remains negligible (running for ~10 seconds every 15 minutes) and the data contributes to an open-source research project.
 
 ---
 
-For more background on the methodology powering this repository, you can review Simon Willison's talk on [Git scraping, the five minute lightning talk](https://www.youtube.com/watch?v=2CjA-03yK8I), which demonstrates using this exact pattern to track PG&E outages.
+For more background on the methodology powering this repository, see Simon Willison's 5-minute lightning talk on [Git scraping](https://www.youtube.com/watch?v=2CjA-03yK8I) from 2021, which demonstrates using this pattern to track PG&E outages.
