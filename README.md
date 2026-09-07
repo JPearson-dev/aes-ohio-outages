@@ -15,6 +15,7 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 * Add a front end
 * Basic chart of incidents and customers impacted over time (only uses heartbeat.csv)
 * The same, but splitting by incident size
+* Auto-generate credits for front-end dependencies
 * Incident map with time-travel scrub-bar
 * Scan forwards/backwards to see data for an event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.
 * Detect and list recent outage periods, since we assume that most major outages are detectable by a minimum, rapidly created size.
@@ -55,6 +56,8 @@ This project uses **Git Scraping**, a pattern pioneered by the civic tech commun
 3. If the incident data has changed (new outages appeared, or existing ones dropped off), the changes are committed to the `data` branch.
 4. Git's version history acts as a time-series database.
 
+For more background on the methodology powering this repository, see Simon Willison's 5-minute lightning talk on [Git scraping](https://www.youtube.com/watch?v=2CjA-03yK8I) from 2021, which demonstrates using this pattern to track PG&E outages.
+
 ## ⚖️ Policy & Acceptable Use
 
 *If you represent AES Ohio or GitHub and disagree with this understanding, please contact a project maintainer or submit an Issue on this GitHub project.*
@@ -73,7 +76,3 @@ This project uses **Git Scraping**, a pattern pioneered by the civic tech commun
     * The robots.txt permits all user-agents to access many public parts of that site, with exclusions appearing to mainly be for site configuration, administration, user accounts, and content with dynamic paths. It has no default rule to allow or deny unenumerated paths and patterns.
     * The ToS file, dated 2023-01-01 when observed on 2026-09-06, specifies that it is for `aes.com, the website ("Site")`, does not mention Ohio, aes-ohio.com, or any subdomains of aes-ohio.com, and it only uses the plural "sites" when discussing links from the Site to third party websites. So it's not clear if it even applies to [www.aes-ohio.com](https://www.aes-ohio.com).
 * **GitHub Acceptable Use:** GitHub hosts numerous Git Scraping projects for civic data. GitHub Next, an R&D team at GitHub, released [Flat Data](https://githubnext.com/projects/flat-data/) (not currently used by this project), a project which explicitly referenced the Git Scraping phenomenon as its basis. That doesn't provide absolute proof that this is within GitHub's ToS, but it does show clear institutional support for the pattern. Our compute burden remains negligible (running for ~10 seconds every 15 minutes) and the data contributes to an open-source research project.
-
----
-
-For more background on the methodology powering this repository, see Simon Willison's 5-minute lightning talk on [Git scraping](https://www.youtube.com/watch?v=2CjA-03yK8I) from 2021, which demonstrates using this pattern to track PG&E outages.
