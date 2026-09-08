@@ -11,12 +11,13 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ***TODO: the project is temporarily just the data collection. A UI should be available by 9/10/26.***
 
 **Upcoming:**
-* Add a front end
-* Basic chart of incidents and customers impacted over time (only uses heartbeat.csv)
-* The same, but splitting by incident size
+* Auto-deploy on update to GH Pages
+* Store mysql data in Pages deploy. Just current file for now.
+* Outages and affected customers, but splitting by incident size
 * Auto-generate credits for front-end dependencies
 * Incident map with time-travel scrub-bar
-* Scan forwards/backwards to see data for an event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.
+* Scan forwards/backwards to see data for a specific event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.
+  * How is a specific event accessed?
 * Detect and list recent outage periods, since we assume that most major outages are detectable by a minimum, rapidly created size.
 * An auto-playing loop of an outage period, with highlighting of incidents as they are about to be resolved.
 

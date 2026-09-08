@@ -62,8 +62,8 @@ export function HeartbeatChart() {
             {
               label: 'Customers affected',
               data: rows.map((row) => ({ x: row.timestamp, y: row.totalCustomersAffected })),
-              borderColor: '#e0722f',
-              backgroundColor: '#e0722f',
+              borderColor: '#E69F00',
+              backgroundColor: '#E69F00',
               yAxisID: 'y',
               pointRadius: 0,
               tension: 0.15,
@@ -71,8 +71,9 @@ export function HeartbeatChart() {
             {
               label: 'Incident count',
               data: rows.map((row) => ({ x: row.timestamp, y: row.incidentCount })),
-              borderColor: '#3b7ea1',
-              backgroundColor: '#3b7ea1',
+              borderColor: '#0072B2',
+              backgroundColor: '#0072B2',
+              borderDash: [6, 3],
               yAxisID: 'y1',
               pointRadius: 0,
               tension: 0.15,
@@ -82,24 +83,79 @@ export function HeartbeatChart() {
         options={{
           responsive: true,
           maintainAspectRatio: false,
+          animation: false,
           interaction: { mode: 'index', intersect: false },
+          plugins: {
+            legend: {
+              onClick: (_event, legendItem, legend) => {
+                const chart = legend.chart
+                const index = legendItem.datasetIndex
+                if (index === undefined) return
+
+                const datasets = chart.data.datasets
+                const applyScaleDisplay = (i: number, display: boolean) => {
+                  const scaleId = datasets[i].yAxisID
+                  const scale = scaleId && chart.options.scales?.[scaleId]
+                  if (scale) scale.display = display
+                }
+
+                const hiding = chart.isDatasetVisible(index)
+                const wouldHideAll =
+                  hiding && !datasets.some((_, i) => i !== index && chart.isDatasetVisible(i))
+                if (wouldHideAll) {
+                  // Keep at least one series visible: fall back to the next dataset
+                  // rather than leaving the chart with nothing plotted.
+                  const neighbor = (index + 1) % datasets.length
+                  chart.setDatasetVisibility(neighbor, true)
+                  applyScaleDisplay(neighbor, true)
+                }
+
+                const visible = !hiding
+                chart.setDatasetVisibility(index, visible)
+                applyScaleDisplay(index, visible)
+
+                // The tooltip (and the highlighted point on the line) can be left showing a
+                // now-hidden series if the cursor moved from the chart straight to the legend
+                // without leaving the canvas.
+                chart.setActiveElements([])
+                chart.tooltip?.setActiveElements([], { x: 0, y: 0 })
+                chart.update()
+              },
+              labels: {
+                usePointStyle: true,
+                pointStyleWidth: 40,
+                generateLabels: (chart) =>
+                  chart.data.datasets.map((dataset, i) => ({
+                    text: dataset.label ?? '',
+                    strokeStyle: dataset.borderColor as string,
+                    fillStyle: dataset.borderColor as string,
+                    lineWidth: 2,
+                    lineDash: dataset.borderDash ?? [],
+                    pointStyle: 'line',
+                    hidden: !chart.isDatasetVisible(i),
+                    datasetIndex: i,
+                  })),
+              },
+            },
+          },
           scales: {
             x: {
               type: 'time',
               time: { unit: 'day' },
-              title: { display: true, text: 'Time' },
             },
             y: {
               type: 'linear',
               position: 'left',
               beginAtZero: true,
-              title: { display: true, text: 'Customers affected' },
+              title: { display: true, text: 'Customers affected', color: '#ce9c2d' },
+              ticks: { color: '#ce9c2d' },
             },
             y1: {
               type: 'linear',
               position: 'right',
               beginAtZero: true,
-              title: { display: true, text: 'Incident count' },
+              title: { display: true, text: 'Incident count', color: '#2d7daa' },
+              ticks: { color: '#2d7daa' },
               grid: { drawOnChartArea: false },
             },
           },
