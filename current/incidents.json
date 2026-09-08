@@ -1,8 +1,8 @@
 [
   {
     "id": 1808541,
-    "lat": 39.83371416,
-    "lng": -84.1293011936676,
+    "lat": 39.83473766,
+    "lng": -84.127943607388,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1808561,
-    "lat": 39.7705554,
-    "lng": -84.2247837622664,
+    "lat": 39.7715789,
+    "lng": -84.2234275187187,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1808573,
-    "lat": 39.75783618,
-    "lng": -84.2872159848417,
+    "lat": 39.75885968,
+    "lng": -84.2858600111668,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1808594,
-    "lat": 39.80889952,
-    "lng": -84.3000943681221,
+    "lat": 39.80992302,
+    "lng": -84.2987373099187,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -40,19 +40,9 @@
     "estimate_time": "2026-09-08T16:00:00"
   },
   {
-    "id": 1808643,
-    "lat": 39.78751523,
-    "lng": -84.2899901488478,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-08T10:18:00",
-    "estimate_time": "2026-09-08T18:00:00"
-  },
-  {
     "id": 1808658,
-    "lat": 39.64232495,
-    "lng": -84.2396871334496,
+    "lat": 39.64334845,
+    "lng": -84.2383336025076,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -60,19 +50,9 @@
     "estimate_time": "2026-09-08T15:00:00"
   },
   {
-    "id": 1808672,
-    "lat": 39.76620519,
-    "lng": -84.2179244462684,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-08T11:09:00",
-    "estimate_time": "2026-09-08T18:00:00"
-  },
-  {
     "id": 1808691,
-    "lat": 40.11984627,
-    "lng": -83.9725152405258,
+    "lat": 40.12086977,
+    "lng": -83.9711515155728,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -80,19 +60,9 @@
     "estimate_time": "2026-09-08T17:00:00"
   },
   {
-    "id": 1808709,
-    "lat": 40.32029947,
-    "lng": -84.144238450167,
-    "customers_affected": 1,
-    "county": "SHELBY",
-    "indicator": "D",
-    "outage_time": "2026-09-08T12:27:00",
-    "estimate_time": "2026-09-08T15:00:00"
-  },
-  {
     "id": 1808718,
-    "lat": 39.76968709,
-    "lng": -84.2130403686738,
+    "lat": 39.77071059,
+    "lng": -84.2116841435554,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -101,8 +71,8 @@
   },
   {
     "id": 1808733,
-    "lat": 40.05805855,
-    "lng": -84.3598601440432,
+    "lat": 40.05908205,
+    "lng": -84.3584977524399,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -111,8 +81,8 @@
   },
   {
     "id": 1808736,
-    "lat": 39.65395825,
-    "lng": -84.1849093655568,
+    "lat": 39.65498175,
+    "lng": -84.1835555892672,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -121,12 +91,42 @@
   },
   {
     "id": 1808744,
-    "lat": 39.78419019,
-    "lng": -84.2199380298954,
+    "lat": 39.78521369,
+    "lng": -84.2185814968504,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-08T14:02:00",
     "estimate_time": "2026-09-08T17:00:00"
+  },
+  {
+    "id": 1808749,
+    "lat": 39.7764868,
+    "lng": -84.2254143076964,
+    "customers_affected": 5,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-08T14:20:00",
+    "estimate_time": "2026-09-08T17:00:00"
+  },
+  {
+    "id": 1808752,
+    "lat": 39.69930614,
+    "lng": -84.1267195580358,
+    "customers_affected": 12,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-08T14:23:00",
+    "estimate_time": "2026-09-08T17:00:00"
+  },
+  {
+    "id": 1808753,
+    "lat": 39.7663879,
+    "lng": -84.1292715827039,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-08T14:30:00",
+    "estimate_time": null
   }
 ]
