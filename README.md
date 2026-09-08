@@ -11,7 +11,6 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ***TODO: the project is temporarily just the data collection. A UI should be available by 9/10/26.***
 
 **Upcoming:**
-* Consider splitting heartbeat into folders by year then month?
 * Add a front end
 * Basic chart of incidents and customers impacted over time (only uses heartbeat.csv)
 * The same, but splitting by incident size
@@ -40,7 +39,7 @@ This project doesn't aim to implement all of those features, but it might try to
 
 ## 📡 Data Source & Civic Usage
 
-The data is sourced directly from the public, unauthenticated XML endpoint used by the official AES Ohio outage map (`dplomsdata.xml`).
+The data is sourced directly from the public, unauthenticated XML endpoint used by the official AES Ohio outage map (`DPLOMSDATA.xml`).
 
 This project operates under a strict "polite polling" policy:
 

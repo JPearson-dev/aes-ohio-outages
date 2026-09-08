@@ -1,7 +1,47 @@
 # Site
 
 Build Tool: Vite
-Framework: Vue 3 (Composition API + `<script setup>`)
-Map component: MapLibre GL JS
-Chart components: Observable Plot or Chart.js
+Framework: **React + Zustand** (TypeScript)
+Map component: MapLibre GL JS (via `react-maplibre`/`react-map-gl`)
+Chart components: **Chart.js** (via `react-chartjs-2`)
 Hosting: GitHub Pages (automated deploy via GitHub Actions on push to `main`)
+Data access: **jsDelivr GitHub CDN**, purged on write
+
+## Decisions
+
+**Framework — React + Zustand**, over Vue 3.
+
+* MapLibre updates are inherently imperative regardless of framework — a scrubber tick calls `source.setData()`/diffed updates directly; neither framework re-renders per-marker. So Vue's fine-grained-reactivity edge doesn't actually reach the map layer, and Zustand's selector-based subscriptions cover the surrounding UI (scrubber, panels, chart selection) just as well.
+* Once that technical wash is accounted for, the tiebreaker is ecosystem: `react-maplibre` (the renamed `react-map-gl`) is actively maintained and has the larger contributor/tutorial base, which matters for a repo that explicitly hopes others build on it.
+* Svelte was ruled out earlier: no current contributor preference for it and a thinner library ecosystem for this use case.
+
+**Language — TypeScript.** The upstream data already has well-defined shapes (see [schema.md](schema.md)); typing them once means contributors read the type instead of re-deriving field names from sample JSON.
+
+**Chart library — Chart.js** (via `react-chartjs-2`), over Observable Plot.
+
+* Plot has known rough edges inside React apps (non-customizable tooltips, no built-in resize/reflow — needs a manual `ResizeObserver`).
+* Chart.js's canvas rendering suits the roadmap's scrubber-driven, frequently-updating time series better than Plot's SVG output, and its plugin ecosystem (zoom, annotation lines) covers things like a "current scrub position" marker without custom drawing code.
+
+**Data access — jsDelivr's GitHub CDN** (`cdn.jsdelivr.net/gh/<owner>/<repo>@data/...`), not `raw.githubusercontent.com`.
+
+* `raw.githubusercontent.com` is rate-limited per-IP for unauthenticated requests (60/hr) and isn't intended for hotlinked, public-traffic use — a bad fit for a public GitHub Pages site of unknown reach.
+* jsDelivr is a real CDN (proper CORS, scales for public traffic) but caches branch references (`@data`) for 12 hours — too stale for this project's needs even given the "not a real-time dashboard" stance in the README.
+* Fix: since the existing 15-minute fetch Action already commits to `data` only when incidents actually change, add a step to that same Action that calls jsDelivr's purge API for the changed file URLs right after committing. This gets CDN scalability without the staleness — freshness is bounded by the same 15-minute cadence the polling policy already commits to, not by jsDelivr's passive TTL. Purge-call volume is at most once per poll, well inside jsDelivr's documented purge rate limits.
+
+**Styling — CSS Modules** (built into Vite, no extra dependency). Keeps the dependency surface minimal, consistent with this project's general preference for free/no-key/low-maintenance choices (see [maps.md](maps.md)) over adding a framework like Tailwind this early.
+
+**Package manager — npm.** Ships with Node; no extra global install for anyone forking the project. Same "minimize friction for forks" reasoning used to rule out Google Maps/keyed basemaps in [maps.md](maps.md).
+
+**Tooling defaults — not worth bikeshedding yet.** Use whatever ESLint/Prettier config Vite's official `react-ts` template scaffolds; revisit only if it becomes a real pain point.
+
+**Historical incident data (time-travel scrubber) — a SQLite db built with `git-history`, queried client-side with `sql.js-httpvfs`, hosted same-origin on Pages.**
+
+`current/incidents.json` only holds the *current* snapshot; history lives implicitly in `data`-branch commits, and client-side traversal of GitHub's commit history/API is rate-limited and won't scale to a public site. The established git-scraping answer to this — used by [pge-outages](https://github.com/simonw/pge-outages), the exact project this README's methodology section already cites — is [`git-history`](https://github.com/simonw/git-history): it walks a tracked file's commit log and builds a SQLite db keyed by an identifier column (`INCIDENTID` here), storing one row per *distinct state* an item has taken on (not one row per poll) plus a join table recording which commits observed which state. An incident that sits unchanged for two hours costs one stored row, not eight.
+
+* **Column tracking:** track all of `current/incidents.json`'s columns (no `--ignore` needed). `estimate_time` and `customers_affected` are *expected* to change over an incident's life, and that's exactly the signal the README's own roadmap wants ("changes to estimated completion time," "see if customers impacted changed") — not noise to suppress. `id`/`lat`/`lng`/`county` should be stable and cost nothing to track defensively. `outage_time` should also be stable per `INCIDENTID`; if it ever isn't, that's a data anomaly worth a build-script warning, not a new "state." Revisit this list once real polling history accumulates, to check nothing flickers meaninglessly (e.g. float jitter) and inflates row count for no insight. The XML's duplicated per-marker `total` field (schema.md quirk #4) is already stripped before this stage, so there's nothing to exclude for it.
+* **Size:** rough estimate, given typical/seen incident volumes (~150-400 concurrent, per schema.md's examples) and ~2-3 recorded states per incident's life: tens of MB/year in ordinary conditions, plausibly low hundreds of MB in a very active year. Nowhere near GitHub Pages' size guidance or Actions cache limits for a long time.
+* **Querying:** `sql.js-httpvfs` adds an HTTP-Range-based virtual filesystem so the browser fetches only the SQLite pages a query touches, rather than downloading the whole (ever-growing) db.
+* **Hosting — same-origin on the Pages site, not jsDelivr.** jsDelivr has an [open bug](https://github.com/jsdelivr/jsdelivr/issues/18679) corrupting HTTP Range responses specifically on its Cloudflare-backed edges (Fastly-backed edges are fine, and jsDelivr routes across both depending on region/load) — unacceptable for a project whose entire value is trustworthy historical facts, even though jsDelivr remains fine for the current-snapshot JSON (plain whole-file GETs never hit that code path). `raw.githubusercontent.com` is out too: its unauthenticated 60-req/hr-per-IP limit is a bad fit for a query pattern that can issue several Range requests per interaction. GitHub Pages' own static file server supports Range requests correctly and natively, isn't subject to that raw-content rate limit, and being same-origin also means no CORS headers to worry about.
+* **Keeping this decoupled from code deploys:** a *second*, independently-scheduled workflow rebuilds the db and calls `deploy-pages` again — it doesn't touch app source, so it doesn't ride on every push to `main`, and it isn't tied to the 15-minute incident-poll cadence either. Each deploy is still a full atomic artifact swap (Pages doesn't support partial updates), but that's fine since this deploy is infrequent by design.
+* **Making incremental rebuilds actually incremental:** `git-history` skips commits it's already processed, but Actions runners are ephemeral, so the partially-built db needs to persist somewhere between scheduled runs. Use `actions/cache` (stable key, e.g. `history-db-v1`) rather than committing the growing db to any git branch — that keeps `main` and `data` from re-acquiring the exact repo-bloat problem the branch split was meant to avoid (schema.md §3). Cache entries evict after 7 days unused or past a 10GB-per-repo cap; a job that runs at least every few days touches the cache often enough to never risk the former, and the size estimate above is nowhere near the latter for years. If the cache is ever evicted anyway, the worst case is one slow full-rebuild run, not lost data.
+* **Refresh cadence — daily, via native `schedule:`, with the existing cron-job.org path as a ready fallback.** GitHub's own docs describe the delay/drop mechanism as aggregate platform load at a given clock-time ("high load times include the start of every hour... some queued jobs may be dropped"), not anything tied to how frequently the *requesting* workflow itself runs. The reason frequency still matters isn't independent-chance exposure so much as a delay-to-interval ratio problem: community-reported delays run 5-60 minutes, and at 15-minute scheduling that's the same order of magnitude as the interval itself — a tick delayed 40 minutes starts executing right on top of the next tick's scheduled time, so consecutive runs start interfering with each other's execution windows regardless of whether GitHub's queue is doing anything frequency-aware internally. That matches this repo's actual experience: shifting to `:08/:23/:38/:53` (already off the round marks) still wasn't reliable enough, hence the move to cron-job.org (see [fetch-data.yml](../.github/workflows/fetch-data.yml) history). At daily frequency, even a worst-case 60-minute delay is ~4% of the 24-hour interval — nowhere near enough for that overlap mechanism to reproduce. So the case for daily working natively is a structural one (the interfering-ticks mechanism has no room to occur), not just "less frequent is politely treated better" — but it's still inferential, not verified by observed data for this specific workflow. Cheap hedge: this repo already has a proven-reliable external-cron path; if the native schedule turns out to misfire in practice, point cron-job.org at a second `repository_dispatch` event type for this workflow, same as the incident poll.

@@ -92,6 +92,8 @@ timestamp,total_customers_affected,incident_count
 2026-09-05T21:35:32,4911,392
 ```
 
+**Decision: kept as a single flat file, not split into per-year/month folders.** At 15-minute polling that's ~96 rows/day and ~30 bytes/row — roughly 1MB/year, staying well under 10MB for a decade if cadence never changes, so there's no realistic future where file size burdens fetch time, diff size, or repo bloat. The main motivation for splitting — letting a human glance at the file and see what happened recently — is served by the `data` branch's commit history, the Actions run history, or `current/status.json`'s `updated_at` field, none of which require reshaping this file.
+
 ### `current/incidents.json`
 The active list of incident markers.
 - **Deterministic Sorting**: Sorted by `id` ascending so Git diffs only reflect actual grid changes (new, resolved, or customer count changes).
