@@ -1,48 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77421176</LAT>
-    <LNG>-84.2141485719938</LNG>
+    <LAT>39.77423846</LAT>
+    <LNG>-84.2141131885394</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1808515</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>28</total>
+    <total>29</total>
     <OutageTime>09/07/2026 07:51 PM</OutageTime>
     <EstimateTime>09/08/2026 03:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80766609</LAT>
-    <LNG>-84.1458007288946</LNG>
+    <LAT>39.80769279</LAT>
+    <LNG>-84.1457653268953</LNG>
     <TOTALCUSTS>20</TOTALCUSTS>
     <INCIDENTID>1808518</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>28</total>
+    <total>29</total>
     <OutageTime>09/07/2026 08:01 PM</OutageTime>
     <EstimateTime>09/08/2026 01:30 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80743477</LAT>
-    <LNG>-84.1981526038992</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
+    <LAT>39.80746147</LAT>
+    <LNG>-84.1981172020282</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1808527</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>28</total>
+    <total>29</total>
     <OutageTime>09/07/2026 08:56 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79180878</LAT>
-    <LNG>-84.252410622766</LNG>
+    <LAT>39.79183548</LAT>
+    <LNG>-84.252375229561</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1808519</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>28</total>
+    <total>29</total>
     <OutageTime>09/07/2026 08:07 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/08/2026 05:30 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -110,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>28</TotOut>
+    <TotOut>29</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>28</TotalOut>
-    <Outageat>9/7/2026 11:05:30 PM</Outageat>
+    <TotalOut>29</TotalOut>
+    <Outageat>9/7/2026 11:20:33 PM</Outageat>
   </Message>
 </Incidents>
