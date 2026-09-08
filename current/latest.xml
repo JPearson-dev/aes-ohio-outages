@@ -1,46 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.6859545</LAT>
-    <LNG>-83.9216047972663</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1808540</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>445</total>
-    <OutageTime>09/08/2026 05:29 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.80764171</LAT>
-    <LNG>-83.9730241851301</LNG>
+    <LAT>39.80841601</LAT>
+    <LNG>-83.9719975773703</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1808534</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>445</total>
+    <total>261</total>
     <OutageTime>09/08/2026 04:14 AM</OutageTime>
     <EstimateTime>09/08/2026 09:30 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.85138458</LAT>
-    <LNG>-84.1064736083658</LNG>
+    <LAT>39.85215888</LAT>
+    <LNG>-84.105446296107</LNG>
     <TOTALCUSTS>54</TOTALCUSTS>
     <INCIDENTID>1808536</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>445</total>
+    <total>261</total>
     <OutageTime>09/08/2026 04:29 AM</OutageTime>
     <EstimateTime>09/08/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64088911</LAT>
-    <LNG>-84.1746608463606</LNG>
-    <TOTALCUSTS>386</TOTALCUSTS>
+    <LAT>39.64166341</LAT>
+    <LNG>-84.1736369095773</LNG>
+    <TOTALCUSTS>203</TOTALCUSTS>
     <INCIDENTID>1808539</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>445</total>
+    <total>261</total>
     <OutageTime>09/08/2026 04:49 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
@@ -82,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>5</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -110,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>440</TotOut>
+    <TotOut>257</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>445</TotalOut>
-    <Outageat>9/8/2026 5:35:30 AM</Outageat>
+    <TotalOut>261</TotalOut>
+    <Outageat>9/8/2026 5:50:31 AM</Outageat>
   </Message>
 </Incidents>
