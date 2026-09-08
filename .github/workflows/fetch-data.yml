@@ -27,7 +27,7 @@ jobs:
           path: 'data'
 
       - name: Fetch and process outage data
-        run: python code/scripts/fetch.py --out-dir data
+        run: python code/ingest/scripts/fetch.py --out-dir data
 
       - name: Commit and push changes
         working-directory: data

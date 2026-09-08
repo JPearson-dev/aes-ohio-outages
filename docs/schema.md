@@ -63,7 +63,7 @@ To preserve clean Git version history and prevent repository bloat:
 
 - **`main` Branch**: Contains application source code, parsing scripts, GitHub Actions workflows, templates, documentation, and the future UI.
 - **`data` Branch**: An orphan branch dedicated exclusively to dataset snapshots.
-- **Local `.data-branch/` Worktree**: Locally, the `data` branch is checked out into `.data-branch/` (ignored by Git on `main`). This shares the `.git` database with zero duplicate repo storage.
+- **Local `ingest/.data-branch/` Worktree**: Locally, the `data` branch is checked out into `ingest/.data-branch/` (ignored by Git on `main`), alongside the ingest tooling that populates it. This shares the `.git` database with zero duplicate repo storage.
 
 ---
 
@@ -153,24 +153,24 @@ The exact raw XML payload from the latest poll, saved for auditability and verif
 ## 5. Local Development & Safeguards
 
 ### Safe Offline Testing with Samples
-Running with `--sample` automatically redirects output to `./test-output/` (which is git-ignored) unless an explicit `--out-dir` is provided. This prevents sample data from contaminating the real `.data-branch` worktree:
+Running with `--sample` automatically redirects output to `./test-output/` (which is git-ignored) unless an explicit `--out-dir` is provided. This prevents sample data from contaminating the real `ingest/.data-branch` worktree:
 ```bash
-python3 scripts/fetch.py --sample sample-data/DPLOMSDATA.xml
+python3 ingest/scripts/fetch.py --sample ingest/sample-data/DPLOMSDATA.xml
 ```
 
 ### Fetching Live Data Locally
 To update the local worktree files without creating Git commits:
 ```bash
-./scripts/update-data.sh
+./ingest/scripts/update-data.sh
 ```
 
-To explicitly commit changes to `.data-branch`:
+To explicitly commit changes to `ingest/.data-branch`:
 ```bash
-./scripts/update-data.sh --commit
+./ingest/scripts/update-data.sh --commit
 ```
 
 ### Inspecting Local Data Branch History
 ```bash
-git -C .data-branch log --oneline -n 5
-git -C .data-branch diff HEAD~1 HEAD
+git -C ingest/.data-branch log --oneline -n 5
+git -C ingest/.data-branch diff HEAD~1 HEAD
 ```

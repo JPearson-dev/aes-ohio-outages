@@ -4,14 +4,14 @@
 # and updates the local data worktree.
 #
 # Usage:
-#   ./scripts/update-data.sh          # Fetches & updates files locally (no git commit)
-#   ./scripts/update-data.sh --commit # Fetches, updates, and commits to git
+#   ./ingest/scripts/update-data.sh          # Fetches & updates files locally (no git commit)
+#   ./ingest/scripts/update-data.sh --commit # Fetches, updates, and commits to git
 #
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-ROOT_DIR="$(dirname "$SCRIPT_DIR")"
-DATA_DIR="$ROOT_DIR/.data-branch"
+INGEST_DIR="$(dirname "$SCRIPT_DIR")"
+DATA_DIR="$INGEST_DIR/.data-branch"
 DO_COMMIT=false
 
 for arg in "$@"; do
@@ -27,7 +27,7 @@ done
 
 if [ ! -d "$DATA_DIR" ]; then
     echo "Error: Data directory '$DATA_DIR' not found."
-    echo "Make sure the git worktree exists: git worktree add .data-branch data"
+    echo "Make sure the git worktree exists: git worktree add ingest/.data-branch data"
     exit 1
 fi
 
