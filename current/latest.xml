@@ -1,70 +1,92 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.65041328</LAT>
-    <LNG>-84.070858941512</LNG>
+    <LAT>40.33599893</LAT>
+    <LNG>-84.5363356179272</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1808521</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>83</total>
+    <OutageTime>09/07/2026 08:29 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.64954108</LAT>
+    <LNG>-84.072012509989</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1808514</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>80</total>
+    <total>83</total>
     <OutageTime>09/07/2026 07:50 PM</OutageTime>
     <EstimateTime>09/08/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83133799</LAT>
-    <LNG>-84.2950778306499</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1808477</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>80</total>
-    <OutageTime>09/07/2026 04:31 PM</OutageTime>
-    <EstimateTime>09/07/2026 11:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.81091459</LAT>
-    <LNG>-84.1414934856404</LNG>
+    <LAT>39.81004239</LAT>
+    <LNG>-84.1426499509525</LNG>
     <TOTALCUSTS>65</TOTALCUSTS>
     <INCIDENTID>1808518</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>80</total>
+    <total>83</total>
     <OutageTime>09/07/2026 08:01 PM</OutageTime>
     <EstimateTime>09/08/2026 01:30 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81598963</LAT>
-    <LNG>-84.2843722755023</LNG>
+    <LAT>39.81511743</LAT>
+    <LNG>-84.285528832807</LNG>
     <TOTALCUSTS>11</TOTALCUSTS>
     <INCIDENTID>1808490</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>80</total>
+    <total>83</total>
     <OutageTime>09/07/2026 05:06 PM</OutageTime>
     <EstimateTime>09/07/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77665492</LAT>
-    <LNG>-84.2202231657186</LNG>
+    <LAT>39.83046579</LAT>
+    <LNG>-84.2962346663142</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1808505</INCIDENTID>
+    <INCIDENTID>1808477</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>80</total>
-    <OutageTime>09/07/2026 06:51 PM</OutageTime>
-    <EstimateTime>09/08/2026 12:00 AM</EstimateTime>
+    <total>83</total>
+    <OutageTime>09/07/2026 04:31 PM</OutageTime>
+    <EstimateTime>09/07/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77746026</LAT>
-    <LNG>-84.2098435850429</LNG>
+    <LAT>39.77658806</LAT>
+    <LNG>-84.210999444553</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1808515</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>80</total>
+    <total>83</total>
     <OutageTime>09/07/2026 07:51 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77578272</LAT>
+    <LNG>-84.2213790106584</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1808505</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>83</total>
+    <OutageTime>09/07/2026 06:51 PM</OutageTime>
+    <EstimateTime>09/08/2026 12:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.79418508</LAT>
+    <LNG>-84.2492606275174</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1808519</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>83</total>
+    <OutageTime>09/07/2026 08:07 PM</OutageTime>
+    <EstimateTime>09/08/2026 01:30 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -92,7 +114,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -132,7 +154,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>79</TotOut>
+    <TotOut>81</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -165,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>80</TotalOut>
-    <Outageat>9/7/2026 8:20:30 PM</Outageat>
+    <TotalOut>83</TotalOut>
+    <Outageat>9/7/2026 8:35:30 PM</Outageat>
   </Message>
 </Incidents>
