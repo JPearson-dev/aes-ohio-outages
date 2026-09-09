@@ -1,8 +1,8 @@
 [
   {
     "id": 1808918,
-    "lat": 39.7967299,
-    "lng": -84.3021679752699,
+    "lat": 39.7998894,
+    "lng": -84.297979458228,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1808921,
-    "lat": 39.6613652,
-    "lng": -84.1728618387276,
+    "lat": 39.6645247,
+    "lng": -84.1686821726122,
     "customers_affected": 4,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1808956,
-    "lat": 39.78660843,
-    "lng": -84.1980859284384,
+    "lat": 39.78976793,
+    "lng": -84.1938980753538,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809000,
-    "lat": 39.76621932,
-    "lng": -84.082897260119,
+    "lat": 39.76937882,
+    "lng": -84.0787107434765,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1809018,
-    "lat": 39.81002109,
-    "lng": -84.29959853259,
+    "lat": 39.81318059,
+    "lng": -84.2954091431298,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,9 +51,9 @@
   },
   {
     "id": 1809020,
-    "lat": 39.7117772,
-    "lng": -84.1597574545194,
-    "customers_affected": 9,
+    "lat": 39.7149367,
+    "lng": -84.1555744994524,
+    "customers_affected": 10,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-09T13:03:00",
@@ -61,8 +61,8 @@
   },
   {
     "id": 1809029,
-    "lat": 39.7042665283429,
-    "lng": -84.0712284173293,
+    "lat": 39.7074260283429,
+    "lng": -84.0670459528159,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -71,8 +71,8 @@
   },
   {
     "id": 1809046,
-    "lat": 39.78164228,
-    "lng": -84.1852014562037,
+    "lat": 39.78480178,
+    "lng": -84.1810139287651,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -81,8 +81,8 @@
   },
   {
     "id": 1809053,
-    "lat": 39.71182175,
-    "lng": -84.1213164858704,
+    "lat": 39.71498125,
+    "lng": -84.1171335278931,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -91,8 +91,8 @@
   },
   {
     "id": 1809062,
-    "lat": 39.76070967,
-    "lng": -84.0999166126443,
+    "lat": 39.76386917,
+    "lng": -84.095730456899,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -101,8 +101,8 @@
   },
   {
     "id": 1809072,
-    "lat": 39.80852263,
-    "lng": -84.0258800249806,
+    "lat": 39.81168213,
+    "lng": -84.0216907339077,
     "customers_affected": 8,
     "county": "GREENE",
     "indicator": "D",
@@ -111,8 +111,8 @@
   },
   {
     "id": 1809076,
-    "lat": 40.04634587,
-    "lng": -84.206771192567,
+    "lat": 40.04950537,
+    "lng": -84.2025661898289,
     "customers_affected": 5,
     "county": "MIAMI",
     "indicator": "D",
@@ -121,8 +121,8 @@
   },
   {
     "id": 1809077,
-    "lat": 40.33532143,
-    "lng": -83.6342699228701,
+    "lat": 40.33848093,
+    "lng": -83.6300455651629,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -131,12 +131,42 @@
   },
   {
     "id": 1809083,
-    "lat": 39.97620522,
-    "lng": -84.3177982336216,
+    "lat": 39.97936472,
+    "lng": -84.313597884935,
     "customers_affected": 43,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-09-09T16:31:00",
     "estimate_time": "2026-09-09T19:00:00"
+  },
+  {
+    "id": 1809088,
+    "lat": 39.54393649,
+    "lng": -83.5245812119393,
+    "customers_affected": 1,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-09-09T17:06:00",
+    "estimate_time": "2026-09-09T20:00:00"
+  },
+  {
+    "id": 1809089,
+    "lat": 39.7786583,
+    "lng": -84.1315619883446,
+    "customers_affected": 2,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-09T17:09:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1809090,
+    "lat": 39.77687187,
+    "lng": -84.138958203382,
+    "customers_affected": 15,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-09T17:09:00",
+    "estimate_time": null
   }
 ]
