@@ -11,7 +11,6 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ***TODO: the project is temporarily just the data collection. A UI should be available by 9/10/26.***
 
 **Upcoming:**
-* Auto-deploy on update to GH Pages
 * Store mysql data in Pages deploy. Just current file for now.
 * Outages and affected customers, but splitting by incident size
 * Auto-generate credits for front-end dependencies

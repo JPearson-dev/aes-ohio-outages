@@ -130,7 +130,7 @@ export function HeartbeatChart() {
                     strokeStyle: dataset.borderColor as string,
                     fillStyle: dataset.borderColor as string,
                     lineWidth: 2,
-                    lineDash: dataset.borderDash ?? [],
+                    lineDash: (dataset as { borderDash?: number[] }).borderDash ?? [],
                     pointStyle: 'line',
                     hidden: !chart.isDatasetVisible(i),
                     datasetIndex: i,
