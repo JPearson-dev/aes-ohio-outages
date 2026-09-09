@@ -1,8 +1,8 @@
 [
   {
     "id": 1808833,
-    "lat": 0.0100303,
-    "lng": 0.0100303,
+    "lat": 0.0116679,
+    "lng": 0.0116679,
     "customers_affected": 2,
     "county": "CLINTON",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-09-09T11:00:00"
   },
   {
-    "id": 1808861,
-    "lat": 39.84056015,
-    "lng": -84.0002188963917,
-    "customers_affected": 15,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-09-09T08:15:00",
-    "estimate_time": "2026-09-09T11:00:00"
-  },
-  {
     "id": 1808862,
-    "lat": 40.0500155,
-    "lng": -84.2037164577079,
+    "lat": 40.0516531,
+    "lng": -84.2015368589663,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1808886,
-    "lat": 39.74930111,
-    "lng": -84.0699711240055,
+    "lat": 39.75093871,
+    "lng": -84.0678018071084,
     "customers_affected": 16,
     "county": "GREENE",
     "indicator": "D",
@@ -41,18 +31,18 @@
   },
   {
     "id": 1808887,
-    "lat": 40.29366333,
-    "lng": -84.136354423787,
-    "customers_affected": 1,
+    "lat": 40.29530093,
+    "lng": -84.1341663754258,
+    "customers_affected": 4,
     "county": "SHELBY",
     "indicator": "D",
-    "outage_time": "2026-09-09T09:08:00",
+    "outage_time": "2026-09-09T09:29:00",
     "estimate_time": "2026-09-09T11:00:00"
   },
   {
     "id": 1808890,
-    "lat": 39.79570004,
-    "lng": -84.212809701219,
+    "lat": 39.79733764,
+    "lng": -84.2106388083568,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -60,13 +50,13 @@
     "estimate_time": "2026-09-09T12:00:00"
   },
   {
-    "id": 1808901,
-    "lat": 39.7977712,
-    "lng": -84.2117646297937,
-    "customers_affected": 1,
+    "id": 1808917,
+    "lat": 39.70394125,
+    "lng": -84.1478706431246,
+    "customers_affected": 98,
     "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-09-09T09:29:00",
-    "estimate_time": "2026-09-09T13:00:00"
+    "outage_time": "2026-09-09T09:43:00",
+    "estimate_time": null
   }
 ]
