@@ -1,9 +1,9 @@
 [
   {
     "id": 298729,
-    "lat": 40.2748845752776,
-    "lng": -84.62137718548,
-    "customers_affected": 917,
+    "lat": 40.2756588752776,
+    "lng": -84.6203429244667,
+    "customers_affected": 484,
     "county": "DARKE",
     "indicator": "T",
     "outage_time": "2026-09-09T07:25:00",
@@ -11,22 +11,32 @@
   },
   {
     "id": 1808833,
-    "lat": 0.0097633,
-    "lng": 0.0097633,
+    "lat": 0.0105376,
+    "lng": 0.0105376,
     "customers_affected": 2,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-09T05:03:00",
-    "estimate_time": "2026-09-09T09:00:00"
+    "estimate_time": "2026-09-09T11:00:00"
   },
   {
     "id": 1808837,
-    "lat": 39.76368711,
-    "lng": -84.1501207321777,
+    "lat": 39.76446141,
+    "lng": -84.1490947874279,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-09T06:38:00",
     "estimate_time": "2026-09-09T09:00:00"
+  },
+  {
+    "id": 1808859,
+    "lat": 39.66343473,
+    "lng": -84.2364477002373,
+    "customers_affected": 35,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-09T08:06:00",
+    "estimate_time": null
   }
 ]
