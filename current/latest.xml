@@ -1,57 +1,68 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>0.012905</LAT>
-    <LNG>0.012905</LNG>
+    <LAT>0.011303</LAT>
+    <LNG>0.011303</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1808833</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>537</total>
+    <total>227</total>
     <OutageTime>09/09/2026 05:03 AM</OutageTime>
     <EstimateTime>09/09/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2780262752776</LAT>
-    <LNG>-84.6171807011388</LNG>
-    <TOTALCUSTS>484</TOTALCUSTS>
+    <LAT>40.2764242752776</LAT>
+    <LNG>-84.6193205515111</LNG>
+    <TOTALCUSTS>178</TOTALCUSTS>
     <INCIDENTID>298729</INCIDENTID>
     <IND>T</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>537</total>
+    <total>227</total>
     <OutageTime>09/09/2026 07:25 AM</OutageTime>
     <EstimateTime>09/09/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.84343485</LAT>
-    <LNG>-83.9964053544436</LNG>
+    <LAT>39.84183285</LAT>
+    <LNG>-83.9985305480989</LNG>
     <TOTALCUSTS>15</TOTALCUSTS>
     <INCIDENTID>1808861</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>537</total>
+    <total>227</total>
     <OutageTime>09/09/2026 08:15 AM</OutageTime>
     <EstimateTime>09/09/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.0528902</LAT>
-    <LNG>-84.1998903142648</LNG>
+    <LAT>40.0512882</LAT>
+    <LNG>-84.202022530425</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1808862</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>537</total>
+    <total>227</total>
     <OutageTime>09/09/2026 08:25 AM</OutageTime>
     <EstimateTime>09/09/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66580213</LAT>
-    <LNG>-84.2333158490913</LNG>
-    <TOTALCUSTS>35</TOTALCUSTS>
+    <LAT>39.62418477</LAT>
+    <LNG>-84.1545913449309</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1808871</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>227</total>
+    <OutageTime>09/09/2026 08:40 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.66420013</LAT>
+    <LNG>-84.2354351468593</LNG>
+    <TOTALCUSTS>30</TOTALCUSTS>
     <INCIDENTID>1808859</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>537</total>
+    <total>227</total>
     <OutageTime>09/09/2026 08:06 AM</OutageTime>
     <EstimateTime>09/09/2026 10:00 AM</EstimateTime>
   </Markers>
@@ -81,7 +92,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>484</TotOut>
+    <TotOut>178</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -121,7 +132,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>35</TotOut>
+    <TotOut>31</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -154,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>537</TotalOut>
-    <Outageat>9/9/2026 8:35:31 AM</Outageat>
+    <TotalOut>227</TotalOut>
+    <Outageat>9/9/2026 8:50:31 AM</Outageat>
   </Message>
 </Incidents>
