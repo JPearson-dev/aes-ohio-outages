@@ -1,70 +1,92 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>0.0123354</LAT>
-    <LNG>0.0123354</LNG>
+    <LAT>0.0089</LAT>
+    <LNG>0.0089</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1808833</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>242</total>
+    <total>215</total>
     <OutageTime>09/09/2026 05:03 AM</OutageTime>
     <EstimateTime>09/09/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2774566752776</LAT>
-    <LNG>-84.6179415368267</LNG>
+    <LAT>40.10534446</LAT>
+    <LNG>-84.6255404753162</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1808891</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>215</total>
+    <OutageTime>09/09/2026 09:14 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.2740212752776</LAT>
+    <LNG>-84.6225303270695</LNG>
     <TOTALCUSTS>178</TOTALCUSTS>
     <INCIDENTID>298729</INCIDENTID>
     <IND>T</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>242</total>
+    <total>215</total>
     <OutageTime>09/09/2026 07:25 AM</OutageTime>
     <EstimateTime>09/09/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75160621</LAT>
-    <LNG>-84.0669175746775</LNG>
+    <LAT>39.74817081</LAT>
+    <LNG>-84.0714684242551</LNG>
     <TOTALCUSTS>16</TOTALCUSTS>
     <INCIDENTID>1808886</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>242</total>
+    <total>215</total>
     <OutageTime>09/09/2026 08:53 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/09/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.84286525</LAT>
-    <LNG>-83.9971609788544</LNG>
+    <LAT>39.83942985</LAT>
+    <LNG>-84.0017183385818</LNG>
     <TOTALCUSTS>15</TOTALCUSTS>
     <INCIDENTID>1808861</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>242</total>
+    <total>215</total>
     <OutageTime>09/09/2026 08:15 AM</OutageTime>
     <EstimateTime>09/09/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.0523206</LAT>
-    <LNG>-84.2006484355662</LNG>
+    <LAT>40.0488852</LAT>
+    <LNG>-84.2052208546654</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1808862</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>242</total>
+    <total>215</total>
     <OutageTime>09/09/2026 08:25 AM</OutageTime>
     <EstimateTime>09/09/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66523253</LAT>
-    <LNG>-84.2340693771866</LNG>
-    <TOTALCUSTS>30</TOTALCUSTS>
-    <INCIDENTID>1808859</INCIDENTID>
+    <LAT>39.61672199</LAT>
+    <LNG>-84.1397994972318</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1808889</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>242</total>
-    <OutageTime>09/09/2026 08:06 AM</OutageTime>
-    <EstimateTime>09/09/2026 10:00 AM</EstimateTime>
+    <total>215</total>
+    <OutageTime>09/09/2026 09:12 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.79456974</LAT>
+    <LNG>-84.2143080892272</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1808890</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>215</total>
+    <OutageTime>09/09/2026 09:13 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -92,7 +114,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>178</TotOut>
+    <TotOut>179</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -132,7 +154,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>30</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -165,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>242</TotalOut>
-    <Outageat>9/9/2026 9:05:31 AM</Outageat>
+    <TotalOut>215</TotalOut>
+    <Outageat>9/9/2026 9:20:31 AM</Outageat>
   </Message>
 </Incidents>
