@@ -1,13 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.78425769</LAT>
-    <LNG>-84.2128254164132</LNG>
+    <LAT>39.80424606</LAT>
+    <LNG>-84.1231666840753</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1808834</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>2</total>
+    <OutageTime>09/09/2026 05:09 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.78502309</LAT>
+    <LNG>-84.2118109516776</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1808826</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>1</total>
+    <total>2</total>
     <OutageTime>09/08/2026 08:26 PM</OutageTime>
     <EstimateTime>09/09/2026 08:00 AM</EstimateTime>
   </Markers>
@@ -77,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>9/9/2026 5:05:29 AM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>9/9/2026 5:20:30 AM</Outageat>
   </Message>
 </Incidents>
