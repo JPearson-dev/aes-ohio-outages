@@ -1,8 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.23973813</LAT>
-    <LNG>-84.5945068118125</LNG>
+    <LAT>39.40920658</LAT>
+    <LNG>-83.797770172145</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1809615</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>24</total>
+    <OutageTime>09/10/2026 03:33 PM</OutageTime>
+    <EstimateTime>09/10/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.23931093</LAT>
+    <LNG>-84.5950771090899</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1809600</INCIDENTID>
     <IND>D</IND>
@@ -12,19 +23,8 @@
     <EstimateTime>09/10/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65771863</LAT>
-    <LNG>-83.543143960662</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1809491</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>24</total>
-    <OutageTime>09/10/2026 01:34 PM</OutageTime>
-    <EstimateTime>09/10/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.65341597</LAT>
-    <LNG>-83.7459743453126</LNG>
+    <LAT>39.65298877</LAT>
+    <LNG>-83.7465394001612</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809613</INCIDENTID>
     <IND>D</IND>
@@ -34,8 +34,8 @@
     <EstimateTime>09/10/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.36706386</LAT>
-    <LNG>-83.3824452530403</LNG>
+    <LAT>39.36663666</LAT>
+    <LNG>-83.3830078050649</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1809206</INCIDENTID>
     <IND>D</IND>
@@ -45,8 +45,8 @@
     <EstimateTime>09/10/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.52178975</LAT>
-    <LNG>-83.9037856105216</LNG>
+    <LAT>40.52136255</LAT>
+    <LNG>-83.9043584873588</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809585</INCIDENTID>
     <IND>D</IND>
@@ -56,8 +56,8 @@
     <EstimateTime>09/10/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.53433217</LAT>
-    <LNG>-83.8591470276708</LNG>
+    <LAT>40.53390497</LAT>
+    <LNG>-83.8597200201027</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809471</INCIDENTID>
     <IND>D</IND>
@@ -67,8 +67,8 @@
     <EstimateTime>09/10/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8233074</LAT>
-    <LNG>-84.245019121479</LNG>
+    <LAT>39.8228802</LAT>
+    <LNG>-84.2455856789332</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809609</INCIDENTID>
     <IND>D</IND>
@@ -78,8 +78,8 @@
     <EstimateTime>09/10/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79009126</LAT>
-    <LNG>-84.127998427236</LNG>
+    <LAT>39.78966406</LAT>
+    <LNG>-84.1285646898651</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809592</INCIDENTID>
     <IND>D</IND>
@@ -110,7 +110,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -122,7 +122,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -188,6 +188,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>24</TotalOut>
-    <Outageat>9/10/2026 3:35:31 PM</Outageat>
+    <Outageat>9/10/2026 3:50:30 PM</Outageat>
   </Message>
 </Incidents>
