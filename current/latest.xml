@@ -1,90 +1,79 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.08897902</LAT>
-    <LNG>-83.5579848663984</LNG>
+    <LAT>40.08714562</LAT>
+    <LNG>-83.5604265032041</LNG>
     <TOTALCUSTS>56</TOTALCUSTS>
     <INCIDENTID>1809455</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>85</total>
+    <total>84</total>
     <OutageTime>09/10/2026 11:42 AM</OutageTime>
     <EstimateTime>09/10/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81851126</LAT>
-    <LNG>-84.010809054108</LNG>
+    <LAT>39.81667786</LAT>
+    <LNG>-84.0132403093621</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809440</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>85</total>
+    <total>84</total>
     <OutageTime>09/10/2026 11:22 AM</OutageTime>
     <EstimateTime>09/10/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.36805176</LAT>
-    <LNG>-83.3811443514834</LNG>
+    <LAT>39.36621836</LAT>
+    <LNG>-83.3835586372557</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1809206</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>85</total>
+    <total>84</total>
     <OutageTime>09/09/2026 09:26 PM</OutageTime>
     <EstimateTime>09/10/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.53532007</LAT>
-    <LNG>-83.857821982672</LNG>
+    <LAT>40.53348667</LAT>
+    <LNG>-83.8602810751923</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809471</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>85</total>
+    <total>84</total>
     <OutageTime>09/10/2026 12:34 PM</OutageTime>
     <EstimateTime>09/10/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.97859049</LAT>
-    <LNG>-84.1931147785976</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1809400</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>85</total>
-    <OutageTime>09/10/2026 10:10 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78673834</LAT>
-    <LNG>-84.2023600638427</LNG>
+    <LAT>39.78490494</LAT>
+    <LNG>-84.2047901091003</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809432</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>85</total>
+    <total>84</total>
     <OutageTime>09/10/2026 11:05 AM</OutageTime>
     <EstimateTime>09/10/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7180301</LAT>
-    <LNG>-84.151251101299</LNG>
+    <LAT>39.7161967</LAT>
+    <LNG>-84.1536785367922</LNG>
     <TOTALCUSTS>14</TOTALCUSTS>
     <INCIDENTID>1809478</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>85</total>
+    <total>84</total>
     <OutageTime>09/10/2026 12:50 PM</OutageTime>
     <EstimateTime>09/10/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79062953</LAT>
-    <LNG>-84.21683142564</LNG>
+    <LAT>39.78879613</LAT>
+    <LNG>-84.219261618977</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1809375</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>85</total>
+    <total>84</total>
     <OutageTime>09/10/2026 09:13 AM</OutageTime>
     <EstimateTime>09/10/2026 03:00 PM</EstimateTime>
   </Markers>
@@ -150,7 +139,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -187,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>85</TotalOut>
-    <Outageat>9/10/2026 1:20:30 PM</Outageat>
+    <TotalOut>84</TotalOut>
+    <Outageat>9/10/2026 1:35:30 PM</Outageat>
   </Message>
 </Incidents>
