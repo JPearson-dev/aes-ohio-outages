@@ -1,18 +1,8 @@
 [
   {
-    "id": 1809585,
-    "lat": 40.52230595,
-    "lng": -83.9030933843434,
-    "customers_affected": 1,
-    "county": "LOGAN",
-    "indicator": "D",
-    "outage_time": "2026-09-10T14:10:00",
-    "estimate_time": "2026-09-10T22:00:00"
-  },
-  {
     "id": 1809644,
-    "lat": 39.4857479,
-    "lng": -84.0534217006765,
+    "lat": 39.4839145,
+    "lng": -84.055840399677,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -21,12 +11,22 @@
   },
   {
     "id": 1809647,
-    "lat": 40.06242547,
-    "lng": -84.3988899547139,
+    "lat": 40.06059207,
+    "lng": -84.4013305840178,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-09-10T18:56:00",
+    "estimate_time": "2026-09-10T21:00:00"
+  },
+  {
+    "id": 1809649,
+    "lat": 39.63234587,
+    "lng": -83.9355338775473,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-10T19:26:00",
     "estimate_time": "2026-09-10T22:00:00"
   }
 ]
