@@ -1,8 +1,8 @@
 [
   {
     "id": 1809206,
-    "lat": 39.36904856,
-    "lng": -83.3798317300927,
+    "lat": 39.36706386,
+    "lng": -83.3824452530403,
     "customers_affected": 9,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-09-10T17:00:00"
   },
   {
-    "id": 1809440,
-    "lat": 39.81950806,
-    "lng": -84.0094872065912,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-09-10T11:22:00",
-    "estimate_time": "2026-09-10T19:00:00"
-  },
-  {
     "id": 1809471,
-    "lat": 40.53631687,
-    "lng": -83.8564850003308,
+    "lat": 40.53433217,
+    "lng": -83.8591470276708,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1809491,
-    "lat": 39.65970333,
-    "lng": -83.5405186339743,
+    "lat": 39.65771863,
+    "lng": -83.543143960662,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1809585,
-    "lat": 40.52377445,
-    "lng": -83.9011241202159,
+    "lat": 40.52178975,
+    "lng": -83.9037856105216,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1809592,
-    "lat": 39.79207596,
-    "lng": -84.1253676654387,
+    "lat": 39.79009126,
+    "lng": -84.127998427236,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,22 +51,32 @@
   },
   {
     "id": 1809600,
-    "lat": 40.24172283,
-    "lng": -84.5918573057112,
+    "lat": 40.23973813,
+    "lng": -84.5945068118125,
     "customers_affected": 9,
     "county": "DARKE",
     "indicator": "D",
-    "outage_time": "2026-09-10T14:50:00",
+    "outage_time": "2026-09-10T14:39:00",
     "estimate_time": "2026-09-10T18:00:00"
   },
   {
     "id": 1809609,
-    "lat": 39.8252921,
-    "lng": -84.2423869899731,
+    "lat": 39.8233074,
+    "lng": -84.245019121479,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-10T15:14:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-10T17:00:00"
+  },
+  {
+    "id": 1809613,
+    "lat": 39.65341597,
+    "lng": -83.7459743453126,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-10T15:26:00",
+    "estimate_time": "2026-09-10T18:00:00"
   }
 ]
