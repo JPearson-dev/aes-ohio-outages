@@ -1,8 +1,8 @@
 [
   {
     "id": 1809585,
-    "lat": 40.52205675,
-    "lng": -83.9034275624984,
+    "lat": 40.52061495,
+    "lng": -83.9053610218237,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1809592,
-    "lat": 39.79035826,
-    "lng": -84.1276445130929,
+    "lat": 39.78891646,
+    "lng": -84.1295556494659,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1809630,
-    "lat": 39.59011772,
-    "lng": -83.3812831114323,
+    "lat": 39.58867592,
+    "lng": -83.383188285592,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809631,
-    "lat": 39.72013843,
-    "lng": -84.1300148763524,
+    "lat": 39.71869663,
+    "lng": -84.1319239148436,
     "customers_affected": 10,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1809638,
-    "lat": 39.5939848,
-    "lng": -83.3691371760918,
+    "lat": 39.592543,
+    "lng": -83.3710424648083,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -51,12 +51,22 @@
   },
   {
     "id": 1809640,
-    "lat": 39.77695753,
-    "lng": -84.2171563917988,
+    "lat": 39.77551573,
+    "lng": -84.219067127221,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-10T17:58:00",
-    "estimate_time": "2026-09-10T21:00:00"
+    "estimate_time": "2026-09-10T20:00:00"
+  },
+  {
+    "id": 1809644,
+    "lat": 39.4840569,
+    "lng": -84.0556525395604,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-09-10T18:14:00",
+    "estimate_time": null
   }
 ]

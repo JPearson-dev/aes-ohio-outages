@@ -1,70 +1,81 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.5939848</LAT>
-    <LNG>-83.3691371760918</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1809638</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>15</total>
-    <OutageTime>09/10/2026 05:31 PM</OutageTime>
-    <EstimateTime>09/10/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.59011772</LAT>
-    <LNG>-83.3812831114323</LNG>
+    <LAT>39.58867592</LAT>
+    <LNG>-83.383188285592</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809630</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>15</total>
+    <total>16</total>
     <OutageTime>09/10/2026 05:01 PM</OutageTime>
     <EstimateTime>09/10/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.52205675</LAT>
-    <LNG>-83.9034275624984</LNG>
+    <LAT>39.592543</LAT>
+    <LNG>-83.3710424648083</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1809638</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>16</total>
+    <OutageTime>09/10/2026 05:31 PM</OutageTime>
+    <EstimateTime>09/10/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.52061495</LAT>
+    <LNG>-83.9053610218237</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809585</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>15</total>
+    <total>16</total>
     <OutageTime>09/10/2026 02:10 PM</OutageTime>
     <EstimateTime>09/10/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79035826</LAT>
-    <LNG>-84.1276445130929</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1809592</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>15</total>
-    <OutageTime>09/10/2026 02:34 PM</OutageTime>
-    <EstimateTime>09/10/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.77695753</LAT>
-    <LNG>-84.2171563917988</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1809640</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>15</total>
-    <OutageTime>09/10/2026 05:58 PM</OutageTime>
-    <EstimateTime>09/10/2026 09:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.72013843</LAT>
-    <LNG>-84.1300148763524</LNG>
+    <LAT>39.71869663</LAT>
+    <LNG>-84.1319239148436</LNG>
     <TOTALCUSTS>10</TOTALCUSTS>
     <INCIDENTID>1809631</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>15</total>
+    <total>16</total>
     <OutageTime>09/10/2026 04:56 PM</OutageTime>
     <EstimateTime>09/10/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77551573</LAT>
+    <LNG>-84.219067127221</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1809640</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>16</total>
+    <OutageTime>09/10/2026 05:58 PM</OutageTime>
+    <EstimateTime>09/10/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.78891646</LAT>
+    <LNG>-84.1295556494659</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1809592</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>16</total>
+    <OutageTime>09/10/2026 02:34 PM</OutageTime>
+    <EstimateTime>09/10/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.4840569</LAT>
+    <LNG>-84.0556525395604</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1809644</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>WARREN</COUNTY>
+    <total>16</total>
+    <OutageTime>09/10/2026 06:14 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -160,12 +171,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>15</TotalOut>
-    <Outageat>9/10/2026 6:05:30 PM</Outageat>
+    <TotalOut>16</TotalOut>
+    <Outageat>9/10/2026 6:20:30 PM</Outageat>
   </Message>
 </Incidents>
