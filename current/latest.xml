@@ -1,47 +1,36 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.5921069</LAT>
-    <LNG>-83.3716187558399</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1809638</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>4</total>
-    <OutageTime>09/10/2026 05:31 PM</OutageTime>
-    <EstimateTime>09/10/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.52017885</LAT>
-    <LNG>-83.9059458335949</LNG>
+    <LAT>40.52230595</LAT>
+    <LNG>-83.9030933843434</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809585</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>4</total>
+    <total>3</total>
     <OutageTime>09/10/2026 02:10 PM</OutageTime>
     <EstimateTime>09/10/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.06029837</LAT>
-    <LNG>-84.401721558615</LNG>
+    <LAT>40.06242547</LAT>
+    <LNG>-84.3988899547139</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809647</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>4</total>
+    <total>3</total>
     <OutageTime>09/10/2026 06:56 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/10/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.4836208</LAT>
-    <LNG>-84.0562278611674</LNG>
+    <LAT>39.4857479</LAT>
+    <LNG>-84.0534217006765</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809644</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>4</total>
-    <OutageTime>09/10/2026 06:14 PM</OutageTime>
+    <total>3</total>
+    <OutageTime>09/10/2026 06:09 PM</OutageTime>
     <EstimateTime>09/10/2026 10:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -78,7 +67,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>9/10/2026 7:05:31 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>9/10/2026 7:20:31 PM</Outageat>
   </Message>
 </Incidents>
