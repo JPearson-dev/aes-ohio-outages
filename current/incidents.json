@@ -1,8 +1,8 @@
 [
   {
     "id": 1809673,
-    "lat": 39.36255714,
-    "lng": -84.0254682553475,
+    "lat": 39.36037664,
+    "lng": -84.0283393737272,
     "customers_affected": 16,
     "county": "WARREN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1809699,
-    "lat": 39.47994639,
-    "lng": -83.6996106109875,
+    "lat": 39.47936789,
+    "lng": -83.7003737381329,
     "customers_affected": 3,
     "county": "CLINTON",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1809727,
-    "lat": 39.48154839,
-    "lng": -83.6974973358156,
+    "lat": 39.47936789,
+    "lng": -83.7003737381329,
     "customers_affected": 4,
     "county": "CLINTON",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809739,
-    "lat": 39.54124625,
-    "lng": -83.7508323907083,
+    "lat": 39.53906575,
+    "lng": -83.7537114562896,
     "customers_affected": 2,
     "county": "CLINTON",
     "indicator": "D",
@@ -40,19 +40,9 @@
     "estimate_time": "2026-09-11T12:00:00"
   },
   {
-    "id": 1809745,
-    "lat": 39.86898937,
-    "lng": -84.1112089144728,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-11T08:55:00",
-    "estimate_time": "2026-09-11T12:00:00"
-  },
-  {
     "id": 1809748,
-    "lat": 40.50176852,
-    "lng": -84.6317869471274,
+    "lat": 40.49958802,
+    "lng": -84.6347100210564,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1809751,
-    "lat": 39.79748004,
-    "lng": -84.2104500350645,
+    "lat": 39.79529954,
+    "lng": -84.2133406261038,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -70,29 +60,9 @@
     "estimate_time": "2026-09-11T12:00:00"
   },
   {
-    "id": 1809755,
-    "lat": 39.74704898,
-    "lng": -84.1153355772648,
-    "customers_affected": 2,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-11T09:19:00",
-    "estimate_time": "2026-09-11T12:00:00"
-  },
-  {
-    "id": 1809762,
-    "lat": 39.86254842,
-    "lng": -84.122847739762,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-11T09:51:00",
-    "estimate_time": "2026-09-11T13:00:00"
-  },
-  {
     "id": 1809764,
-    "lat": 39.76126859,
-    "lng": -84.2544802177002,
+    "lat": 39.75908809,
+    "lng": -84.2573691706116,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -101,8 +71,8 @@
   },
   {
     "id": 1809768,
-    "lat": 39.64439149,
-    "lng": -84.340413331575,
+    "lat": 39.64221099,
+    "lng": -84.3432970182096,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -111,8 +81,8 @@
   },
   {
     "id": 1809770,
-    "lat": 39.86404326,
-    "lng": -84.2546252118895,
+    "lat": 39.86186276,
+    "lng": -84.2575188221661,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -121,8 +91,8 @@
   },
   {
     "id": 1809773,
-    "lat": 40.03953642,
-    "lng": -84.1792728243261,
+    "lat": 40.03735592,
+    "lng": -84.1821744451174,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -131,12 +101,32 @@
   },
   {
     "id": 1809774,
-    "lat": 39.75329749,
-    "lng": -84.5976570685598,
+    "lat": 39.75111699,
+    "lng": -84.6005456612899,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
     "outage_time": "2026-09-11T10:41:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-11T13:00:00"
+  },
+  {
+    "id": 1809776,
+    "lat": 39.69275321,
+    "lng": -84.4110005680521,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-11T10:49:00",
+    "estimate_time": "2026-09-11T13:00:00"
+  },
+  {
+    "id": 1809777,
+    "lat": 39.69559512,
+    "lng": -84.1942990527264,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-11T10:48:00",
+    "estimate_time": "2026-09-11T13:00:00"
   }
 ]
