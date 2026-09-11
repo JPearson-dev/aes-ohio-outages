@@ -1,80 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.33289438</LAT>
-    <LNG>-83.6899069010998</LNG>
+    <LAT>39.33463878</LAT>
+    <LNG>-83.6876109692402</LNG>
     <TOTALCUSTS>27</TOTALCUSTS>
     <INCIDENTID>1809680</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>91</total>
+    <total>77</total>
     <OutageTime>09/10/2026 11:20 PM</OutageTime>
     <EstimateTime>09/11/2026 03:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.63214117</LAT>
-    <LNG>-83.9358045496948</LNG>
+    <LAT>39.63388557</LAT>
+    <LNG>-83.933497952264</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809649</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>91</total>
+    <total>77</total>
     <OutageTime>09/10/2026 07:23 PM</OutageTime>
     <EstimateTime>09/11/2026 03:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.71379756</LAT>
-    <LNG>-84.1638968587541</LNG>
+    <LAT>39.71554196</LAT>
+    <LNG>-84.1615873220803</LNG>
     <TOTALCUSTS>13</TOTALCUSTS>
     <INCIDENTID>1809675</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>91</total>
+    <total>77</total>
     <OutageTime>09/10/2026 09:43 PM</OutageTime>
     <EstimateTime>09/11/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68354506</LAT>
-    <LNG>-84.6054393557531</LNG>
+    <LAT>39.68528946</LAT>
+    <LNG>-84.6031309094806</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1809683</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>91</total>
+    <total>77</total>
     <OutageTime>09/10/2026 11:43 PM</OutageTime>
     <EstimateTime>09/11/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.15030762</LAT>
-    <LNG>-83.3259842804369</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1809685</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>91</total>
-    <OutageTime>09/11/2026 12:10 AM</OutageTime>
-    <EstimateTime>09/11/2026 04:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.36010074</LAT>
-    <LNG>-84.0287026580936</LNG>
+    <LAT>39.36184514</LAT>
+    <LNG>-84.0264057633898</LNG>
     <TOTALCUSTS>24</TOTALCUSTS>
     <INCIDENTID>1809673</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>91</total>
+    <total>77</total>
     <OutageTime>09/10/2026 09:18 PM</OutageTime>
     <EstimateTime>09/11/2026 02:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.8310269</LAT>
-    <LNG>-84.3730699543909</LNG>
-    <TOTALCUSTS>13</TOTALCUSTS>
-    <INCIDENTID>1809684</INCIDENTID>
-    <IND>D</IND>
-    <total>91</total>
-    <OutageTime>09/10/2026 11:31 PM</OutageTime>
-    <EstimateTime>09/11/2026 03:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -162,7 +141,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -175,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>78</TotalOut>
-    <Outageat>9/11/2026 12:50:31 AM</Outageat>
+    <TotalOut>77</TotalOut>
+    <Outageat>9/11/2026 1:05:30 AM</Outageat>
   </Message>
 </Incidents>
