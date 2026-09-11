@@ -11,7 +11,6 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
-* Double check logo build is reproducible
 * Auto-generate credits for front-end dependencies
 * Store mysql data in Pages deploy. Just current file for now.
 * Outages and affected customers, but splitting by incident size

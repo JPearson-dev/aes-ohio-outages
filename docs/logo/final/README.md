@@ -25,8 +25,15 @@ favicon.ico contains natively rendered 16/24/32/48 frames at the small tier.
 
 ## Files
 
-outage-plug-\<size>.png   raster at the tier for that size
 outage-plug-\<tier>.svg   vector, one per tier
-favicon.ico              multi-resolution
+favicon.ico              multi-resolution (16/24/32/48)
 alt-blue-\*               navy-on-white alternates, amber or pale trace
 plug-silhouette*.svg     geometry only, no chart
+
+Raster PNGs (`outage-plug-<size>.png`, sizes 16-1024) aren't checked in —
+nothing here references them and they're redundant with the SVGs and
+favicon.ico. Regenerate them with `source/build.py` if a specific size is
+ever needed.
+
+`source/` holds the full reproducible build: run `python3 source/build.py`
+to regenerate every asset above from the frozen geometry parameters.

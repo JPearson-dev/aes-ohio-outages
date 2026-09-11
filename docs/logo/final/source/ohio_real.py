@@ -1,7 +1,7 @@
-import json, math
+import json, math, os
 from shapes import fit
 
-_R = json.load(open('/home/claude/ohio_rings.json'))
+_R = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ohio_rings.json')))
 
 
 def _dp(pts, eps):

@@ -24,11 +24,6 @@ def to_png(rec, size, fg, bg, **kw):
     return render(to_tile(rec, size), fg, bg, **kw)
 
 
-def to_png_split(rec, size, cl, cd, bg, split, **kw):
-    from duotone import render_split
-    return render_split(to_tile(rec, size), cl, cd, bg, split, **kw)
-
-
 def _d(pts, n):
     out = []
     for i, (x, y) in enumerate(pts):
