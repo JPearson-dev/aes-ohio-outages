@@ -1,8 +1,8 @@
 [
   {
     "id": 1809673,
-    "lat": 39.36380314,
-    "lng": -84.0238276162734,
+    "lat": 39.36172054,
+    "lng": -84.0265698272972,
     "customers_affected": 16,
     "county": "WARREN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1809675,
-    "lat": 39.71749996,
-    "lng": -84.1589949849974,
+    "lat": 39.71541736,
+    "lng": -84.1617522889856,
     "customers_affected": 11,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1809699,
-    "lat": 39.48279439,
-    "lng": -83.6958536773484,
+    "lat": 39.48071179,
+    "lng": -83.698600935072,
     "customers_affected": 3,
     "county": "CLINTON",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809727,
-    "lat": 39.48279439,
-    "lng": -83.6958536773484,
+    "lat": 39.48071179,
+    "lng": -83.698600935072,
     "customers_affected": 4,
     "county": "CLINTON",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1809733,
-    "lat": 40.05967134,
-    "lng": -84.201855696484,
+    "lat": 40.05758874,
+    "lng": -84.2046278680877,
     "customers_affected": 16,
     "county": "MIAMI",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1809739,
-    "lat": 39.54249225,
-    "lng": -83.7491872103761,
+    "lat": 39.54040965,
+    "lng": -83.7519370117885,
     "customers_affected": 2,
     "county": "CLINTON",
     "indicator": "D",
@@ -61,8 +61,8 @@
   },
   {
     "id": 1809740,
-    "lat": 40.32636536,
-    "lng": -83.8977222570077,
+    "lat": 40.32428276,
+    "lng": -83.9005062019022,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -71,8 +71,8 @@
   },
   {
     "id": 1809745,
-    "lat": 39.87023537,
-    "lng": -84.1095552944473,
+    "lat": 39.86815277,
+    "lng": -84.1123192022042,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -81,8 +81,8 @@
   },
   {
     "id": 1809748,
-    "lat": 40.50301452,
-    "lng": -84.6301166191679,
+    "lat": 40.50093192,
+    "lng": -84.632908453043,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -91,8 +91,8 @@
   },
   {
     "id": 1809749,
-    "lat": 39.83222586,
-    "lng": -84.1095535280895,
+    "lat": 39.83014326,
+    "lng": -84.1123157875354,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -101,8 +101,8 @@
   },
   {
     "id": 1809751,
-    "lat": 39.79872604,
-    "lng": -84.2087982687563,
+    "lat": 39.79664344,
+    "lng": -84.2115590781571,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -111,8 +111,8 @@
   },
   {
     "id": 1809753,
-    "lat": 40.14305772,
-    "lng": -83.9481722789464,
+    "lat": 40.14097512,
+    "lng": -83.9509481140838,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -121,12 +121,22 @@
   },
   {
     "id": 1809755,
-    "lat": 39.74829498,
-    "lng": -84.1136851141276,
+    "lat": 39.74621238,
+    "lng": -84.1164437453711,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-11T09:19:00",
     "estimate_time": "2026-09-11T12:00:00"
+  },
+  {
+    "id": 1809757,
+    "lat": 39.67593736,
+    "lng": -83.561176918617,
+    "customers_affected": 1,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-09-11T09:31:00",
+    "estimate_time": "2026-09-11T13:00:00"
   }
 ]
