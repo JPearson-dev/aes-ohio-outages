@@ -1,8 +1,8 @@
 [
   {
     "id": 1809649,
-    "lat": 39.63276417,
-    "lng": -83.9349807648981,
+    "lat": 39.63362747,
+    "lng": -83.9338392345369,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1809673,
-    "lat": 39.36072374,
-    "lng": -84.0278823385565,
+    "lat": 39.36158704,
+    "lng": -84.0267456100552,
     "customers_affected": 16,
     "county": "WARREN",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1809675,
-    "lat": 39.71442056,
-    "lng": -84.1630720242278,
+    "lat": 39.71528386,
+    "lng": -84.1619290392412,
     "customers_affected": 11,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809683,
-    "lat": 39.68416806,
-    "lng": -84.6046149106558,
+    "lat": 39.68503136,
+    "lng": -84.6034724653067,
     "customers_affected": 12,
     "county": "PREBLE",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1809687,
-    "lat": 39.68068071,
-    "lng": -84.5929377089285,
+    "lat": 39.68154401,
+    "lng": -84.5917953257314,
     "customers_affected": 24,
     "county": "PREBLE",
     "indicator": "D",
@@ -51,12 +51,42 @@
   },
   {
     "id": 1809689,
-    "lat": 39.75826774,
-    "lng": -84.269688647886,
+    "lat": 39.75913104,
+    "lng": -84.2685448792552,
     "customers_affected": 3,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-11T02:39:00",
     "estimate_time": "2026-09-11T05:00:00"
+  },
+  {
+    "id": 1809694,
+    "lat": 39.60553975,
+    "lng": -83.3694283594428,
+    "customers_affected": 1,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-09-11T03:07:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1809699,
+    "lat": 39.48057829,
+    "lng": -83.6987770413364,
+    "customers_affected": 2,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-09-11T03:14:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1809702,
+    "lat": 39.60553975,
+    "lng": -83.3694283594428,
+    "customers_affected": 108,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-09-11T03:07:00",
+    "estimate_time": null
   }
 ]
