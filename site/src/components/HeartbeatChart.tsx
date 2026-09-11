@@ -78,6 +78,20 @@ export function HeartbeatChart() {
               pointRadius: 0,
               tension: 0.15,
             },
+            {
+              label: 'Avg customers/incident',
+              data: rows.map((row) => ({
+                x: row.timestamp,
+                y: row.incidentCount === 0 ? null : row.totalCustomersAffected / row.incidentCount,
+              })),
+              borderColor: '#009E73',
+              backgroundColor: '#009E73',
+              borderDash: [2, 2],
+              yAxisID: 'y2',
+              pointRadius: 0,
+              tension: 0.15,
+              hidden: true,
+            },
           ],
         }}
         options={{
@@ -156,6 +170,15 @@ export function HeartbeatChart() {
               beginAtZero: true,
               title: { display: true, text: 'Incident count', color: '#2d7daa' },
               ticks: { color: '#2d7daa' },
+              grid: { drawOnChartArea: false },
+            },
+            y2: {
+              type: 'linear',
+              position: 'right',
+              beginAtZero: true,
+              display: false,
+              title: { display: true, text: 'Avg customers/incident', color: '#00785a' },
+              ticks: { color: '#00785a' },
               grid: { drawOnChartArea: false },
             },
           },
