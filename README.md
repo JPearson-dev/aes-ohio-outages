@@ -8,12 +8,11 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 
 ## 🚧 Project Status & Roadmap
 
-***TODO: the project is temporarily just the data collection. A UI should be available by 9/10/26.***
-
 **Upcoming:**
+* Add average customers per incident to the main bar? Or just on hover?
+* Auto-generate credits for front-end dependencies
 * Store mysql data in Pages deploy. Just current file for now.
 * Outages and affected customers, but splitting by incident size
-* Auto-generate credits for front-end dependencies
 * Incident map with time-travel scrub-bar
 * Scan forwards/backwards to see data for a specific event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.
   * How is a specific event accessed?
