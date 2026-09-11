@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.63232807</LAT>
-    <LNG>-83.9355574142558</LNG>
+    <LAT>39.63405467</LAT>
+    <LNG>-83.9332743535334</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1809649</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>50</total>
+    <total>66</total>
     <OutageTime>09/10/2026 07:23 PM</OutageTime>
     <EstimateTime>09/11/2026 03:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.71398446</LAT>
-    <LNG>-84.1636494083962</LNG>
+    <LAT>39.71571106</LAT>
+    <LNG>-84.1613634384232</LNG>
     <TOTALCUSTS>13</TOTALCUSTS>
     <INCIDENTID>1809675</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>50</total>
+    <total>66</total>
     <OutageTime>09/10/2026 09:43 PM</OutageTime>
     <EstimateTime>09/11/2026 03:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68373196</LAT>
-    <LNG>-84.605192022224</LNG>
+    <LAT>39.68197121</LAT>
+    <LNG>-84.5912300227061</LNG>
+    <TOTALCUSTS>24</TOTALCUSTS>
+    <INCIDENTID>1809687</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>66</total>
+    <OutageTime>09/11/2026 02:20 AM</OutageTime>
+    <EstimateTime>09/11/2026 06:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68545856</LAT>
+    <LNG>-84.6029071315257</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1809683</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>50</total>
+    <total>66</total>
     <OutageTime>09/10/2026 11:43 PM</OutageTime>
     <EstimateTime>09/11/2026 04:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.36028764</LAT>
-    <LNG>-84.0284565622325</LNG>
-    <TOTALCUSTS>24</TOTALCUSTS>
+    <LAT>39.36201424</LAT>
+    <LNG>-84.0261831052298</LNG>
+    <TOTALCUSTS>16</TOTALCUSTS>
     <INCIDENTID>1809673</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>50</total>
+    <total>66</total>
     <OutageTime>09/10/2026 09:18 PM</OutageTime>
     <EstimateTime>09/11/2026 07:00 AM</EstimateTime>
   </Markers>
@@ -118,7 +129,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>12</TotOut>
+    <TotOut>36</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -138,12 +149,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>24</TotOut>
+    <TotOut>16</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>50</TotalOut>
-    <Outageat>9/11/2026 2:20:30 AM</Outageat>
+    <TotalOut>66</TotalOut>
+    <Outageat>9/11/2026 2:35:30 AM</Outageat>
   </Message>
 </Incidents>
