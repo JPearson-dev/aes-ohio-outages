@@ -1,8 +1,8 @@
 [
   {
     "id": 1809673,
-    "lat": 39.36187184,
-    "lng": -84.0263706068382,
+    "lat": 39.36336704,
+    "lng": -84.0244018399493,
     "customers_affected": 16,
     "county": "WARREN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1809675,
-    "lat": 39.71556866,
-    "lng": -84.1615519720292,
+    "lat": 39.71706386,
+    "lng": -84.1595723691659,
     "customers_affected": 11,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1809699,
-    "lat": 39.48086309,
-    "lng": -83.6984013479724,
+    "lat": 39.48235829,
+    "lng": -83.6964289578119,
     "customers_affected": 3,
     "county": "CLINTON",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809727,
-    "lat": 39.48086309,
-    "lng": -83.6984013479724,
+    "lat": 39.48235829,
+    "lng": -83.6964289578119,
     "customers_affected": 4,
     "county": "CLINTON",
     "indicator": "D",
@@ -40,19 +40,9 @@
     "estimate_time": "2026-09-11T11:00:00"
   },
   {
-    "id": 1809733,
-    "lat": 40.05774004,
-    "lng": -84.2044264710054,
-    "customers_affected": 16,
-    "county": "MIAMI",
-    "indicator": "D",
-    "outage_time": "2026-09-11T08:04:00",
-    "estimate_time": "2026-09-11T11:00:00"
-  },
-  {
     "id": 1809739,
-    "lat": 39.54056095,
-    "lng": -83.751737239891,
+    "lat": 39.54205615,
+    "lng": -83.7497630234924,
     "customers_affected": 2,
     "county": "CLINTON",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1809740,
-    "lat": 40.32443406,
-    "lng": -83.9003039494953,
+    "lat": 40.32592926,
+    "lng": -83.8983052198275,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -71,8 +61,8 @@
   },
   {
     "id": 1809745,
-    "lat": 39.86830407,
-    "lng": -84.1121184054868,
+    "lat": 39.86979927,
+    "lng": -84.1101340614562,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -81,8 +71,8 @@
   },
   {
     "id": 1809748,
-    "lat": 40.50108322,
-    "lng": -84.632705627505,
+    "lat": 40.50257842,
+    "lng": -84.6307012339537,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -91,8 +81,8 @@
   },
   {
     "id": 1809751,
-    "lat": 39.79679474,
-    "lng": -84.211358506534,
+    "lat": 39.79828994,
+    "lng": -84.2093763869641,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -101,8 +91,8 @@
   },
   {
     "id": 1809753,
-    "lat": 40.14112642,
-    "lng": -83.9507464508473,
+    "lat": 40.14262162,
+    "lng": -83.9487535435692,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -111,8 +101,8 @@
   },
   {
     "id": 1809755,
-    "lat": 39.74636368,
-    "lng": -84.1162433319902,
+    "lat": 39.74785888,
+    "lng": -84.1142627762256,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -121,8 +111,8 @@
   },
   {
     "id": 1809757,
-    "lat": 39.67608866,
-    "lng": -83.5609767250537,
+    "lat": 39.67758386,
+    "lng": -83.5589983416049,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -131,22 +121,32 @@
   },
   {
     "id": 1809762,
-    "lat": 39.86186312,
-    "lng": -84.1237571387886,
+    "lat": 39.86335832,
+    "lng": -84.1217729954579,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-11T09:51:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-11T13:00:00"
   },
   {
     "id": 1809764,
-    "lat": 39.76058329,
-    "lng": -84.2553881743295,
+    "lat": 39.76207849,
+    "lng": -84.2534071780474,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-11T09:58:00",
+    "estimate_time": "2026-09-11T13:00:00"
+  },
+  {
+    "id": 1809768,
+    "lat": 39.64520139,
+    "lng": -84.3393422479679,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-11T10:07:00",
     "estimate_time": null
   }
 ]
