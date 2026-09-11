@@ -1,8 +1,8 @@
 [
   {
     "id": 1809644,
-    "lat": 39.4847511,
-    "lng": -84.0547367214923,
+    "lat": 39.483692,
+    "lng": -84.0561339311091,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1809649,
-    "lat": 39.63318247,
-    "lng": -83.9344276522489,
+    "lat": 39.63212337,
+    "lng": -83.9358280864033,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1809666,
-    "lat": 40.18639379,
-    "lng": -83.4122747482944,
+    "lat": 40.18533469,
+    "lng": -83.413687422124,
     "customers_affected": 251,
     "county": "UNION",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809667,
-    "lat": 40.21326986,
-    "lng": -83.3925773132989,
+    "lat": 40.21221076,
+    "lng": -83.3939905907882,
     "customers_affected": 4,
     "county": "UNION",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1809668,
-    "lat": 39.75234077,
-    "lng": -84.2160514675673,
+    "lat": 39.75128167,
+    "lng": -84.2174545083802,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,12 +51,32 @@
   },
   {
     "id": 1809673,
-    "lat": 39.36114204,
-    "lng": -84.0273315525816,
+    "lat": 39.36008294,
+    "lng": -84.0287260957946,
     "customers_affected": 24,
     "county": "WARREN",
     "indicator": "D",
     "outage_time": "2026-09-10T21:18:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-11T00:00:00"
+  },
+  {
+    "id": 1809675,
+    "lat": 39.71377976,
+    "lng": -84.1639204254549,
+    "customers_affected": 13,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-10T21:43:00",
+    "estimate_time": "2026-09-11T02:00:00"
+  },
+  {
+    "id": 1809676,
+    "lat": 39.83780475,
+    "lng": -84.1988767441681,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-10T21:58:00",
+    "estimate_time": "2026-09-11T01:00:00"
   }
 ]
