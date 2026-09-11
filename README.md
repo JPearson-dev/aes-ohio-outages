@@ -1,5 +1,7 @@
 # AES Ohio Outage Tracker
 
+<img src="docs/logo/final/outage-plug-large.svg" alt="AES Ohio Outage Tracker logo" width="120" />
+
 This community repository automatically tracks power outages in the AES Ohio (formerly DP&L) service area. It polls the utility's public map data to build a historical, incident-level dataset that is otherwise unavailable to the public.
 
 Please visit [AES Ohio's official dashboard](https://myprofile.aes-ohio.com/Outages/Outages.html) for auto-refreshing current outage information.
@@ -9,7 +11,6 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
-* Add logo in README and site favicon
 * Double check logo build is reproducible
 * Auto-generate credits for front-end dependencies
 * Store mysql data in Pages deploy. Just current file for now.
