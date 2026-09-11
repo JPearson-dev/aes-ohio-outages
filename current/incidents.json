@@ -80,16 +80,6 @@
     "estimate_time": "2026-09-11T14:00:00"
   },
   {
-    "id": 1809782,
-    "lat": 40.30237184,
-    "lng": -84.1531995217809,
-    "customers_affected": 3,
-    "county": "SHELBY",
-    "indicator": "D",
-    "outage_time": "2026-09-11T11:04:00",
-    "estimate_time": "2026-09-11T13:00:00"
-  },
-  {
     "id": 1809787,
     "lat": 39.74240302,
     "lng": -84.2269135070896,
@@ -168,5 +158,15 @@
     "indicator": "D",
     "outage_time": "2026-09-11T12:24:00",
     "estimate_time": "2026-09-11T15:00:00"
+  },
+  {
+    "id": 1809811,
+    "lat": 40.36531477,
+    "lng": -83.7383208984573,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-09-11T12:42:00",
+    "estimate_time": null
   }
 ]
