@@ -1,8 +1,8 @@
 [
   {
     "id": 1809880,
-    "lat": 39.82033815,
-    "lng": -84.3302202956313,
+    "lat": 39.82206475,
+    "lng": -84.3279305035499,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1809902,
-    "lat": 39.56762705,
-    "lng": -84.1226671218798,
+    "lat": 39.56935365,
+    "lng": -84.1203863433838,
     "customers_affected": 2,
     "county": "WARREN",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1809903,
-    "lat": 39.77076465,
-    "lng": -84.2030955454577,
+    "lat": 39.77249125,
+    "lng": -84.2008075308898,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809904,
-    "lat": 39.79691077,
-    "lng": -84.2451410855386,
+    "lat": 39.79863737,
+    "lng": -84.2428521340434,
     "customers_affected": 19,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1809907,
-    "lat": 39.82123337,
-    "lng": -84.2365227454814,
+    "lat": 39.82295997,
+    "lng": -84.2342329212587,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1809909,
-    "lat": 40.05680407,
-    "lng": -84.1402679450641,
+    "lat": 40.05853067,
+    "lng": -84.1379696108308,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -61,12 +61,32 @@
   },
   {
     "id": 1809911,
-    "lat": 39.83810149,
-    "lng": -83.6180012679616,
+    "lat": 39.83982809,
+    "lng": -83.6157108378395,
     "customers_affected": 28,
     "county": "CLARK",
     "indicator": "D",
     "outage_time": "2026-09-12T07:28:00",
     "estimate_time": "2026-09-12T10:00:00"
+  },
+  {
+    "id": 1809912,
+    "lat": 40.44768614,
+    "lng": -84.4288869769048,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-09-12T07:58:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1809913,
+    "lat": 40.57021421,
+    "lng": -84.0699540700789,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-09-12T07:55:00",
+    "estimate_time": null
   }
 ]
