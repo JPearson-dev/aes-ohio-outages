@@ -44,7 +44,7 @@ The build scripts in `source/` are covered by the repository's MIT license
 like the rest of the codebase. The rendered mark itself — the SVG and ICO
 files in this folder — is not: all rights are reserved by the project owner,
 so reuse of the logo/mark as a brand asset isn't pre-authorized the way the
-code is. The purpose is to protect the ability to distinguish between forks,
+code is. The purpose is to preserve the option to distinguish between forks,
 or other usage, if it becomes necessary. It's easier to reserve rights now
 than to reclaim them later.
 
