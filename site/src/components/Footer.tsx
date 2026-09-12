@@ -1,4 +1,4 @@
-import { GITHUB_URL } from '../config'
+import { GITHUB_URL, SITE_ROOT } from '../config'
 import styles from './Footer.module.css'
 
 export function Footer() {
@@ -6,7 +6,7 @@ export function Footer() {
     <footer className={styles.footer}>
       <a href={GITHUB_URL}>Source</a>
       {' · '}
-      <a href="THIRD-PARTY-NOTICES.txt">Credits</a>
+      <a href={`${SITE_ROOT}/THIRD-PARTY-NOTICES.txt`}>Credits</a>
     </footer>
   )
 }
