@@ -1,48 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.39282638</LAT>
-    <LNG>-83.9152623708265</LNG>
+    <LAT>39.25734904</LAT>
+    <LNG>-83.7804679975152</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1809986</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>144</total>
+    <OutageTime>09/12/2026 07:14 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.39025428</LAT>
+    <LNG>-83.9186506916743</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1809974</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>143</total>
+    <total>144</total>
     <OutageTime>09/12/2026 06:17 PM</OutageTime>
     <EstimateTime>09/12/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74169772</LAT>
-    <LNG>-84.1261890253196</LNG>
+    <LAT>39.73912562</LAT>
+    <LNG>-84.1295957587539</LNG>
     <TOTALCUSTS>15</TOTALCUSTS>
     <INCIDENTID>1809972</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>143</total>
+    <total>144</total>
     <OutageTime>09/12/2026 06:14 PM</OutageTime>
     <EstimateTime>09/12/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.71618385</LAT>
-    <LNG>-84.131917969649</LNG>
+    <LAT>39.71361175</LAT>
+    <LNG>-84.135323345185</LNG>
     <TOTALCUSTS>13</TOTALCUSTS>
     <INCIDENTID>1809971</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>143</total>
+    <total>144</total>
     <OutageTime>09/12/2026 06:04 PM</OutageTime>
     <EstimateTime>09/12/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.51141646</LAT>
-    <LNG>-83.9838616244792</LNG>
+    <LAT>39.50884436</LAT>
+    <LNG>-83.9872561668458</LNG>
     <TOTALCUSTS>112</TOTALCUSTS>
     <INCIDENTID>1809983</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>143</total>
+    <total>144</total>
     <OutageTime>09/12/2026 06:49 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/12/2026 09:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -66,7 +77,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>3</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>143</TotalOut>
-    <Outageat>9/12/2026 7:05:31 PM</Outageat>
+    <TotalOut>144</TotalOut>
+    <Outageat>9/12/2026 7:20:33 PM</Outageat>
   </Message>
 </Incidents>
