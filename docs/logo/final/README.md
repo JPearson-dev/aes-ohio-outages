@@ -37,3 +37,18 @@ ever needed.
 
 `source/` holds the full reproducible build: run `python3 source/build.py`
 to regenerate every asset above from the frozen geometry parameters.
+
+## License
+
+The build scripts in `source/` are covered by the repository's MIT license
+like the rest of the codebase. The rendered mark itself — the SVG and ICO
+files in this folder — is not: all rights are reserved by the project owner,
+so reuse of the logo/mark as a brand asset isn't pre-authorized the way the
+code is. The purpose is to protect the ability to distinguish between forks,
+or other usage, if it becomes necessary. It's easier to reserve rights now
+than to reclaim them later.
+
+Contributions that change these files (or add new mark variants) are
+accepted on the understanding that the contribution becomes part of the
+reserved mark under these same terms, rather than the contributor retaining
+separate rights to their specific change.
