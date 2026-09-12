@@ -1,8 +1,8 @@
 [
   {
     "id": 1809880,
-    "lat": 39.82202025,
-    "lng": -84.3279895188098,
+    "lat": 39.82288355,
+    "lng": -84.3268446227691,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1809900,
-    "lat": 39.869167,
-    "lng": -84.7804962559973,
+    "lat": 39.8700303,
+    "lng": -84.7793505125777,
     "customers_affected": 3,
     "county": "PREBLE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1809902,
-    "lat": 39.56930915,
-    "lng": -84.1204451263347,
+    "lat": 39.57017245,
+    "lng": -84.1193047370868,
     "customers_affected": 2,
     "county": "WARREN",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1809903,
-    "lat": 39.77244675,
-    "lng": -84.2008665003374,
+    "lat": 39.77331005,
+    "lng": -84.1997224930535,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,9 +41,9 @@
   },
   {
     "id": 1809904,
-    "lat": 39.79859287,
-    "lng": -84.2429111276387,
-    "customers_affected": 18,
+    "lat": 39.79945617,
+    "lng": -84.2417666518911,
+    "customers_affected": 19,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-12T06:43:00",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1809907,
-    "lat": 39.82291547,
-    "lng": -84.234291937347,
+    "lat": 39.82377877,
+    "lng": -84.2331470252356,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,12 +61,32 @@
   },
   {
     "id": 1809908,
-    "lat": 40.04122838,
-    "lng": -84.2217326762459,
+    "lat": 40.04209168,
+    "lng": -84.2205838226241,
     "customers_affected": 3,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-09-12T07:01:00",
     "estimate_time": "2026-09-12T10:00:00"
+  },
+  {
+    "id": 1809909,
+    "lat": 40.05934947,
+    "lng": -84.1368796791325,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-12T07:18:00",
+    "estimate_time": "2026-09-12T10:00:00"
+  },
+  {
+    "id": 1809910,
+    "lat": 39.84064689,
+    "lng": -83.6146246544826,
+    "customers_affected": 3,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-09-12T07:29:00",
+    "estimate_time": null
   }
 ]
