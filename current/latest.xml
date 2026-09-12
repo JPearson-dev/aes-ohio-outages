@@ -1,26 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.48367906</LAT>
-    <LNG>-83.4855463529743</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1809968</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>2</total>
-    <OutageTime>09/12/2026 05:09 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.47350439</LAT>
-    <LNG>-83.5089221491353</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
+    <LAT>39.47385149</LAT>
+    <LNG>-83.5084643241323</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1809969</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
     <total>2</total>
-    <OutageTime>09/12/2026 05:13 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <OutageTime>09/12/2026 05:09 PM</OutageTime>
+    <EstimateTime>09/12/2026 08:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -122,6 +111,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>2</TotalOut>
-    <Outageat>9/12/2026 5:20:34 PM</Outageat>
+    <Outageat>9/12/2026 5:35:31 PM</Outageat>
   </Message>
 </Incidents>
