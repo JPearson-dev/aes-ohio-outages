@@ -1,8 +1,8 @@
 [
   {
     "id": 1809932,
-    "lat": 39.6481290942991,
-    "lng": -83.7597420012796,
+    "lat": 39.6477819942991,
+    "lng": -83.7602010661322,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-09-12T18:00:00"
   },
   {
-    "id": 1809933,
-    "lat": 39.6548268,
-    "lng": -84.2360124202731,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-12T10:47:00",
-    "estimate_time": "2026-09-12T17:00:00"
-  },
-  {
     "id": 1809940,
-    "lat": 39.69058701,
-    "lng": -84.2019798429035,
+    "lat": 39.69023991,
+    "lng": -84.2024392117624,
     "customers_affected": 7,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1809948,
-    "lat": 39.68965644,
-    "lng": -84.0158681937056,
+    "lat": 39.68930934,
+    "lng": -84.0163275558942,
     "customers_affected": 132,
     "county": "GREENE",
     "indicator": "D",
@@ -40,23 +30,33 @@
     "estimate_time": "2026-09-12T15:00:00"
   },
   {
-    "id": 1809951,
-    "lat": 39.81249092,
-    "lng": -84.1794692954657,
-    "customers_affected": 9,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-12T13:00:00",
-    "estimate_time": "2026-09-12T15:00:00"
-  },
-  {
     "id": 1809954,
-    "lat": 39.6720903,
-    "lng": -84.1702840897284,
+    "lat": 39.6717432,
+    "lng": -84.170743326065,
     "customers_affected": 6,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-12T13:31:00",
     "estimate_time": "2026-09-12T16:00:00"
+  },
+  {
+    "id": 1809958,
+    "lat": 40.50795668,
+    "lng": -84.5262288996815,
+    "customers_affected": 1,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-09-12T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1809959,
+    "lat": 40.27904857,
+    "lng": -83.7458633311962,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-09-12T14:42:00",
+    "estimate_time": null
   }
 ]
