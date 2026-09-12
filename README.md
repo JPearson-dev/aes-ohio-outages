@@ -12,10 +12,16 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 
 **Upcoming:**
 * Store mysql data in Pages deploy. Just current file for now.
-* Outages and affected customers, but splitting by incident size
+  * Add standard datasette viewer?
+  * Submit patch upstream to git-history to handle non-root sources and possibly missing files?
+  * Wire it into the Action: full-history checkout of data branch, actions/cache for incremental build, bundle into Pages artifact
+    * Keep some older versions of the db around for anyone who loaded recently and hasn't refreshed?
+  * Load data into the browser
+    * Show a warning if the old db is missing? Maybe suggest refresh in a red banenr and disable new queries until then?
+* Chart of outages and affected customers, but splitting by incident size
 * Incident map with time-travel scrub-bar
 * Scan forwards/backwards to see data for a specific event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.
-  * In what ways can a specific event accessed in the UI?
+  * In what ways can a specific event be accessed in the UI?
 * Detect and list recent outage periods, since we assume that most major outages are detectable by a minimum, rapidly created size.
 * An auto-playing loop of an outage period, with highlighting of incidents as they are about to be resolved.
 
