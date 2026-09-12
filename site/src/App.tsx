@@ -5,7 +5,10 @@ import styles from './App.module.css'
 function App() {
   return (
     <main className={styles.app}>
-      <h1>AES Ohio Outage Tracker</h1>
+      <div className={styles.header}>
+        <img src="favicon.svg" alt="" className={styles.logo} />
+        <h1>AES Ohio Outage Tracker</h1>
+      </div>
       <HeartbeatChart />
       <Footer />
     </main>
