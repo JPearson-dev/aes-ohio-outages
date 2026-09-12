@@ -54,6 +54,7 @@ The raw XML file contains three distinct child elements under the root `<Inciden
 3. **String Literals for Null**: Null values appear as literal `"null"` strings (e.g., `<EstimateTime>null</EstimateTime>`, `<UMessage>null</UMessage>`).
 4. **Duplicate Totals**: Each `<Markers>` entry includes a `<total>` tag duplicating the utility-wide count.
 5. **Naive Timestamps & Timezones**: Timestamps are naive local clock times (America/New_York) without time zone offsets (`09/05/2026 09:26 AM` and `9/5/2026 8:35:32 PM`). Consequently, during the annual autumn Daylight Saving Time "fall-back" transition (when 2:00 AM becomes 1:00 AM), the 1:00 AM–1:59 AM hour repeats without EDT vs. EST disambiguation in the raw data.
+6. **Inconsistent Precision**: Lattitude is sometimes unusually precise, with 13 decimal places instead of the more common 8.
 
 ---
 
