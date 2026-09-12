@@ -1,18 +1,8 @@
 [
   {
-    "id": 1809969,
-    "lat": 39.47545349,
-    "lng": -83.5063512856568,
-    "customers_affected": 2,
-    "county": "FAYETTE",
-    "indicator": "D",
-    "outage_time": "2026-09-12T17:09:00",
-    "estimate_time": "2026-09-12T20:00:00"
-  },
-  {
     "id": 1809971,
-    "lat": 39.71715395,
-    "lng": -84.1306335892565,
+    "lat": 39.71618385,
+    "lng": -84.131917969649,
     "customers_affected": 13,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1809972,
-    "lat": 39.74266782,
-    "lng": -84.1249041327786,
+    "lat": 39.74169772,
+    "lng": -84.1261890253196,
     "customers_affected": 15,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,12 +21,22 @@
   },
   {
     "id": 1809974,
-    "lat": 39.39379648,
-    "lng": -83.913984422825,
+    "lat": 39.39282638,
+    "lng": -83.9152623708265,
     "customers_affected": 3,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-12T18:17:00",
     "estimate_time": "2026-09-12T21:00:00"
+  },
+  {
+    "id": 1809983,
+    "lat": 39.51141646,
+    "lng": -83.9838616244792,
+    "customers_affected": 112,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-09-12T18:49:00",
+    "estimate_time": null
   }
 ]
