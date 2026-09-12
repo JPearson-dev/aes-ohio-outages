@@ -12,11 +12,9 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 
 **Upcoming:**
 * Store mysql data in Pages deploy. Just current file for now.
-  * Submit patch upstream to git-history to handle non-root sources and possibly missing files?
   * How does dev update the sql? Document that.
   * Wire it into the Action: full-history checkout of data branch, actions/cache for incremental build, bundle into Pages artifact
     * Keep some older versions of the db around for anyone who loaded recently and hasn't refreshed?
-  * Load data into the browser
     * Show a warning if the old db is missing? Maybe suggest refresh in a red banenr and disable new queries until then?
 * Chart of outages and affected customers, but splitting by incident size
 * Incident map with time-travel scrub-bar

@@ -2,53 +2,22 @@
 """
 Historical incident database builder.
 
+Requires Python 3.10+ (see requirements-history.txt: git-history>=0.7 needs
+it - earlier 0.6.1 only found files at the repo root and silently produced
+an empty db for a nested path like current/incidents.json).
+
 Wraps git-history (https://github.com/simonw/git-history) to turn the `data`
 branch's commit-by-commit snapshots of current/incidents.json into a SQLite
 db with one row per distinct state an incident has taken on, rather than one
 row per poll.
-
-Works around a bug in git-history 0.6.1: its `file` command only finds files
-that live at the repo root. iterate_file_versions() matches a commit's direct
-root-tree blobs (commit.tree.blobs) against the file's full relative path, so
-a nested path like current/incidents.json never matches anything and the
-command silently produces an empty db - no error, exit code 0. This patches
-in a version that resolves the blob at its actual path (commit.tree / path)
-instead. Safe to remove if a future git-history release fixes this upstream.
 """
 
 import argparse
+import sqlite3
 import sys
 from pathlib import Path
 
-import git
 import git_history.cli as ghcli
-
-
-def _iterate_file_versions_fixed(
-    repo_path, filepath, ref="main", commits_to_skip=None, show_progress=False
-):
-    import click
-
-    relative_path = str(Path(filepath).relative_to(repo_path))
-    repo = git.Repo(repo_path, odbt=git.GitDB)
-    commits = reversed(list(repo.iter_commits(ref, paths=[relative_path])))
-    if commits_to_skip:
-        commits = [c for c in commits if c.hexsha not in commits_to_skip]
-    progress_bar = None
-    if show_progress:
-        progress_bar = click.progressbar(commits, show_pos=True, show_percent=True)
-    for commit in commits:
-        if progress_bar:
-            progress_bar.update(1)
-        try:
-            blob = commit.tree / relative_path
-        except KeyError:
-            # This commit doesn't have a copy of the requested file
-            continue
-        yield commit.committed_datetime, commit.hexsha, blob.data_stream.read()
-
-
-ghcli.iterate_file_versions = _iterate_file_versions_fixed
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_REPO = REPO_ROOT / "ingest" / ".data-branch"
@@ -90,6 +59,22 @@ def main():
         prog_name="git-history",
         standalone_mode=False,
     )
+
+    # git-history exits 0 and writes a db with no `item` table at all if
+    # --branch/--filepath don't match any commits - e.g. a typo'd branch
+    # name. Catch that here rather than silently producing a useless db.
+    conn = sqlite3.connect(args.db)
+    row = conn.execute(
+        "SELECT COUNT(*) FROM sqlite_master WHERE type='table' AND name='item'"
+    ).fetchone()
+    item_count = conn.execute("SELECT COUNT(*) FROM item").fetchone()[0] if row[0] else 0
+    conn.close()
+    if item_count == 0:
+        print(
+            f"Warning: {args.db} has 0 rows in `item` - check --repo/--branch/--filepath",
+            file=sys.stderr,
+        )
+
     print(f"Wrote {args.db}")
 
 
