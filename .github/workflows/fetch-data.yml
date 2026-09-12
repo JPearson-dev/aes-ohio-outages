@@ -30,10 +30,28 @@ jobs:
         run: python code/ingest/scripts/fetch.py --out-dir data
 
       - name: Commit and push changes
+        id: commit
         working-directory: data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A current/ heartbeat.csv README.md
-          git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')" || exit 0
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push origin data
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      # jsDelivr caches the @data branch ref for hours; without this, the site
+      # (which reads current/*.json and heartbeat.csv via jsDelivr) can lag
+      # well behind what's actually on the data branch. No auth needed -
+      # purge.jsdelivr.net is a public, unauthenticated endpoint.
+      - name: Purge jsDelivr cache
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          for f in current/latest.xml current/incidents.json current/counties.json current/status.json heartbeat.csv; do
+            curl -fsS "https://purge.jsdelivr.net/gh/${{ github.repository }}@data/$f" \
+              || echo "::warning::jsDelivr purge failed for $f"
+          done
