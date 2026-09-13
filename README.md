@@ -13,10 +13,6 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
-* Store historical incident sqlite data in Pages deploy. Done: every site deploy checks out the full `data` branch history, incrementally rebuilds `history.db` via `actions/cache`, and publishes it under a build-id-versioned filename + `history-latest.json` pointer that `/datasette/` resolves at runtime (see [docs/site.md](docs/site.md), [docs/local-dev.md](docs/local-dev.md)).
-  * Only refreshes on a push to `site/**` (or manual dispatch), not on every `data`-branch update — an independently-scheduled rebuild (site.md's adaptive hourly/daily cadence idea) is still unbuilt.
-  * Keep some older versions of the db around for anyone who loaded recently and hasn't refreshed?
-  * Show a warning if the old db is missing? Maybe suggest refresh in a red banner and disable new queries until then?
 * Chart of outages and affected customers, but splitting by incident size
 * Incident map with time-travel scrub-bar
 * Scan forwards/backwards to see data for a specific event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.
@@ -29,6 +25,10 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 * Calendar view with peak affected customers per day determining size/brightness of color behind the day?
 * Other datasette features, such as SpatiaLite for SQLite and [geospatial plugins](https://datasette.io/for/geospatial)
 * Understand how an event might move as it is updated. Might clarify the precision. See incident `1805707` as an example with 35 updates that adjusted its location.
+* Improve db updates. Currently: only on code push or GH Actions daily cron job.
+  * Rebuild more often, e.g. hourly, gated by recency of last build and level of current outages, rather than a flat daily cadence.
+  * Keep some older versions of the db around for anyone who loaded recently and hasn't refreshed?
+  * Show a warning if the old db is missing? Maybe suggest refresh in a red banner and disable new queries until then?
 
 **Out of Scope:**
 * Real-time parity with the official dashboard. Implementing this feature could count as creating a substitute for the official dashboard. This project is focused on understanding historical facts. While data refresh is handy, any such feature should be focused on ease of use and historical context, not attempting to provide the most up-to-date data possible.

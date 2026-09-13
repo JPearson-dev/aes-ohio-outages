@@ -9,6 +9,11 @@ on:
       - 'ingest/scripts/publish_history_db.py'
       - 'ingest/scripts/requirements-history.txt'
       - '!site/**/*.md'
+  # Daily rebuild of the historical incident db (see docs/site.md) so it
+  # doesn't only refresh on a site/code push. Off the round hour to avoid
+  # GitHub's documented top-of-the-hour scheduling congestion.
+  schedule:
+    - cron: '17 6 * * *'
   workflow_dispatch:
 
 permissions:
