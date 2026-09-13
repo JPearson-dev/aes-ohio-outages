@@ -1,12 +1,22 @@
 [
   {
     "id": 1810022,
-    "lat": 39.74740377,
-    "lng": -83.8172444320484,
+    "lat": 39.74963767,
+    "lng": -83.8142852754678,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-13T11:21:00",
-    "estimate_time": "2026-09-13T16:00:00"
+    "estimate_time": "2026-09-13T18:00:00"
+  },
+  {
+    "id": 1810043,
+    "lat": 39.74850826,
+    "lng": -83.5705397857169,
+    "customers_affected": 76,
+    "county": "MADISON",
+    "indicator": "D",
+    "outage_time": "2026-09-13T15:17:00",
+    "estimate_time": null
   }
 ]
