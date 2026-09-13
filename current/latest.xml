@@ -1,59 +1,70 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.42529393</LAT>
-    <LNG>-83.7482677790806</LNG>
+    <LAT>39.42703833</LAT>
+    <LNG>-83.7459686168526</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810054</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>40</total>
+    <total>48</total>
     <OutageTime>09/13/2026 04:49 PM</OutageTime>
     <EstimateTime>09/13/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74828487</LAT>
-    <LNG>-83.816077274672</LNG>
+    <LAT>39.75002927</LAT>
+    <LNG>-83.813766538856</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810022</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>40</total>
+    <total>48</total>
     <OutageTime>09/13/2026 11:21 AM</OutageTime>
     <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74715546</LAT>
-    <LNG>-83.5723317532734</LNG>
-    <TOTALCUSTS>35</TOTALCUSTS>
+    <LAT>39.74889986</LAT>
+    <LNG>-83.5700210582664</LNG>
+    <TOTALCUSTS>36</TOTALCUSTS>
     <INCIDENTID>1810043</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MADISON</COUNTY>
-    <total>40</total>
+    <total>48</total>
     <OutageTime>09/13/2026 03:17 PM</OutageTime>
     <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.07064853</LAT>
-    <LNG>-84.2264322366342</LNG>
+    <LAT>40.07239293</LAT>
+    <LNG>-84.2241097542727</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810049</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>40</total>
+    <total>48</total>
     <OutageTime>09/13/2026 03:49 PM</OutageTime>
     <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78615335</LAT>
-    <LNG>-84.1588638907501</LNG>
+    <LAT>39.78789775</LAT>
+    <LNG>-84.1565517852451</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810048</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>40</total>
+    <total>48</total>
     <OutageTime>09/13/2026 03:47 PM</OutageTime>
     <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.75432448</LAT>
+    <LNG>-84.6166455980569</LNG>
+    <TOTALCUSTS>7</TOTALCUSTS>
+    <INCIDENTID>1810058</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>48</total>
+    <OutageTime>09/13/2026 04:58 PM</OutageTime>
+    <EstimateTime>09/13/2026 07:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -109,7 +120,7 @@
   </Counties>
   <Counties>
     <County>MADISON</County>
-    <TotOut>35</TotOut>
+    <TotOut>36</TotOut>
   </Counties>
   <Counties>
     <County>MERCER</County>
@@ -129,7 +140,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>7</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -154,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>40</TotalOut>
-    <Outageat>9/13/2026 5:05:31 PM</Outageat>
+    <TotalOut>48</TotalOut>
+    <Outageat>9/13/2026 5:20:31 PM</Outageat>
   </Message>
 </Incidents>

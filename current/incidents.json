@@ -1,8 +1,8 @@
 [
   {
     "id": 1810022,
-    "lat": 39.74828487,
-    "lng": -83.816077274672,
+    "lat": 39.75002927,
+    "lng": -83.813766538856,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
@@ -11,9 +11,9 @@
   },
   {
     "id": 1810043,
-    "lat": 39.74715546,
-    "lng": -83.5723317532734,
-    "customers_affected": 35,
+    "lat": 39.74889986,
+    "lng": -83.5700210582664,
+    "customers_affected": 36,
     "county": "MADISON",
     "indicator": "D",
     "outage_time": "2026-09-13T15:17:00",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810048,
-    "lat": 39.78615335,
-    "lng": -84.1588638907501,
+    "lat": 39.78789775,
+    "lng": -84.1565517852451,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810049,
-    "lat": 40.07064853,
-    "lng": -84.2264322366342,
+    "lat": 40.07239293,
+    "lng": -84.2241097542727,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -41,12 +41,22 @@
   },
   {
     "id": 1810054,
-    "lat": 39.42529393,
-    "lng": -83.7482677790806,
+    "lat": 39.42703833,
+    "lng": -83.7459686168526,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-13T16:49:00",
+    "estimate_time": "2026-09-13T19:00:00"
+  },
+  {
+    "id": 1810058,
+    "lat": 39.75432448,
+    "lng": -84.6166455980569,
+    "customers_affected": 7,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-13T16:58:00",
     "estimate_time": "2026-09-13T19:00:00"
   }
 ]
