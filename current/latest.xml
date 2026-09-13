@@ -1,70 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.6498356</LAT>
-    <LNG>-83.9571089697183</LNG>
+    <LAT>39.6506099</LAT>
+    <LNG>-83.9560848582676</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1810066</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>111</total>
+    <total>109</total>
     <OutageTime>09/13/2026 05:40 PM</OutageTime>
-    <EstimateTime>09/13/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.74811577</LAT>
-    <LNG>-83.8163012745725</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1810022</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>111</total>
-    <OutageTime>09/13/2026 11:21 AM</OutageTime>
     <EstimateTime>09/13/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64744747</LAT>
-    <LNG>-84.0726304643669</LNG>
+    <LAT>39.64822177</LAT>
+    <LNG>-84.0716063910221</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810081</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>111</total>
+    <total>109</total>
     <OutageTime>09/13/2026 06:53 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/13/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>0.0104575</LAT>
-    <LNG>0.0104575</LNG>
+    <LAT>0.0112318</LAT>
+    <LNG>0.0112318</LNG>
     <TOTALCUSTS>50</TOTALCUSTS>
     <INCIDENTID>1810065</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>111</total>
+    <total>109</total>
     <OutageTime>09/13/2026 05:22 PM</OutageTime>
     <EstimateTime>09/13/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2599405</LAT>
-    <LNG>-83.3593430128132</LNG>
+    <LAT>40.2607148</LAT>
+    <LNG>-83.3583090095066</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810073</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>111</total>
+    <total>109</total>
     <OutageTime>09/13/2026 05:59 PM</OutageTime>
     <EstimateTime>09/13/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2541046126405</LAT>
-    <LNG>-83.351082905109</LNG>
+    <LAT>40.2548789126405</LAT>
+    <LNG>-83.3500489979194</LNG>
     <TOTALCUSTS>54</TOTALCUSTS>
     <INCIDENTID>1810082</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>111</total>
+    <total>109</total>
     <OutageTime>09/13/2026 06:43 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/13/2026 09:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -104,7 +93,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>6</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -165,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>111</TotalOut>
-    <Outageat>9/13/2026 7:05:31 PM</Outageat>
+    <TotalOut>109</TotalOut>
+    <Outageat>9/13/2026 7:20:31 PM</Outageat>
   </Message>
 </Incidents>
