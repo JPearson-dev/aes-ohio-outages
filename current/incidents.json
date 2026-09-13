@@ -1,8 +1,8 @@
 [
   {
     "id": 1810022,
-    "lat": 39.74758177,
-    "lng": -83.8170086426794,
+    "lat": 39.74811577,
+    "lng": -83.8163012745725,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-09-13T22:00:00"
   },
   {
-    "id": 1810054,
-    "lat": 39.42459083,
-    "lng": -83.7491944822235,
-    "customers_affected": 1,
-    "county": "CLINTON",
-    "indicator": "D",
-    "outage_time": "2026-09-13T16:49:00",
-    "estimate_time": "2026-09-13T19:00:00"
-  },
-  {
     "id": 1810065,
-    "lat": 0.0099235,
-    "lng": 0.0099235,
+    "lat": 0.0104575,
+    "lng": 0.0104575,
     "customers_affected": 50,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1810066,
-    "lat": 39.6493016,
-    "lng": -83.9578152534774,
+    "lat": 39.6498356,
+    "lng": -83.9571089697183,
     "customers_affected": 3,
     "county": "GREENE",
     "indicator": "D",
@@ -41,12 +31,32 @@
   },
   {
     "id": 1810073,
-    "lat": 40.2594065,
-    "lng": -83.3600561185419,
+    "lat": 40.2599405,
+    "lng": -83.3593430128132,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
     "outage_time": "2026-09-13T17:59:00",
     "estimate_time": "2026-09-13T20:00:00"
+  },
+  {
+    "id": 1810081,
+    "lat": 39.64744747,
+    "lng": -84.0726304643669,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-13T18:53:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810082,
+    "lat": 40.2541046126405,
+    "lng": -83.351082905109,
+    "customers_affected": 54,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-09-13T18:43:00",
+    "estimate_time": null
   }
 ]
