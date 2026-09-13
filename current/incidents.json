@@ -1,8 +1,8 @@
 [
   {
     "id": 1810009,
-    "lat": 39.81352915,
-    "lng": -83.6340908694651,
+    "lat": 39.81429455,
+    "lng": -83.6330759358764,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810010,
-    "lat": 39.8178547,
-    "lng": -83.6331832015658,
+    "lat": 39.8186201,
+    "lng": -83.6321681991551,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810011,
-    "lat": 40.12281912,
-    "lng": -83.7351441015965,
+    "lat": 40.12358452,
+    "lng": -83.7341242077546,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -30,19 +30,9 @@
     "estimate_time": "2026-09-13T13:00:00"
   },
   {
-    "id": 1810013,
-    "lat": 39.71634942,
-    "lng": -84.2474184852064,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-13T10:06:00",
-    "estimate_time": "2026-09-13T12:00:00"
-  },
-  {
     "id": 1810014,
-    "lat": 39.86600441,
-    "lng": -84.7861134440013,
+    "lat": 39.86749961,
+    "lng": -84.7841291272602,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -51,12 +41,22 @@
   },
   {
     "id": 1810015,
-    "lat": 39.68309495,
-    "lng": -83.9148770023498,
+    "lat": 39.68386035,
+    "lng": -83.9138641367885,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-13T10:10:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-13T12:00:00"
+  },
+  {
+    "id": 1810016,
+    "lat": 39.74316216,
+    "lng": -84.151160228665,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-13T10:10:00",
+    "estimate_time": "2026-09-13T13:00:00"
   }
 ]
