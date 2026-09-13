@@ -1,70 +1,81 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.81601225</LAT>
-    <LNG>-83.6307982360784</LNG>
+    <LAT>39.81408985</LAT>
+    <LNG>-83.6333473716036</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810009</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>10</total>
+    <total>11</total>
     <OutageTime>09/13/2026 09:45 AM</OutageTime>
     <EstimateTime>09/13/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8203378</LAT>
-    <LNG>-83.6298903449078</LNG>
+    <LAT>39.8184154</LAT>
+    <LNG>-83.6324396532882</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810010</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>10</total>
+    <total>11</total>
     <OutageTime>09/13/2026 09:47 AM</OutageTime>
     <EstimateTime>09/13/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.45786111</LAT>
-    <LNG>-83.8237186397954</LNG>
+    <LAT>39.45593871</LAT>
+    <LNG>-83.8262535970691</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810020</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>10</total>
+    <total>11</total>
     <OutageTime>09/13/2026 10:56 AM</OutageTime>
-    <EstimateTime>09/13/2026 01:00 PM</EstimateTime>
+    <EstimateTime>09/13/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68557805</LAT>
-    <LNG>-83.9115910780287</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1810015</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>10</total>
-    <OutageTime>09/13/2026 10:10 AM</OutageTime>
-    <EstimateTime>09/13/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.75057217</LAT>
-    <LNG>-83.8130473812806</LNG>
+    <LAT>39.74864977</LAT>
+    <LNG>-83.8155939064656</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1810022</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>10</total>
+    <total>11</total>
     <OutageTime>09/13/2026 11:21 AM</OutageTime>
     <EstimateTime>09/13/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86921731</LAT>
-    <LNG>-84.7818495252898</LNG>
+    <LAT>39.68365565</LAT>
+    <LNG>-83.9141350194386</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810015</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>11</total>
+    <OutageTime>09/13/2026 10:10 AM</OutageTime>
+    <EstimateTime>09/13/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.86729491</LAT>
+    <LNG>-84.7844007896712</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810014</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>10</total>
+    <total>11</total>
     <OutageTime>09/13/2026 10:00 AM</OutageTime>
     <EstimateTime>09/13/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.31309455</LAT>
+    <LNG>-84.1624986058229</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810027</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>11</total>
+    <OutageTime>09/13/2026 12:59 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -148,7 +159,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -165,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>10</TotalOut>
-    <Outageat>9/13/2026 12:50:31 PM</Outageat>
+    <TotalOut>11</TotalOut>
+    <Outageat>9/13/2026 1:05:31 PM</Outageat>
   </Message>
 </Incidents>

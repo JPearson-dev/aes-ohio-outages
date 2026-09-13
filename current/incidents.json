@@ -1,8 +1,8 @@
 [
   {
     "id": 1810009,
-    "lat": 39.81601225,
-    "lng": -83.6307982360784,
+    "lat": 39.81408985,
+    "lng": -83.6333473716036,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810010,
-    "lat": 39.8203378,
-    "lng": -83.6298903449078,
+    "lat": 39.8184154,
+    "lng": -83.6324396532882,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810014,
-    "lat": 39.86921731,
-    "lng": -84.7818495252898,
+    "lat": 39.86729491,
+    "lng": -84.7844007896712,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810015,
-    "lat": 39.68557805,
-    "lng": -83.9115910780287,
+    "lat": 39.68365565,
+    "lng": -83.9141350194386,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -41,22 +41,32 @@
   },
   {
     "id": 1810020,
-    "lat": 39.45786111,
-    "lng": -83.8237186397954,
+    "lat": 39.45593871,
+    "lng": -83.8262535970691,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-13T10:56:00",
-    "estimate_time": "2026-09-13T13:00:00"
+    "estimate_time": "2026-09-13T15:00:00"
   },
   {
     "id": 1810022,
-    "lat": 39.75057217,
-    "lng": -83.8130473812806,
+    "lat": 39.74864977,
+    "lng": -83.8155939064656,
     "customers_affected": 5,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-13T11:21:00",
     "estimate_time": "2026-09-13T13:00:00"
+  },
+  {
+    "id": 1810027,
+    "lat": 40.31309455,
+    "lng": -84.1624986058229,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-09-13T12:59:00",
+    "estimate_time": null
   }
 ]
