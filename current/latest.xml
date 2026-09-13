@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.74909477</LAT>
-    <LNG>-83.8150044330431</LNG>
+    <LAT>39.42529393</LAT>
+    <LNG>-83.7482677790806</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810054</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>40</total>
+    <OutageTime>09/13/2026 04:49 PM</OutageTime>
+    <EstimateTime>09/13/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.74828487</LAT>
+    <LNG>-83.816077274672</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810022</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>37</total>
+    <total>40</total>
     <OutageTime>09/13/2026 11:21 AM</OutageTime>
     <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74796536</LAT>
-    <LNG>-83.5712589305916</LNG>
-    <TOTALCUSTS>33</TOTALCUSTS>
+    <LAT>39.74715546</LAT>
+    <LNG>-83.5723317532734</LNG>
+    <TOTALCUSTS>35</TOTALCUSTS>
     <INCIDENTID>1810043</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MADISON</COUNTY>
-    <total>37</total>
+    <total>40</total>
     <OutageTime>09/13/2026 03:17 PM</OutageTime>
     <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.07145843</LAT>
-    <LNG>-84.2253539412521</LNG>
+    <LAT>40.07064853</LAT>
+    <LNG>-84.2264322366342</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810049</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>37</total>
+    <total>40</total>
     <OutageTime>09/13/2026 03:49 PM</OutageTime>
     <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78696325</LAT>
-    <LNG>-84.1577904131942</LNG>
+    <LAT>39.78615335</LAT>
+    <LNG>-84.1588638907501</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810048</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>37</total>
+    <total>40</total>
     <OutageTime>09/13/2026 03:47 PM</OutageTime>
     <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
   </Markers>
@@ -66,7 +77,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -98,7 +109,7 @@
   </Counties>
   <Counties>
     <County>MADISON</County>
-    <TotOut>33</TotOut>
+    <TotOut>35</TotOut>
   </Counties>
   <Counties>
     <County>MERCER</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>37</TotalOut>
-    <Outageat>9/13/2026 4:50:31 PM</Outageat>
+    <TotalOut>40</TotalOut>
+    <Outageat>9/13/2026 5:05:31 PM</Outageat>
   </Message>
 </Incidents>
