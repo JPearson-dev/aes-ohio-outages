@@ -1,0 +1,53 @@
+.wrap {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: none;
+  color: var(--text);
+  opacity: 0.6;
+  font: italic 11px Georgia, serif;
+  line-height: 1;
+  cursor: help;
+}
+
+.icon:hover,
+.icon:focus-visible {
+  opacity: 1;
+}
+
+.tooltip {
+  position: absolute;
+  top: 22px;
+  right: 0;
+  width: max-content;
+  max-width: 220px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  background: var(--text);
+  color: var(--bg);
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 1.4;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.1s ease;
+  pointer-events: none;
+}
+
+.icon:hover ~ .tooltip,
+.icon:focus-visible ~ .tooltip {
+  visibility: visible;
+  opacity: 1;
+}

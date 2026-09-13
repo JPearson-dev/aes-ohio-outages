@@ -44,6 +44,7 @@
 }
 
 .chartWrap {
+  position: relative;
   height: 340px;
   padding: 16px 0;
 }

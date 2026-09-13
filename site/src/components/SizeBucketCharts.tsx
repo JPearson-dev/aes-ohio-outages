@@ -12,6 +12,7 @@ import 'chartjs-adapter-date-fns'
 import { Line } from 'react-chartjs-2'
 import { loadHistoryDb } from '../lib/historyDb'
 import { querySizeBuckets, DEFAULT_BREAKPOINTS, bucketNamesFor, type SizeBucketRow } from '../lib/sizeBuckets'
+import { InfoTooltip } from './InfoTooltip'
 import styles from './SizeBucketCharts.module.css'
 
 ChartJS.register(TimeScale, LinearScale, PointElement, LineElement, Tooltip, Legend)
@@ -125,11 +126,13 @@ export function SizeBucketCharts() {
 
       <div className={styles.chartWrap}>
         <h3>Customers affected</h3>
+        <InfoTooltip text="This chart updates roughly once a day (expected staleness less than 1 day)." />
         <Line data={{ datasets: datasetsFor('customers') }} options={commonOptions} />
       </div>
 
       <div className={styles.chartWrap}>
         <h3>Incident count</h3>
+        <InfoTooltip text="This chart updates roughly once a day (expected staleness less than 1 day)." />
         <Line data={{ datasets: datasetsFor('counts') }} options={commonOptions} />
       </div>
     </div>

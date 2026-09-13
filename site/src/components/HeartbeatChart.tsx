@@ -11,6 +11,7 @@ import {
 import 'chartjs-adapter-date-fns'
 import { Line } from 'react-chartjs-2'
 import { fetchHeartbeat, type HeartbeatRow } from '../api/heartbeat'
+import { InfoTooltip } from './InfoTooltip'
 import styles from './HeartbeatChart.module.css'
 
 ChartJS.register(TimeScale, LinearScale, PointElement, LineElement, Tooltip, Legend)
@@ -56,6 +57,7 @@ export function HeartbeatChart() {
 
   return (
     <div className={styles.chartWrap}>
+      <InfoTooltip text="Shows roughly up-to-date data (expected staleness less than 20 min)." />
       <Line
         data={{
           datasets: [
