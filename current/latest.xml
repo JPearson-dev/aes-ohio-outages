@@ -1,36 +1,69 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12195582</LAT>
-    <LNG>-83.7362944469763</LNG>
+    <LAT>40.12281912</LAT>
+    <LNG>-83.7351441015965</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810011</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>3</total>
+    <total>6</total>
     <OutageTime>09/13/2026 09:52 AM</OutageTime>
     <EstimateTime>09/13/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81266585</LAT>
-    <LNG>-83.6352356201408</LNG>
+    <LAT>39.81352915</LAT>
+    <LNG>-83.6340908694651</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810009</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>3</total>
+    <total>6</total>
     <OutageTime>09/13/2026 09:45 AM</OutageTime>
     <EstimateTime>09/13/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8169914</LAT>
-    <LNG>-83.6343280298662</LNG>
+    <LAT>39.8178547</LAT>
+    <LNG>-83.6331832015658</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810010</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>3</total>
+    <total>6</total>
     <OutageTime>09/13/2026 09:47 AM</OutageTime>
+    <EstimateTime>09/13/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68309495</LAT>
+    <LNG>-83.9148770023498</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810015</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>6</total>
+    <OutageTime>09/13/2026 10:10 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.71634942</LAT>
+    <LNG>-84.2474184852064</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810013</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>6</total>
+    <OutageTime>09/13/2026 10:06 AM</OutageTime>
+    <EstimateTime>09/13/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.86600441</LAT>
+    <LNG>-84.7861134440013</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810014</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>6</total>
+    <OutageTime>09/13/2026 10:06 AM</OutageTime>
     <EstimateTime>09/13/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -71,7 +104,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -99,7 +132,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -107,7 +140,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -132,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>9/13/2026 10:05:31 AM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>9/13/2026 10:20:31 AM</Outageat>
   </Message>
 </Incidents>
