@@ -1,22 +1,32 @@
 [
   {
-    "id": 1810003,
-    "lat": 39.86010622,
-    "lng": -84.2985990778543,
-    "customers_affected": 33,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-13T08:17:00",
-    "estimate_time": "2026-09-13T10:00:00"
-  },
-  {
     "id": 1810009,
-    "lat": 39.81249675,
-    "lng": -83.6354598496546,
+    "lat": 39.81266585,
+    "lng": -83.6352356201408,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
     "outage_time": "2026-09-13T09:45:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-13T12:00:00"
+  },
+  {
+    "id": 1810010,
+    "lat": 39.8169914,
+    "lng": -83.6343280298662,
+    "customers_affected": 1,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-09-13T09:47:00",
+    "estimate_time": "2026-09-13T13:00:00"
+  },
+  {
+    "id": 1810011,
+    "lat": 40.12195582,
+    "lng": -83.7362944469763,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-09-13T09:52:00",
+    "estimate_time": "2026-09-13T13:00:00"
   }
 ]
