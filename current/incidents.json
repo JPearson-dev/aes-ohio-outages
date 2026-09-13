@@ -1,8 +1,8 @@
 [
   {
     "id": 1810022,
-    "lat": 39.74882777,
-    "lng": -83.8153581170966,
+    "lat": 39.74674517,
+    "lng": -83.8181168527136,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-09-13T18:00:00"
   },
   {
-    "id": 1810043,
-    "lat": 39.74769836,
-    "lng": -83.5716126083988,
-    "customers_affected": 36,
-    "county": "MADISON",
-    "indicator": "D",
-    "outage_time": "2026-09-13T15:17:00",
-    "estimate_time": "2026-09-13T18:00:00"
-  },
-  {
     "id": 1810049,
-    "lat": 40.07119143,
-    "lng": -84.2257094232462,
+    "lat": 40.06910883,
+    "lng": -84.2284821828003,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1810054,
-    "lat": 39.42583683,
-    "lng": -83.7475522234892,
+    "lat": 39.42375423,
+    "lng": -83.7502971416594,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1810058,
-    "lat": 39.75312298,
-    "lng": -84.6182372832096,
+    "lat": 39.75104038,
+    "lng": -84.6209962041411,
     "customers_affected": 7,
     "county": "PREBLE",
     "indicator": "D",
@@ -50,13 +40,63 @@
     "estimate_time": "2026-09-13T19:00:00"
   },
   {
-    "id": 1810063,
-    "lat": 40.06030708,
-    "lng": -84.115248403432,
-    "customers_affected": 3,
+    "id": 1810065,
+    "lat": 0.0090869,
+    "lng": 0.0090869,
+    "customers_affected": 17,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-09-13T17:22:00",
     "estimate_time": "2026-09-13T20:00:00"
+  },
+  {
+    "id": 1810066,
+    "lat": 39.648465,
+    "lng": -83.9589217646999,
+    "customers_affected": 3,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-13T17:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810067,
+    "lat": 39.71583478,
+    "lng": -84.6649744462672,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-13T17:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810068,
+    "lat": 40.05822448,
+    "lng": -84.1180206856288,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-13T17:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810069,
+    "lat": 40.06405257,
+    "lng": -84.1052413705128,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-13T17:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810070,
+    "lat": 40.04804588,
+    "lng": -84.1209171623362,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-13T17:44:00",
+    "estimate_time": null
   }
 ]
