@@ -33,12 +33,12 @@ jobs:
         working-directory: site
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       # Full history, not just the tip - git-history needs to walk every
       # commit on `data` that touched current/incidents.json.
       - name: Checkout full data branch history
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: data
           path: data-branch
