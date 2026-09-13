@@ -1,16 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
-  <Markers>
-    <LAT>40.14847345</LAT>
-    <LNG>-84.5306779750708</LNG>
-    <TOTALCUSTS>18</TOTALCUSTS>
-    <INCIDENTID>1809999</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>18</total>
-    <OutageTime>09/13/2026 04:28 AM</OutageTime>
-    <EstimateTime>09/13/2026 08:00 AM</EstimateTime>
-  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -37,7 +26,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>18</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -110,7 +99,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>18</TotalOut>
-    <Outageat>9/13/2026 6:20:32 AM</Outageat>
+    <TotalOut>0</TotalOut>
+    <Outageat>9/13/2026 6:35:31 AM</Outageat>
   </Message>
 </Incidents>
