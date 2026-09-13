@@ -1,46 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.8168312</LAT>
-    <LNG>-83.6345404722313</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1810010</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLARK</COUNTY>
-    <total>5</total>
-    <OutageTime>09/13/2026 09:47 AM</OutageTime>
-    <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.81250565</LAT>
-    <LNG>-83.6354480481012</LNG>
+    <LAT>39.81271925</LAT>
+    <LNG>-83.6351648108206</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810009</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>5</total>
+    <total>4</total>
     <OutageTime>09/13/2026 09:45 AM</OutageTime>
     <EstimateTime>09/13/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.45435451</LAT>
-    <LNG>-83.8283425896373</LNG>
+    <LAT>39.8170448</LAT>
+    <LNG>-83.6342572157446</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1810020</INCIDENTID>
+    <INCIDENTID>1810010</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>5</total>
-    <OutageTime>09/13/2026 10:56 AM</OutageTime>
-    <EstimateTime>09/13/2026 03:00 PM</EstimateTime>
+    <COUNTY>CLARK</COUNTY>
+    <total>4</total>
+    <OutageTime>09/13/2026 09:47 AM</OutageTime>
+    <EstimateTime>09/13/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74706557</LAT>
-    <LNG>-83.8176924318495</LNG>
+    <LAT>39.74727917</LAT>
+    <LNG>-83.8174094846067</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810022</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>5</total>
+    <total>4</total>
     <OutageTime>09/13/2026 11:21 AM</OutageTime>
     <EstimateTime>09/13/2026 04:00 PM</EstimateTime>
   </Markers>
@@ -66,7 +55,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>9/13/2026 2:35:31 PM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>9/13/2026 2:50:31 PM</Outageat>
   </Message>
 </Incidents>
