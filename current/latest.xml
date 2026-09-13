@@ -1,37 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.76439342</LAT>
-    <LNG>-84.1010479927075</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1810006</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>48</total>
-    <OutageTime>09/13/2026 08:31 AM</OutageTime>
-    <EstimateTime>09/13/2026 10:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.86142342</LAT>
-    <LNG>-84.2968511428945</LNG>
+    <LAT>39.86394212</LAT>
+    <LNG>-84.2935088078024</LNG>
     <TOTALCUSTS>33</TOTALCUSTS>
     <INCIDENTID>1810003</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>48</total>
+    <total>36</total>
     <OutageTime>09/13/2026 08:17 AM</OutageTime>
     <EstimateTime>09/13/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56212036</LAT>
-    <LNG>-84.1428193025263</LNG>
-    <TOTALCUSTS>13</TOTALCUSTS>
-    <INCIDENTID>1810005</INCIDENTID>
+    <LAT>39.76691212</LAT>
+    <LNG>-84.0977107369984</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1810006</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>48</total>
-    <OutageTime>09/13/2026 08:21 AM</OutageTime>
-    <EstimateTime>09/13/2026 12:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>36</total>
+    <OutageTime>09/13/2026 08:31 AM</OutageTime>
+    <EstimateTime>09/13/2026 10:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -99,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>35</TotOut>
+    <TotOut>36</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -127,12 +116,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>13</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>48</TotalOut>
-    <Outageat>9/13/2026 9:20:31 AM</Outageat>
+    <TotalOut>36</TotalOut>
+    <Outageat>9/13/2026 9:35:31 AM</Outageat>
   </Message>
 </Incidents>
