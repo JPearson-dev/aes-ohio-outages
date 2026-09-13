@@ -13,10 +13,10 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
-* Store mysql data in Pages deploy. Just current file for now.
-  * Wire it into the Action: full-history checkout of data branch, actions/cache for incremental build, bundle into Pages artifact
-    * Keep some older versions of the db around for anyone who loaded recently and hasn't refreshed?
-    * Show a warning if the old db is missing? Maybe suggest refresh in a red banner and disable new queries until then?
+* Store historical incident sqlite data in Pages deploy. Done: every site deploy checks out the full `data` branch history, incrementally rebuilds `history.db` via `actions/cache`, and publishes it under a build-id-versioned filename + `history-latest.json` pointer that `/datasette/` resolves at runtime (see [docs/site.md](docs/site.md), [docs/local-dev.md](docs/local-dev.md)).
+  * Only refreshes on a push to `site/**` (or manual dispatch), not on every `data`-branch update — an independently-scheduled rebuild (site.md's adaptive hourly/daily cadence idea) is still unbuilt.
+  * Keep some older versions of the db around for anyone who loaded recently and hasn't refreshed?
+  * Show a warning if the old db is missing? Maybe suggest refresh in a red banner and disable new queries until then?
 * Chart of outages and affected customers, but splitting by incident size
 * Incident map with time-travel scrub-bar
 * Scan forwards/backwards to see data for a specific event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.

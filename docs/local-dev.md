@@ -36,4 +36,14 @@ python ingest/scripts/build_history_db.py   # writes ingest/history.db by defaul
 
 Requires the `ingest/.data-branch` worktree (above) to already exist. The script prints a warning (without failing) if the resulting db has zero rows — usually a sign `--repo`/`--branch`/`--filepath` don't match what you expect.
 
-Not yet wired into CI — see the README roadmap for the planned GitHub Action + `actions/cache` version.
+To actually see it in the site (e.g. via `/datasette/`), publish it into `site/public/` the same way the deploy workflow does:
+
+```bash
+python ingest/scripts/publish_history_db.py   # writes site/public/history.<id>.db + history-latest.json
+```
+
+This copies the db under a build-id-versioned filename and writes a `history-latest.json` pointer naming it — see [site.md](site.md) for why the filename isn't fixed. The site (currently just `/datasette/`) reads that pointer at runtime rather than assuming a fixed `history.db` name.
+
+### CI
+
+`.github/workflows/deploy-site.yml` runs both scripts on every site deploy: it checks out the full `data` branch history, restores the previous run's `ingest/history.db` from `actions/cache` (so `git-history` only has to process new commits, not the whole history each time), rebuilds, and publishes into `site/public/` before `npm run build` bundles it into the Pages artifact. It only runs on a push to `site/**`/the history scripts, or a manual `workflow_dispatch` — not on every `data`-branch update, so the deployed db can lag behind the latest incidents until the next site deploy. Keeping several past builds around (for a tab that's mid-session when a new one is deployed) and an independently-scheduled rebuild are both still open, see the README roadmap.

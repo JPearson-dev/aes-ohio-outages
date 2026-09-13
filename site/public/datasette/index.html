@@ -1,9 +1,12 @@
 <!--
   Vendored from https://github.com/simonw/datasette-lite (Apache 2.0, see LICENSE
-  in this folder). Modified from upstream in two places, both marked below:
-  removed the Plausible analytics tag (gated to lite.datasette.io anyway), and
+  in this folder). Modified from upstream in three places, all marked below:
+  removed the Plausible analytics tag (gated to lite.datasette.io anyway),
   defaulted the loaded database to our own history.db instead of upstream's
-  demo fixtures/content databases, so /datasette/ works with no query param.
+  demo fixtures/content databases so /datasette/ works with no query param,
+  and resolved that default against history-latest.json (see docs/site.md)
+  instead of a fixed filename, since each site build publishes the db under
+  its own immutable name.
 -->
 <!DOCTYPE html>
 <html>
@@ -119,17 +122,38 @@ const urlParams = new URLSearchParams(location.search);
 const hasExplicitSource = ['url', 'csv', 'json', 'sql', 'parquet', 'memory'].some(
   (p) => urlParams.has(p),
 );
-const sqliteUrls = (hasExplicitSource ? urlParams.getAll('url') : ['../history.db']).map(fixUrl);
-const memory = !!urlParams.get('memory');
-const metadataUrl = fixUrl(urlParams.get('metadata'));
-const csvUrls = urlParams.getAll('csv').map(fixUrl);
-const sqlUrls = urlParams.getAll('sql').map(fixUrl);
-const jsonUrls = urlParams.getAll('json').map(fixUrl);
-const parquetUrls = urlParams.getAll('parquet').map(fixUrl);
-const installUrls = urlParams.getAll('install');
-const ref = urlParams.get('ref');
 
-datasetteWorker.postMessage({type: 'startup', ref, sqliteUrls, memory, csvUrls, sqlUrls, jsonUrls, parquetUrls, installUrls, metadataUrl});
+// Modification from upstream: resolve the default db against
+// history-latest.json rather than a fixed filename - each site build
+// publishes history.db under its own immutable name (docs/site.md) so an
+// already-open tab isn't affected by a later build's file. Falls back to a
+// plain history.db for a local dev db built without publish_history_db.py.
+async function defaultSqliteUrls() {
+  try {
+    const res = await fetch('../history-latest.json');
+    if (res.ok) {
+      const pointer = await res.json();
+      if (pointer.file) return [`../${pointer.file}`];
+    }
+  } catch (error) {
+    console.warn('Could not load history-latest.json, falling back to history.db', error);
+  }
+  return ['../history.db'];
+}
+
+(async () => {
+  const sqliteUrls = (hasExplicitSource ? urlParams.getAll('url') : await defaultSqliteUrls()).map(fixUrl);
+  const memory = !!urlParams.get('memory');
+  const metadataUrl = fixUrl(urlParams.get('metadata'));
+  const csvUrls = urlParams.getAll('csv').map(fixUrl);
+  const sqlUrls = urlParams.getAll('sql').map(fixUrl);
+  const jsonUrls = urlParams.getAll('json').map(fixUrl);
+  const parquetUrls = urlParams.getAll('parquet').map(fixUrl);
+  const installUrls = urlParams.getAll('install');
+  const ref = urlParams.get('ref');
+
+  datasetteWorker.postMessage({type: 'startup', ref, sqliteUrls, memory, csvUrls, sqlUrls, jsonUrls, parquetUrls, installUrls, metadataUrl});
+})();
 
 let loadingLogs = ["Loading..."];
 

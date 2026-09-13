@@ -5,6 +5,9 @@ on:
     branches: [main]
     paths:
       - 'site/**'
+      - 'ingest/scripts/build_history_db.py'
+      - 'ingest/scripts/publish_history_db.py'
+      - 'ingest/scripts/requirements-history.txt'
       - '!site/**/*.md'
   workflow_dispatch:
 
@@ -26,6 +29,48 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      # Full history, not just the tip - git-history needs to walk every
+      # commit on `data` that touched current/incidents.json.
+      - name: Checkout full data branch history
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data-branch
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      # Keyed by run id (always unique) with a prefix restore-key so this
+      # always misses on exact match and falls back to the most recent
+      # previous run's db, which git-history then extends incrementally
+      # instead of re-walking all of history from scratch. See docs/site.md.
+      - name: Cache historical incident db
+        uses: actions/cache@v4
+        with:
+          path: ingest/history.db
+          key: history-db-v1-${{ github.run_id }}
+          restore-keys: |
+            history-db-v1-
+
+      - name: Install git-history
+        working-directory: .
+        run: pip install -r ingest/scripts/requirements-history.txt
+
+      - name: Build historical incident db
+        working-directory: .
+        run: python ingest/scripts/build_history_db.py --repo data-branch --db ingest/history.db
+
+      - name: Publish db to site/public
+        working-directory: .
+        run: |
+          python ingest/scripts/publish_history_db.py \
+            --db ingest/history.db \
+            --data-repo data-branch \
+            --out-dir site/public
 
       - name: Set up Node
         uses: actions/setup-node@v4

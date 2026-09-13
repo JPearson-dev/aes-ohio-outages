@@ -1,9 +1,12 @@
 # Local data branch worktree
 .data-branch/
 
-# Generated historical incident db (rebuilt from data branch history)
+# Generated historical incident db (rebuilt from data branch history) and its
+# published, version-named copies + pointer file (see publish_history_db.py)
 ingest/history.db
 site/public/history.db
+site/public/history.*.db
+site/public/history-latest.json
 
 # Test output from sample runs
 test-output/
