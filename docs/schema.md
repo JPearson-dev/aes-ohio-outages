@@ -156,18 +156,18 @@ The exact raw XML payload from the latest poll, saved for auditability and verif
 ### Safe Offline Testing with Samples
 Running with `--sample` automatically redirects output to `./test-output/` (which is git-ignored) unless an explicit `--out-dir` is provided. This prevents sample data from contaminating the real `ingest/.data-branch` worktree:
 ```bash
-python3 ingest/scripts/fetch.py --sample ingest/sample-data/DPLOMSDATA.xml
+python3 ingest/scripts/fetch/fetch.py --sample ingest/sample-data/DPLOMSDATA.xml
 ```
 
 ### Fetching Live Data Locally
 To update the local worktree files without creating Git commits:
 ```bash
-./ingest/scripts/update-data.sh
+./ingest/scripts/fetch/update-data.sh
 ```
 
 To explicitly commit changes to `ingest/.data-branch`:
 ```bash
-./ingest/scripts/update-data.sh --commit
+./ingest/scripts/fetch/update-data.sh --commit
 ```
 
 ### Inspecting Local Data Branch History

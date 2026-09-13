@@ -19,8 +19,8 @@
 
 ```bash
 git worktree add ingest/.data-branch data   # one-time setup
-./ingest/scripts/update-data.sh              # fetch + update files, no commit
-./ingest/scripts/update-data.sh --commit     # fetch + update + commit to data branch
+./ingest/scripts/fetch/update-data.sh              # fetch + update files, no commit
+./ingest/scripts/fetch/update-data.sh --commit     # fetch + update + commit to data branch
 ```
 
 ### Building the historical incident db (`history.db`)
@@ -30,8 +30,8 @@ git worktree add ingest/.data-branch data   # one-time setup
 ```bash
 python3.10 -m venv .venv-history        # any 3.10+ interpreter; a disposable env is fine
 source .venv-history/bin/activate
-pip install -r ingest/scripts/requirements-history.txt
-python ingest/scripts/build_history_db.py   # writes ingest/history.db by default
+pip install -r ingest/scripts/history-db/requirements-history.txt
+python ingest/scripts/history-db/build_history_db.py   # writes ingest/history.db by default
 ```
 
 Requires the `ingest/.data-branch` worktree (above) to already exist. The script prints a warning (without failing) if the resulting db has zero rows — usually a sign `--repo`/`--branch`/`--filepath` don't match what you expect.
@@ -39,7 +39,7 @@ Requires the `ingest/.data-branch` worktree (above) to already exist. The script
 To actually see it in the site (e.g. via `/datasette/`), publish it into `site/public/` the same way the deploy workflow does:
 
 ```bash
-python ingest/scripts/publish_history_db.py   # writes site/public/history.<id>.db + history-latest.json
+python ingest/scripts/history-db/stage_history_db.py   # writes site/public/history.<id>.db + history-latest.json
 ```
 
 This copies the db under a build-id-versioned filename and writes a `history-latest.json` pointer naming it — see [site.md](site.md) for why the filename isn't fixed. The site (currently just `/datasette/`) reads that pointer at runtime rather than assuming a fixed `history.db` name.

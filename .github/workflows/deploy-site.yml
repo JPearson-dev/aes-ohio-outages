@@ -5,9 +5,7 @@ on:
     branches: [main]
     paths:
       - 'site/**'
-      - 'ingest/scripts/build_history_db.py'
-      - 'ingest/scripts/publish_history_db.py'
-      - 'ingest/scripts/requirements-history.txt'
+      - 'ingest/scripts/history-db/**'
       - '!site/**/*.md'
   # Daily rebuild of the historical incident db (see docs/site.md) so it
   # doesn't only refresh on a site/code push. Off the round hour to avoid
@@ -63,16 +61,16 @@ jobs:
 
       - name: Install git-history
         working-directory: .
-        run: pip install -r ingest/scripts/requirements-history.txt
+        run: pip install -r ingest/scripts/history-db/requirements-history.txt
 
       - name: Build historical incident db
         working-directory: .
-        run: python ingest/scripts/build_history_db.py --repo data-branch --db ingest/history.db
+        run: python ingest/scripts/history-db/build_history_db.py --repo data-branch --db ingest/history.db
 
-      - name: Publish db to site/public
+      - name: Stage db to site/public
         working-directory: .
         run: |
-          python ingest/scripts/publish_history_db.py \
+          python ingest/scripts/history-db/stage_history_db.py \
             --db ingest/history.db \
             --data-repo data-branch \
             --out-dir site/public

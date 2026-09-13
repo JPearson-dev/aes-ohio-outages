@@ -1,4 +1,5 @@
 import { HeartbeatChart } from './components/HeartbeatChart'
+import { SizeBucketCharts } from './components/SizeBucketCharts'
 import { Footer } from './components/Footer'
 import styles from './App.module.css'
 
@@ -10,6 +11,7 @@ function App() {
         <h1>AES Ohio Outage Tracker</h1>
       </div>
       <HeartbeatChart />
+      <SizeBucketCharts />
       <Footer />
     </main>
   )

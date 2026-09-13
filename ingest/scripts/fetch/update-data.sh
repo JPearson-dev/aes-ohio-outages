@@ -4,13 +4,13 @@
 # and updates the local data worktree.
 #
 # Usage:
-#   ./ingest/scripts/update-data.sh          # Fetches & updates files locally (no git commit)
-#   ./ingest/scripts/update-data.sh --commit # Fetches, updates, and commits to git
+#   ./ingest/scripts/fetch/update-data.sh          # Fetches & updates files locally (no git commit)
+#   ./ingest/scripts/fetch/update-data.sh --commit # Fetches, updates, and commits to git
 #
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-INGEST_DIR="$(dirname "$SCRIPT_DIR")"
+INGEST_DIR="$(dirname "$(dirname "$SCRIPT_DIR")")"
 DATA_DIR="$INGEST_DIR/.data-branch"
 DO_COMMIT=false
 

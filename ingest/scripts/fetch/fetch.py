@@ -91,7 +91,7 @@ def ensure_readme(out_path):
     readme_path = out_path / "README.md"
     if not readme_path.exists():
         script_dir = Path(__file__).resolve().parent
-        template_path = script_dir.parent / "templates" / "data-branch-README.md"
+        template_path = script_dir.parents[1] / "templates" / "data-branch-README.md"
         if template_path.exists():
             shutil.copyfile(template_path, readme_path)
 
