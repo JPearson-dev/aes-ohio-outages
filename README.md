@@ -6,16 +6,17 @@ This community repository automatically tracks power outages in the AES Ohio (fo
 
 Please visit [AES Ohio's official dashboard](https://myprofile.aes-ohio.com/Outages/Outages.html) for auto-refreshing current outage information.
 
-This is the `main` branch, which hosts the code for collecting and making sense of the data. The `data` branch is for data.
+This is the `main` branch, which hosts the code for collecting and making sense of the data. The `data` branch is for data. See [docs/local-dev.md](docs/local-dev.md) to learn how to set up and run a local development environment.
+
+## Local Dev
 
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
 * Store mysql data in Pages deploy. Just current file for now.
-  * How does dev update the sql? Document that.
   * Wire it into the Action: full-history checkout of data branch, actions/cache for incremental build, bundle into Pages artifact
     * Keep some older versions of the db around for anyone who loaded recently and hasn't refreshed?
-    * Show a warning if the old db is missing? Maybe suggest refresh in a red banenr and disable new queries until then?
+    * Show a warning if the old db is missing? Maybe suggest refresh in a red banner and disable new queries until then?
 * Chart of outages and affected customers, but splitting by incident size
 * Incident map with time-travel scrub-bar
 * Scan forwards/backwards to see data for a specific event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.
