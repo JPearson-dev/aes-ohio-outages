@@ -96,6 +96,8 @@ timestamp,total_customers_affected,incident_count
 
 **Decision: kept as a single flat file, not split into per-year/month folders.** At 15-minute polling that's ~96 rows/day and ~30 bytes/row — roughly 1MB/year, staying well under 10MB for a decade if cadence never changes, so there's no realistic future where file size burdens fetch time, diff size, or repo bloat. The main motivation for splitting — letting a human glance at the file and see what happened recently — is served by the `data` branch's commit history, the Actions run history, or `current/status.json`'s `updated_at` field, none of which require reshaping this file.
 
+**Note:** `heartbeat.csv` predates `history.db` (§5) and remains a low-friction default feed for the "roughly current" chart, not the preferred long-term data path — `history.db` is the general-purpose answer for anything needing incident-level history, `heartbeat.csv` is just cheaper to fetch/parse for a simple totals-over-time line. It also means the newest data is automatically available when committed, without needing a site build step.
+
 ### `current/incidents.json`
 The active list of incident markers.
 - **Deterministic Sorting**: Sorted by `id` ascending so Git diffs only reflect actual grid changes (new, resolved, or customer count changes).
@@ -152,7 +154,35 @@ The exact raw XML payload from the latest poll, saved for auditability and verif
 
 ---
 
-## 5. Local Development & Safeguards
+## 5. Derived Historical Database (`history.db`)
+
+`current/incidents.json` only ever holds a snapshot. `ingest/scripts/history-db/build_history_db.py` derives a second, queryable schema from the `data` branch's own commit history of that file, using [`git-history`](https://github.com/simonw/git-history) plus a small enrichment pass of its own. See [site.md](site.md) for why this exists and how the site serves/queries it; this section documents the resulting tables.
+
+### `git-history`'s tables
+
+Built with `git-history file ... --id id --full-versions --ignore-duplicate-ids`:
+
+- **`commits`** — one row per commit that changed `current/incidents.json` (`id`, `hash`, `commit_at`, ...).
+- **`item`** — one row per distinct incident `id` ever observed, holding its most recent known column values.
+- **`item_version`** — one row per *distinct state* an incident has taken on (not one row per poll), each linked to the `item` it belongs to (`_item`) and the commit it first appeared at (`_commit`). An incident that sits unchanged for two hours costs one row here, not eight.
+
+**`--full-versions`** makes every `item_version` row carry the *complete* set of tracked columns as of that commit, not just the ones that changed since the previous version. Without it, reconstructing "what was `customers_affected` at commit C" would mean walking backward through sparse diffs; with it, each row is already a complete, queryable snapshot of the item's state at that point.
+
+**`--ignore-duplicate-ids`** tolerates the historical commits affected by upstream quirk #7 above (duplicate `INCIDENTID`s within one snapshot) by keeping only the first occurrence per commit and dropping the rest, rather than aborting the whole build with `DuplicateIdsException`. `fetch.py` already merges duplicates by summing `customers_affected` going forward (see quirk #7), so this flag only matters for already-committed historical commits — the `data` branch itself is treated as an immutable log and isn't rewritten to fix this retroactively.
+
+### Presence enrichment: `_first_seen_commit` / `_last_seen_commit`
+
+`git-history`'s schema only ever records value *changes* — it has no way to express that an id disappeared from the tracked file, since a resolved incident just stops getting new `item_version` rows (indistinguishable, from the schema alone, from "unchanged"). But "which incidents were active as of commit C" is exactly what a point-in-time query (like the by-size chart, below) needs to answer.
+
+`build_history_db.py` closes that gap with its own pass after `git-history` runs: it adds `_first_seen_commit`/`_last_seen_commit` integer columns to `item`, then walks any commits not yet processed (tracked via a `_presence_cursor` table stored in the db itself, so reruns are incremental), reading `current/incidents.json` directly from git at each one (`git show <hash>:<path>`) to see which ids were present and bump their `_last_seen_commit`. This keeps the db self-sufficient — "was this incident active, and at what size, as of commit C" is answerable from the db alone, with no need to re-parse JSON history at query time.
+
+### Example: point-in-time queries
+
+The by-size chart (`site/src/lib/sizeBuckets.ts`) is the first consumer of this schema. It turns each `item_version` row into a `[valid_from, valid_to]` commit range (the next version's commit minus one, or `_last_seen_commit` for an item's final version), then joins `commits` against those ranges to expand into one row per `(commit, item, value-as-of-that-commit)` triple — computed entirely in SQL, with no client-side traversal reimplementing what the query already expresses.
+
+---
+
+## 6. Local Development & Safeguards
 
 ### Safe Offline Testing with Samples
 Running with `--sample` automatically redirects output to `./test-output/` (which is git-ignored) unless an explicit `--out-dir` is provided. This prevents sample data from contaminating the real `ingest/.data-branch` worktree:

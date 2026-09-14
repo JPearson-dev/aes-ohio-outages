@@ -25,7 +25,7 @@ git worktree add ingest/.data-branch data   # one-time setup
 
 ### Building the historical incident db (`history.db`)
 
-`build_history_db.py` wraps [`git-history`](https://github.com/simonw/git-history) to turn the `data` branch's commit history of `current/incidents.json` into a queryable SQLite db (see [site.md](site.md) for why). It requires **Python 3.10+** — `git-history` 0.6.1 (the version older Python resolves to) has a bug where it never finds files in subfolders and silently produces an empty db.
+`build_history_db.py` wraps [`git-history`](https://github.com/simonw/git-history) to turn the `data` branch's commit history of `current/incidents.json` into a queryable SQLite db (see [site.md](site.md) for why, [schema.md](schema.md) for the resulting `commits`/`item`/`item_version` table shapes and the `_first_seen_commit`/`_last_seen_commit` enrichment it adds). It requires **Python 3.10+** — `git-history` 0.6.1 (the version older Python resolves to) has a bug where it never finds files in subfolders and silently produces an empty db.
 
 ```bash
 python3.10 -m venv .venv-history        # any 3.10+ interpreter; a disposable env is fine

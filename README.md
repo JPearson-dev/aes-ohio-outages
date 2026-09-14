@@ -13,7 +13,6 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
-* Update docs for recent choices and clarifications. Re: folders and DBs.
 * Chart split by incident size DONE
   * Allow dynamic group split selection
 * For a moment in time, a distribution chart of incident size.
