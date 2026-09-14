@@ -5,30 +5,23 @@ interface InfoTooltipProps {
   text: string
 }
 
-// Slight italic slant on the stem/serifs, computed rather than eyeballed:
-// skewX(-a) maps (x,y) -> (x - y*tan(a), y), so at the glyph's vertical
-// center (y=12) it drifts left by 12*tan(a) - SKEW_SHIFT translates back by
-// exactly that so the skewed glyph's centroid still lands on x=12.
-const SKEW_DEG = 10
-const SKEW_SHIFT = 12 * Math.tan((SKEW_DEG * Math.PI) / 180)
-
 export function InfoTooltip({ text }: InfoTooltipProps) {
   const id = useId()
 
   return (
     <span className={styles.wrap}>
-      <button type="button" className={styles.icon} aria-describedby={id}>
-        {/* Hand-built, not a font glyph: dot, stem, and serif feet are
-            placed by coordinates chosen so their combined extent is
-            centered on the 24x24 viewBox, with a computed (not eyeballed)
-            italic skew - see SKEW_DEG/SKEW_SHIFT above. */}
-        <svg viewBox="0 0 24 24" width="13" height="13" aria-hidden="true">
-          <circle cx="12" cy="6.8" r="1.7" fill="currentColor" />
-          <g transform={`translate(${SKEW_SHIFT.toFixed(3)} 0) skewX(-${SKEW_DEG})`}>
-            <rect x="9.9" y="9.6" width="4.2" height="1.1" rx="0.4" fill="currentColor" />
-            <rect x="10.8" y="10.4" width="2.4" height="7.4" fill="currentColor" />
-            <rect x="9.6" y="17.8" width="4.8" height="1.4" rx="0.5" fill="currentColor" />
-          </g>
+      <button type="button" className={styles.icon} aria-label="More information" aria-describedby={id}>
+        {/* Bootstrap Icons info-circle, v1.13.1; license in THIRD-PARTY-NOTICES.txt. */}
+        <svg
+          viewBox="0 0 16 16"
+          width="16"
+          height="16"
+          fill="currentColor"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16" />
+          <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0" />
         </svg>
       </button>
       <span className={styles.tooltip} role="tooltip" id={id}>

@@ -44,6 +44,11 @@ const vendoredDatasetteLiteNotice = [
   ).trim(),
 ].join('\n')
 
+const vendoredBootstrapIconsNotice = readFileSync(
+  fileURLToPath(new URL('./licenses/bootstrap-icons.txt', import.meta.url)),
+  'utf-8',
+).trim()
+
 // https://vite.dev/config/
 export default defineConfig({
   // Relative base so the build works whether it's served from a domain root
@@ -65,14 +70,14 @@ export default defineConfig({
           file: 'dist/THIRD-PARTY-NOTICES.txt',
           encoding: 'utf-8',
           // rollup-plugin-license only scans actual npm dependencies bundled
-          // into the JS - it has no visibility into public/datasette/, which
-          // is hand-vendored from a separate repo. Append it manually so the
+          // into the JS - append notices for the vendored Datasette files
+          // and inline Bootstrap icons manually so the
           // Credits link stays a single, complete source of truth.
           template(dependencies) {
             const npmNotices = dependencies
               .map((d) => d.text())
               .join('\n\n---\n\n')
-            return `${npmNotices}\n\n---\n\n${vendoredDatasetteLiteNotice}`
+            return `${npmNotices}\n\n---\n\n${vendoredDatasetteLiteNotice}\n\n---\n\n${vendoredBootstrapIconsNotice}`
           },
         },
       },
