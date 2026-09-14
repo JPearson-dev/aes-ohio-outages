@@ -1,35 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.7635548</LAT>
-    <LNG>-83.972831178808</LNG>
+    <LAT>39.7628339</LAT>
+    <LNG>-83.9737863461535</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810181</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>3</total>
+    <total>4</total>
     <OutageTime>09/14/2026 12:58 PM</OutageTime>
     <EstimateTime>09/14/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70034821</LAT>
-    <LNG>-84.2760202450922</LNG>
+    <LAT>39.80589341</LAT>
+    <LNG>-84.1519162328046</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810210</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>4</total>
+    <OutageTime>09/14/2026 03:50 PM</OutageTime>
+    <EstimateTime>09/14/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.69962731</LAT>
+    <LNG>-84.2769744694033</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810208</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
+    <total>4</total>
     <OutageTime>09/14/2026 03:11 PM</OutageTime>
     <EstimateTime>09/14/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.35292436</LAT>
-    <LNG>-84.039626866834</LNG>
+    <LAT>39.35220346</LAT>
+    <LNG>-84.040575962542</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810206</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>3</total>
+    <total>4</total>
     <OutageTime>09/14/2026 02:46 PM</OutageTime>
     <EstimateTime>09/14/2026 05:00 PM</EstimateTime>
   </Markers>
@@ -99,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>9/14/2026 3:50:31 PM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>9/14/2026 4:05:31 PM</Outageat>
   </Message>
 </Incidents>
