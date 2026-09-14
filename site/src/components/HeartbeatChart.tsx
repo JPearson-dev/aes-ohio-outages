@@ -11,10 +11,17 @@ import {
 import 'chartjs-adapter-date-fns'
 import { Line } from 'react-chartjs-2'
 import { fetchHeartbeat, type HeartbeatRow } from '../api/heartbeat'
+import { ChartLegend, toggleLegendItem, type ChartLegendItem } from './ChartLegend'
 import { InfoTooltip } from './InfoTooltip'
 import styles from './HeartbeatChart.module.css'
 
 ChartJS.register(TimeScale, LinearScale, PointElement, LineElement, Tooltip, Legend)
+
+const SERIES: (ChartLegendItem & { yAxisID: string })[] = [
+  { key: 'customers', label: 'Customers affected', color: '#E69F00', dash: 'solid', yAxisID: 'y' },
+  { key: 'incidents', label: 'Incident count', color: '#0072B2', dash: 'dashed', yAxisID: 'y1' },
+  { key: 'avg', label: 'Avg customers/incident', color: '#009E73', dash: 'dotted', yAxisID: 'y2' },
+]
 
 type LoadState =
   | { status: 'loading' }
@@ -23,6 +30,7 @@ type LoadState =
 
 export function HeartbeatChart() {
   const [state, setState] = useState<LoadState>({ status: 'loading' })
+  const [hidden, setHidden] = useState<ReadonlySet<string>>(new Set(['avg']))
 
   useEffect(() => {
     let cancelled = false
@@ -55,9 +63,16 @@ export function HeartbeatChart() {
 
   const { rows } = state
 
+  function toggleSeries(key: string) {
+    setHidden((prev) => toggleLegendItem(prev, key, SERIES.length))
+  }
+
   return (
     <div className={styles.chartWrap}>
       <InfoTooltip text="Shows roughly up-to-date data (expected staleness less than 20 min)." />
+
+      <ChartLegend items={SERIES} hidden={hidden} onToggle={toggleSeries} />
+
       <Line
         data={{
           datasets: [
@@ -69,6 +84,7 @@ export function HeartbeatChart() {
               yAxisID: 'y',
               pointRadius: 0,
               tension: 0.15,
+              hidden: hidden.has('customers'),
             },
             {
               label: 'Incident count',
@@ -79,6 +95,7 @@ export function HeartbeatChart() {
               yAxisID: 'y1',
               pointRadius: 0,
               tension: 0.15,
+              hidden: hidden.has('incidents'),
             },
             {
               label: 'Avg customers/incident',
@@ -92,7 +109,7 @@ export function HeartbeatChart() {
               yAxisID: 'y2',
               pointRadius: 0,
               tension: 0.15,
-              hidden: true,
+              hidden: hidden.has('avg'),
             },
           ],
         }}
@@ -101,59 +118,7 @@ export function HeartbeatChart() {
           maintainAspectRatio: false,
           animation: false,
           interaction: { mode: 'index', intersect: false },
-          plugins: {
-            legend: {
-              onClick: (_event, legendItem, legend) => {
-                const chart = legend.chart
-                const index = legendItem.datasetIndex
-                if (index === undefined) return
-
-                const datasets = chart.data.datasets
-                const applyScaleDisplay = (i: number, display: boolean) => {
-                  const scaleId = datasets[i].yAxisID
-                  const scale = scaleId && chart.options.scales?.[scaleId]
-                  if (scale) scale.display = display
-                }
-
-                const hiding = chart.isDatasetVisible(index)
-                const wouldHideAll =
-                  hiding && !datasets.some((_, i) => i !== index && chart.isDatasetVisible(i))
-                if (wouldHideAll) {
-                  // Keep at least one series visible: fall back to the next dataset
-                  // rather than leaving the chart with nothing plotted.
-                  const neighbor = (index + 1) % datasets.length
-                  chart.setDatasetVisibility(neighbor, true)
-                  applyScaleDisplay(neighbor, true)
-                }
-
-                const visible = !hiding
-                chart.setDatasetVisibility(index, visible)
-                applyScaleDisplay(index, visible)
-
-                // The tooltip (and the highlighted point on the line) can be left showing a
-                // now-hidden series if the cursor moved from the chart straight to the legend
-                // without leaving the canvas.
-                chart.setActiveElements([])
-                chart.tooltip?.setActiveElements([], { x: 0, y: 0 })
-                chart.update()
-              },
-              labels: {
-                usePointStyle: true,
-                pointStyleWidth: 40,
-                generateLabels: (chart) =>
-                  chart.data.datasets.map((dataset, i) => ({
-                    text: dataset.label ?? '',
-                    strokeStyle: dataset.borderColor as string,
-                    fillStyle: dataset.borderColor as string,
-                    lineWidth: 2,
-                    lineDash: (dataset as { borderDash?: number[] }).borderDash ?? [],
-                    pointStyle: 'line',
-                    hidden: !chart.isDatasetVisible(i),
-                    datasetIndex: i,
-                  })),
-              },
-            },
-          },
+          plugins: { legend: { display: false } },
           scales: {
             x: {
               type: 'time',
@@ -163,6 +128,7 @@ export function HeartbeatChart() {
               type: 'linear',
               position: 'left',
               beginAtZero: true,
+              display: !hidden.has('customers'),
               title: { display: true, text: 'Customers affected', color: '#ce9c2d' },
               ticks: { color: '#ce9c2d' },
             },
@@ -170,6 +136,7 @@ export function HeartbeatChart() {
               type: 'linear',
               position: 'right',
               beginAtZero: true,
+              display: !hidden.has('incidents'),
               title: { display: true, text: 'Incident count', color: '#2d7daa' },
               ticks: { color: '#2d7daa' },
               grid: { drawOnChartArea: false },
@@ -178,7 +145,7 @@ export function HeartbeatChart() {
               type: 'linear',
               position: 'right',
               beginAtZero: true,
-              display: false,
+              display: !hidden.has('avg'),
               title: { display: true, text: 'Avg customers/incident', color: '#00785a' },
               ticks: { color: '#00785a' },
               grid: { drawOnChartArea: false },

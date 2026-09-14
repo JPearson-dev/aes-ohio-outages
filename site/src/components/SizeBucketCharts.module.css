@@ -12,37 +12,6 @@
   color: var(--text);
 }
 
-.legend {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px 16px;
-  list-style: none;
-  margin: 0 0 8px;
-  padding: 0;
-}
-
-.legendItem {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  border: none;
-  background: none;
-  padding: 0;
-  font: inherit;
-  color: var(--text);
-  cursor: pointer;
-}
-
-.legendItem[data-hidden='true'] {
-  opacity: 0.4;
-}
-
-.swatch {
-  width: 14px;
-  height: 3px;
-  border-radius: 2px;
-}
-
 .chartWrap {
   position: relative;
   height: 340px;

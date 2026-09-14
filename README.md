@@ -13,7 +13,6 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
-* Handle duplicate IDs in same file.
 * Update docs for recent choices and clarifications. Re: folders and DBs.
 * Chart split by incident size DONE
   * Allow dynamic group split selection

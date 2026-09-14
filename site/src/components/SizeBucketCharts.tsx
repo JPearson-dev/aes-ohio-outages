@@ -12,6 +12,7 @@ import 'chartjs-adapter-date-fns'
 import { Line } from 'react-chartjs-2'
 import { loadHistoryDb } from '../lib/historyDb'
 import { querySizeBuckets, DEFAULT_BREAKPOINTS, bucketNamesFor, type SizeBucketRow } from '../lib/sizeBuckets'
+import { ChartLegend, toggleLegendItem } from './ChartLegend'
 import { InfoTooltip } from './InfoTooltip'
 import styles from './SizeBucketCharts.module.css'
 
@@ -66,18 +67,7 @@ export function SizeBucketCharts() {
   const { rows } = state
 
   function toggleBucket(name: string) {
-    setHidden((prev) => {
-      const wouldHideAll = !prev.has(name) && prev.size === BUCKET_NAMES.length - 1
-      if (wouldHideAll) return prev // keep at least one bucket visible on both charts
-
-      const next = new Set(prev)
-      if (next.has(name)) {
-        next.delete(name)
-      } else {
-        next.add(name)
-      }
-      return next
-    })
+    setHidden((prev) => toggleLegendItem(prev, name, BUCKET_NAMES.length))
   }
 
   const datasetsFor = (field: 'counts' | 'customers') =>
@@ -108,21 +98,11 @@ export function SizeBucketCharts() {
       <h2>Incidents Grouped By Customers Affected</h2>
 
       <p className={styles.legendTitle}>Customers affected per incident:</p>
-      <ul className={styles.legend}>
-        {BUCKET_NAMES.map((name, i) => (
-          <li key={name}>
-            <button
-              type="button"
-              className={styles.legendItem}
-              data-hidden={hidden.has(name)}
-              onClick={() => toggleBucket(name)}
-            >
-              <span className={styles.swatch} style={{ backgroundColor: BUCKET_COLORS[i] }} />
-              {BUCKET_LABELS[i]}
-            </button>
-          </li>
-        ))}
-      </ul>
+      <ChartLegend
+        items={BUCKET_NAMES.map((name, i) => ({ key: name, label: BUCKET_LABELS[i], color: BUCKET_COLORS[i] }))}
+        hidden={hidden}
+        onToggle={toggleBucket}
+      />
 
       <div className={styles.chartWrap}>
         <h3>Customers affected</h3>
