@@ -23,6 +23,10 @@
   opacity: 0.4;
 }
 
+.legendItem[data-locked='true'] {
+  cursor: not-allowed;
+}
+
 .swatch {
   width: 18px;
   height: 0;

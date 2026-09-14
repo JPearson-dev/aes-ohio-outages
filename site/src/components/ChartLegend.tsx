@@ -14,6 +14,8 @@ interface ChartLegendProps {
 }
 
 export function ChartLegend({ items, hidden, onToggle }: ChartLegendProps) {
+  const isLastVisible = (key: string) => !hidden.has(key) && hidden.size === items.length - 1
+
   return (
     <ul className={styles.legend}>
       {items.map((item) => (
@@ -22,6 +24,7 @@ export function ChartLegend({ items, hidden, onToggle }: ChartLegendProps) {
             type="button"
             className={styles.legendItem}
             data-hidden={hidden.has(item.key)}
+            data-locked={isLastVisible(item.key)}
             onClick={() => onToggle(item.key)}
           >
             <span
