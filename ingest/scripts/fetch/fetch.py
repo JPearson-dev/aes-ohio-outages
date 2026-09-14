@@ -135,6 +135,21 @@ def process_data(xml_bytes, out_dir):
         }
         markers.append(marker)
 
+    # The upstream feed occasionally emits multiple Markers sharing one
+    # INCIDENTID - e.g. several transformers/circuits restoring independently
+    # under one parent outage event, same location/time but each with its
+    # own customers_affected. Merge those into a single row per id (summing
+    # customers_affected) so id stays unique, which incidents.json and
+    # git-history's --id both expect.
+    merged_by_id = {}
+    for marker in markers:
+        existing = merged_by_id.get(marker["id"])
+        if existing is None:
+            merged_by_id[marker["id"]] = marker
+        else:
+            existing["customers_affected"] += marker["customers_affected"]
+    markers = list(merged_by_id.values())
+
     # Sort deterministically by incident ID
     markers.sort(key=lambda x: x["id"] if isinstance(x["id"], int) else str(x["id"]))
 

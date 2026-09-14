@@ -132,6 +132,13 @@ def main():
             "--id",
             args.id_column,
             "--full-versions",
+            # The upstream feed has occasionally (3 of ~650 commits so far,
+            # all one incident) emitted multiple Markers under one
+            # INCIDENTID - fetch.py merges those going forward, but already
+            # -committed historical commits still have the duplicates baked
+            # in. Without this, git-history raises DuplicateIdsException and
+            # the whole build aborts.
+            "--ignore-duplicate-ids",
         ],
         prog_name="git-history",
         standalone_mode=False,

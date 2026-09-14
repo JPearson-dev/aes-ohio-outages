@@ -55,6 +55,7 @@ The raw XML file contains three distinct child elements under the root `<Inciden
 4. **Duplicate Totals**: Each `<Markers>` entry includes a `<total>` tag duplicating the utility-wide count.
 5. **Naive Timestamps & Timezones**: Timestamps are naive local clock times (America/New_York) without time zone offsets (`09/05/2026 09:26 AM` and `9/5/2026 8:35:32 PM`). Consequently, during the annual autumn Daylight Saving Time "fall-back" transition (when 2:00 AM becomes 1:00 AM), the 1:00 AM–1:59 AM hour repeats without EDT vs. EST disambiguation in the raw data.
 6. **Inconsistent Precision**: Lattitude is sometimes unusually precise, with 13 decimal places instead of the more common 8.
+7. **Multiple Copies of an Incident**: incident ID `298734` appeared multiple times in each of the times it was observed, with independently decreasing affected-customer counts. This might be an artifact of separate streams feeding the same incident and disagreeing on customers affected. Since it wasn't just a single status file, it's not likely to be an artifact of the number changing while the file was created. All instances had the same coordinates. We're using `git-history`'s `--ignore-duplicate-ids` flag to handle this for historical data. Going forward (as of 2026-09-13), `incidents.json` consolidates to a single entry for the ID using the sum of customers affected. This matches the summation logic in a different field; either the numbers are supposed to sum or we're making the same mistake as the data source.
 
 ---
 
