@@ -1,8 +1,8 @@
 [
   {
     "id": 1810181,
-    "lat": 39.764872,
-    "lng": -83.9710859347693,
+    "lat": 39.7623978,
+    "lng": -83.9743641634366,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810208,
-    "lat": 39.70166541,
-    "lng": -84.2742767241286,
+    "lat": 39.69919121,
+    "lng": -84.2775517162088,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810210,
-    "lat": 39.80793151,
-    "lng": -84.149214000108,
+    "lat": 39.80545731,
+    "lng": -84.1524944398008,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,12 +31,32 @@
   },
   {
     "id": 1810215,
-    "lat": 39.84907644,
-    "lng": -84.0924691272074,
+    "lat": 39.84660224,
+    "lng": -84.0957516842476,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-14T16:26:00",
     "estimate_time": "2026-09-14T19:00:00"
+  },
+  {
+    "id": 1810219,
+    "lat": 40.06403978,
+    "lng": -83.5940148785796,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-09-14T16:36:00",
+    "estimate_time": "2026-09-14T19:00:00"
+  },
+  {
+    "id": 1810222,
+    "lat": 39.69841523,
+    "lng": -83.9318770663124,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-14T16:42:00",
+    "estimate_time": null
   }
 ]
