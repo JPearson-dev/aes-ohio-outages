@@ -16,6 +16,49 @@ export function bucketNamesFor(breakpoints: number[]): string[] {
   return [...breakpoints.map((bp) => `le${bp}`), `gt${breakpoints[breakpoints.length - 1]}`]
 }
 
+export type ParseBreakpointsResult = { ok: true; breakpoints: number[] } | { ok: false; error: string }
+
+// Parses the settings field's comma-delimited text into breakpoints, or an
+// error describing the first problem found. Whole numbers only for now - a
+// "10k" style suffix could be a future enhancement, so that specific case
+// gets its own hint rather than the generic "not a whole number" message.
+export function parseBreakpoints(raw: string): ParseBreakpointsResult {
+  // Comma and whitespace are interchangeable delimiters, and runs of either
+  // collapse to one break - so "10, 50 200" and "10,,50,200" both parse the
+  // same as "10,50,200" rather than producing a stray empty token.
+  const tokens = raw.split(/[\s,]+/).filter((token) => token.length > 0)
+
+  if (tokens.length === 0) {
+    return { ok: false, error: 'Enter at least one number.' }
+  }
+
+  const numbers: number[] = []
+  for (const token of tokens) {
+    if (!/^\d+$/.test(token)) {
+      if (/^\d+k$/i.test(token)) {
+        return {
+          ok: false,
+          error: `"${token}" isn't supported yet - write out the full number instead of using a "k" suffix.`,
+        }
+      }
+      return { ok: false, error: `"${token}" isn't a whole number.` }
+    }
+    numbers.push(Number(token))
+  }
+
+  const sorted = [...numbers].sort((a, b) => a - b)
+  for (let i = 1; i < sorted.length; i++) {
+    if (sorted[i] === sorted[i - 1]) {
+      return { ok: false, error: `"${sorted[i]}" is listed more than once.` }
+    }
+  }
+  if (sorted[0] <= 0) {
+    return { ok: false, error: 'Numbers must be greater than zero.' }
+  }
+
+  return { ok: true, breakpoints: sorted }
+}
+
 // "As of commit C, what is item X's customers_affected?" and "was item X
 // active at commit C?" are both questions the enriched db (see
 // build_history_db.py's --full-versions + _first_seen_commit/

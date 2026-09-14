@@ -1,0 +1,108 @@
+.wrap {
+  position: relative;
+  display: inline-block;
+}
+
+.gear {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  background: none;
+  color: var(--text);
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.gear:hover,
+.gear:focus-visible,
+.gear[aria-expanded='true'] {
+  opacity: 1;
+}
+
+.popover {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  z-index: 2;
+  width: 220px;
+  padding: 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--bg);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 4px 6px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--text);
+  font: inherit;
+  font-size: 13px;
+}
+
+.preview,
+.error {
+  margin: 6px 0 0;
+  min-height: 14px;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.preview {
+  color: var(--text);
+  opacity: 0.6;
+}
+
+.error {
+  color: #d55e00;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 10px;
+}
+
+.actions button {
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--bg);
+  color: var(--text);
+  font: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.actions .cancel:hover {
+  border-color: var(--text);
+}
+
+.actions .save {
+  font-weight: 600;
+  background: var(--text);
+  color: var(--bg);
+  border-color: var(--text);
+}
+
+.actions .save:hover {
+  opacity: 0.85;
+}

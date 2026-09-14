@@ -3,6 +3,14 @@
 }
 
 .wrap h2 {
+  margin: 0;
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
   margin: 0 0 16px;
 }
 
