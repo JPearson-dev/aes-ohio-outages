@@ -1,8 +1,8 @@
 [
   {
     "id": 1810208,
-    "lat": 39.69984981,
-    "lng": -84.276679955727,
+    "lat": 39.70071311,
+    "lng": -84.2755372426631,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810210,
-    "lat": 39.80611591,
-    "lng": -84.1516212292351,
+    "lat": 39.80697921,
+    "lng": -84.1504766153854,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810215,
-    "lat": 39.84726084,
-    "lng": -84.0948779100715,
+    "lat": 39.84812414,
+    "lng": -84.0937325574351,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810228,
-    "lat": 40.22204908,
-    "lng": -83.3058382300639,
+    "lat": 40.22291238,
+    "lng": -83.3046860744503,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
@@ -40,69 +40,9 @@
     "estimate_time": "2026-09-14T20:00:00"
   },
   {
-    "id": 1810240,
-    "lat": 40.13196601,
-    "lng": -83.732929251069,
-    "customers_affected": 2,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-09-14T18:15:00",
-    "estimate_time": "2026-09-14T21:00:00"
-  },
-  {
-    "id": 1810245,
-    "lat": 40.12961075,
-    "lng": -83.7355567408296,
-    "customers_affected": 2,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-09-14T18:25:00",
-    "estimate_time": "2026-09-14T21:00:00"
-  },
-  {
-    "id": 1810247,
-    "lat": 40.13396458,
-    "lng": -83.7409612214863,
-    "customers_affected": 13,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-09-14T18:15:00",
-    "estimate_time": "2026-09-14T21:00:00"
-  },
-  {
-    "id": 1810248,
-    "lat": 40.13678976,
-    "lng": -83.731933315876,
-    "customers_affected": 375,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-09-14T18:15:00",
-    "estimate_time": "2026-09-14T20:00:00"
-  },
-  {
-    "id": 1810249,
-    "lat": 40.13662779,
-    "lng": -83.7333215523186,
-    "customers_affected": 2,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-09-14T18:26:00",
-    "estimate_time": "2026-09-14T21:00:00"
-  },
-  {
-    "id": 1810250,
-    "lat": 40.12945267,
-    "lng": -83.7371349463837,
-    "customers_affected": 1,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-09-14T18:26:00",
-    "estimate_time": "2026-09-14T21:00:00"
-  },
-  {
     "id": 1810252,
-    "lat": 40.38832486,
-    "lng": -83.6635478381663,
+    "lat": 40.38918816,
+    "lng": -83.662392621546,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -110,23 +50,23 @@
     "estimate_time": "2026-09-14T21:00:00"
   },
   {
-    "id": 1810253,
-    "lat": 40.12972037,
-    "lng": -83.7355511461746,
-    "customers_affected": 1,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-09-14T18:56:00",
-    "estimate_time": "2026-09-14T22:00:00"
-  },
-  {
     "id": 1810255,
-    "lat": 39.40789851,
-    "lng": -83.9074151521349,
+    "lat": 39.40876181,
+    "lng": -83.906277607517,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-14T19:20:00",
+    "estimate_time": "2026-09-14T22:00:00"
+  },
+  {
+    "id": 1810257,
+    "lat": 40.24070608,
+    "lng": -83.3457637049072,
+    "customers_affected": 3,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-09-14T19:33:00",
     "estimate_time": "2026-09-14T22:00:00"
   }
 ]
