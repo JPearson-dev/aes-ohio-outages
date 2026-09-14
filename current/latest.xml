@@ -1,48 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.02136632</LAT>
-    <LNG>-84.0430983311534</LNG>
+    <LAT>40.02244322</LAT>
+    <LNG>-84.0416656743244</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1810115</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>16</total>
+    <total>11</total>
     <OutageTime>09/14/2026 08:18 AM</OutageTime>
     <EstimateTime>09/14/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83137507</LAT>
-    <LNG>-84.2788315086779</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1810113</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>16</total>
-    <OutageTime>09/14/2026 08:16 AM</OutageTime>
-    <EstimateTime>09/14/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66735478</LAT>
-    <LNG>-84.1126205398712</LNG>
+    <LAT>39.66843168</LAT>
+    <LNG>-84.1111958196772</LNG>
     <TOTALCUSTS>8</TOTALCUSTS>
     <INCIDENTID>1810099</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>16</total>
+    <total>11</total>
     <OutageTime>09/14/2026 12:58 AM</OutageTime>
     <EstimateTime>09/14/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78503911</LAT>
-    <LNG>-84.2171390113932</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1810104</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>16</total>
-    <OutageTime>09/14/2026 07:21 AM</OutageTime>
-    <EstimateTime>09/14/2026 09:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -110,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>13</TotOut>
+    <TotOut>8</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>16</TotalOut>
-    <Outageat>9/14/2026 8:35:31 AM</Outageat>
+    <TotalOut>11</TotalOut>
+    <Outageat>9/14/2026 8:50:32 AM</Outageat>
   </Message>
 </Incidents>
