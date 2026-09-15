@@ -1,70 +1,81 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.40820111</LAT>
-    <LNG>-83.9070164251554</LNG>
+    <LAT>39.46070319</LAT>
+    <LNG>-83.8143826112088</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810264</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>9</total>
+    <OutageTime>09/14/2026 08:01 PM</OutageTime>
+    <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.40904661</LAT>
+    <LNG>-83.9059023350658</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810255</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/14/2026 07:20 PM</OutageTime>
     <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.38862746</LAT>
-    <LNG>-83.6631429168767</LNG>
+    <LAT>40.38947296</LAT>
+    <LNG>-83.6620115191558</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810252</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/14/2026 06:35 PM</OutageTime>
     <EstimateTime>09/14/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70015241</LAT>
-    <LNG>-84.2762794171273</LNG>
+    <LAT>39.70099791</LAT>
+    <LNG>-84.2751602651574</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810208</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/14/2026 03:11 PM</OutageTime>
-    <EstimateTime>09/14/2026 09:00 PM</EstimateTime>
+    <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.84756344</LAT>
-    <LNG>-84.0944764462608</LNG>
+    <LAT>39.84840894</LAT>
+    <LNG>-84.0933547091427</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810215</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/14/2026 04:26 PM</OutageTime>
     <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24014538</LAT>
-    <LNG>-83.346512224088</LNG>
+    <LAT>40.24099088</LAT>
+    <LNG>-83.3453835046884</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1810257</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/14/2026 07:33 PM</OutageTime>
     <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22235168</LAT>
-    <LNG>-83.3054343817044</LNG>
+    <LAT>40.22319718</LAT>
+    <LNG>-83.3043059818768</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810228</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/14/2026 05:43 PM</OutageTime>
-    <EstimateTime>09/14/2026 08:00 PM</EstimateTime>
+    <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -88,7 +99,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -165,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>8</TotalOut>
-    <Outageat>9/14/2026 8:05:31 PM</Outageat>
+    <TotalOut>9</TotalOut>
+    <Outageat>9/14/2026 8:20:31 PM</Outageat>
   </Message>
 </Incidents>
