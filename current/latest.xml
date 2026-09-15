@@ -1,90 +1,101 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.13008048</LAT>
-    <LNG>-83.7375829809189</LNG>
+    <LAT>40.13054328</LAT>
+    <LNG>-83.736966227923</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810265</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>09/14/2026 08:18 PM</OutageTime>
     <EstimateTime>09/14/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.13195501</LAT>
-    <LNG>-83.7334665358426</LNG>
+    <LAT>40.13241781</LAT>
+    <LNG>-83.7328497645143</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810267</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>09/14/2026 08:31 PM</OutageTime>
     <EstimateTime>09/14/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77305306</LAT>
-    <LNG>-83.7174439558652</LNG>
+    <LAT>39.77351586</LAT>
+    <LNG>-83.7168306620663</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810266</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>09/14/2026 08:12 PM</OutageTime>
     <EstimateTime>09/14/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.38790656</LAT>
-    <LNG>-83.6641075823019</LNG>
+    <LAT>40.38836936</LAT>
+    <LNG>-83.6634882909178</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810252</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>09/14/2026 06:28 PM</OutageTime>
     <EstimateTime>09/14/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.84684254</LAT>
-    <LNG>-84.0954328747509</LNG>
+    <LAT>39.78688734</LAT>
+    <LNG>-84.2290643265368</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810268</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>14</total>
+    <OutageTime>09/14/2026 09:41 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.84730534</LAT>
+    <LNG>-84.0948188712758</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810215</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>09/14/2026 04:26 PM</OutageTime>
     <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69943151</LAT>
-    <LNG>-84.2772336414384</LNG>
+    <LAT>39.69989431</LAT>
+    <LNG>-84.2766210529918</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810208</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>09/14/2026 03:11 PM</OutageTime>
     <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.23942448</LAT>
-    <LNG>-83.347474605892</LNG>
+    <LAT>40.23988728</LAT>
+    <LNG>-83.3468567805364</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1810257</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>09/14/2026 07:33 PM</OutageTime>
     <EstimateTime>09/14/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22163078</LAT>
-    <LNG>-83.3063964910312</LNG>
+    <LAT>40.22209358</LAT>
+    <LNG>-83.3057788405992</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810228</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>09/14/2026 05:43 PM</OutageTime>
     <EstimateTime>09/15/2026 02:00 AM</EstimateTime>
   </Markers>
@@ -154,7 +165,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>2</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -187,7 +198,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>13</TotalOut>
-    <Outageat>9/14/2026 9:35:31 PM</Outageat>
+    <TotalOut>14</TotalOut>
+    <Outageat>9/14/2026 9:50:31 PM</Outageat>
   </Message>
 </Incidents>
