@@ -1,68 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.13129978</LAT>
-    <LNG>-83.7359580739875</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1810265</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CHAMPAIGN</COUNTY>
-    <total>8</total>
-    <OutageTime>09/14/2026 08:18 PM</OutageTime>
-    <EstimateTime>09/15/2026 01:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.13317431</LAT>
-    <LNG>-83.7318415806124</LNG>
+    <LAT>40.13102941</LAT>
+    <LNG>-83.7347000784991</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810267</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>8</total>
+    <total>6</total>
     <OutageTime>09/14/2026 08:31 PM</OutageTime>
-    <EstimateTime>09/15/2026 01:00 AM</EstimateTime>
+    <EstimateTime>09/15/2026 04:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77427236</LAT>
-    <LNG>-83.7158281625872</LNG>
+    <LAT>39.77212746</LAT>
+    <LNG>-83.7186705434632</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810266</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>8</total>
+    <total>6</total>
     <OutageTime>09/14/2026 08:12 PM</OutageTime>
     <EstimateTime>09/15/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70065081</LAT>
-    <LNG>-84.2756197064924</LNG>
+    <LAT>39.69850591</LAT>
+    <LNG>-84.2784588183317</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810208</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
+    <total>6</total>
     <OutageTime>09/14/2026 03:11 PM</OutageTime>
     <EstimateTime>09/15/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.84806184</LAT>
-    <LNG>-84.0938152117491</LNG>
+    <LAT>39.84591694</LAT>
+    <LNG>-84.0966608817012</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810215</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
+    <total>6</total>
     <OutageTime>09/14/2026 04:26 PM</OutageTime>
     <EstimateTime>09/15/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22285008</LAT>
-    <LNG>-83.3047692197008</LNG>
+    <LAT>40.22070518</LAT>
+    <LNG>-83.3076317918953</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810228</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>8</total>
+    <total>6</total>
     <OutageTime>09/14/2026 05:43 PM</OutageTime>
     <EstimateTime>09/15/2026 02:00 AM</EstimateTime>
   </Markers>
@@ -80,7 +69,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>4</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -165,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>8</TotalOut>
-    <Outageat>9/15/2026 12:05:31 AM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>9/15/2026 12:20:30 AM</Outageat>
   </Message>
 </Incidents>
