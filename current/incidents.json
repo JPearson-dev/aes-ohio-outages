@@ -1,8 +1,8 @@
 [
   {
     "id": 1810353,
-    "lat": 39.61179804,
-    "lng": -84.1698376211414,
+    "lat": 39.60923484,
+    "lng": -84.1732257036029,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810357,
-    "lat": 39.81976106,
-    "lng": -84.0038456568683,
+    "lat": 39.81719786,
+    "lng": -84.0072447618359,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810519,
-    "lat": 40.24102648,
-    "lng": -83.345335979661,
+    "lat": 40.23846328,
+    "lng": -83.3487577816306,
     "customers_affected": 4,
     "county": "UNION",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810550,
-    "lat": 39.49686217,
-    "lng": -83.9211620276261,
+    "lat": 39.49429897,
+    "lng": -83.9245440691338,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -40,23 +40,33 @@
     "estimate_time": "2026-09-15T18:00:00"
   },
   {
-    "id": 1810554,
-    "lat": 39.91048537,
-    "lng": -84.3009083142945,
+    "id": 1810558,
+    "lat": 39.71680358,
+    "lng": -84.1062678992512,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-09-15T16:07:00",
+    "outage_time": "2026-09-15T16:16:00",
     "estimate_time": "2026-09-15T18:00:00"
   },
   {
-    "id": 1810557,
-    "lat": 39.91776706,
-    "lng": -84.3002565148538,
+    "id": 1810559,
+    "lat": 39.69769433,
+    "lng": -83.9328312790652,
     "customers_affected": 1,
-    "county": "MONTGOMERY",
+    "county": "GREENE",
     "indicator": "D",
-    "outage_time": "2026-09-15T16:14:00",
-    "estimate_time": null
+    "outage_time": "2026-09-15T16:18:00",
+    "estimate_time": "2026-09-15T18:00:00"
+  },
+  {
+    "id": 1810561,
+    "lat": 40.2149256,
+    "lng": -83.3015965831998,
+    "customers_affected": 1,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-09-15T16:23:00",
+    "estimate_time": "2026-09-15T18:00:00"
   }
 ]

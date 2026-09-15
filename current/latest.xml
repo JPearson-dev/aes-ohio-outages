@@ -1,68 +1,79 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.49686217</LAT>
-    <LNG>-83.9211620276261</LNG>
+    <LAT>39.49429897</LAT>
+    <LNG>-83.9245440691338</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810550</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>09/15/2026 03:54 PM</OutageTime>
     <EstimateTime>09/15/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81976106</LAT>
-    <LNG>-84.0038456568683</LNG>
+    <LAT>39.81719786</LAT>
+    <LNG>-84.0072447618359</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810357</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>09/15/2026 12:01 PM</OutageTime>
     <EstimateTime>09/15/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.91048537</LAT>
-    <LNG>-84.3009083142945</LNG>
+    <LAT>39.69769433</LAT>
+    <LNG>-83.9328312790652</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1810554</INCIDENTID>
+    <INCIDENTID>1810559</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>9</total>
-    <OutageTime>09/15/2026 04:07 PM</OutageTime>
+    <COUNTY>GREENE</COUNTY>
+    <total>10</total>
+    <OutageTime>09/15/2026 04:18 PM</OutageTime>
     <EstimateTime>09/15/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.91776706</LAT>
-    <LNG>-84.3002565148538</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1810557</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>9</total>
-    <OutageTime>09/15/2026 04:14 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.61179804</LAT>
-    <LNG>-84.1698376211414</LNG>
+    <LAT>39.60923484</LAT>
+    <LNG>-84.1732257036029</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810353</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>09/15/2026 11:33 AM</OutageTime>
     <EstimateTime>09/15/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24102648</LAT>
-    <LNG>-83.345335979661</LNG>
+    <LAT>39.71680358</LAT>
+    <LNG>-84.1062678992512</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810558</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>10</total>
+    <OutageTime>09/15/2026 04:16 PM</OutageTime>
+    <EstimateTime>09/15/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.2149256</LAT>
+    <LNG>-83.3015965831998</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810561</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>10</total>
+    <OutageTime>09/15/2026 04:23 PM</OutageTime>
+    <EstimateTime>09/15/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.23846328</LAT>
+    <LNG>-83.3487577816306</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1810519</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>09/15/2026 03:36 PM</OutageTime>
     <EstimateTime>09/15/2026 06:00 PM</EstimateTime>
   </Markers>
@@ -104,7 +115,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -132,7 +143,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>3</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -152,7 +163,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>4</TotOut>
+    <TotOut>5</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -165,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>9</TotalOut>
-    <Outageat>9/15/2026 4:20:31 PM</Outageat>
+    <TotalOut>10</TotalOut>
+    <Outageat>9/15/2026 4:35:31 PM</Outageat>
   </Message>
 </Incidents>
