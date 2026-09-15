@@ -1,28 +1,28 @@
 [
   {
     "id": 1810279,
-    "lat": 39.80691691,
-    "lng": -84.1505592163849,
+    "lat": 39.80864351,
+    "lng": -84.1482699886856,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-15T07:31:00",
-    "estimate_time": "2026-09-15T11:00:00"
+    "estimate_time": "2026-09-15T13:00:00"
   },
   {
     "id": 1810296,
-    "lat": 39.89031803,
-    "lng": -84.1797013507254,
+    "lat": 39.89204463,
+    "lng": -84.1774091246762,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-15T09:18:00",
-    "estimate_time": "2026-09-15T12:00:00"
+    "estimate_time": "2026-09-15T13:00:00"
   },
   {
     "id": 1810303,
-    "lat": 39.83798783,
-    "lng": -84.2450956618267,
+    "lat": 39.83971443,
+    "lng": -84.2428053186186,
     "customers_affected": 20,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810308,
-    "lat": 39.69902658,
-    "lng": -83.9426306005856,
+    "lat": 39.70075318,
+    "lng": -83.9403452324002,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -41,12 +41,32 @@
   },
   {
     "id": 1810323,
-    "lat": 39.80262101,
-    "lng": -84.0081675278246,
+    "lat": 39.80434761,
+    "lng": -84.0058784542149,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-15T10:54:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-15T13:00:00"
+  },
+  {
+    "id": 1810326,
+    "lat": 39.74149928,
+    "lng": -84.2514609220278,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-15T11:02:00",
+    "estimate_time": "2026-09-15T13:00:00"
+  },
+  {
+    "id": 1810327,
+    "lat": 39.9497324,
+    "lng": -84.2762175847485,
+    "customers_affected": 60,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-15T11:00:00",
+    "estimate_time": "2026-09-15T13:00:00"
   }
 ]
