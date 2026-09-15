@@ -1,8 +1,8 @@
 [
   {
     "id": 1810279,
-    "lat": 39.80864351,
-    "lng": -84.1482699886856,
+    "lat": 39.80769121,
+    "lng": -84.149532603963,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810296,
-    "lat": 39.89204463,
-    "lng": -84.1774091246762,
+    "lat": 39.89109233,
+    "lng": -84.1786733936827,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810303,
-    "lat": 39.83971443,
-    "lng": -84.2428053186186,
+    "lat": 39.83876213,
+    "lng": -84.2440685491509,
     "customers_affected": 20,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810308,
-    "lat": 39.70075318,
-    "lng": -83.9403452324002,
+    "lat": 39.69980088,
+    "lng": -83.9416057189767,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1810323,
-    "lat": 39.80434761,
-    "lng": -84.0058784542149,
+    "lat": 39.80339531,
+    "lng": -84.0071409845048,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1810326,
-    "lat": 39.74149928,
-    "lng": -84.2514609220278,
+    "lat": 39.74054698,
+    "lng": -84.2527222111312,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,12 +61,32 @@
   },
   {
     "id": 1810327,
-    "lat": 39.9497324,
-    "lng": -84.2762175847485,
+    "lat": 39.9487801,
+    "lng": -84.2774830018309,
     "customers_affected": 60,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-09-15T11:00:00",
+    "estimate_time": "2026-09-15T13:00:00"
+  },
+  {
+    "id": 1810345,
+    "lat": 39.7534197,
+    "lng": -84.1275121632452,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-15T11:16:00",
+    "estimate_time": "2026-09-15T13:00:00"
+  },
+  {
+    "id": 1810348,
+    "lat": 39.78291203,
+    "lng": -83.4626682209672,
+    "customers_affected": 1,
+    "county": "MADISON",
+    "indicator": "D",
+    "outage_time": "2026-09-15T11:19:00",
     "estimate_time": "2026-09-15T13:00:00"
   }
 ]
