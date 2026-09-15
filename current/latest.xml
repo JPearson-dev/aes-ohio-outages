@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.28327241</LAT>
-    <LNG>-83.5703576126533</LNG>
+    <LAT>40.28524821</LAT>
+    <LNG>-83.5677180888277</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810274</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/15/2026 06:03 AM</OutageTime>
     <EstimateTime>09/15/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76746209</LAT>
-    <LNG>-84.2159886841486</LNG>
+    <LAT>39.76943789</LAT>
+    <LNG>-84.213370580007</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810271</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/15/2026 03:19 AM</OutageTime>
     <EstimateTime>09/15/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.61337144</LAT>
-    <LNG>-84.4677912350222</LNG>
+    <LAT>39.80596461</LAT>
+    <LNG>-84.1518218316624</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810279</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>8</total>
+    <OutageTime>09/15/2026 07:31 AM</OutageTime>
+    <EstimateTime>09/15/2026 09:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.61462634</LAT>
+    <LNG>-84.4661323788548</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1810276</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/15/2026 07:11 AM</OutageTime>
     <EstimateTime>09/15/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22336619</LAT>
-    <LNG>-84.1492301529474</LNG>
+    <LAT>40.22462109</LAT>
+    <LNG>-84.1475552974808</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810278</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/15/2026 07:20 AM</OutageTime>
     <EstimateTime>09/15/2026 09:00 AM</EstimateTime>
   </Markers>
@@ -110,7 +121,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>7</TotalOut>
-    <Outageat>9/15/2026 7:35:31 AM</Outageat>
+    <TotalOut>8</TotalOut>
+    <Outageat>9/15/2026 7:50:31 AM</Outageat>
   </Message>
 </Incidents>
