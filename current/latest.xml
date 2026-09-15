@@ -1,92 +1,92 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.69665918</LAT>
-    <LNG>-83.9457641466542</LNG>
+    <LAT>39.69898208</LAT>
+    <LNG>-83.9426895018275</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810308</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>127</total>
+    <total>27</total>
     <OutageTime>09/15/2026 09:53 AM</OutageTime>
     <EstimateTime>09/15/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77977033</LAT>
-    <LNG>-83.466832054972</LNG>
+    <LAT>39.78209323</LAT>
+    <LNG>-83.4637534128324</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810348</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MADISON</COUNTY>
-    <total>127</total>
+    <total>27</total>
     <OutageTime>09/15/2026 11:19 AM</OutageTime>
     <EstimateTime>09/15/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.9456384</LAT>
-    <LNG>-84.2816576955699</LNG>
-    <TOTALCUSTS>101</TOTALCUSTS>
-    <INCIDENTID>1810327</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>127</total>
-    <OutageTime>09/15/2026 11:00 AM</OutageTime>
-    <EstimateTime>09/15/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.73740528</LAT>
-    <LNG>-84.2568832863975</LNG>
+    <LAT>39.73972818</LAT>
+    <LNG>-84.2538066840051</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810326</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>127</total>
+    <total>27</total>
     <OutageTime>09/15/2026 11:02 AM</OutageTime>
     <EstimateTime>09/15/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80454951</LAT>
-    <LNG>-84.1536980543644</LNG>
+    <LAT>39.80687241</LAT>
+    <LNG>-84.1506182170988</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810279</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>127</total>
+    <total>27</total>
     <OutageTime>09/15/2026 07:31 AM</OutageTime>
     <EstimateTime>09/15/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83562043</LAT>
-    <LNG>-84.2482360293182</LNG>
+    <LAT>39.83794333</LAT>
+    <LNG>-84.2451546912908</LNG>
     <TOTALCUSTS>20</TOTALCUSTS>
     <INCIDENTID>1810303</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>127</total>
+    <total>27</total>
     <OutageTime>09/15/2026 09:32 AM</OutageTime>
     <EstimateTime>09/15/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.88795063</LAT>
-    <LNG>-84.1828442998444</LNG>
+    <LAT>39.89027353</LAT>
+    <LNG>-84.1797604287163</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810296</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>127</total>
+    <total>27</total>
     <OutageTime>09/15/2026 09:18 AM</OutageTime>
     <EstimateTime>09/15/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.60904794</LAT>
-    <LNG>-84.1734727512824</LNG>
+    <LAT>39.61137084</LAT>
+    <LNG>-84.1704023015517</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810353</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>127</total>
+    <total>27</total>
     <OutageTime>09/15/2026 11:33 AM</OutageTime>
     <EstimateTime>09/15/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.32411855</LAT>
+    <LNG>-84.082198050202</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810355</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>27</total>
+    <OutageTime>09/15/2026 11:52 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -150,7 +150,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>101</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -170,7 +170,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -187,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>127</TotalOut>
-    <Outageat>9/15/2026 11:50:38 AM</Outageat>
+    <TotalOut>27</TotalOut>
+    <Outageat>9/15/2026 12:05:31 PM</Outageat>
   </Message>
 </Incidents>
