@@ -1,22 +1,32 @@
 [
   {
     "id": 1810271,
-    "lat": 39.77099539,
-    "lng": -84.2113067591746,
+    "lat": 39.76914419,
+    "lng": -84.2137597576496,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-15T03:19:00",
-    "estimate_time": "2026-09-15T07:00:00"
+    "estimate_time": "2026-09-15T09:00:00"
   },
   {
     "id": 1810274,
-    "lat": 40.28680571,
-    "lng": -83.5656373831094,
+    "lat": 40.28495451,
+    "lng": -83.5681104504775,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
     "outage_time": "2026-09-15T06:03:00",
     "estimate_time": "2026-09-15T09:00:00"
+  },
+  {
+    "id": 1810276,
+    "lat": 39.61505354,
+    "lng": -84.4655676618616,
+    "customers_affected": 4,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-15T07:11:00",
+    "estimate_time": null
   }
 ]
