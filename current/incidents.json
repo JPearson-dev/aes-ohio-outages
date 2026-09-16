@@ -1,8 +1,8 @@
 [
   {
     "id": 1810611,
-    "lat": 40.64576887,
-    "lng": -84.7676044529926,
+    "lat": 40.64282297,
+    "lng": -84.7715626837119,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1810616,
-    "lat": 40.16490383,
-    "lng": -84.4897518389156,
+    "lat": 40.16195793,
+    "lng": -84.4936797065845,
     "customers_affected": 5,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-09-16T04:09:00",
     "estimate_time": "2026-09-16T08:00:00"
+  },
+  {
+    "id": 1810624,
+    "lat": 40.46157732,
+    "lng": -84.4333303899768,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T05:29:00",
+    "estimate_time": null
   }
 ]
