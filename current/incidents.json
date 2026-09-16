@@ -1,28 +1,8 @@
 [
   {
-    "id": 1810632,
-    "lat": 39.71021549,
-    "lng": -84.1570416745674,
-    "customers_affected": 42,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-16T08:24:00",
-    "estimate_time": "2026-09-16T12:00:00"
-  },
-  {
-    "id": 1810642,
-    "lat": 39.70304266,
-    "lng": -84.1460061205815,
-    "customers_affected": 2,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-16T08:39:00",
-    "estimate_time": "2026-09-16T12:00:00"
-  },
-  {
     "id": 1810690,
-    "lat": 39.82522057,
-    "lng": -84.2312349039776,
+    "lat": 39.82226577,
+    "lng": -84.2351535722348,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -30,19 +10,9 @@
     "estimate_time": "2026-09-16T13:00:00"
   },
   {
-    "id": 1810691,
-    "lat": 39.63126704,
-    "lng": -84.0967997136664,
-    "customers_affected": 3,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-16T10:20:00",
-    "estimate_time": "2026-09-16T13:00:00"
-  },
-  {
     "id": 1810694,
-    "lat": 39.55976291,
-    "lng": -84.0737095413308,
+    "lat": 39.55680811,
+    "lng": -84.0776120108346,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -51,12 +21,32 @@
   },
   {
     "id": 1810698,
-    "lat": 40.55798197,
-    "lng": -84.7094372945338,
+    "lat": 40.55502717,
+    "lng": -84.7134018574456,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-09-16T10:46:00",
     "estimate_time": "2026-09-16T13:00:00"
+  },
+  {
+    "id": 1810708,
+    "lat": 39.7499498,
+    "lng": -84.2315771010576,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-16T11:48:00",
+    "estimate_time": "2026-09-16T14:00:00"
+  },
+  {
+    "id": 1810709,
+    "lat": 39.50412001,
+    "lng": -83.9561874686226,
+    "customers_affected": 1,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-09-16T11:53:00",
+    "estimate_time": "2026-09-16T14:00:00"
   }
 ]
