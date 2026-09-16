@@ -39,6 +39,63 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 DEFAULT_REPO = REPO_ROOT / "ingest" / ".data-branch"
 DEFAULT_DB = REPO_ROOT / "ingest" / "history.db"
 
+_original_get_versions_and_hashes = ghcli.get_versions_and_hashes
+
+
+def _reconstruct_versions_and_hashes(db, namespace):
+    # --full-versions never writes _item_full_hash (see comment on
+    # _patched_get_versions_and_hashes below), so rebuild each item's latest
+    # hash from its own stored row instead of a column that was never
+    # written. Every item_version row is a complete snapshot under
+    # --full-versions, so hashing its own (non-bookkeeping) columns is exactly
+    # what git-history would have hashed live for an unchanged item - our
+    # incidents data is flat primitives only, so jsonify_all (applied before
+    # storage) is a no-op and the stored row matches the original item
+    # verbatim. If a future field is ever a list/dict, the only consequence
+    # is one spurious extra version recorded the next time that item's row
+    # changes, not a crash or data loss.
+    version_table = f"{namespace}_version"
+    ignore_columns = {"_id", "_item", "_version", "_commit"}
+    item_id_to_version = {}
+    item_id_to_last_full_hash = {}
+    rows = db.query(
+        "select {namespace}._item_id as _item_id_value, {version_table}.* "
+        "from {version_table} join {namespace} on {version_table}._item = {namespace}._id "
+        "order by {namespace}._item_id, {version_table}._version".format(
+            namespace=namespace, version_table=version_table
+        )
+    )
+    for row in rows:
+        item_id = row["_item_id_value"]
+        item_id_to_version[item_id] = row["_version"]
+        record = {
+            key: value
+            for key, value in row.items()
+            if key not in ignore_columns and key != "_item_id_value"
+        }
+        item_id_to_last_full_hash[item_id] = ghcli._hash(record)
+    return item_id_to_version, item_id_to_last_full_hash
+
+
+def _patched_get_versions_and_hashes(db, namespace):
+    # Upstream git-history bug: with --full-versions, the item_version
+    # dict built in `file()` never gets an _item_full_hash key (that's only
+    # added in the default, changed-columns-only branch) - but this
+    # function, called every time the version table already exists (i.e.
+    # every run after the first against a persisted db), unconditionally
+    # selects that column and crashes with "no such column:
+    # item_version._item_full_hash". Work around it by reconstructing the
+    # hash ourselves whenever the column is missing.
+    version_table = f"{namespace}_version"
+    if db[version_table].exists() and "_item_full_hash" not in {
+        column.name for column in db[version_table].columns
+    }:
+        return _reconstruct_versions_and_hashes(db, namespace)
+    return _original_get_versions_and_hashes(db, namespace)
+
+
+ghcli.get_versions_and_hashes = _patched_get_versions_and_hashes
+
 
 def enrich_presence(db_path: Path, repo: Path, filepath: str, id_column: str) -> None:
     conn = sqlite3.connect(db_path)

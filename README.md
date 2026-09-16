@@ -15,6 +15,7 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 **Upcoming:**
 * For a moment in time, a distribution chart of incident size.
   * Tie this to the mouse position on another chart? Or use a different control mechanism?
+  * Might want a time-picker component that can be reused, that uses the known time divisions. Then that can be used with the chart or it can key off another chart or control, like a scrub-bar.
 * Incident map with time-travel scrub-bar
   * Need underlying map tiles
   * Need county boundaries
