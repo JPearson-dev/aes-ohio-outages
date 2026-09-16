@@ -1,57 +1,79 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.70197466</LAT>
-    <LNG>-84.1474198018902</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1810642</INCIDENTID>
+    <LAT>40.30364304</LAT>
+    <LNG>-83.9537150313234</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810702</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>49</total>
-    <OutageTime>09/16/2026 08:39 AM</OutageTime>
-    <EstimateTime>09/16/2026 12:00 PM</EstimateTime>
+    <COUNTY>LOGAN</COUNTY>
+    <total>51</total>
+    <OutageTime>09/16/2026 10:59 AM</OutageTime>
+    <EstimateTime>09/16/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.63019904</LAT>
-    <LNG>-84.0982118139783</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1810691</INCIDENTID>
+    <LAT>40.55556117</LAT>
+    <LNG>-84.7126853701724</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810698</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>49</total>
-    <OutageTime>09/16/2026 10:20 AM</OutageTime>
+    <COUNTY>MERCER</COUNTY>
+    <total>51</total>
+    <OutageTime>09/16/2026 10:46 AM</OutageTime>
     <EstimateTime>09/16/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82415257</LAT>
-    <LNG>-84.2326512900947</LNG>
+    <LAT>39.82279977</LAT>
+    <LNG>-84.2344453791763</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810690</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>49</total>
+    <total>51</total>
     <OutageTime>09/16/2026 10:14 AM</OutageTime>
     <EstimateTime>09/16/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70914749</LAT>
-    <LNG>-84.1584555141958</LNG>
+    <LAT>39.70062186</LAT>
+    <LNG>-84.1492104648811</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1810642</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>51</total>
+    <OutageTime>09/16/2026 08:39 AM</OutageTime>
+    <EstimateTime>09/16/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.62884624</LAT>
+    <LNG>-84.1000004743734</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1810691</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>51</total>
+    <OutageTime>09/16/2026 10:20 AM</OutageTime>
+    <EstimateTime>09/16/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.70779469</LAT>
+    <LNG>-84.1602463777251</LNG>
     <TOTALCUSTS>42</TOTALCUSTS>
     <INCIDENTID>1810632</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>49</total>
+    <total>51</total>
     <OutageTime>09/16/2026 08:24 AM</OutageTime>
-    <EstimateTime>09/16/2026 11:00 AM</EstimateTime>
+    <EstimateTime>09/16/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55869491</LAT>
-    <LNG>-84.0751200724767</LNG>
+    <LAT>39.55734211</LAT>
+    <LNG>-84.0769067452616</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810694</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>49</total>
+    <total>51</total>
     <OutageTime>09/16/2026 10:31 AM</OutageTime>
     <EstimateTime>09/16/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -105,7 +127,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -113,7 +135,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -154,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>49</TotalOut>
-    <Outageat>9/16/2026 10:50:31 AM</Outageat>
+    <TotalOut>51</TotalOut>
+    <Outageat>9/16/2026 11:05:31 AM</Outageat>
   </Message>
 </Incidents>
