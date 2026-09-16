@@ -1,8 +1,8 @@
 [
   {
     "id": 1810708,
-    "lat": 39.7525931,
-    "lng": -84.2280755129072,
+    "lat": 39.7512047,
+    "lng": -84.2299147309256,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810741,
-    "lat": 39.53492524,
-    "lng": -83.7940241989149,
+    "lat": 39.53353684,
+    "lng": -83.7958571914491,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810743,
-    "lat": 39.9401135695273,
-    "lng": -84.0121998317666,
+    "lat": 39.9387251695273,
+    "lng": -84.0140444698116,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810751,
-    "lat": 40.17949306,
-    "lng": -84.5862488906975,
+    "lat": 40.17810466,
+    "lng": -84.5881005250386,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1810753,
-    "lat": 40.20996651,
-    "lng": -84.4155742914076,
+    "lat": 40.20857811,
+    "lng": -84.4174268226718,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1810757,
-    "lat": 39.78636941,
-    "lng": -84.1214683472894,
+    "lat": 39.78498101,
+    "lng": -84.1233085376664,
     "customers_affected": 194,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,8 +61,8 @@
   },
   {
     "id": 1810758,
-    "lat": 39.86049172,
-    "lng": -84.1035194848847,
+    "lat": 39.85910332,
+    "lng": -84.1053618151055,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -71,8 +71,8 @@
   },
   {
     "id": 1810761,
-    "lat": 39.4557251,
-    "lng": -83.6473657277161,
+    "lat": 39.4543367,
+    "lng": -83.6491964724636,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -81,8 +81,8 @@
   },
   {
     "id": 1810762,
-    "lat": 39.77079767,
-    "lng": -84.1309945872367,
+    "lat": 39.76940927,
+    "lng": -84.1328343291194,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -91,12 +91,32 @@
   },
   {
     "id": 1810765,
-    "lat": 40.03151863,
-    "lng": -84.7259438071347,
+    "lat": 40.03013023,
+    "lng": -84.7277911063618,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-09-16T15:29:00",
     "estimate_time": "2026-09-16T17:00:00"
+  },
+  {
+    "id": 1810777,
+    "lat": 39.7904676536636,
+    "lng": -84.0325178965675,
+    "customers_affected": 1360,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T15:36:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810778,
+    "lat": 39.79096086,
+    "lng": -84.0329496892822,
+    "customers_affected": 3276,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T15:36:00",
+    "estimate_time": null
   }
 ]
