@@ -1,48 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.11885312</LAT>
-    <LNG>-84.6046730150136</LNG>
+    <LAT>40.11900442</LAT>
+    <LNG>-84.6044714270489</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810583</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>17</total>
+    <total>43</total>
     <OutageTime>09/15/2026 05:49 PM</OutageTime>
     <EstimateTime>09/16/2026 12:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75673132</LAT>
-    <LNG>-83.7926493658582</LNG>
+    <LAT>39.75688262</LAT>
+    <LNG>-83.7924489239699</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810586</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>17</total>
+    <total>43</total>
     <OutageTime>09/15/2026 06:44 PM</OutageTime>
     <EstimateTime>09/16/2026 12:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65451032</LAT>
-    <LNG>-84.1092268766708</LNG>
+    <LAT>39.65466162</LAT>
+    <LNG>-84.1090267544119</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810602</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>17</total>
+    <total>43</total>
     <OutageTime>09/15/2026 09:53 PM</OutageTime>
     <EstimateTime>09/16/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69087067</LAT>
-    <LNG>-84.2347169564528</LNG>
+    <LAT>39.69102197</LAT>
+    <LNG>-84.2345167206952</LNG>
     <TOTALCUSTS>14</TOTALCUSTS>
     <INCIDENTID>1810579</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>17</total>
+    <total>43</total>
     <OutageTime>09/15/2026 05:33 PM</OutageTime>
     <EstimateTime>09/16/2026 01:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.53597431</LAT>
+    <LNG>-84.0136845291731</LNG>
+    <TOTALCUSTS>26</TOTALCUSTS>
+    <INCIDENTID>1810605</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>WARREN</COUNTY>
+    <total>43</total>
+    <OutageTime>09/15/2026 10:12 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -138,12 +149,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>0</TotOut>
+    <TotOut>26</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>17</TotalOut>
-    <Outageat>9/15/2026 10:05:31 PM</Outageat>
+    <TotalOut>43</TotalOut>
+    <Outageat>9/15/2026 10:20:31 PM</Outageat>
   </Message>
 </Incidents>

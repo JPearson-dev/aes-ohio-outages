@@ -1,8 +1,8 @@
 [
   {
     "id": 1810579,
-    "lat": 39.69087067,
-    "lng": -84.2347169564528,
+    "lat": 39.69102197,
+    "lng": -84.2345167206952,
     "customers_affected": 14,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810583,
-    "lat": 40.11885312,
-    "lng": -84.6046730150136,
+    "lat": 40.11900442,
+    "lng": -84.6044714270489,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810586,
-    "lat": 39.75673132,
-    "lng": -83.7926493658582,
+    "lat": 39.75688262,
+    "lng": -83.7924489239699,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -31,12 +31,22 @@
   },
   {
     "id": 1810602,
-    "lat": 39.65451032,
-    "lng": -84.1092268766708,
+    "lat": 39.65466162,
+    "lng": -84.1090267544119,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-15T21:53:00",
     "estimate_time": "2026-09-16T01:00:00"
+  },
+  {
+    "id": 1810605,
+    "lat": 39.53597431,
+    "lng": -84.0136845291731,
+    "customers_affected": 26,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-09-15T22:12:00",
+    "estimate_time": null
   }
 ]
