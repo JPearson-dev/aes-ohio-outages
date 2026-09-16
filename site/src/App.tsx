@@ -1,5 +1,6 @@
 import { HeartbeatChart } from './components/HeartbeatChart'
 import { SizeBucketCharts } from './components/SizeBucketCharts'
+import { IncidentSizeDistribution } from './components/IncidentSizeDistribution'
 import { Footer } from './components/Footer'
 import styles from './App.module.css'
 
@@ -12,6 +13,7 @@ function App() {
       </div>
       <HeartbeatChart />
       <SizeBucketCharts />
+      <IncidentSizeDistribution />
       <Footer />
     </main>
   )

@@ -1,0 +1,19 @@
+.wrap {
+  padding: 16px 0;
+}
+
+.wrap h2 {
+  margin: 0 0 16px;
+}
+
+.chartWrap {
+  position: relative;
+  height: 340px;
+  padding: 16px 0;
+}
+
+.status {
+  padding: 48px 16px;
+  text-align: center;
+  color: var(--text);
+}
