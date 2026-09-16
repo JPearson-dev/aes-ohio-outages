@@ -1,13 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.53642821</LAT>
-    <LNG>-84.0130852693772</LNG>
+    <LAT>40.64555527</LAT>
+    <LNG>-84.7678914546158</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810611</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>27</total>
+    <OutageTime>09/16/2026 01:30 AM</OutageTime>
+    <EstimateTime>09/16/2026 05:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.53619681</LAT>
+    <LNG>-84.0133907743712</LNG>
     <TOTALCUSTS>26</TOTALCUSTS>
     <INCIDENTID>1810605</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>26</total>
+    <total>27</total>
     <OutageTime>09/15/2026 10:12 PM</OutageTime>
     <EstimateTime>09/16/2026 02:00 AM</EstimateTime>
   </Markers>
@@ -69,7 +80,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>26</TotalOut>
-    <Outageat>9/16/2026 1:35:31 AM</Outageat>
+    <TotalOut>27</TotalOut>
+    <Outageat>9/16/2026 1:50:31 AM</Outageat>
   </Message>
 </Incidents>
