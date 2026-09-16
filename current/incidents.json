@@ -1,18 +1,18 @@
 [
   {
     "id": 1810690,
-    "lat": 39.82226577,
-    "lng": -84.2351535722348,
+    "lat": 39.82344057,
+    "lng": -84.2335955475061,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-16T10:14:00",
-    "estimate_time": "2026-09-16T13:00:00"
+    "estimate_time": "2026-09-16T14:00:00"
   },
   {
     "id": 1810694,
-    "lat": 39.55680811,
-    "lng": -84.0776120108346,
+    "lat": 39.55798291,
+    "lng": -84.076060426574,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810698,
-    "lat": 40.55502717,
-    "lng": -84.7134018574456,
+    "lat": 40.55620197,
+    "lng": -84.7118255854445,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810708,
-    "lat": 39.7499498,
-    "lng": -84.2315771010576,
+    "lat": 39.7511246,
+    "lng": -84.2300208396574,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,12 +41,22 @@
   },
   {
     "id": 1810709,
-    "lat": 39.50412001,
-    "lng": -83.9561874686226,
+    "lat": 39.50529481,
+    "lng": -83.9546371521381,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-16T11:53:00",
     "estimate_time": "2026-09-16T14:00:00"
+  },
+  {
+    "id": 1810711,
+    "lat": 39.87771379,
+    "lng": -84.1194792427019,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-16T12:10:00",
+    "estimate_time": null
   }
 ]
