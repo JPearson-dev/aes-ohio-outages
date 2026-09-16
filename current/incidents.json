@@ -1,8 +1,8 @@
 [
   {
     "id": 1810708,
-    "lat": 39.7493891,
-    "lng": -84.2323198621804,
+    "lat": 39.7502702,
+    "lng": -84.2311526661302,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810741,
-    "lat": 39.53172124,
-    "lng": -83.7982541816862,
+    "lat": 39.53260234,
+    "lng": -83.7970909364241,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810743,
-    "lat": 39.9369095695273,
-    "lng": -84.0164566887936,
+    "lat": 39.9377906695273,
+    "lng": -84.0152860531112,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -31,12 +31,32 @@
   },
   {
     "id": 1810751,
-    "lat": 40.17628906,
-    "lng": -84.5905218930232,
+    "lat": 40.17717016,
+    "lng": -84.5893468173836,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-09-16T15:00:00",
+    "estimate_time": "2026-09-16T17:00:00"
+  },
+  {
+    "id": 1810753,
+    "lat": 40.20764361,
+    "lng": -84.418673718715,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T15:07:00",
+    "estimate_time": "2026-09-16T18:00:00"
+  },
+  {
+    "id": 1810757,
+    "lat": 39.78404651,
+    "lng": -84.1245471273432,
+    "customers_affected": 194,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-16T15:06:00",
     "estimate_time": null
   }
 ]
