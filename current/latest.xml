@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.11889762</LAT>
-    <LNG>-84.6046137244358</LNG>
+    <LAT>40.11793642</LAT>
+    <LNG>-84.6058944009171</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810583</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>15</total>
+    <total>16</total>
     <OutageTime>09/15/2026 05:49 PM</OutageTime>
     <EstimateTime>09/15/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69091517</LAT>
-    <LNG>-84.2346580635829</LNG>
+    <LAT>39.75581462</LAT>
+    <LNG>-83.7938638078874</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1810586</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>16</total>
+    <OutageTime>09/15/2026 06:44 PM</OutageTime>
+    <EstimateTime>09/16/2026 12:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68995397</LAT>
+    <LNG>-84.2359301495722</LNG>
     <TOTALCUSTS>14</TOTALCUSTS>
     <INCIDENTID>1810579</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>15</total>
+    <total>16</total>
     <OutageTime>09/15/2026 05:33 PM</OutageTime>
     <EstimateTime>09/16/2026 01:00 AM</EstimateTime>
   </Markers>
@@ -60,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>15</TotalOut>
-    <Outageat>9/15/2026 9:20:31 PM</Outageat>
+    <TotalOut>16</TotalOut>
+    <Outageat>9/15/2026 9:35:31 PM</Outageat>
   </Message>
 </Incidents>
