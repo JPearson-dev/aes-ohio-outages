@@ -14,8 +14,12 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 
 **Upcoming:**
 * For a moment in time, a distribution chart of incident size.
+  * Initially, just use the latest time
+  * Might want to use some kind of dynamic bucket width? The idea is to have small bucket widths, but not tiny ones. We don't want every value between 1 and 1k. Maybe we just do up to 50 equal-width buckets? Or we do a somewhat log-based approach? That could also be up to 50 buckets (or however many), but figuring the base that produces the desired number of buckets. Could have a toggle to swap bucket method. Just round the log-scale buckets to the integer values marking the top and bottom of the range. And any buckets that have no integers in them should just be dropped or maybe the algorithm would need to try again with a different root to preserve the exact number of buckets while skipping inherently empty buckets? That would kind of skew the chart, but it's probably ok. I suppose a cummulative chart would be better than a bar chart for that... but I still like the bar chart concept because it says how many things (incidents) are in a spot, which is more useful seeing how many things are no larger than that size. I guess that isn't totally useless. So that might be a second toggle. And then there's whether the y axis is incidents or impacted customers, which might be a third toggle. Probably not a toggle per-se but a bar with two segments, one for each option; which is active needs to be relatively obvious, which suggests a non-gray color for the active one, since some systems use styles that suggest the active choice has an "active" style and some prefer a "already pressed button", which are opposites. I suppose if we offer log for the x axis we need to decide if we offer it for the y axis.
   * Tie this to the mouse position on another chart? Or use a different control mechanism?
   * Might want a time-picker component that can be reused, that uses the known time divisions. Then that can be used with the chart or it can key off another chart or control, like a scrub-bar.
+    * Could have a variant for time range picker that supports choosing two endpoints (probably last two dates clicked) or dragging a range.
+    * Might need to handle different scales of selection, such as times within a day vs days in a month or two vs months in a year.
 * Incident map with time-travel scrub-bar
   * Need underlying map tiles
   * Need county boundaries
