@@ -19,9 +19,11 @@ export function bucketNamesFor(breakpoints: number[]): string[] {
 export type ParseBreakpointsResult = { ok: true; breakpoints: number[] } | { ok: false; error: string }
 
 // Parses the settings field's comma-delimited text into breakpoints, or an
-// error describing the first problem found. Whole numbers only for now - a
-// "10k" style suffix could be a future enhancement, so that specific case
-// gets its own hint rather than the generic "not a whole number" message.
+// error describing the first problem found. Whole numbers, or a "k" suffix
+// for thousands ("10k", "1.5k") - the part before "k" may have up to 3
+// fractional digits, since that's exactly what keeps the scaled result a
+// whole number. Anything else with a "k" in it (bare "k", ".k", "1k5") gets
+// a suffix-specific hint rather than the generic "not a whole number".
 export function parseBreakpoints(raw: string): ParseBreakpointsResult {
   // Comma and whitespace are interchangeable delimiters, and runs of either
   // collapse to one break - so "10, 50 200" and "10,,50,200" both parse the
@@ -34,16 +36,38 @@ export function parseBreakpoints(raw: string): ParseBreakpointsResult {
 
   const numbers: number[] = []
   for (const token of tokens) {
-    if (!/^\d+$/.test(token)) {
-      if (/^\d+k$/i.test(token)) {
+    if (/^\d+$/.test(token)) {
+      numbers.push(Number(token))
+      continue
+    }
+
+    // Requires at least one digit somewhere (before and/or after the dot),
+    // so bare "k" and ".k" fall through to the generic k-error below rather
+    // than matching here.
+    const kMatch = /^(\d+\.?\d*|\.\d+)k$/i.exec(token)
+    if (kMatch) {
+      const [intPartRaw, fracPart = ''] = kMatch[1].split('.')
+      if (fracPart.length > 3) {
         return {
           ok: false,
-          error: `"${token}" isn't supported yet - write out the full number instead of using a "k" suffix.`,
+          error: `"${token}" has too many digits after the decimal point - use at most 3 before "k".`,
         }
       }
-      return { ok: false, error: `"${token}" isn't a whole number.` }
+      // String concatenation, not float multiplication, so "1.1k" can't
+      // land on 1099.9999999999999 - the fractional part is padded out to
+      // exactly 3 digits and glued directly onto the integer part.
+      numbers.push(Number(`${intPartRaw || '0'}${fracPart.padEnd(3, '0')}`))
+      continue
     }
-    numbers.push(Number(token))
+
+    if (/k/i.test(token)) {
+      return {
+        ok: false,
+        error: `"${token}" isn't a valid "k" number - try a form like "10k" or "1.5k".`,
+      }
+    }
+
+    return { ok: false, error: `"${token}" isn't a whole number.` }
   }
 
   const sorted = [...numbers].sort((a, b) => a - b)

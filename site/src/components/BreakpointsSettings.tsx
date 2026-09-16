@@ -7,12 +7,12 @@ interface BreakpointsSettingsProps {
   onApply: (breakpoints: number[]) => void
 }
 
-// Digits, comma, whitespace, and "k" (for the not-yet-supported suffix's
-// error hint) - anything else, notably "-", is stripped on input so a
-// negative number can't be typed in the first place, rather than needing a
-// dedicated error message to distinguish it from "not a whole number".
+// Digits, comma, whitespace, "." and "k" (for the "10k" / "1.5k" suffix
+// syntax) - anything else, notably "-", is stripped on input so a negative
+// number can't be typed in the first place, rather than needing a dedicated
+// error message to distinguish it from "not a whole number".
 function sanitize(value: string): string {
-  return value.replace(/[^0-9,\sk]/gi, '')
+  return value.replace(/[^0-9.,\sk]/gi, '')
 }
 
 export function BreakpointsSettings({ breakpoints, onApply }: BreakpointsSettingsProps) {
