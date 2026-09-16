@@ -1,8 +1,8 @@
 [
   {
     "id": 1810743,
-    "lat": 39.9398999695273,
-    "lng": -84.012483622235,
+    "lat": 39.9402826695273,
+    "lng": -84.0119751643124,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810751,
-    "lat": 40.17927946,
-    "lng": -84.5865337575192,
+    "lat": 40.17966216,
+    "lng": -84.5860233711304,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810757,
-    "lat": 39.78615581,
-    "lng": -84.1217514535012,
+    "lat": 39.78653851,
+    "lng": -84.1212442215384,
     "customers_affected": 27,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810758,
-    "lat": 39.86027812,
-    "lng": -84.1038029203032,
+    "lat": 39.86066082,
+    "lng": -84.1032950985116,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1810762,
-    "lat": 39.77058407,
-    "lng": -84.1312776244494,
+    "lat": 39.77096677,
+    "lng": -84.13077051611,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1810788,
-    "lat": 40.22351282,
-    "lng": -84.6207146258691,
+    "lat": 40.22389552,
+    "lng": -84.6202038804894,
     "customers_affected": 29,
     "county": "DARKE",
     "indicator": "D",
@@ -61,8 +61,8 @@
   },
   {
     "id": 1810793,
-    "lat": 39.70565766,
-    "lng": -84.1148678828006,
+    "lat": 39.70604036,
+    "lng": -84.1143612888319,
     "customers_affected": 17,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -71,8 +71,8 @@
   },
   {
     "id": 1810795,
-    "lat": 39.63455329,
-    "lng": -84.2784452374302,
+    "lat": 39.63493599,
+    "lng": -84.2779392047886,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -81,8 +81,8 @@
   },
   {
     "id": 1810801,
-    "lat": 40.188787184022,
-    "lng": -84.6221768078748,
+    "lat": 40.189169884022,
+    "lng": -84.6216663443926,
     "customers_affected": 150,
     "county": "DARKE",
     "indicator": "D",
@@ -90,53 +90,173 @@
     "estimate_time": "2026-09-16T20:00:00"
   },
   {
-    "id": 1810803,
-    "lat": 40.20056151,
-    "lng": -84.1944135331598,
-    "customers_affected": 2,
-    "county": "MIAMI",
-    "indicator": "D",
-    "outage_time": "2026-09-16T17:26:00",
-    "estimate_time": "2026-09-16T19:00:00"
-  },
-  {
-    "id": 1810804,
-    "lat": 40.18638938,
-    "lng": -84.204993929187,
-    "customers_affected": 3,
-    "county": "MIAMI",
-    "indicator": "D",
-    "outage_time": "2026-09-16T17:28:00",
-    "estimate_time": "2026-09-16T20:00:00"
-  },
-  {
     "id": 1810805,
-    "lat": 40.22747752,
-    "lng": -84.1805327649446,
-    "customers_affected": 3,
+    "lat": 40.22786022,
+    "lng": -84.1800219873475,
+    "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
-    "outage_time": "2026-09-16T17:28:00",
+    "outage_time": "2026-09-16T17:25:00",
     "estimate_time": "2026-09-16T19:00:00"
   },
   {
-    "id": 1810806,
-    "lat": 39.86279254,
-    "lng": -84.7916440501038,
-    "customers_affected": 4,
-    "county": "PREBLE",
+    "id": 1810808,
+    "lat": 40.20712304,
+    "lng": -84.2364191324744,
+    "customers_affected": 7,
+    "county": "MIAMI",
     "indicator": "D",
-    "outage_time": "2026-09-16T17:29:00",
+    "outage_time": "2026-09-16T17:30:00",
     "estimate_time": "2026-09-16T20:00:00"
   },
   {
-    "id": 1810807,
-    "lat": 40.18743237,
-    "lng": -84.2034348706519,
+    "id": 1810811,
+    "lat": 40.18781507,
+    "lng": -84.2029244181575,
+    "customers_affected": 87,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:25:00",
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810812,
+    "lat": 40.20094421,
+    "lng": -84.1939029741526,
+    "customers_affected": 18,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:25:00",
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810813,
+    "lat": 40.20087242,
+    "lng": -84.1939928339207,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
-    "outage_time": "2026-09-16T17:29:00",
+    "outage_time": "2026-09-16T17:35:00",
     "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810814,
+    "lat": 39.87104537,
+    "lng": -84.7778674985137,
+    "customers_affected": 43,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:34:00",
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810815,
+    "lat": 40.19357029,
+    "lng": -84.1963043842463,
+    "customers_affected": 2,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:35:00",
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810817,
+    "lat": 40.18102893,
+    "lng": -84.1970586951805,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:36:00",
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810824,
+    "lat": 39.86317524,
+    "lng": -84.7911362082637,
+    "customers_affected": 12,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:27:00",
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810831,
+    "lat": 39.87285893,
+    "lng": -84.7715275476193,
+    "customers_affected": 23,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810836,
+    "lat": 39.8727936,
+    "lng": -84.7719181453036,
+    "customers_affected": 20,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810838,
+    "lat": 39.85056991,
+    "lng": -84.776477437598,
+    "customers_affected": 375,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:33:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810847,
+    "lat": 40.37655418,
+    "lng": -83.7795891458463,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810848,
+    "lat": 39.8713399,
+    "lng": -84.7762157687935,
+    "customers_affected": 2,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810851,
+    "lat": 39.88095834,
+    "lng": -84.7747155547055,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810852,
+    "lat": 40.06791761,
+    "lng": -84.1022299976067,
+    "customers_affected": 93,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:35:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1810855,
+    "lat": 39.86980692,
+    "lng": -84.7787254737107,
+    "customers_affected": 3,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:44:00",
+    "estimate_time": null
   }
 ]
