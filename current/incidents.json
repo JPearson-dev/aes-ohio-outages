@@ -1,8 +1,8 @@
 [
   {
     "id": 1810743,
-    "lat": 39.9372833695273,
-    "lng": -84.0159600554738,
+    "lat": 39.9398999695273,
+    "lng": -84.012483622235,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1810751,
-    "lat": 40.17666286,
-    "lng": -84.5900233760852,
+    "lat": 40.17927946,
+    "lng": -84.5865337575192,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1810757,
-    "lat": 39.78353921,
-    "lng": -84.1252195045963,
+    "lat": 39.78615581,
+    "lng": -84.1217514535012,
     "customers_affected": 27,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1810758,
-    "lat": 39.85766152,
-    "lng": -84.107275004181,
+    "lat": 39.86027812,
+    "lng": -84.1038029203032,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1810762,
-    "lat": 39.76796747,
-    "lng": -84.1347448303053,
+    "lat": 39.77058407,
+    "lng": -84.1312776244494,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -50,19 +50,9 @@
     "estimate_time": "2026-09-16T19:00:00"
   },
   {
-    "id": 1810781,
-    "lat": 39.78894715,
-    "lng": -84.0412451337223,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-09-16T15:59:00",
-    "estimate_time": "2026-09-16T18:00:00"
-  },
-  {
     "id": 1810788,
-    "lat": 40.22089622,
-    "lng": -84.6242066989302,
+    "lat": 40.22351282,
+    "lng": -84.6207146258691,
     "customers_affected": 29,
     "county": "DARKE",
     "indicator": "D",
@@ -71,9 +61,9 @@
   },
   {
     "id": 1810793,
-    "lat": 39.70304106,
-    "lng": -84.1183315717954,
-    "customers_affected": 10,
+    "lat": 39.70565766,
+    "lng": -84.1148678828006,
+    "customers_affected": 17,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-16T16:54:00",
@@ -81,8 +71,8 @@
   },
   {
     "id": 1810795,
-    "lat": 39.63193669,
-    "lng": -84.2819050885146,
+    "lat": 39.63455329,
+    "lng": -84.2784452374302,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -90,23 +80,63 @@
     "estimate_time": "2026-09-16T19:00:00"
   },
   {
-    "id": 1810796,
-    "lat": 40.21752476,
-    "lng": -84.6230214436547,
-    "customers_affected": 1,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-09-16T17:10:00",
-    "estimate_time": null
-  },
-  {
     "id": 1810801,
-    "lat": 40.186170584022,
-    "lng": -84.6256669535435,
+    "lat": 40.188787184022,
+    "lng": -84.6221768078748,
     "customers_affected": 150,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-09-16T17:08:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810803,
+    "lat": 40.20056151,
+    "lng": -84.1944135331598,
+    "customers_affected": 2,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:26:00",
+    "estimate_time": "2026-09-16T19:00:00"
+  },
+  {
+    "id": 1810804,
+    "lat": 40.18638938,
+    "lng": -84.204993929187,
+    "customers_affected": 3,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:28:00",
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810805,
+    "lat": 40.22747752,
+    "lng": -84.1805327649446,
+    "customers_affected": 3,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:28:00",
+    "estimate_time": "2026-09-16T19:00:00"
+  },
+  {
+    "id": 1810806,
+    "lat": 39.86279254,
+    "lng": -84.7916440501038,
+    "customers_affected": 4,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:29:00",
+    "estimate_time": "2026-09-16T20:00:00"
+  },
+  {
+    "id": 1810807,
+    "lat": 40.18743237,
+    "lng": -84.2034348706519,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-16T17:29:00",
+    "estimate_time": "2026-09-16T20:00:00"
   }
 ]
