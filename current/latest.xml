@@ -1,35 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.55446945</LAT>
-    <LNG>-84.6349334412256</LNG>
+    <LAT>40.55660545</LAT>
+    <LNG>-84.6320674677625</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810612</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>19</total>
+    <total>7</total>
     <OutageTime>09/16/2026 01:55 AM</OutageTime>
     <EstimateTime>09/16/2026 05:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.64187067</LAT>
-    <LNG>-84.7728422326151</LNG>
+    <LAT>40.64400667</LAT>
+    <LNG>-84.7699722163836</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810611</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>19</total>
+    <total>7</total>
     <OutageTime>09/16/2026 01:30 AM</OutageTime>
     <EstimateTime>09/16/2026 05:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.53251221</LAT>
-    <LNG>-84.0182553538906</LNG>
-    <TOTALCUSTS>17</TOTALCUSTS>
+    <LAT>39.53464821</LAT>
+    <LNG>-84.0154353077924</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1810605</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>19</total>
+    <total>7</total>
     <OutageTime>09/15/2026 10:12 PM</OutageTime>
     <EstimateTime>09/16/2026 06:00 AM</EstimateTime>
   </Markers>
@@ -127,12 +127,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>17</TotOut>
+    <TotOut>5</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>19</TotalOut>
-    <Outageat>9/16/2026 2:05:31 AM</Outageat>
+    <TotalOut>7</TotalOut>
+    <Outageat>9/16/2026 2:20:31 AM</Outageat>
   </Message>
 </Incidents>
