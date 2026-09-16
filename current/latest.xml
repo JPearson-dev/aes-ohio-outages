@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.46309032</LAT>
-    <LNG>-84.4313033856294</LNG>
+    <LAT>40.46212912</LAT>
+    <LNG>-84.4325911295678</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810624</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,8 @@
     <EstimateTime>09/16/2026 08:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.58259194</LAT>
-    <LNG>-84.0693546520502</LNG>
+    <LAT>40.58163074</LAT>
+    <LNG>-84.0706448732971</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810626</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +23,8 @@
     <EstimateTime>09/16/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.64433597</LAT>
-    <LNG>-84.7695297555479</LNG>
+    <LAT>40.64337477</LAT>
+    <LNG>-84.7708212628521</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1810611</INCIDENTID>
     <IND>D</IND>
@@ -34,26 +34,15 @@
     <EstimateTime>09/16/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68375733</LAT>
-    <LNG>-84.3992859059972</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1810625</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
-    <OutageTime>09/16/2026 05:34 AM</OutageTime>
-    <EstimateTime>09/16/2026 08:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66772785</LAT>
-    <LNG>-84.1424588571639</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
+    <LAT>39.66676665</LAT>
+    <LNG>-84.1437305008205</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1810628</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>6</total>
     <OutageTime>09/16/2026 06:59 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/16/2026 09:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -155,6 +144,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>6</TotalOut>
-    <Outageat>9/16/2026 7:05:31 AM</Outageat>
+    <Outageat>9/16/2026 7:20:31 AM</Outageat>
   </Message>
 </Incidents>
