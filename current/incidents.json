@@ -1,8 +1,8 @@
 [
   {
     "id": 1810605,
-    "lat": 39.53409641,
-    "lng": -84.0161638197011,
+    "lat": 39.53487071,
+    "lng": -84.0151415529905,
     "customers_affected": 5,
     "county": "WARREN",
     "indicator": "D",
@@ -11,22 +11,32 @@
   },
   {
     "id": 1810611,
-    "lat": 40.64345487,
-    "lng": -84.7707136372434,
+    "lat": 40.64422917,
+    "lng": -84.7696732563595,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-09-16T01:25:00",
-    "estimate_time": "2026-09-16T05:00:00"
+    "estimate_time": "2026-09-16T06:00:00"
   },
   {
     "id": 1810614,
-    "lat": 40.55313357,
-    "lng": -84.7130522174297,
+    "lat": 40.55390787,
+    "lng": -84.7120133508962,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-09-16T03:54:00",
     "estimate_time": "2026-09-16T06:00:00"
+  },
+  {
+    "id": 1810616,
+    "lat": 40.16336413,
+    "lng": -84.4918047727728,
+    "customers_affected": 5,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-09-16T04:09:00",
+    "estimate_time": null
   }
 ]
