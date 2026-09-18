@@ -1,41 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.36267793</LAT>
-    <LNG>-83.3782829403943</LNG>
+    <LAT>40.50615196</LAT>
+    <LNG>-83.9771715034736</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811594</INCIDENTID>
+    <INCIDENTID>1811607</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>HIGHLAND</COUNTY>
-    <total>3</total>
-    <OutageTime>09/18/2026 01:11 PM</OutageTime>
-    <EstimateTime>09/18/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66296983</LAT>
-    <LNG>-83.2227678203265</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811492</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PICKAWAY</COUNTY>
-    <total>3</total>
-    <OutageTime>09/18/2026 03:22 AM</OutageTime>
-    <EstimateTime>09/18/2026 05:30 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.57072944</LAT>
-    <LNG>-84.0405014462222</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811591</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>3</total>
-    <OutageTime>09/18/2026 12:56 PM</OutageTime>
-    <EstimateTime>09/18/2026 07:00 PM</EstimateTime>
+    <COUNTY>AUGLAIZE</COUNTY>
+    <total>1</total>
+    <OutageTime>09/18/2026 02:56 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>BROWN</County>
@@ -79,7 +57,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -103,7 +81,7 @@
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PREBLE</County>
@@ -127,12 +105,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>9/18/2026 2:50:31 PM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>9/18/2026 3:05:31 PM</Outageat>
   </Message>
 </Incidents>
