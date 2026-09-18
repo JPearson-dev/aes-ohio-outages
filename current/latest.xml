@@ -1,37 +1,92 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.36233614</LAT>
-    <LNG>-83.3670238584315</LNG>
+    <LAT>40.05274081</LAT>
+    <LNG>-83.8888468008769</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811472</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>497</total>
+    <OutageTime>09/18/2026 02:06 AM</OutageTime>
+    <EstimateTime>09/18/2026 05:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.73432291</LAT>
+    <LNG>-83.9180591507927</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811474</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>497</total>
+    <OutageTime>09/18/2026 02:07 AM</OutageTime>
+    <EstimateTime>09/18/2026 05:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.36582494</LAT>
+    <LNG>-83.3624299119407</LNG>
     <TOTALCUSTS>35</TOTALCUSTS>
     <INCIDENTID>1811459</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>102</total>
+    <total>497</total>
     <OutageTime>09/18/2026 12:22 AM</OutageTime>
     <EstimateTime>09/18/2026 03:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.33556529</LAT>
-    <LNG>-83.8988209696912</LNG>
+    <LAT>40.2789505</LAT>
+    <LNG>-83.7581214914721</LNG>
+    <TOTALCUSTS>389</TOTALCUSTS>
+    <INCIDENTID>1811471</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>497</total>
+    <OutageTime>09/18/2026 02:06 AM</OutageTime>
+    <EstimateTime>09/18/2026 05:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.33905409</LAT>
+    <LNG>-83.8941563073161</LNG>
     <TOTALCUSTS>66</TOTALCUSTS>
     <INCIDENTID>1811468</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>102</total>
+    <total>497</total>
     <OutageTime>09/18/2026 01:37 AM</OutageTime>
     <EstimateTime>09/18/2026 05:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.41374888</LAT>
-    <LNG>-84.6164608673431</LNG>
+    <LAT>40.41723768</LAT>
+    <LNG>-84.6117903669049</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811463</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>102</total>
+    <total>497</total>
     <OutageTime>09/18/2026 12:36 AM</OutageTime>
     <EstimateTime>09/18/2026 04:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.29227794</LAT>
+    <LNG>-83.3352403107188</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1811470</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>497</total>
+    <OutageTime>09/18/2026 01:56 AM</OutageTime>
+    <EstimateTime>09/18/2026 05:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.2918097</LAT>
+    <LNG>-83.3281360290257</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811473</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>497</total>
+    <OutageTime>09/18/2026 02:07 AM</OutageTime>
+    <EstimateTime>09/18/2026 05:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -47,7 +102,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -71,7 +126,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -83,7 +138,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>66</TotOut>
+    <TotOut>455</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -119,7 +174,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>0</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -132,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>102</TotalOut>
-    <Outageat>9/18/2026 2:05:31 AM</Outageat>
+    <TotalOut>497</TotalOut>
+    <Outageat>9/18/2026 2:20:31 AM</Outageat>
   </Message>
 </Incidents>

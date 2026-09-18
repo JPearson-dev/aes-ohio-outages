@@ -1,8 +1,8 @@
 [
   {
     "id": 1811459,
-    "lat": 39.36233614,
-    "lng": -83.3670238584315,
+    "lat": 39.36582494,
+    "lng": -83.3624299119407,
     "customers_affected": 35,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1811463,
-    "lat": 40.41374888,
-    "lng": -84.6164608673431,
+    "lat": 40.41723768,
+    "lng": -84.6117903669049,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -21,12 +21,62 @@
   },
   {
     "id": 1811468,
-    "lat": 40.33556529,
-    "lng": -83.8988209696912,
+    "lat": 40.33905409,
+    "lng": -83.8941563073161,
     "customers_affected": 66,
     "county": "LOGAN",
     "indicator": "D",
     "outage_time": "2026-09-18T01:37:00",
+    "estimate_time": "2026-09-18T05:00:00"
+  },
+  {
+    "id": 1811470,
+    "lat": 40.29227794,
+    "lng": -83.3352403107188,
+    "customers_affected": 3,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-09-18T01:56:00",
+    "estimate_time": "2026-09-18T05:00:00"
+  },
+  {
+    "id": 1811471,
+    "lat": 40.2789505,
+    "lng": -83.7581214914721,
+    "customers_affected": 389,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:06:00",
+    "estimate_time": "2026-09-18T05:00:00"
+  },
+  {
+    "id": 1811472,
+    "lat": 40.05274081,
+    "lng": -83.8888468008769,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:06:00",
+    "estimate_time": "2026-09-18T05:00:00"
+  },
+  {
+    "id": 1811473,
+    "lat": 40.2918097,
+    "lng": -83.3281360290257,
+    "customers_affected": 1,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:07:00",
+    "estimate_time": "2026-09-18T05:00:00"
+  },
+  {
+    "id": 1811474,
+    "lat": 39.73432291,
+    "lng": -83.9180591507927,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:07:00",
     "estimate_time": "2026-09-18T05:00:00"
   }
 ]
