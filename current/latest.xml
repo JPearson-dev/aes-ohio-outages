@@ -1,48 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.36344864</LAT>
-    <LNG>-83.365558952025</LNG>
+    <LAT>39.36233614</LAT>
+    <LNG>-83.3670238584315</LNG>
     <TOTALCUSTS>35</TOTALCUSTS>
     <INCIDENTID>1811459</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>103</total>
+    <total>102</total>
     <OutageTime>09/18/2026 12:22 AM</OutageTime>
     <EstimateTime>09/18/2026 03:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.33667779</LAT>
-    <LNG>-83.8973335135767</LNG>
+    <LAT>40.33556529</LAT>
+    <LNG>-83.8988209696912</LNG>
     <TOTALCUSTS>66</TOTALCUSTS>
     <INCIDENTID>1811468</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>103</total>
+    <total>102</total>
     <OutageTime>09/18/2026 01:37 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/18/2026 05:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.41486138</LAT>
-    <LNG>-84.6149715496013</LNG>
+    <LAT>40.41374888</LAT>
+    <LNG>-84.6164608673431</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811463</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>103</total>
-    <OutageTime>09/18/2026 12:43 AM</OutageTime>
+    <total>102</total>
+    <OutageTime>09/18/2026 12:36 AM</OutageTime>
     <EstimateTime>09/18/2026 04:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.72067787</LAT>
-    <LNG>-84.6760391328053</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811458</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MERCER</COUNTY>
-    <total>103</total>
-    <OutageTime>09/17/2026 11:53 PM</OutageTime>
-    <EstimateTime>09/18/2026 02:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -102,7 +91,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>103</TotalOut>
-    <Outageat>9/18/2026 1:50:31 AM</Outageat>
+    <TotalOut>102</TotalOut>
+    <Outageat>9/18/2026 2:05:31 AM</Outageat>
   </Message>
 </Incidents>
