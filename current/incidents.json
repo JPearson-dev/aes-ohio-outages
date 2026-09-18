@@ -1,8 +1,8 @@
 [
   {
     "id": 1811459,
-    "lat": 39.36238954,
-    "lng": -83.366953542924,
+    "lat": 39.36571814,
+    "lng": -83.3625705429557,
     "customers_affected": 35,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1811463,
-    "lat": 40.41380228,
-    "lng": -84.6163893800915,
+    "lat": 40.41713088,
+    "lng": -84.6119333414081,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1811468,
-    "lat": 40.33561869,
-    "lng": -83.8987495717977,
+    "lat": 40.33894729,
+    "lng": -83.894299103103,
     "customers_affected": 66,
     "county": "LOGAN",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1811470,
-    "lat": 40.28884254,
-    "lng": -83.3398301470389,
+    "lat": 40.29217114,
+    "lng": -83.3353829999308,
     "customers_affected": 3,
     "county": "UNION",
     "indicator": "D",
@@ -40,19 +40,9 @@
     "estimate_time": "2026-09-18T05:00:00"
   },
   {
-    "id": 1811471,
-    "lat": 40.2755151,
-    "lng": -83.7627103525736,
-    "customers_affected": 389,
-    "county": "LOGAN",
-    "indicator": "D",
-    "outage_time": "2026-09-18T02:06:00",
-    "estimate_time": "2026-09-18T05:00:00"
-  },
-  {
     "id": 1811472,
-    "lat": 40.04930541,
-    "lng": -83.8934192123935,
+    "lat": 40.05263401,
+    "lng": -83.8889889483852,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1811473,
-    "lat": 40.2883743,
-    "lng": -83.3327258310714,
+    "lat": 40.2917029,
+    "lng": -83.3282787171722,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
@@ -71,12 +61,92 @@
   },
   {
     "id": 1811474,
-    "lat": 39.73088751,
-    "lng": -83.9226087335706,
+    "lat": 39.73421611,
+    "lng": -83.9182005885993,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-18T02:07:00",
     "estimate_time": "2026-09-18T05:00:00"
+  },
+  {
+    "id": 1811475,
+    "lat": 39.58648965,
+    "lng": -84.6285412234202,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:32:00",
+    "estimate_time": "2026-09-18T05:00:00"
+  },
+  {
+    "id": 1811476,
+    "lat": 39.8201776,
+    "lng": -83.6301027872729,
+    "customers_affected": 1,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:38:00",
+    "estimate_time": "2026-09-18T06:00:00"
+  },
+  {
+    "id": 1811477,
+    "lat": 39.81473004,
+    "lng": -83.6687687114578,
+    "customers_affected": 1,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:34:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811478,
+    "lat": 39.84171489,
+    "lng": -83.6132078935823,
+    "customers_affected": 5,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:39:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811480,
+    "lat": 40.26435753,
+    "lng": -83.7540430327182,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:06:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811481,
+    "lat": 40.26451678,
+    "lng": -83.7456203395051,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:06:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811482,
+    "lat": 40.26667142,
+    "lng": -83.7675938347994,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:06:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811483,
+    "lat": 40.26472055,
+    "lng": -83.7579919042108,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-09-18T02:06:00",
+    "estimate_time": null
   }
 ]
