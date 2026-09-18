@@ -1,8 +1,8 @@
 [
   {
     "id": 1811459,
-    "lat": 39.36362664,
-    "lng": -83.365324567,
+    "lat": 39.36624324,
+    "lng": -83.3618791071318,
     "customers_affected": 35,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1811468,
-    "lat": 40.33685579,
-    "lng": -83.8970955205984,
+    "lat": 40.33947239,
+    "lng": -83.893597023817,
     "customers_affected": 66,
     "county": "LOGAN",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1811470,
-    "lat": 40.29007964,
-    "lng": -83.3381773303329,
+    "lat": 40.29269624,
+    "lng": -83.3346814446384,
     "customers_affected": 3,
     "county": "UNION",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1811473,
-    "lat": 40.2896114,
-    "lng": -83.3310730267078,
+    "lat": 40.292228,
+    "lng": -83.3275771671186,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1811474,
-    "lat": 39.73212461,
-    "lng": -83.9209704123112,
+    "lat": 39.73474121,
+    "lng": -83.9175051860503,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1811475,
-    "lat": 39.58439815,
-    "lng": -84.6313046769068,
+    "lat": 39.58701475,
+    "lng": -84.6278474202044,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -61,8 +61,8 @@
   },
   {
     "id": 1811477,
-    "lat": 39.81263854,
-    "lng": -83.6715420277226,
+    "lat": 39.81525514,
+    "lng": -83.6680724320552,
     "customers_affected": 2,
     "county": "CLARK",
     "indicator": "D",
@@ -71,8 +71,8 @@
   },
   {
     "id": 1811480,
-    "lat": 40.26226603,
-    "lng": -83.7568361245265,
+    "lat": 40.26488263,
+    "lng": -83.7533417883919,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -81,8 +81,8 @@
   },
   {
     "id": 1811481,
-    "lat": 40.26242528,
-    "lng": -83.7484134384,
+    "lat": 40.26504188,
+    "lng": -83.7449190933996,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -91,8 +91,8 @@
   },
   {
     "id": 1811483,
-    "lat": 40.26262905,
-    "lng": -83.7607850121734,
+    "lat": 40.26524565,
+    "lng": -83.7572906558286,
     "customers_affected": 2,
     "county": "LOGAN",
     "indicator": "D",
@@ -101,8 +101,8 @@
   },
   {
     "id": 1811488,
-    "lat": 39.83962339,
-    "lng": -83.6159823836787,
+    "lat": 39.84223999,
+    "lng": -83.612511319473,
     "customers_affected": 28,
     "county": "CLARK",
     "indicator": "D",
@@ -111,8 +111,8 @@
   },
   {
     "id": 1811489,
-    "lat": 39.79427412,
-    "lng": -83.6703264453362,
+    "lat": 39.79689072,
+    "lng": -83.6668578478978,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -121,8 +121,8 @@
   },
   {
     "id": 1811490,
-    "lat": 39.69312803,
-    "lng": -83.5180519891324,
+    "lat": 39.69574463,
+    "lng": -83.5145888726089,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -131,12 +131,22 @@
   },
   {
     "id": 1811491,
-    "lat": 39.63966221,
-    "lng": -83.3654849374229,
+    "lat": 39.64227881,
+    "lng": -83.36202470649,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-09-18T03:12:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-18T06:00:00"
+  },
+  {
+    "id": 1811492,
+    "lat": 39.66450953,
+    "lng": -83.2207309926059,
+    "customers_affected": 1,
+    "county": "PICKAWAY",
+    "indicator": "D",
+    "outage_time": "2026-09-18T03:26:00",
+    "estimate_time": "2026-09-18T06:00:00"
   }
 ]
