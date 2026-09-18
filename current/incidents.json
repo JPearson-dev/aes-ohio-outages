@@ -1,8 +1,8 @@
 [
   {
     "id": 1811123,
-    "lat": 40.19033959,
-    "lng": -84.2006139470555,
+    "lat": 40.19049089,
+    "lng": -84.2004121218,
     "customers_affected": 2,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1811253,
-    "lat": 39.77138074,
-    "lng": -84.0219782366778,
+    "lat": 39.77153204,
+    "lng": -84.0217777405497,
     "customers_affected": 6,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1811256,
-    "lat": 39.77413221,
-    "lng": -84.1302599799947,
+    "lat": 39.77428351,
+    "lng": -84.1300594752319,
     "customers_affected": 14,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1811257,
-    "lat": 39.77283973,
-    "lng": -84.1721968715019,
+    "lat": 39.77299103,
+    "lng": -84.1719963707952,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1811268,
-    "lat": 39.7697754,
-    "lng": -84.1789192214368,
+    "lat": 39.7699267,
+    "lng": -84.1787187303459,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1811273,
-    "lat": 39.77064169,
-    "lng": -84.1422406561904,
+    "lat": 39.77079299,
+    "lng": -84.1420401623813,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,9 +61,9 @@
   },
   {
     "id": 1811374,
-    "lat": 39.65094341,
-    "lng": -84.1095782259437,
-    "customers_affected": 1,
+    "lat": 39.65109471,
+    "lng": -84.1093781065651,
+    "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-17T16:43:00",
@@ -71,8 +71,8 @@
   },
   {
     "id": 1811381,
-    "lat": 39.64423382,
-    "lng": -84.1107890246384,
+    "lat": 39.64438512,
+    "lng": -84.1105889261793,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -81,8 +81,8 @@
   },
   {
     "id": 1811394,
-    "lat": 40.53343943,
-    "lng": -83.8588431546695,
+    "lat": 40.53359073,
+    "lng": -83.8586402191032,
     "customers_affected": 4,
     "county": "LOGAN",
     "indicator": "D",
@@ -91,8 +91,8 @@
   },
   {
     "id": 1811413,
-    "lat": 39.78979201,
-    "lng": -84.2277547601543,
+    "lat": 39.78994331,
+    "lng": -84.2275542062242,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -101,8 +101,8 @@
   },
   {
     "id": 1811429,
-    "lat": 39.8425088,
-    "lng": -84.1772042502802,
+    "lat": 39.8426601,
+    "lng": -84.17700353054,
     "customers_affected": 14,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -111,8 +111,8 @@
   },
   {
     "id": 1811434,
-    "lat": 39.63987307,
-    "lng": -84.1459839409406,
+    "lat": 39.64002437,
+    "lng": -84.1457838560738,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -121,8 +121,8 @@
   },
   {
     "id": 1811440,
-    "lat": 39.78030194,
-    "lng": -84.1398185614326,
+    "lat": 39.78045324,
+    "lng": -84.1396180373034,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -131,32 +131,22 @@
   },
   {
     "id": 1811442,
-    "lat": 39.78195702,
-    "lng": -84.1358352764275,
+    "lat": 39.78210832,
+    "lng": -84.135634747102,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-17T19:41:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-17T22:00:00"
   },
   {
-    "id": 1811443,
-    "lat": 39.73945137,
-    "lng": -84.4992256208725,
+    "id": 1811445,
+    "lat": 39.73995473,
+    "lng": -84.4877316726451,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
-    "outage_time": "2026-09-17T19:44:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1811444,
-    "lat": 39.72891397,
-    "lng": -84.1318680985493,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-17T19:45:00",
-    "estimate_time": null
+    "outage_time": "2026-09-17T19:48:00",
+    "estimate_time": "2026-09-17T22:00:00"
   }
 ]
