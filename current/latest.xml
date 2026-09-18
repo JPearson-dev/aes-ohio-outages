@@ -1,14 +1,36 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.774068</LAT>
-    <LNG>-84.2686818461146</LNG>
+    <LAT>39.7766846</LAT>
+    <LNG>-84.2652142604121</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811610</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>1</total>
+    <total>3</total>
     <OutageTime>09/18/2026 03:04 PM</OutageTime>
+    <EstimateTime>09/18/2026 08:30 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.71858155</LAT>
+    <LNG>-84.5459034350668</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811611</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>3</total>
+    <OutageTime>09/18/2026 03:25 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.31830826</LAT>
+    <LNG>-84.0828760859907</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811612</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>3</total>
+    <OutageTime>09/18/2026 03:26 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
@@ -85,7 +107,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -93,7 +115,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -110,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>9/18/2026 3:20:31 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>9/18/2026 3:35:31 PM</Outageat>
   </Message>
 </Incidents>
