@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.72243117</LAT>
-    <LNG>-84.6736803760164</LNG>
+    <LAT>39.36392034</LAT>
+    <LNG>-83.3649378317086</LNG>
+    <TOTALCUSTS>35</TOTALCUSTS>
+    <INCIDENTID>1811459</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>HIGHLAND</COUNTY>
+    <total>39</total>
+    <OutageTime>09/18/2026 12:22 AM</OutageTime>
+    <EstimateTime>09/18/2026 03:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.72114957</LAT>
+    <LNG>-84.6754045434154</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811458</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>4</total>
+    <total>39</total>
     <OutageTime>09/17/2026 11:53 PM</OutageTime>
     <EstimateTime>09/18/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65342651</LAT>
-    <LNG>-84.1062939137889</LNG>
+    <LAT>39.65214491</LAT>
+    <LNG>-84.107989042643</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1811374</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>4</total>
+    <total>39</total>
     <OutageTime>09/17/2026 04:43 PM</OutageTime>
     <EstimateTime>09/18/2026 05:00 AM</EstimateTime>
   </Markers>
@@ -68,7 +79,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>0</TotOut>
+    <TotOut>35</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>9/18/2026 12:20:30 AM</Outageat>
+    <TotalOut>39</TotalOut>
+    <Outageat>9/18/2026 12:35:31 AM</Outageat>
   </Message>
 </Incidents>
