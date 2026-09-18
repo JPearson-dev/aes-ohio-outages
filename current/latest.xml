@@ -1,37 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.36601184</LAT>
-    <LNG>-83.3621838076644</LNG>
+    <LAT>39.36344864</LAT>
+    <LNG>-83.365558952025</LNG>
     <TOTALCUSTS>35</TOTALCUSTS>
     <INCIDENTID>1811459</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>37</total>
+    <total>103</total>
     <OutageTime>09/18/2026 12:22 AM</OutageTime>
     <EstimateTime>09/18/2026 03:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.72324107</LAT>
-    <LNG>-84.6725907980073</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811458</INCIDENTID>
+    <LAT>40.33667779</LAT>
+    <LNG>-83.8973335135767</LNG>
+    <TOTALCUSTS>66</TOTALCUSTS>
+    <INCIDENTID>1811468</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MERCER</COUNTY>
-    <total>37</total>
-    <OutageTime>09/17/2026 11:53 PM</OutageTime>
-    <EstimateTime>09/18/2026 02:00 AM</EstimateTime>
+    <COUNTY>LOGAN</COUNTY>
+    <total>103</total>
+    <OutageTime>09/18/2026 01:37 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.41742458</LAT>
-    <LNG>-84.6115401615242</LNG>
+    <LAT>40.41486138</LAT>
+    <LNG>-84.6149715496013</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811463</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>37</total>
+    <total>103</total>
     <OutageTime>09/18/2026 12:43 AM</OutageTime>
     <EstimateTime>09/18/2026 04:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.72067787</LAT>
+    <LNG>-84.6760391328053</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811458</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>103</total>
+    <OutageTime>09/17/2026 11:53 PM</OutageTime>
+    <EstimateTime>09/18/2026 02:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -83,7 +94,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>66</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>37</TotalOut>
-    <Outageat>9/18/2026 1:35:31 AM</Outageat>
+    <TotalOut>103</TotalOut>
+    <Outageat>9/18/2026 1:50:31 AM</Outageat>
   </Message>
 </Incidents>

@@ -1,8 +1,8 @@
 [
   {
     "id": 1811458,
-    "lat": 40.72324107,
-    "lng": -84.6725907980073,
+    "lat": 40.72067787,
+    "lng": -84.6760391328053,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1811459,
-    "lat": 39.36601184,
-    "lng": -83.3621838076644,
+    "lat": 39.36344864,
+    "lng": -83.365558952025,
     "customers_affected": 35,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1811463,
-    "lat": 40.41742458,
-    "lng": -84.6115401615242,
+    "lat": 40.41486138,
+    "lng": -84.6149715496013,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-09-18T00:43:00",
     "estimate_time": "2026-09-18T04:00:00"
+  },
+  {
+    "id": 1811468,
+    "lat": 40.33667779,
+    "lng": -83.8973335135767,
+    "customers_affected": 66,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-09-18T01:37:00",
+    "estimate_time": null
   }
 ]
