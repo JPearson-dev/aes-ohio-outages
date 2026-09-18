@@ -1,18 +1,8 @@
 [
   {
-    "id": 1811491,
-    "lat": 39.63942191,
-    "lng": -83.3658027137331,
-    "customers_affected": 1,
-    "county": "FAYETTE",
-    "indicator": "D",
-    "outage_time": "2026-09-18T03:08:00",
-    "estimate_time": "2026-09-18T17:30:00"
-  },
-  {
     "id": 1811492,
-    "lat": 39.66165263,
-    "lng": -83.2245103087812,
+    "lat": 39.66180393,
+    "lng": -83.2243101580803,
     "customers_affected": 1,
     "county": "PICKAWAY",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1811496,
-    "lat": 39.52703237,
-    "lng": -83.2805959597419,
+    "lat": 39.52718367,
+    "lng": -83.2803962275947,
     "customers_affected": 2,
     "county": "FAYETTE",
     "indicator": "D",
@@ -31,38 +21,28 @@
   },
   {
     "id": 1811503,
-    "lat": 39.78051901,
-    "lng": -84.1396101635617,
+    "lat": 39.78067031,
+    "lng": -84.1394096408466,
     "customers_affected": 186,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-18T04:33:00",
-    "estimate_time": "2026-09-18T13:30:00"
+    "estimate_time": null
   },
   {
     "id": 1811522,
-    "lat": 39.72391621,
-    "lng": -84.1525113157448,
+    "lat": 39.72406751,
+    "lng": -84.1523109704653,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-18T07:24:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1811548,
-    "lat": 39.66380217,
-    "lng": -84.1904657767874,
-    "customers_affected": 69,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-18T09:18:00",
-    "estimate_time": "2026-09-18T16:30:00"
+    "estimate_time": "2026-09-18T18:00:00"
   },
   {
     "id": 1811551,
-    "lat": 39.75447658,
-    "lng": -84.0309580713442,
+    "lat": 39.75462788,
+    "lng": -84.0307576303304,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -71,8 +51,8 @@
   },
   {
     "id": 1811560,
-    "lat": 40.26170121,
-    "lng": -83.7709701449057,
+    "lat": 40.26185251,
+    "lng": -83.7707680925004,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -81,8 +61,8 @@
   },
   {
     "id": 1811571,
-    "lat": 39.66380217,
-    "lng": -84.1904657767874,
+    "lat": 39.66395347,
+    "lng": -84.1902656193796,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -91,8 +71,8 @@
   },
   {
     "id": 1811572,
-    "lat": 40.64320567,
-    "lng": -84.7710484724704,
+    "lat": 40.64335697,
+    "lng": -84.770845179654,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -101,8 +81,8 @@
   },
   {
     "id": 1811575,
-    "lat": 40.70130436,
-    "lng": -84.7710627203012,
+    "lat": 40.70145566,
+    "lng": -84.770859236403,
     "customers_affected": 30,
     "county": "MERCER",
     "indicator": "D",
@@ -111,8 +91,8 @@
   },
   {
     "id": 1811577,
-    "lat": 40.08344675,
-    "lng": -83.7902613072558,
+    "lat": 40.08359805,
+    "lng": -83.7900598260033,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -121,8 +101,8 @@
   },
   {
     "id": 1811579,
-    "lat": 40.02987965,
-    "lng": -84.6798006287127,
+    "lat": 40.03003095,
+    "lng": -84.6795993180621,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -130,19 +110,9 @@
     "estimate_time": null
   },
   {
-    "id": 1811580,
-    "lat": 39.74678372,
-    "lng": -84.2213110623176,
-    "customers_affected": 2,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-18T11:33:00",
-    "estimate_time": "2026-09-18T17:00:00"
-  },
-  {
     "id": 1811581,
-    "lat": 39.35826495,
-    "lng": -83.3715371003932,
+    "lat": 39.35841625,
+    "lng": -83.3713378888532,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -151,8 +121,8 @@
   },
   {
     "id": 1811583,
-    "lat": 40.50405156,
-    "lng": -83.9799873653216,
+    "lat": 40.50420286,
+    "lng": -83.9797845278156,
     "customers_affected": 1,
     "county": "AUGLAIZE",
     "indicator": "D",
@@ -161,12 +131,22 @@
   },
   {
     "id": 1811584,
-    "lat": 39.56041688,
-    "lng": -83.4342968987287,
+    "lat": 39.56056818,
+    "lng": -83.434097063057,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-09-18T12:07:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811589,
+    "lat": 40.10607217,
+    "lng": -84.603997484173,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-09-18T12:39:00",
     "estimate_time": null
   }
 ]
