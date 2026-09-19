@@ -1,47 +1,36 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.56274654</LAT>
-    <LNG>-83.2746909184994</LNG>
+    <LAT>39.55932004</LAT>
+    <LNG>-83.2792166354618</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811745</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>5</total>
+    <total>4</total>
     <OutageTime>09/19/2026 05:51 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76182929</LAT>
-    <LNG>-84.2537373440944</LNG>
+    <LAT>39.75840279</LAT>
+    <LNG>-84.2582771272409</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811751</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
+    <total>4</total>
     <OutageTime>09/19/2026 06:39 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.59758995</LAT>
-    <LNG>-84.1259940981043</LNG>
+    <LAT>39.59416345</LAT>
+    <LNG>-84.1305222664351</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1811749</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
+    <total>4</total>
     <OutageTime>09/19/2026 06:25 PM</OutageTime>
-    <EstimateTime>09/20/2026 12:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.69004644</LAT>
-    <LNG>-84.634462595915</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811728</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>5</total>
-    <OutageTime>09/19/2026 04:01 PM</OutageTime>
     <EstimateTime>09/20/2026 12:00 AM</EstimateTime>
   </Markers>
   <Counties>
@@ -118,7 +107,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>9/19/2026 6:50:31 PM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>9/19/2026 7:05:31 PM</Outageat>
   </Message>
 </Incidents>
