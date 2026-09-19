@@ -1,13 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.79897798</LAT>
-    <LNG>-84.7443719872021</LNG>
+    <LAT>39.53793808</LAT>
+    <LNG>-83.4272510583478</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
+    <INCIDENTID>1811686</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>8</total>
+    <OutageTime>09/19/2026 07:56 AM</OutageTime>
+    <EstimateTime>09/19/2026 01:30 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.82817761</LAT>
+    <LNG>-84.2853590131936</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811687</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>8</total>
+    <OutageTime>09/19/2026 07:59 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.79705558</LAT>
+    <LNG>-84.7469204825416</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811685</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>1</total>
+    <total>8</total>
     <OutageTime>09/19/2026 07:14 AM</OutageTime>
     <EstimateTime>09/19/2026 01:00 PM</EstimateTime>
   </Markers>
@@ -45,7 +67,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>6</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -77,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -110,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>9/19/2026 7:50:31 AM</Outageat>
+    <TotalOut>8</TotalOut>
+    <Outageat>9/19/2026 8:05:31 AM</Outageat>
   </Message>
 </Incidents>
