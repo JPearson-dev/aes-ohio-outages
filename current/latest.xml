@@ -1,35 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.94602214</LAT>
-    <LNG>-84.6131525152439</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811644</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>3</total>
-    <OutageTime>09/18/2026 09:14 PM</OutageTime>
-    <EstimateTime>09/19/2026 02:30 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66802191</LAT>
-    <LNG>-84.1731236982482</LNG>
+    <LAT>39.67022021</LAT>
+    <LNG>-84.1702152858583</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811616</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
+    <total>2</total>
     <OutageTime>09/18/2026 04:14 PM</OutageTime>
     <EstimateTime>09/19/2026 12:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77495971</LAT>
-    <LNG>-84.7098733729069</LNG>
+    <LAT>39.77715801</LAT>
+    <LNG>-84.7069600974016</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811645</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>3</total>
+    <total>2</total>
     <OutageTime>09/18/2026 10:04 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
@@ -59,7 +48,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>9/18/2026 10:20:32 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>9/18/2026 10:35:33 PM</Outageat>
   </Message>
 </Incidents>
