@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.746141</LAT>
-    <LNG>-84.0644084739602</LNG>
+    <LAT>39.7496387</LAT>
+    <LNG>-84.0597752882278</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1811696</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,19 @@
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75282708</LAT>
-    <LNG>-84.2882570148906</LNG>
+    <LAT>40.70441641</LAT>
+    <LNG>-84.6492502396137</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811700</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>6</total>
+    <OutageTime>09/19/2026 10:52 AM</OutageTime>
+    <EstimateTime>09/19/2026 04:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.75632478</LAT>
+    <LNG>-84.2836233446775</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811697</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +34,8 @@
     <EstimateTime>09/19/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79659278</LAT>
-    <LNG>-84.7475340091974</LNG>
+    <LAT>39.80009048</LAT>
+    <LNG>-84.7428971635102</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811685</INCIDENTID>
     <IND>D</IND>
@@ -32,17 +43,6 @@
     <total>6</total>
     <OutageTime>09/19/2026 07:14 AM</OutageTime>
     <EstimateTime>09/19/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.86758327</LAT>
-    <LNG>-84.782462263461</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811693</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>6</total>
-    <OutageTime>09/19/2026 09:47 AM</OutageTime>
-    <EstimateTime>09/19/2026 03:30 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -102,7 +102,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -118,7 +118,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -144,6 +144,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>6</TotalOut>
-    <Outageat>9/19/2026 10:50:31 AM</Outageat>
+    <Outageat>9/19/2026 11:05:31 AM</Outageat>
   </Message>
 </Incidents>
