@@ -1,37 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.74712</LAT>
-    <LNG>-84.0631116535262</LNG>
+    <LAT>39.746141</LAT>
+    <LNG>-84.0644084739602</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1811696</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>09/19/2026 10:27 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86856227</LAT>
-    <LNG>-84.7811629726019</LNG>
+    <LAT>39.75282708</LAT>
+    <LNG>-84.2882570148906</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811693</INCIDENTID>
+    <INCIDENTID>1811697</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>5</total>
-    <OutageTime>09/19/2026 09:47 AM</OutageTime>
-    <EstimateTime>09/19/2026 03:30 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>6</total>
+    <OutageTime>09/19/2026 10:31 AM</OutageTime>
+    <EstimateTime>09/19/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79757178</LAT>
-    <LNG>-84.7462361643486</LNG>
+    <LAT>39.79659278</LAT>
+    <LNG>-84.7475340091974</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811685</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>09/19/2026 07:14 AM</OutageTime>
     <EstimateTime>09/19/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.86758327</LAT>
+    <LNG>-84.782462263461</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811693</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>6</total>
+    <OutageTime>09/19/2026 09:47 AM</OutageTime>
+    <EstimateTime>09/19/2026 03:30 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -99,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>9/19/2026 10:35:31 AM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>9/19/2026 10:50:31 AM</Outageat>
   </Message>
 </Incidents>
