@@ -1,68 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.24416749</LAT>
-    <LNG>-83.8256431050846</LNG>
+    <LAT>39.24256549</LAT>
+    <LNG>-83.8277486217409</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811855</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>23</total>
+    <total>24</total>
     <OutageTime>09/20/2026 11:41 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.59819515</LAT>
-    <LNG>-84.1251943177238</LNG>
+    <LAT>39.59659315</LAT>
+    <LNG>-84.1273113834369</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811825</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>23</total>
+    <total>24</total>
     <OutageTime>09/20/2026 08:01 AM</OutageTime>
     <EstimateTime>09/20/2026 01:30 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.36854922</LAT>
-    <LNG>-84.0390031226977</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811854</INCIDENTID>
+    <LAT>40.3651147</LAT>
+    <LNG>-84.0409169714413</LNG>
+    <TOTALCUSTS>7</TOTALCUSTS>
+    <INCIDENTID>1811860</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>23</total>
-    <OutageTime>09/20/2026 11:36 AM</OutageTime>
-    <EstimateTime>09/20/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.3667167</LAT>
-    <LNG>-84.0387740913626</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1811859</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>23</total>
+    <total>24</total>
     <OutageTime>09/20/2026 12:44 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.44555053</LAT>
-    <LNG>-84.0232085748387</LNG>
+    <LAT>40.44394853</LAT>
+    <LNG>-84.0253541618956</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811858</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>23</total>
+    <total>24</total>
     <OutageTime>09/20/2026 12:36 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.29944001</LAT>
-    <LNG>-84.1674193121429</LNG>
+    <LAT>40.29783801</LAT>
+    <LNG>-84.1695598908907</LNG>
     <TOTALCUSTS>14</TOTALCUSTS>
     <INCIDENTID>1811832</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>23</total>
+    <total>24</total>
     <OutageTime>09/20/2026 09:16 AM</OutageTime>
     <EstimateTime>09/20/2026 04:30 PM</EstimateTime>
   </Markers>
@@ -148,7 +137,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>21</TotOut>
+    <TotOut>22</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -165,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>23</TotalOut>
-    <Outageat>9/20/2026 12:50:31 PM</Outageat>
+    <TotalOut>24</TotalOut>
+    <Outageat>9/20/2026 1:05:31 PM</Outageat>
   </Message>
 </Incidents>
