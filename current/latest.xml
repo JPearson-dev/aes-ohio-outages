@@ -1,57 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.24229849</LAT>
-    <LNG>-83.8280995411836</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811866</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>HIGHLAND</COUNTY>
-    <total>15</total>
-    <OutageTime>09/20/2026 02:22 PM</OutageTime>
-    <EstimateTime>09/20/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.77230341</LAT>
-    <LNG>-84.1431161444999</LNG>
+    <LAT>39.77134221</LAT>
+    <LNG>-84.1443898760336</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811864</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>15</total>
+    <total>14</total>
     <OutageTime>09/20/2026 01:43 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83125879</LAT>
-    <LNG>-84.181475842713</LNG>
+    <LAT>39.83029759</LAT>
+    <LNG>-84.1827507513244</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1811870</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>15</total>
+    <total>14</total>
     <OutageTime>09/20/2026 02:50 PM</OutageTime>
     <EstimateTime>09/20/2026 08:30 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.3648477</LAT>
-    <LNG>-84.0412741181211</LNG>
+    <LAT>40.3638865</LAT>
+    <LNG>-84.0425598461683</LNG>
     <TOTALCUSTS>7</TOTALCUSTS>
     <INCIDENTID>1811860</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>15</total>
+    <total>14</total>
     <OutageTime>09/20/2026 12:33 PM</OutageTime>
     <EstimateTime>09/20/2026 06:30 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.3949871</LAT>
-    <LNG>-84.0060120165467</LNG>
+    <LAT>39.3940259</LAT>
+    <LNG>-84.0072782995378</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811865</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>15</total>
+    <total>14</total>
     <OutageTime>09/20/2026 02:15 PM</OutageTime>
     <EstimateTime>09/20/2026 07:30 PM</EstimateTime>
   </Markers>
@@ -101,7 +90,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>15</TotalOut>
-    <Outageat>9/20/2026 3:20:31 PM</Outageat>
+    <TotalOut>14</TotalOut>
+    <Outageat>9/20/2026 3:35:31 PM</Outageat>
   </Message>
 </Incidents>
