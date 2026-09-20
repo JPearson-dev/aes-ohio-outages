@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.3660225</LAT>
-    <LNG>-84.0397026727301</LNG>
-    <TOTALCUSTS>7</TOTALCUSTS>
-    <INCIDENTID>1811860</INCIDENTID>
+    <LAT>39.54231669</LAT>
+    <LNG>-83.5267200111499</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1811878</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>7</total>
-    <OutageTime>09/20/2026 12:33 PM</OutageTime>
-    <EstimateTime>09/20/2026 06:30 PM</EstimateTime>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>1</total>
+    <OutageTime>09/20/2026 05:08 PM</OutageTime>
+    <EstimateTime>09/20/2026 10:30 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -45,7 +45,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -93,7 +93,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>7</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -110,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>7</TotalOut>
-    <Outageat>9/20/2026 5:05:31 PM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>9/20/2026 5:20:31 PM</Outageat>
   </Message>
 </Incidents>
