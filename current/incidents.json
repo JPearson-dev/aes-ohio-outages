@@ -1,8 +1,8 @@
 [
   {
     "id": 1811793,
-    "lat": 39.36832963,
-    "lng": -83.6228720004837,
+    "lat": 39.37180953,
+    "lng": -83.6182893509473,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1811795,
-    "lat": 39.33440948,
-    "lng": -83.8168122936992,
+    "lat": 39.33788938,
+    "lng": -83.8122320395346,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -20,29 +20,19 @@
     "estimate_time": null
   },
   {
-    "id": 1811799,
-    "lat": 39.36884485,
-    "lng": -83.9724015822249,
+    "id": 1811800,
+    "lat": 39.37232475,
+    "lng": -83.9678188962722,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-20T01:17:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1811800,
-    "lat": 39.36202368,
-    "lng": -83.9806809928928,
-    "customers_affected": 5,
-    "county": "CLINTON",
-    "indicator": "D",
-    "outage_time": "2026-09-20T01:18:00",
     "estimate_time": "2026-09-20T09:00:00"
   },
   {
     "id": 1811801,
-    "lat": 39.36874522,
-    "lng": -83.9286725512258,
+    "lat": 39.37222512,
+    "lng": -83.9240898723151,
     "customers_affected": 2,
     "county": "CLINTON",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1811802,
-    "lat": 39.28619814,
-    "lng": -83.8221704804534,
+    "lat": 39.28967804,
+    "lng": -83.8175936236357,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -61,9 +51,9 @@
   },
   {
     "id": 1811805,
-    "lat": 39.3488895,
-    "lng": -83.8982387560366,
-    "customers_affected": 1,
+    "lat": 39.3523694,
+    "lng": -83.8936574798379,
+    "customers_affected": 2,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-20T02:52:00",
@@ -71,8 +61,8 @@
   },
   {
     "id": 1811806,
-    "lat": 39.39214031,
-    "lng": -83.795411866752,
+    "lat": 39.39562021,
+    "lng": -83.7908275332354,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -81,8 +71,8 @@
   },
   {
     "id": 1811808,
-    "lat": 39.6802602,
-    "lng": -84.5810030382414,
+    "lat": 39.6837401,
+    "lng": -84.5763981620257,
     "customers_affected": 13,
     "county": "PREBLE",
     "indicator": "D",
@@ -91,12 +81,32 @@
   },
   {
     "id": 1811810,
-    "lat": 39.63355646,
-    "lng": -83.3908843095201,
+    "lat": 39.63703636,
+    "lng": -83.3862827841479,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-09-20T04:58:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811811,
+    "lat": 39.37157567,
+    "lng": -83.9671807920755,
+    "customers_affected": 1,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-09-20T05:18:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811812,
+    "lat": 39.36550358,
+    "lng": -83.9760987889886,
+    "customers_affected": 5,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-09-20T01:18:00",
     "estimate_time": null
   }
 ]
