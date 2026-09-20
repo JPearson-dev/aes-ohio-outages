@@ -1,37 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77274841</LAT>
-    <LNG>-84.1425264539751</LNG>
+    <LAT>39.77433261</LAT>
+    <LNG>-84.1404271557066</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811864</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>9</total>
+    <total>8</total>
     <OutageTime>09/20/2026 01:43 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.3652927</LAT>
-    <LNG>-84.0406788736548</LNG>
+    <LAT>40.3668769</LAT>
+    <LNG>-84.0385598033548</LNG>
     <TOTALCUSTS>7</TOTALCUSTS>
     <INCIDENTID>1811860</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>9</total>
+    <total>8</total>
     <OutageTime>09/20/2026 12:33 PM</OutageTime>
     <EstimateTime>09/20/2026 06:30 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.3954321</LAT>
-    <LNG>-84.0054257744212</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811865</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>9</total>
-    <OutageTime>09/20/2026 02:15 PM</OutageTime>
-    <EstimateTime>09/20/2026 07:30 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -127,12 +116,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>9</TotalOut>
-    <Outageat>9/20/2026 3:50:31 PM</Outageat>
+    <TotalOut>8</TotalOut>
+    <Outageat>9/20/2026 4:05:31 PM</Outageat>
   </Message>
 </Incidents>
