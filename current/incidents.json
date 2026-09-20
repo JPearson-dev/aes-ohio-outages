@@ -1,8 +1,8 @@
 [
   {
     "id": 1811754,
-    "lat": 39.63436636,
-    "lng": -83.3898133662749,
+    "lat": 39.63650236,
+    "lng": -83.3869889005733,
     "customers_affected": 2,
     "county": "FAYETTE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1811792,
-    "lat": 39.85072228,
-    "lng": -83.9970534583578,
+    "lat": 39.85285828,
+    "lng": -83.9942194224118,
     "customers_affected": 36,
     "county": "GREENE",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1811793,
-    "lat": 39.36913953,
-    "lng": -83.6218054503358,
+    "lat": 39.37127553,
+    "lng": -83.618992570825,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-19T23:39:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811795,
+    "lat": 39.33735538,
+    "lng": -83.8129348918361,
+    "customers_affected": 1,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-09-20T00:07:00",
     "estimate_time": null
   }
 ]
