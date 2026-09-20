@@ -1,8 +1,8 @@
 [
   {
     "id": 1811878,
-    "lat": 39.54189839,
-    "lng": -83.5272723384186,
+    "lat": 39.54131989,
+    "lng": -83.5280361952796,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -11,12 +11,52 @@
   },
   {
     "id": 1811888,
-    "lat": 39.74019607,
-    "lng": -84.1715662033531,
+    "lat": 39.73961757,
+    "lng": -84.1723324232786,
     "customers_affected": 13,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-20T18:57:00",
     "estimate_time": "2026-09-21T00:30:00"
+  },
+  {
+    "id": 1811892,
+    "lat": 39.90628631,
+    "lng": -84.3024127076032,
+    "customers_affected": 11,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-20T19:25:00",
+    "estimate_time": "2026-09-21T01:00:00"
+  },
+  {
+    "id": 1811893,
+    "lat": 39.91339165,
+    "lng": -84.4726244433389,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-20T19:28:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811894,
+    "lat": 39.69506843,
+    "lng": -84.756452604542,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-20T19:29:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811895,
+    "lat": 39.88293764,
+    "lng": -84.4901779983061,
+    "customers_affected": 5,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-20T19:27:00",
+    "estimate_time": "2026-09-21T01:00:00"
   }
 ]
