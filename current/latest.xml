@@ -1,57 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.7784242</LAT>
-    <LNG>-84.1401270834906</LNG>
+    <LAT>39.24383819</LAT>
+    <LNG>-83.8260759057306</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811862</INCIDENTID>
+    <INCIDENTID>1811866</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>11</total>
-    <OutageTime>09/20/2026 01:35 PM</OutageTime>
-    <EstimateTime>09/20/2026 07:00 PM</EstimateTime>
+    <COUNTY>HIGHLAND</COUNTY>
+    <total>10</total>
+    <OutageTime>09/20/2026 02:22 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77369181</LAT>
-    <LNG>-84.1412763100624</LNG>
+    <LAT>39.77384311</LAT>
+    <LNG>-84.141075815284</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811864</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>11</total>
+    <total>10</total>
     <OutageTime>09/20/2026 01:43 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.44506993</LAT>
-    <LNG>-84.0238522509558</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1811858</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>11</total>
-    <OutageTime>09/20/2026 12:36 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.3662361</LAT>
-    <LNG>-84.0394169553863</LNG>
+    <LAT>40.3663874</LAT>
+    <LNG>-84.0392145722677</LNG>
     <TOTALCUSTS>7</TOTALCUSTS>
     <INCIDENTID>1811860</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>11</total>
-    <OutageTime>09/20/2026 12:44 PM</OutageTime>
+    <total>10</total>
+    <OutageTime>09/20/2026 12:33 PM</OutageTime>
     <EstimateTime>09/20/2026 06:30 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.3963755</LAT>
-    <LNG>-84.004182941115</LNG>
+    <LAT>39.3965268</LAT>
+    <LNG>-84.0039836187924</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1811865</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>11</total>
+    <total>10</total>
     <OutageTime>09/20/2026 02:15 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
@@ -101,7 +90,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -121,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -137,7 +126,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>8</TotOut>
+    <TotOut>7</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>11</TotalOut>
-    <Outageat>9/20/2026 2:20:31 PM</Outageat>
+    <TotalOut>10</TotalOut>
+    <Outageat>9/20/2026 2:35:31 PM</Outageat>
   </Message>
 </Incidents>
