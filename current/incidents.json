@@ -1,8 +1,8 @@
 [
   {
     "id": 1811800,
-    "lat": 39.36932545,
-    "lng": -83.9717686793056,
+    "lat": 39.36970815,
+    "lng": -83.9712647010551,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -10,20 +10,10 @@
     "estimate_time": "2026-09-20T13:30:00"
   },
   {
-    "id": 1811811,
-    "lat": 39.36857637,
-    "lng": -83.9711305294756,
-    "customers_affected": 1,
-    "county": "CLINTON",
-    "indicator": "D",
-    "outage_time": "2026-09-20T05:18:00",
-    "estimate_time": null
-  },
-  {
     "id": 1811812,
-    "lat": 39.36250428,
-    "lng": -83.9800481565479,
-    "customers_affected": 9,
+    "lat": 39.36288698,
+    "lng": -83.9795442313104,
+    "customers_affected": 10,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-20T01:18:00",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1811823,
-    "lat": 39.7757987,
-    "lng": -84.143606515307,
+    "lat": 39.7761814,
+    "lng": -84.1430993438897,
     "customers_affected": 184,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1811825,
-    "lat": 39.59508905,
-    "lng": -84.129299072912,
+    "lat": 39.59547175,
+    "lng": -84.1287933294361,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1811832,
-    "lat": 40.29633391,
-    "lng": -84.1715696564928,
+    "lat": 40.29671661,
+    "lng": -84.1710582960141,
     "customers_affected": 14,
     "county": "SHELBY",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1811833,
-    "lat": 39.64515647,
-    "lng": -84.2844656640658,
+    "lat": 39.64553917,
+    "lng": -84.2839595263064,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -70,23 +60,33 @@
     "estimate_time": "2026-09-20T17:30:00"
   },
   {
-    "id": 1811838,
-    "lat": 39.57959963,
-    "lng": -84.0635647135082,
-    "customers_affected": 1,
-    "county": "WARREN",
-    "indicator": "D",
-    "outage_time": "2026-09-20T09:48:00",
-    "estimate_time": "2026-09-20T15:00:00"
-  },
-  {
     "id": 1811851,
-    "lat": 39.40456238,
-    "lng": -83.9747219886719,
+    "lat": 39.40494508,
+    "lng": -83.9742177362669,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-20T11:02:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1811854,
+    "lat": 40.36582582,
+    "lng": -84.0426461255883,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-09-20T11:36:00",
+    "estimate_time": "2026-09-20T17:00:00"
+  },
+  {
+    "id": 1811855,
+    "lat": 39.24144409,
+    "lng": -83.8292224834002,
+    "customers_affected": 1,
+    "county": "HIGHLAND",
+    "indicator": "D",
+    "outage_time": "2026-09-20T11:41:00",
     "estimate_time": null
   }
 ]
