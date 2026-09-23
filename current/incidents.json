@@ -1,18 +1,8 @@
 [
   {
-    "id": 1813925,
-    "lat": 39.87300805,
-    "lng": -84.1307712526978,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-23T16:07:00",
-    "estimate_time": "2026-09-23T20:00:00"
-  },
-  {
     "id": 1813929,
-    "lat": 39.6395544,
-    "lng": -84.0583663552513,
+    "lat": 39.639323,
+    "lng": -84.0586723649059,
     "customers_affected": 4,
     "county": "GREENE",
     "indicator": "D",
@@ -21,18 +11,18 @@
   },
   {
     "id": 1813933,
-    "lat": 39.66859704,
-    "lng": -84.0677723529343,
+    "lat": 39.66836564,
+    "lng": -84.0680785011235,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-23T16:29:00",
-    "estimate_time": "2026-09-23T19:00:00"
+    "estimate_time": "2026-09-23T21:00:00"
   },
   {
     "id": 1813936,
-    "lat": 39.6971363,
-    "lng": -84.3446511351866,
+    "lat": 39.6969049,
+    "lng": -84.3449574197131,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,18 +31,18 @@
   },
   {
     "id": 1813937,
-    "lat": 40.14379112,
-    "lng": -84.6176012973947,
+    "lat": 40.14355972,
+    "lng": -84.6179097422631,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-09-23T16:43:00",
-    "estimate_time": "2026-09-23T19:00:00"
+    "estimate_time": "2026-09-23T22:00:00"
   },
   {
     "id": 1813940,
-    "lat": 39.56167134,
-    "lng": -84.0332878099418,
+    "lat": 39.56143994,
+    "lng": -84.033593449121,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -61,38 +51,18 @@
   },
   {
     "id": 1813945,
-    "lat": 39.6574968,
-    "lng": -83.4863772828235,
+    "lat": 39.6572654,
+    "lng": -83.4866833780394,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-09-23T17:09:00",
-    "estimate_time": "2026-09-23T19:00:00"
-  },
-  {
-    "id": 1813948,
-    "lat": 39.86008709,
-    "lng": -84.7762696447794,
-    "customers_affected": 1,
-    "county": "PREBLE",
-    "indicator": "D",
-    "outage_time": "2026-09-23T17:30:00",
-    "estimate_time": "2026-09-23T20:00:00"
-  },
-  {
-    "id": 1813951,
-    "lat": 39.71634977,
-    "lng": -84.1254222999412,
-    "customers_affected": 3,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-23T17:56:00",
     "estimate_time": "2026-09-23T21:00:00"
   },
   {
     "id": 1813952,
-    "lat": 39.36118457,
-    "lng": -83.3689382894808,
+    "lat": 39.36095317,
+    "lng": -83.3692429818432,
     "customers_affected": 2,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -101,9 +71,9 @@
   },
   {
     "id": 1813954,
-    "lat": 39.80634572,
-    "lng": -84.0282318908728,
-    "customers_affected": 23,
+    "lat": 39.80611432,
+    "lng": -84.0285386989848,
+    "customers_affected": 7,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-23T18:01:00",
@@ -111,8 +81,8 @@
   },
   {
     "id": 1813955,
-    "lat": 39.7583018975528,
-    "lng": -84.1642404845406,
+    "lat": 39.7580704975528,
+    "lng": -84.1645470619485,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -121,8 +91,8 @@
   },
   {
     "id": 1813957,
-    "lat": 39.78212189,
-    "lng": -83.6565324302775,
+    "lat": 39.78189049,
+    "lng": -83.6568391219958,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -131,12 +101,22 @@
   },
   {
     "id": 1813958,
-    "lat": 39.71417096,
-    "lng": -84.1675084886651,
+    "lat": 39.71393956,
+    "lng": -84.1678148546657,
     "customers_affected": 4,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-23T18:27:00",
     "estimate_time": "2026-09-23T22:00:00"
+  },
+  {
+    "id": 1813959,
+    "lat": 39.71496484,
+    "lng": -84.1487590684226,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-23T19:11:00",
+    "estimate_time": null
   }
 ]
