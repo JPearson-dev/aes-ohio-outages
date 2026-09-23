@@ -1,26 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.90392651</LAT>
-    <LNG>-84.1810829459292</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1813762</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>4</total>
-    <OutageTime>09/22/2026 05:41 PM</OutageTime>
-    <EstimateTime>09/23/2026 07:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.54835052</LAT>
-    <LNG>-84.0777595479259</LNG>
+    <LAT>39.54873322</LAT>
+    <LNG>-84.077254174457</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1813779</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>4</total>
+    <total>3</total>
     <OutageTime>09/22/2026 10:09 PM</OutageTime>
-    <EstimateTime>09/23/2026 06:00 AM</EstimateTime>
+    <EstimateTime>09/23/2026 07:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -88,7 +77,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -121,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>9/23/2026 4:20:31 AM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>9/23/2026 4:35:31 AM</Outageat>
   </Message>
 </Incidents>
