@@ -1,8 +1,8 @@
 [
   {
     "id": 1813798,
-    "lat": 39.6999487,
-    "lng": -84.3409286001723,
+    "lat": 39.6973855,
+    "lng": -84.344321290312,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1813819,
-    "lat": 39.70926306,
-    "lng": -84.4283936918958,
+    "lat": 39.70669986,
+    "lng": -84.4317868754039,
     "customers_affected": 38,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,18 +21,18 @@
   },
   {
     "id": 1813863,
-    "lat": 39.71691029,
-    "lng": -84.4832371927239,
+    "lat": 39.71434709,
+    "lng": -84.4866307814734,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
     "outage_time": "2026-09-23T10:50:00",
-    "estimate_time": "2026-09-23T13:00:00"
+    "estimate_time": "2026-09-23T14:00:00"
   },
   {
     "id": 1813866,
-    "lat": 39.86589793,
-    "lng": -84.4083802034486,
+    "lat": 39.86333473,
+    "lng": -84.4117817195787,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1813876,
-    "lat": 39.5501108,
-    "lng": -83.2326355728149,
+    "lat": 39.5475476,
+    "lng": -83.2360203589816,
     "customers_affected": 1,
     "county": "PICKAWAY",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1813880,
-    "lat": 40.42785673,
-    "lng": -84.7611295084751,
+    "lat": 40.42529353,
+    "lng": -84.7645614853665,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -61,12 +61,22 @@
   },
   {
     "id": 1813882,
-    "lat": 39.64137997,
-    "lng": -84.3299999105878,
+    "lat": 39.63881677,
+    "lng": -84.3333895038914,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-23T12:29:00",
+    "estimate_time": "2026-09-23T14:00:00"
+  },
+  {
+    "id": 1813886,
+    "lat": 39.69674434,
+    "lng": -84.1506707955327,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-23T12:42:00",
     "estimate_time": null
   }
 ]
