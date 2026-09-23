@@ -1,41 +1,41 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.7997956</LAT>
-    <LNG>-83.9989666064741</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1813898</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>50</total>
-    <OutageTime>09/23/2026 01:59 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.36853295</LAT>
-    <LNG>-84.6358182390636</LNG>
+    <LAT>40.36581845</LAT>
+    <LNG>-84.6394493435234</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813896</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
     <total>50</total>
     <OutageTime>09/23/2026 01:51 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/23/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.42792793</LAT>
-    <LNG>-84.7610341757836</LNG>
+    <LAT>40.42521343</LAT>
+    <LNG>-84.7646687346444</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813880</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
     <total>50</total>
     <OutageTime>09/23/2026 12:11 PM</OutageTime>
-    <EstimateTime>09/23/2026 02:00 PM</EstimateTime>
+    <EstimateTime>09/23/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86596913</LAT>
-    <LNG>-84.4082857168894</LNG>
+    <LAT>39.9461939</LAT>
+    <LNG>-84.3560995237467</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1813900</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>50</total>
+    <OutageTime>09/23/2026 02:06 PM</OutageTime>
+    <EstimateTime>09/23/2026 04:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.86325463</LAT>
+    <LNG>-84.4118880169578</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813866</INCIDENTID>
     <IND>D</IND>
@@ -45,19 +45,19 @@
     <EstimateTime>09/23/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7000199</LAT>
-    <LNG>-84.3408343587796</LNG>
+    <LAT>39.6973054</LAT>
+    <LNG>-84.3444273118788</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1813798</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>50</total>
     <OutageTime>09/23/2026 08:26 AM</OutageTime>
-    <EstimateTime>09/23/2026 01:00 PM</EstimateTime>
+    <EstimateTime>09/23/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69937874</LAT>
-    <LNG>-84.147183898896</LNG>
+    <LAT>39.69666424</LAT>
+    <LNG>-84.1507768160385</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813886</INCIDENTID>
     <IND>D</IND>
@@ -67,30 +67,30 @@
     <EstimateTime>09/23/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.62411665</LAT>
-    <LNG>-84.1936564985525</LNG>
+    <LAT>39.62140215</LAT>
+    <LNG>-84.197245203259</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813895</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>50</total>
     <OutageTime>09/23/2026 01:50 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/23/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70933426</LAT>
-    <LNG>-84.4282994367984</LNG>
+    <LAT>39.70661976</LAT>
+    <LNG>-84.4318929123885</LNG>
     <TOTALCUSTS>38</TOTALCUSTS>
     <INCIDENTID>1813819</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>50</total>
     <OutageTime>09/23/2026 09:27 AM</OutageTime>
-    <EstimateTime>09/23/2026 02:00 PM</EstimateTime>
+    <EstimateTime>09/23/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.59218288</LAT>
-    <LNG>-84.2354161712051</LNG>
+    <LAT>39.58946838</LAT>
+    <LNG>-84.2390030935422</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813888</INCIDENTID>
     <IND>D</IND>
@@ -137,7 +137,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -161,7 +161,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -199,6 +199,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>50</TotalOut>
-    <Outageat>9/23/2026 2:05:31 PM</Outageat>
+    <Outageat>9/23/2026 2:20:31 PM</Outageat>
   </Message>
 </Incidents>
