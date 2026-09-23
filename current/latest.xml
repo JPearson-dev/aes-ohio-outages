@@ -1,8 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.00865008</LAT>
-    <LNG>-84.1878577685268</LNG>
+    <LAT>40.42635263</LAT>
+    <LNG>-84.7631434115815</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1813880</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>52</total>
+    <OutageTime>09/23/2026 12:11 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.00665648</LAT>
+    <LNG>-84.1905093243993</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1813795</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +23,8 @@
     <EstimateTime>09/23/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70846678</LAT>
-    <LNG>-84.094127240528</LNG>
+    <LAT>39.70647318</LAT>
+    <LNG>-84.0967663302742</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813821</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +34,8 @@
     <EstimateTime>09/23/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7004382</LAT>
-    <LNG>-84.340280690597</LNG>
+    <LAT>39.6984446</LAT>
+    <LNG>-84.3429194495945</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1813798</INCIDENTID>
     <IND>D</IND>
@@ -34,8 +45,8 @@
     <EstimateTime>09/23/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70975256</LAT>
-    <LNG>-84.4277456881009</LNG>
+    <LAT>39.70775896</LAT>
+    <LNG>-84.4303848308294</LNG>
     <TOTALCUSTS>38</TOTALCUSTS>
     <INCIDENTID>1813819</INCIDENTID>
     <IND>D</IND>
@@ -45,8 +56,8 @@
     <EstimateTime>09/23/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86638743</LAT>
-    <LNG>-84.4077306083542</LNG>
+    <LAT>39.86439383</LAT>
+    <LNG>-84.410376232011</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813866</INCIDENTID>
     <IND>D</IND>
@@ -56,8 +67,8 @@
     <EstimateTime>09/23/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.5506003</LAT>
-    <LNG>-83.2319891726788</LNG>
+    <LAT>39.5486067</LAT>
+    <LNG>-83.2346217841419</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813876</INCIDENTID>
     <IND>D</IND>
@@ -67,25 +78,14 @@
     <EstimateTime>09/23/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.71739979</LAT>
-    <LNG>-84.4825891115391</LNG>
+    <LAT>39.71540619</LAT>
+    <LNG>-84.4852285694554</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813863</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
     <total>52</total>
     <OutageTime>09/23/2026 10:50 AM</OutageTime>
-    <EstimateTime>09/23/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.15421472</LAT>
-    <LNG>-83.3207757189638</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1813858</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>52</total>
-    <OutageTime>09/23/2026 10:37 AM</OutageTime>
     <EstimateTime>09/23/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -146,7 +146,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -174,7 +174,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -188,6 +188,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>52</TotalOut>
-    <Outageat>9/23/2026 12:05:31 PM</Outageat>
+    <Outageat>9/23/2026 12:20:31 PM</Outageat>
   </Message>
 </Incidents>

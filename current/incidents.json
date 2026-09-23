@@ -1,8 +1,8 @@
 [
   {
     "id": 1813795,
-    "lat": 40.00865008,
-    "lng": -84.1878577685268,
+    "lat": 40.00665648,
+    "lng": -84.1905093243993,
     "customers_affected": 4,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1813798,
-    "lat": 39.7004382,
-    "lng": -84.340280690597,
+    "lat": 39.6984446,
+    "lng": -84.3429194495945,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1813819,
-    "lat": 39.70975256,
-    "lng": -84.4277456881009,
+    "lat": 39.70775896,
+    "lng": -84.4303848308294,
     "customers_affected": 38,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1813821,
-    "lat": 39.70846678,
-    "lng": -84.094127240528,
+    "lat": 39.70647318,
+    "lng": -84.0967663302742,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -40,19 +40,9 @@
     "estimate_time": "2026-09-23T13:00:00"
   },
   {
-    "id": 1813858,
-    "lat": 40.15421472,
-    "lng": -83.3207757189638,
-    "customers_affected": 1,
-    "county": "UNION",
-    "indicator": "D",
-    "outage_time": "2026-09-23T10:37:00",
-    "estimate_time": "2026-09-23T13:00:00"
-  },
-  {
     "id": 1813863,
-    "lat": 39.71739979,
-    "lng": -84.4825891115391,
+    "lat": 39.71540619,
+    "lng": -84.4852285694554,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1813866,
-    "lat": 39.86638743,
-    "lng": -84.4077306083542,
+    "lat": 39.86439383,
+    "lng": -84.410376232011,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -71,12 +61,22 @@
   },
   {
     "id": 1813876,
-    "lat": 39.5506003,
-    "lng": -83.2319891726788,
+    "lat": 39.5486067,
+    "lng": -83.2346217841419,
     "customers_affected": 1,
     "county": "PICKAWAY",
     "indicator": "D",
     "outage_time": "2026-09-23T11:35:00",
     "estimate_time": "2026-09-23T14:00:00"
+  },
+  {
+    "id": 1813880,
+    "lat": 40.42635263,
+    "lng": -84.7631434115815,
+    "customers_affected": 1,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-09-23T12:11:00",
+    "estimate_time": null
   }
 ]
