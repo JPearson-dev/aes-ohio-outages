@@ -1,35 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.00560628</LAT>
-    <LNG>-84.1919061261535</LNG>
+    <LAT>40.00687008</LAT>
+    <LNG>-84.1902252291272</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1813795</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>61</total>
+    <total>62</total>
     <OutageTime>09/23/2026 08:23 AM</OutageTime>
     <EstimateTime>09/23/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.6973944</LAT>
-    <LNG>-84.3443095101378</LNG>
+    <LAT>39.8746175</LAT>
+    <LNG>-84.1301815267639</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1813814</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>62</total>
+    <OutageTime>09/23/2026 09:21 AM</OutageTime>
+    <EstimateTime>09/23/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.6986582</LAT>
+    <LNG>-84.3426367254162</LNG>
     <TOTALCUSTS>56</TOTALCUSTS>
     <INCIDENTID>1813798</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>61</total>
+    <total>62</total>
     <OutageTime>09/23/2026 08:26 AM</OutageTime>
     <EstimateTime>09/23/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69760659</LAT>
-    <LNG>-84.3245629553469</LNG>
+    <LAT>39.69887039</LAT>
+    <LNG>-84.322890165085</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813653</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>61</total>
+    <total>62</total>
     <OutageTime>09/22/2026 11:13 AM</OutageTime>
     <EstimateTime>09/23/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -99,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>57</TotOut>
+    <TotOut>58</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>61</TotalOut>
-    <Outageat>9/23/2026 9:20:31 AM</Outageat>
+    <TotalOut>62</TotalOut>
+    <Outageat>9/23/2026 9:35:31 AM</Outageat>
   </Message>
 </Incidents>
