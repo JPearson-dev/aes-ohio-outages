@@ -1,59 +1,70 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.04673439</LAT>
-    <LNG>-84.2069663101632</LNG>
+    <LAT>39.70139572</LAT>
+    <LNG>-84.0241643731629</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1813912</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>12</total>
+    <OutageTime>09/23/2026 03:05 PM</OutageTime>
+    <EstimateTime>09/23/2026 05:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.04624489</LAT>
+    <LNG>-84.2076177853959</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813908</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>11</total>
+    <total>12</total>
     <OutageTime>09/23/2026 02:44 PM</OutageTime>
     <EstimateTime>09/23/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.9462384</LAT>
-    <LNG>-84.3560403925681</LNG>
+    <LAT>39.9457489</LAT>
+    <LNG>-84.3566908355329</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813900</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>11</total>
+    <total>12</total>
     <OutageTime>09/23/2026 02:06 PM</OutageTime>
     <EstimateTime>09/23/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.62144665</LAT>
-    <LNG>-84.1971863720343</LNG>
+    <LAT>39.62095715</LAT>
+    <LNG>-84.197833515506</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813895</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>11</total>
+    <total>12</total>
     <OutageTime>09/23/2026 01:50 PM</OutageTime>
     <EstimateTime>09/23/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7194357</LAT>
-    <LNG>-84.1280556166113</LNG>
+    <LAT>39.7189462</LAT>
+    <LNG>-84.1287037496702</LNG>
     <TOTALCUSTS>7</TOTALCUSTS>
     <INCIDENTID>1813906</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>11</total>
+    <total>12</total>
     <OutageTime>09/23/2026 02:25 PM</OutageTime>
     <EstimateTime>09/23/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.58951288</LAT>
-    <LNG>-84.2389442915367</LNG>
+    <LAT>39.58902338</LAT>
+    <LNG>-84.2395911135974</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1813888</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>11</total>
+    <total>12</total>
     <OutageTime>09/23/2026 12:48 PM</OutageTime>
-    <EstimateTime>09/23/2026 04:00 PM</EstimateTime>
+    <EstimateTime>09/23/2026 05:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -93,7 +104,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -154,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>11</TotalOut>
-    <Outageat>9/23/2026 3:05:31 PM</Outageat>
+    <TotalOut>12</TotalOut>
+    <Outageat>9/23/2026 3:20:31 PM</Outageat>
   </Message>
 </Incidents>
