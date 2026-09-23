@@ -1,8 +1,8 @@
 [
   {
     "id": 1813798,
-    "lat": 39.6973855,
-    "lng": -84.344321290312,
+    "lat": 39.6980085,
+    "lng": -84.3434966781252,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1813819,
-    "lat": 39.70669986,
-    "lng": -84.4317868754039,
+    "lat": 39.70732286,
+    "lng": -84.4309621433012,
     "customers_affected": 38,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1813863,
-    "lat": 39.71434709,
-    "lng": -84.4866307814734,
+    "lat": 39.71497009,
+    "lng": -84.4858059508746,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -31,28 +31,18 @@
   },
   {
     "id": 1813866,
-    "lat": 39.86333473,
-    "lng": -84.4117817195787,
+    "lat": 39.86395773,
+    "lng": -84.410954962186,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-23T11:00:00",
-    "estimate_time": "2026-09-23T13:00:00"
-  },
-  {
-    "id": 1813876,
-    "lat": 39.5475476,
-    "lng": -83.2360203589816,
-    "customers_affected": 1,
-    "county": "PICKAWAY",
-    "indicator": "D",
-    "outage_time": "2026-09-23T11:35:00",
-    "estimate_time": "2026-09-23T14:00:00"
+    "estimate_time": "2026-09-23T15:00:00"
   },
   {
     "id": 1813880,
-    "lat": 40.42529353,
-    "lng": -84.7645614853665,
+    "lat": 40.42591653,
+    "lng": -84.7637273243165,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1813882,
-    "lat": 39.63881677,
-    "lng": -84.3333895038914,
+    "lat": 39.63943977,
+    "lng": -84.3325656444079,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -71,12 +61,22 @@
   },
   {
     "id": 1813886,
-    "lat": 39.69674434,
-    "lng": -84.1506707955327,
+    "lat": 39.69736734,
+    "lng": -84.1498461915983,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-23T12:42:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-23T15:00:00"
+  },
+  {
+    "id": 1813888,
+    "lat": 39.59017148,
+    "lng": -84.2380740218549,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-09-23T12:48:00",
+    "estimate_time": "2026-09-23T16:00:00"
   }
 ]
