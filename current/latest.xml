@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.45176359</LAT>
-    <LNG>-83.3980206001613</LNG>
+    <LAT>39.45350799</LAT>
+    <LNG>-83.3957204590558</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814082</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,8 @@
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55187736</LAT>
-    <LNG>-83.423345250511</LNG>
+    <LAT>39.55362176</LAT>
+    <LNG>-83.4210415377111</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814141</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +23,8 @@
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55973174</LAT>
-    <LNG>-83.4338938093028</LNG>
+    <LAT>39.56147614</LAT>
+    <LNG>-83.4315898155012</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814138</INCIDENTID>
     <IND>D</IND>
@@ -34,19 +34,8 @@
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75390112</LAT>
-    <LNG>-83.7963988082395</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814137</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>8</total>
-    <OutageTime>09/24/2026 05:26 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.6133064863205</LAT>
-    <LNG>-84.0391317989046</LNG>
+    <LAT>39.6150508863205</LAT>
+    <LNG>-84.0368258853297</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814102</INCIDENTID>
     <IND>D</IND>
@@ -56,8 +45,19 @@
     <EstimateTime>09/24/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.67794679</LAT>
-    <LNG>-84.2322583367158</LNG>
+    <LAT>40.13059339</LAT>
+    <LNG>-84.3389931804402</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814142</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>8</total>
+    <OutageTime>09/24/2026 06:30 PM</OutageTime>
+    <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.67969119</LAT>
+    <LNG>-84.2299500997263</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814118</INCIDENTID>
     <IND>D</IND>
@@ -67,8 +67,8 @@
     <EstimateTime>09/24/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56485431</LAT>
-    <LNG>-84.0837593137992</LNG>
+    <LAT>39.56659871</LAT>
+    <LNG>-84.0814551366687</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1814131</INCIDENTID>
     <IND>D</IND>
@@ -115,7 +115,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -139,7 +139,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -177,6 +177,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>8</TotalOut>
-    <Outageat>9/24/2026 6:35:31 PM</Outageat>
+    <Outageat>9/24/2026 6:50:31 PM</Outageat>
   </Message>
 </Incidents>
