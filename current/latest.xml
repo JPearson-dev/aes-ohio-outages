@@ -1,81 +1,92 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.26665362</LAT>
-    <LNG>-83.7676176066699</LNG>
+    <LAT>40.26569242</LAT>
+    <LNG>-83.768901287676</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814115</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>101</total>
+    <total>102</total>
     <OutageTime>09/24/2026 03:22 PM</OutageTime>
     <EstimateTime>09/24/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.45493199</LAT>
-    <LNG>-83.3938427928472</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814082</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>101</total>
-    <OutageTime>09/24/2026 12:38 PM</OutageTime>
-    <EstimateTime>09/24/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66598147</LAT>
-    <LNG>-83.5486853312241</LNG>
+    <LAT>39.66502027</LAT>
+    <LNG>-83.5499569167921</LNG>
     <TOTALCUSTS>25</TOTALCUSTS>
     <INCIDENTID>1814117</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>101</total>
+    <total>102</total>
     <OutageTime>09/24/2026 03:21 PM</OutageTime>
     <EstimateTime>09/24/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.6164748863205</LAT>
-    <LNG>-84.0349435069012</LNG>
+    <LAT>39.45397079</LAT>
+    <LNG>-83.395110217538</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814082</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>102</total>
+    <OutageTime>09/24/2026 12:38 PM</OutageTime>
+    <EstimateTime>09/24/2026 05:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.6155136863205</LAT>
+    <LNG>-84.0362141123404</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814102</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>101</total>
+    <total>102</total>
     <OutageTime>09/24/2026 02:15 PM</OutageTime>
     <EstimateTime>09/24/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76457602</LAT>
-    <LNG>-84.2223968678806</LNG>
+    <LAT>39.76361482</LAT>
+    <LNG>-84.2236704129462</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1814096</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>101</total>
+    <total>102</total>
     <OutageTime>09/24/2026 01:36 PM</OutageTime>
     <EstimateTime>09/24/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70833009</LAT>
-    <LNG>-84.1518897956729</LNG>
+    <LAT>39.70736889</LAT>
+    <LNG>-84.1531622216598</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1814092</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>101</total>
+    <total>102</total>
     <OutageTime>09/24/2026 01:18 PM</OutageTime>
     <EstimateTime>09/24/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.693366</LAT>
-    <LNG>-84.1110130732742</LNG>
+    <LAT>39.6924048</LAT>
+    <LNG>-84.1122852020836</LNG>
     <TOTALCUSTS>59</TOTALCUSTS>
     <INCIDENTID>1814099</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>101</total>
+    <total>102</total>
     <OutageTime>09/24/2026 02:32 PM</OutageTime>
     <EstimateTime>09/24/2026 04:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68015399</LAT>
+    <LNG>-84.2293377103209</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814118</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>102</total>
+    <OutageTime>09/24/2026 03:56 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -143,7 +154,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>73</TotOut>
+    <TotOut>74</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -176,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>101</TotalOut>
-    <Outageat>9/24/2026 3:50:31 PM</Outageat>
+    <TotalOut>102</TotalOut>
+    <Outageat>9/24/2026 4:05:31 PM</Outageat>
   </Message>
 </Incidents>
