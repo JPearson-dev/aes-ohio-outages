@@ -1,8 +1,8 @@
 [
   {
     "id": 1813945,
-    "lat": 39.6607186,
-    "lng": -83.4821154955868,
+    "lat": 39.6606207,
+    "lng": -83.4822449974089,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1813992,
-    "lat": 39.636088,
-    "lng": -83.4717538948491,
+    "lat": 39.6359901,
+    "lng": -83.4718833469873,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -20,19 +20,9 @@
     "estimate_time": "2026-09-24T14:00:00"
   },
   {
-    "id": 1814080,
-    "lat": 39.65027219,
-    "lng": -84.6299269637039,
-    "customers_affected": 1,
-    "county": "PREBLE",
-    "indicator": "D",
-    "outage_time": "2026-09-24T12:38:00",
-    "estimate_time": "2026-09-24T15:00:00"
-  },
-  {
     "id": 1814082,
-    "lat": 39.45537699,
-    "lng": -83.393256022157,
+    "lat": 39.45527909,
+    "lng": -83.3933851117089,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1814085,
-    "lat": 40.24698719,
-    "lng": -84.377721157724,
+    "lat": 40.24688929,
+    "lng": -84.3778518611372,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1814088,
-    "lat": 40.18122473,
-    "lng": -84.1967975615917,
+    "lat": 40.18112683,
+    "lng": -84.1969281283861,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -61,12 +51,22 @@
   },
   {
     "id": 1814091,
-    "lat": 39.73815202,
-    "lng": -84.4156793900978,
+    "lat": 39.73805412,
+    "lng": -84.4158090485306,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-24T13:09:00",
-    "estimate_time": null
+    "estimate_time": "2026-09-24T16:00:00"
+  },
+  {
+    "id": 1814092,
+    "lat": 39.70867719,
+    "lng": -84.1514303085109,
+    "customers_affected": 2,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-24T13:18:00",
+    "estimate_time": "2026-09-24T16:00:00"
   }
 ]
