@@ -1,18 +1,8 @@
 [
   {
-    "id": 1813945,
-    "lat": 39.6606652,
-    "lng": -83.4821861329443,
-    "customers_affected": 1,
-    "county": "FAYETTE",
-    "indicator": "D",
-    "outage_time": "2026-09-23T17:09:00",
-    "estimate_time": "2026-09-24T17:00:00"
-  },
-  {
     "id": 1814082,
-    "lat": 39.45532359,
-    "lng": -83.3933264346399,
+    "lat": 39.45435349,
+    "lng": -83.3946055947444,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1814088,
-    "lat": 40.18117133,
-    "lng": -84.1968687798432,
+    "lat": 40.18020123,
+    "lng": -84.1981625780785,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1814092,
-    "lat": 39.70872169,
-    "lng": -84.1513713999004,
+    "lat": 39.70775159,
+    "lng": -84.1526556076095,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1814096,
-    "lat": 39.76496762,
-    "lng": -84.2218780161872,
+    "lat": 39.76399752,
+    "lng": -84.2231633533368,
     "customers_affected": 12,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -50,13 +40,33 @@
     "estimate_time": "2026-09-24T17:00:00"
   },
   {
+    "id": 1814099,
+    "lat": 39.6927875,
+    "lng": -84.1117787063539,
+    "customers_affected": 59,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-24T14:32:00",
+    "estimate_time": null
+  },
+  {
     "id": 1814102,
-    "lat": 39.6168664863205,
-    "lng": -84.0344258528334,
+    "lat": 39.6158963863205,
+    "lng": -84.0357082231378,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-24T14:15:00",
     "estimate_time": "2026-09-24T16:00:00"
+  },
+  {
+    "id": 1814108,
+    "lat": 39.64793996,
+    "lng": -84.11009787386,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-24T14:39:00",
+    "estimate_time": null
   }
 ]
