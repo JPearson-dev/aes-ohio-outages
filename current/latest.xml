@@ -1,79 +1,90 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.45354359</LAT>
-    <LNG>-83.3956735174006</LNG>
+    <LAT>39.45392629</LAT>
+    <LNG>-83.395168894607</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814082</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/24/2026 12:38 PM</OutageTime>
-    <EstimateTime>09/24/2026 06:00 PM</EstimateTime>
+    <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56151174</LAT>
-    <LNG>-83.4315427952196</LNG>
+    <LAT>39.55404006</LAT>
+    <LNG>-83.4204891167846</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814141</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>8</total>
+    <OutageTime>09/24/2026 05:54 PM</OutageTime>
+    <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.56189444</LAT>
+    <LNG>-83.4310373271917</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814138</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/24/2026 05:37 PM</OutageTime>
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.6150864863205</LAT>
-    <LNG>-84.036778825869</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814102</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>7</total>
-    <OutageTime>09/24/2026 02:15 PM</OutageTime>
-    <EstimateTime>09/24/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.75568112</LAT>
-    <LNG>-83.7940406683771</LNG>
+    <LAT>39.75606382</LAT>
+    <LNG>-83.7935336683067</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814137</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/24/2026 05:26 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.67972679</LAT>
-    <LNG>-84.229902992849</LNG>
+    <LAT>39.6154691863205</LAT>
+    <LNG>-84.0362729366664</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814102</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>8</total>
+    <OutageTime>09/24/2026 02:15 PM</OutageTime>
+    <EstimateTime>09/24/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68010949</LAT>
+    <LNG>-84.2293965939176</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814118</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/24/2026 03:56 PM</OutageTime>
-    <EstimateTime>09/24/2026 06:00 PM</EstimateTime>
+    <EstimateTime>09/24/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.6919776</LAT>
-    <LNG>-84.1128505926656</LNG>
+    <LAT>39.6923603</LAT>
+    <LNG>-84.1123440969359</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814128</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/24/2026 04:39 PM</OutageTime>
     <EstimateTime>09/24/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56663431</LAT>
-    <LNG>-84.0814081126456</LNG>
+    <LAT>39.56701701</LAT>
+    <LNG>-84.0809026043976</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814131</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/24/2026 04:46 PM</OutageTime>
     <EstimateTime>09/24/2026 07:00 PM</EstimateTime>
   </Markers>
@@ -111,7 +122,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>2</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -176,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>7</TotalOut>
-    <Outageat>9/24/2026 5:50:31 PM</Outageat>
+    <TotalOut>8</TotalOut>
+    <Outageat>9/24/2026 6:05:31 PM</Outageat>
   </Message>
 </Incidents>
