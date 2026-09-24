@@ -1,79 +1,90 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.45259129</LAT>
-    <LNG>-83.3969292066775</LNG>
+    <LAT>39.45263579</LAT>
+    <LNG>-83.3968705296085</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814082</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/24/2026 12:38 PM</OutageTime>
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56055944</LAT>
-    <LNG>-83.4328005877541</LNG>
+    <LAT>39.56060394</LAT>
+    <LNG>-83.432741812402</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814138</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/24/2026 05:37 PM</OutageTime>
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.6141341863205</LAT>
-    <LNG>-84.038037666443</LNG>
+    <LAT>39.6141786863205</LAT>
+    <LNG>-84.0379788421172</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814102</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/24/2026 02:15 PM</OutageTime>
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.12967669</LAT>
-    <LNG>-84.3402148147004</LNG>
+    <LAT>40.12972119</LAT>
+    <LNG>-84.3401555120664</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814142</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/24/2026 06:30 PM</OutageTime>
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.67877449</LAT>
-    <LNG>-84.2311631018177</LNG>
+    <LAT>39.64761761</LAT>
+    <LNG>-84.1350042058525</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814148</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>9</total>
+    <OutageTime>09/24/2026 07:37 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.67881899</LAT>
+    <LNG>-84.231104218221</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814118</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/24/2026 03:56 PM</OutageTime>
     <EstimateTime>09/24/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66154963</LAT>
-    <LNG>-84.620292605849</LNG>
+    <LAT>39.66159413</LAT>
+    <LNG>-84.6202337380658</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814145</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/24/2026 06:58 PM</OutageTime>
     <EstimateTime>09/24/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56568201</LAT>
-    <LNG>-84.0826660052628</LNG>
+    <LAT>39.56572651</LAT>
+    <LNG>-84.0826072252339</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1814131</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/24/2026 04:46 PM</OutageTime>
     <EstimateTime>09/24/2026 09:00 PM</EstimateTime>
   </Markers>
@@ -143,7 +154,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -176,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>8</TotalOut>
-    <Outageat>9/24/2026 7:35:31 PM</Outageat>
+    <TotalOut>9</TotalOut>
+    <Outageat>9/24/2026 7:50:33 PM</Outageat>
   </Message>
 </Incidents>
