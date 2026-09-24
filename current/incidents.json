@@ -1,8 +1,8 @@
 [
   {
     "id": 1813945,
-    "lat": 39.6570073,
-    "lng": -83.4870247919341,
+    "lat": 39.6578706,
+    "lng": -83.4858828213209,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1813977,
-    "lat": 39.72110869,
-    "lng": -84.1867936859427,
+    "lat": 39.72197199,
+    "lng": -84.1856505724808,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1813979,
-    "lat": 39.64196997,
-    "lng": -84.1528825766681,
+    "lat": 39.64283327,
+    "lng": -84.1517408736012,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,12 +31,22 @@
   },
   {
     "id": 1813980,
-    "lat": 39.87701986,
-    "lng": -84.0916113901934,
+    "lat": 39.87788316,
+    "lng": -84.0904654810756,
     "customers_affected": 8,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-24T04:30:00",
     "estimate_time": "2026-09-24T07:00:00"
+  },
+  {
+    "id": 1813983,
+    "lat": 39.97239024,
+    "lng": -84.3162545755682,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-24T05:01:00",
+    "estimate_time": "2026-09-24T09:00:00"
   }
 ]
