@@ -1,79 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.45183479</LAT>
-    <LNG>-83.3979267168508</LNG>
+    <LAT>39.45192379</LAT>
+    <LNG>-83.3978093627128</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814082</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>8</total>
+    <total>3</total>
     <OutageTime>09/24/2026 12:38 PM</OutageTime>
     <EstimateTime>09/25/2026 12:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55194856</LAT>
-    <LNG>-83.4232512214171</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814149</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>8</total>
-    <OutageTime>09/24/2026 07:55 PM</OutageTime>
-    <EstimateTime>09/24/2026 11:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.6571764</LAT>
-    <LNG>-83.4868011069686</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814151</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>8</total>
-    <OutageTime>09/24/2026 08:17 PM</OutageTime>
-    <EstimateTime>09/24/2026 11:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.12892019</LAT>
-    <LNG>-84.3412229594782</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814142</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>8</total>
-    <OutageTime>09/24/2026 06:30 PM</OutageTime>
-    <EstimateTime>09/25/2026 12:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.64681661</LAT>
-    <LNG>-84.1360635951733</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814148</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
-    <OutageTime>09/24/2026 07:37 PM</OutageTime>
-    <EstimateTime>09/24/2026 11:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66079313</LAT>
-    <LNG>-84.6212933581631</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814145</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>8</total>
-    <OutageTime>09/24/2026 06:58 PM</OutageTime>
-    <EstimateTime>09/24/2026 10:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.56492551</LAT>
-    <LNG>-84.0836652657531</LNG>
+    <LAT>39.56501451</LAT>
+    <LNG>-84.0835477056954</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1814131</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>8</total>
+    <total>3</total>
     <OutageTime>09/24/2026 04:46 PM</OutageTime>
     <EstimateTime>09/24/2026 10:00 PM</EstimateTime>
   </Markers>
@@ -111,7 +56,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>3</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -139,11 +84,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -151,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -176,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>8</TotalOut>
-    <Outageat>9/24/2026 9:35:32 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>9/24/2026 9:50:31 PM</Outageat>
   </Message>
 </Incidents>
