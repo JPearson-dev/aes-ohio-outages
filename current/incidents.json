@@ -1,22 +1,22 @@
 [
   {
-    "id": 1814171,
-    "lat": 39.87806979,
-    "lng": -84.1190067116494,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-25T08:42:00",
-    "estimate_time": null
-  },
-  {
     "id": 1814173,
-    "lat": 39.45589851,
-    "lng": -83.8103694036056,
+    "lat": 39.45493731,
+    "lng": -83.811636867492,
     "customers_affected": 3,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-09-25T08:44:00",
+    "estimate_time": "2026-09-25T12:00:00"
+  },
+  {
+    "id": 1814175,
+    "lat": 39.74217465,
+    "lng": -84.1355002967452,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-25T08:59:00",
     "estimate_time": null
   }
 ]
