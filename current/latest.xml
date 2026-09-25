@@ -1,13 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.04595395</LAT>
-    <LNG>-84.1833184056259</LNG>
+    <LAT>39.66163345</LAT>
+    <LNG>-83.5447744160065</LNG>
+    <TOTALCUSTS>13</TOTALCUSTS>
+    <INCIDENTID>1814158</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>14</total>
+    <OutageTime>09/25/2026 03:07 AM</OutageTime>
+    <EstimateTime>09/25/2026 06:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.04197565</LAT>
+    <LNG>-84.1886128039504</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814155</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>1</total>
+    <total>14</total>
     <OutageTime>09/25/2026 01:01 AM</OutageTime>
     <EstimateTime>09/25/2026 05:00 AM</EstimateTime>
   </Markers>
@@ -45,7 +56,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>13</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>9/25/2026 3:05:30 AM</Outageat>
+    <TotalOut>14</TotalOut>
+    <Outageat>9/25/2026 3:20:31 AM</Outageat>
   </Message>
 </Incidents>
