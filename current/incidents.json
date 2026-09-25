@@ -1,8 +1,8 @@
 [
   {
     "id": 1814187,
-    "lat": 39.72233027,
-    "lng": -84.1745716789376,
+    "lat": 39.71874357,
+    "lng": -84.1793207512074,
     "customers_affected": 170,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814188,
-    "lat": 39.773258,
-    "lng": -84.6183005952342,
+    "lat": 39.7696713,
+    "lng": -84.6230534507203,
     "customers_affected": 43,
     "county": "PREBLE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1814194,
-    "lat": 40.29465621,
-    "lng": -84.128262472223,
+    "lat": 40.29106951,
+    "lng": -84.1330546428827,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1814204,
-    "lat": 39.63468679,
-    "lng": -84.2782687144157,
+    "lat": 39.63110009,
+    "lng": -84.2830112994056,
     "customers_affected": 4,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1814207,
-    "lat": 39.85117414,
-    "lng": -84.2904877135523,
+    "lat": 39.84758744,
+    "lng": -84.2952463765421,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -50,13 +50,33 @@
     "estimate_time": "2026-09-25T12:00:00"
   },
   {
-    "id": 1814209,
-    "lat": 39.67959604,
-    "lng": -84.2149091539514,
+    "id": 1814216,
+    "lat": 39.75494186,
+    "lng": -84.1386408044844,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-09-25T10:27:00",
+    "outage_time": "2026-09-25T10:38:00",
     "estimate_time": "2026-09-25T13:00:00"
+  },
+  {
+    "id": 1814217,
+    "lat": 39.79887103,
+    "lng": -84.2200812760153,
+    "customers_affected": 39,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-25T10:33:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1814218,
+    "lat": 39.67600934,
+    "lng": -84.2196550593865,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-25T10:32:00",
+    "estimate_time": null
   }
 ]
