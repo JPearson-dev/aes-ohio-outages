@@ -1,15 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.03478685</LAT>
-    <LNG>-84.5472384871118</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814162</INCIDENTID>
+    <LAT>39.45589851</LAT>
+    <LNG>-83.8103694036056</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1814173</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>1</total>
-    <OutageTime>09/25/2026 07:23 AM</OutageTime>
-    <EstimateTime>09/25/2026 09:00 AM</EstimateTime>
+    <COUNTY>CLINTON</COUNTY>
+    <total>4</total>
+    <OutageTime>09/25/2026 08:44 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.87806979</LAT>
+    <LNG>-84.1190067116494</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814171</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>4</total>
+    <OutageTime>09/25/2026 08:42 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -33,11 +44,11 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -77,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>9/25/2026 8:35:34 AM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>9/25/2026 8:50:31 AM</Outageat>
   </Message>
 </Incidents>
