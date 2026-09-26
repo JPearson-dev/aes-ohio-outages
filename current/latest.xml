@@ -1,26 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.5394114943306</LAT>
-    <LNG>-83.4592646771676</LNG>
+    <LAT>39.5399098943306</LAT>
+    <LNG>-83.4586066247718</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814362</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>2</total>
+    <total>1</total>
     <OutageTime>09/26/2026 04:17 PM</OutageTime>
     <EstimateTime>09/26/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.8717167</LAT>
-    <LNG>-84.7733474044936</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814360</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>2</total>
-    <OutageTime>09/26/2026 03:36 PM</OutageTime>
-    <EstimateTime>09/26/2026 06:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -96,7 +85,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -121,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>9/26/2026 5:05:31 PM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>9/26/2026 5:20:32 PM</Outageat>
   </Message>
 </Incidents>
