@@ -1,15 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.87003194</LAT>
-    <LNG>-84.2414314404156</LNG>
+    <LAT>39.86875924</LAT>
+    <LNG>-84.2431205516194</LNG>
     <TOTALCUSTS>8</TOTALCUSTS>
     <INCIDENTID>1814367</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
+    <total>9</total>
     <OutageTime>09/26/2026 06:03 PM</OutageTime>
     <EstimateTime>09/26/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.26915669</LAT>
+    <LNG>-83.3528751126554</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814370</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>9</total>
+    <OutageTime>09/26/2026 06:29 PM</OutageTime>
+    <EstimateTime>09/26/2026 09:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -97,7 +108,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>8</TotalOut>
-    <Outageat>9/26/2026 6:20:32 PM</Outageat>
+    <TotalOut>9</TotalOut>
+    <Outageat>9/26/2026 6:35:32 PM</Outageat>
   </Message>
 </Incidents>
