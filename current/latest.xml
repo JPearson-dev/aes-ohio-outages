@@ -1,26 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.5040392</LAT>
-    <LNG>-83.6200989665853</LNG>
+    <LAT>39.5048491</LAT>
+    <LNG>-83.6190301895777</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814340</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>5</total>
+    <total>3</total>
     <OutageTime>09/26/2026 10:27 AM</OutageTime>
     <EstimateTime>09/26/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64843954</LAT>
-    <LNG>-84.0895551493906</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1814338</INCIDENTID>
+    <LAT>39.78361507</LAT>
+    <LNG>-84.2258528005056</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814346</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>5</total>
-    <OutageTime>09/26/2026 10:17 AM</OutageTime>
-    <EstimateTime>09/26/2026 12:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>3</total>
+    <OutageTime>09/26/2026 11:29 AM</OutageTime>
+    <EstimateTime>09/26/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.76728794</LAT>
+    <LNG>-84.1611371790971</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814343</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>3</total>
+    <OutageTime>09/26/2026 11:20 AM</OutageTime>
+    <EstimateTime>09/26/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -60,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -88,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>9/26/2026 11:20:32 AM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>9/26/2026 11:35:32 AM</Outageat>
   </Message>
 </Incidents>
