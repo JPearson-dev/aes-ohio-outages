@@ -1,16 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
-  <Markers>
-    <LAT>40.04090597</LAT>
-    <LNG>-84.2138098483089</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1814312</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>2</total>
-    <OutageTime>09/25/2026 07:03 PM</OutageTime>
-    <EstimateTime>09/25/2026 10:00 PM</EstimateTime>
-  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -73,7 +62,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>2</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -110,7 +99,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>9/25/2026 7:50:31 PM</Outageat>
+    <TotalOut>0</TotalOut>
+    <Outageat>9/25/2026 8:05:33 PM</Outageat>
   </Message>
 </Incidents>
