@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.45152522</LAT>
-    <LNG>-83.8093680434483</LNG>
+    <LAT>39.45114252</LAT>
+    <LNG>-83.8098726564607</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814398</INCIDENTID>
     <IND>D</IND>
@@ -12,15 +12,15 @@
     <EstimateTime>09/27/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65668983</LAT>
-    <LNG>-84.5134551222934</LNG>
+    <LAT>39.73813518</LAT>
+    <LNG>-84.0245445427428</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814403</INCIDENTID>
+    <INCIDENTID>1814404</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
+    <COUNTY>GREENE</COUNTY>
     <total>2</total>
-    <OutageTime>09/27/2026 10:44 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <OutageTime>09/27/2026 10:50 AM</OutageTime>
+    <EstimateTime>09/27/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -60,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -96,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -122,6 +122,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>2</TotalOut>
-    <Outageat>9/27/2026 10:50:30 AM</Outageat>
+    <Outageat>9/27/2026 11:05:31 AM</Outageat>
   </Message>
 </Incidents>
