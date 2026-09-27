@@ -1,8 +1,8 @@
 [
   {
     "id": 1814407,
-    "lat": 39.56092931,
-    "lng": -84.1529185901796,
+    "lat": 39.56349251,
+    "lng": -84.1495330781612,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -11,12 +11,62 @@
   },
   {
     "id": 1814419,
-    "lat": 39.69042051,
-    "lng": -83.7122548195856,
+    "lat": 39.69298371,
+    "lng": -83.7088624756008,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-27T15:45:00",
     "estimate_time": "2026-09-27T19:00:00"
+  },
+  {
+    "id": 1814426,
+    "lat": 39.69233684,
+    "lng": -84.6638352705154,
+    "customers_affected": 5,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-27T18:15:00",
+    "estimate_time": "2026-09-27T21:00:00"
+  },
+  {
+    "id": 1814427,
+    "lat": 39.69514253,
+    "lng": -84.6653037851856,
+    "customers_affected": 7,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-27T18:26:00",
+    "estimate_time": "2026-09-27T21:00:00"
+  },
+  {
+    "id": 1814428,
+    "lat": 39.69525706,
+    "lng": -84.6619332659832,
+    "customers_affected": 5,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-27T18:26:00",
+    "estimate_time": "2026-09-27T21:00:00"
+  },
+  {
+    "id": 1814429,
+    "lat": 39.68986289,
+    "lng": -84.6607197311793,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-27T18:26:00",
+    "estimate_time": "2026-09-27T21:00:00"
+  },
+  {
+    "id": 1814431,
+    "lat": 39.6912663,
+    "lng": -84.6626460034294,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-09-27T18:26:00",
+    "estimate_time": null
   }
 ]

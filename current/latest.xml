@@ -1,26 +1,80 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.69042051</LAT>
-    <LNG>-83.7122548195856</LNG>
+    <LAT>39.69298371</LAT>
+    <LNG>-83.7088624756008</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814419</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>2</total>
+    <total>21</total>
     <OutageTime>09/27/2026 03:45 PM</OutageTime>
     <EstimateTime>09/27/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56092931</LAT>
-    <LNG>-84.1529185901796</LNG>
+    <LAT>39.68986289</LAT>
+    <LNG>-84.6607197311793</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814429</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>21</total>
+    <OutageTime>09/27/2026 06:26 PM</OutageTime>
+    <EstimateTime>09/27/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.69233684</LAT>
+    <LNG>-84.6638352705154</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
+    <INCIDENTID>1814426</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>21</total>
+    <OutageTime>09/27/2026 06:15 PM</OutageTime>
+    <EstimateTime>09/27/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.69514253</LAT>
+    <LNG>-84.6653037851856</LNG>
+    <TOTALCUSTS>7</TOTALCUSTS>
+    <INCIDENTID>1814427</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>21</total>
+    <OutageTime>09/27/2026 06:26 PM</OutageTime>
+    <EstimateTime>09/27/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.69525706</LAT>
+    <LNG>-84.6619332659832</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
+    <INCIDENTID>1814428</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>21</total>
+    <OutageTime>09/27/2026 06:26 PM</OutageTime>
+    <EstimateTime>09/27/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.56349251</LAT>
+    <LNG>-84.1495330781612</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814407</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>2</total>
+    <total>21</total>
     <OutageTime>09/27/2026 11:25 AM</OutageTime>
     <EstimateTime>09/27/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.6912663</LAT>
+    <LNG>-84.6626460034294</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814431</INCIDENTID>
+    <IND>D</IND>
+    <total>21</total>
+    <OutageTime>09/27/2026 06:26 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -96,7 +150,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>18</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -121,7 +175,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>9/27/2026 6:20:31 PM</Outageat>
+    <TotalOut>20</TotalOut>
+    <Outageat>9/27/2026 6:35:31 PM</Outageat>
   </Message>
 </Incidents>
