@@ -1,8 +1,8 @@
 [
   {
     "id": 1814386,
-    "lat": 39.68954313,
-    "lng": -84.4869154353242,
+    "lat": 39.69089593,
+    "lng": -84.4851250525862,
     "customers_affected": 116,
     "county": "PREBLE",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1814389,
-    "lat": 39.73546154,
-    "lng": -84.4878318569766,
+    "lat": 39.73681434,
+    "lng": -84.486040189825,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
     "outage_time": "2026-09-27T07:47:00",
     "estimate_time": "2026-09-27T11:00:00"
+  },
+  {
+    "id": 1814390,
+    "lat": 39.73377366,
+    "lng": -84.46692805277,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-09-27T08:11:00",
+    "estimate_time": null
   }
 ]
