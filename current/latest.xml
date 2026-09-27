@@ -1,15 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.86227265</LAT>
-    <LNG>-84.1079020267614</LNG>
+    <LAT>39.45078652</LAT>
+    <LNG>-83.8103420639141</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814398</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>50</total>
+    <OutageTime>09/27/2026 10:02 AM</OutageTime>
+    <EstimateTime>09/27/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.86251295</LAT>
+    <LNG>-84.107583136912</LNG>
     <TOTALCUSTS>48</TOTALCUSTS>
     <INCIDENTID>1814393</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>48</total>
+    <total>50</total>
     <OutageTime>09/27/2026 08:54 AM</OutageTime>
     <EstimateTime>09/27/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.76989117</LAT>
+    <LNG>-84.6215008000362</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814399</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>50</total>
+    <OutageTime>09/27/2026 09:57 AM</OutageTime>
+    <EstimateTime>09/27/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -33,7 +55,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -85,7 +107,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -110,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>48</TotalOut>
-    <Outageat>9/27/2026 10:05:31 AM</Outageat>
+    <TotalOut>50</TotalOut>
+    <Outageat>9/27/2026 10:20:31 AM</Outageat>
   </Message>
 </Incidents>
