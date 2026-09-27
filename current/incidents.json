@@ -1,8 +1,8 @@
 [
   {
     "id": 1814407,
-    "lat": 39.56349251,
-    "lng": -84.1495330781612,
+    "lat": 39.56238001,
+    "lng": -84.1510024844192,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814419,
-    "lat": 39.69298371,
-    "lng": -83.7088624756008,
+    "lat": 39.69187121,
+    "lng": -83.710334847122,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -20,53 +20,23 @@
     "estimate_time": "2026-09-27T19:00:00"
   },
   {
-    "id": 1814426,
-    "lat": 39.69233684,
-    "lng": -84.6638352705154,
-    "customers_affected": 5,
-    "county": "PREBLE",
-    "indicator": "D",
-    "outage_time": "2026-09-27T18:15:00",
-    "estimate_time": "2026-09-27T21:00:00"
-  },
-  {
-    "id": 1814427,
-    "lat": 39.69514253,
-    "lng": -84.6653037851856,
-    "customers_affected": 7,
-    "county": "PREBLE",
-    "indicator": "D",
-    "outage_time": "2026-09-27T18:26:00",
-    "estimate_time": "2026-09-27T21:00:00"
-  },
-  {
-    "id": 1814428,
-    "lat": 39.69525706,
-    "lng": -84.6619332659832,
-    "customers_affected": 5,
-    "county": "PREBLE",
-    "indicator": "D",
-    "outage_time": "2026-09-27T18:26:00",
-    "estimate_time": "2026-09-27T21:00:00"
-  },
-  {
-    "id": 1814429,
-    "lat": 39.68986289,
-    "lng": -84.6607197311793,
+    "id": 1814430,
+    "lat": 39.71120456,
+    "lng": -84.1349578801042,
     "customers_affected": 1,
-    "county": "PREBLE",
+    "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-09-27T18:26:00",
+    "outage_time": "2026-09-27T18:24:00",
     "estimate_time": "2026-09-27T21:00:00"
   },
   {
     "id": 1814431,
-    "lat": 39.6912663,
-    "lng": -84.6626460034294,
-    "customers_affected": 1,
+    "lat": 39.6901538,
+    "lng": -84.6641183354924,
+    "customers_affected": 52,
     "county": null,
     "indicator": "D",
-    "outage_time": "2026-09-27T18:26:00",
-    "estimate_time": null
+    "outage_time": "2026-09-27T18:15:00",
+    "estimate_time": "2026-09-27T21:00:00"
   }
 ]
