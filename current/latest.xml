@@ -1,19 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.71402967</LAT>
-    <LNG>-84.0661141417407</LNG>
+    <LAT>39.73546154</LAT>
+    <LNG>-84.4878318569766</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814382</INCIDENTID>
+    <INCIDENTID>1814389</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
+    <COUNTY>PREBLE</COUNTY>
     <total>117</total>
-    <OutageTime>09/27/2026 06:49 AM</OutageTime>
-    <EstimateTime>09/27/2026 09:00 AM</EstimateTime>
+    <OutageTime>09/27/2026 07:47 AM</OutageTime>
+    <EstimateTime>09/27/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69142993</LAT>
-    <LNG>-84.4844183225581</LNG>
+    <LAT>39.68954313</LAT>
+    <LNG>-84.4869154353242</LNG>
     <TOTALCUSTS>116</TOTALCUSTS>
     <INCIDENTID>1814386</INCIDENTID>
     <IND>D</IND>
@@ -60,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -96,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>116</TotOut>
+    <TotOut>117</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -122,6 +122,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>117</TotalOut>
-    <Outageat>9/27/2026 7:50:31 AM</Outageat>
+    <Outageat>9/27/2026 8:05:31 AM</Outageat>
   </Message>
 </Incidents>
