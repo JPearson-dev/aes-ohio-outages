@@ -1,8 +1,8 @@
 [
   {
     "id": 1814541,
-    "lat": 40.06742811,
-    "lng": -84.1028816621246,
+    "lat": 40.06752601,
+    "lng": -84.102751329221,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814545,
-    "lat": 39.76518071,
-    "lng": -84.2083685452656,
+    "lat": 39.76527861,
+    "lng": -84.2082388306274,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1814546,
-    "lat": 39.76284352,
-    "lng": -84.2089454006545,
+    "lat": 39.76294142,
+    "lng": -84.2088156907594,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1814553,
-    "lat": 39.76247041,
-    "lng": -84.0939549472922,
+    "lat": 39.76256831,
+    "lng": -84.0938252381542,
     "customers_affected": 3,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1814556,
-    "lat": 40.14424405,
-    "lng": -84.6204804576242,
+    "lat": 40.14434195,
+    "lng": -84.6203499660315,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -51,12 +51,22 @@
   },
   {
     "id": 1814560,
-    "lat": 39.5629833,
-    "lng": -83.4069165782233,
+    "lat": 39.5630812,
+    "lng": -83.4067872717991,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-09-28T16:25:00",
     "estimate_time": "2026-09-28T19:00:00"
+  },
+  {
+    "id": 1814562,
+    "lat": 40.10859261,
+    "lng": -84.6153137462882,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-09-28T16:57:00",
+    "estimate_time": null
   }
 ]
