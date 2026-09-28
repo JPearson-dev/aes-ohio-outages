@@ -1,80 +1,69 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.44566209</LAT>
-    <LNG>-83.8350146291655</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814484</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>87</total>
-    <OutageTime>09/28/2026 10:23 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.44638208</LAT>
-    <LNG>-83.8345833103502</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1814485</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>87</total>
-    <OutageTime>09/28/2026 10:23 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.44506577</LAT>
-    <LNG>-83.8318637489792</LNG>
+    <LAT>39.44406007</LAT>
+    <LNG>-83.8331896737512</LNG>
     <TOTALCUSTS>79</TOTALCUSTS>
     <INCIDENTID>1814480</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>87</total>
+    <total>86</total>
     <OutageTime>09/28/2026 10:13 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7866258</LAT>
-    <LNG>-83.8134070734006</LNG>
+    <LAT>39.44465639</LAT>
+    <LNG>-83.8363405661657</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814495</INCIDENTID>
+    <INCIDENTID>1814484</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>87</total>
-    <OutageTime>09/28/2026 10:49 AM</OutageTime>
+    <COUNTY>CLINTON</COUNTY>
+    <total>86</total>
+    <OutageTime>09/28/2026 10:23 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.11839912</LAT>
-    <LNG>-84.3484555866596</LNG>
+    <LAT>39.44537638</LAT>
+    <LNG>-83.8359092621152</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1814485</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>86</total>
+    <OutageTime>09/28/2026 10:23 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.11739342</LAT>
+    <LNG>-84.349795563167</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814496</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>87</total>
+    <total>86</total>
     <OutageTime>09/28/2026 10:52 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76333892</LAT>
-    <LNG>-84.2240359675484</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814488</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>87</total>
-    <OutageTime>09/28/2026 10:28 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.69544179</LAT>
-    <LNG>-84.2071352533398</LNG>
+    <LAT>39.69443609</LAT>
+    <LNG>-84.2084663458186</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814494</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>87</total>
+    <total>86</total>
     <OutageTime>09/28/2026 10:44 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.76233322</LAT>
+    <LNG>-84.2253684730337</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814488</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>86</total>
+    <OutageTime>09/28/2026 10:28 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
@@ -115,7 +104,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -176,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>87</TotalOut>
-    <Outageat>9/28/2026 11:20:30 AM</Outageat>
+    <TotalOut>86</TotalOut>
+    <Outageat>9/28/2026 11:35:31 AM</Outageat>
   </Message>
 </Incidents>
