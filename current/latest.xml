@@ -1,57 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.14305145</LAT>
-    <LNG>-84.6220700824806</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814556</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>17</total>
-    <OutageTime>09/28/2026 03:53 PM</OutageTime>
-    <EstimateTime>09/28/2026 09:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.5617907</LAT>
-    <LNG>-83.4084917655723</LNG>
+    <LAT>39.5626006</LAT>
+    <LNG>-83.4074220487905</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814560</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>17</total>
+    <total>18</total>
     <OutageTime>09/28/2026 04:25 PM</OutageTime>
     <EstimateTime>09/28/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7146308</LAT>
-    <LNG>-84.0505526458239</LNG>
+    <LAT>39.64319744</LAT>
+    <LNG>-83.8792656199561</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1814571</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>18</total>
+    <OutageTime>09/28/2026 06:08 PM</OutageTime>
+    <EstimateTime>09/28/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7154407</LAT>
+    <LNG>-84.049480379627</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1814566</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>17</total>
+    <total>18</total>
     <OutageTime>09/28/2026 05:07 PM</OutageTime>
     <EstimateTime>09/28/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.06623551</LAT>
-    <LNG>-84.1044693538592</LNG>
+    <LAT>40.06704541</LAT>
+    <LNG>-84.1033911452932</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814541</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>17</total>
-    <OutageTime>09/28/2026 02:36 PM</OutageTime>
+    <total>18</total>
+    <OutageTime>09/28/2026 02:30 PM</OutageTime>
     <EstimateTime>09/28/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76398811</LAT>
-    <LNG>-84.2099487054041</LNG>
+    <LAT>39.76479801</LAT>
+    <LNG>-84.2088756115787</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1814545</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>17</total>
+    <total>18</total>
     <OutageTime>09/28/2026 03:04 PM</OutageTime>
     <EstimateTime>09/28/2026 09:00 PM</EstimateTime>
   </Markers>
@@ -81,7 +81,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -93,7 +93,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>9</TotOut>
+    <TotOut>11</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -154,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>17</TotalOut>
-    <Outageat>9/28/2026 6:05:32 PM</Outageat>
+    <TotalOut>18</TotalOut>
+    <Outageat>9/28/2026 6:20:31 PM</Outageat>
   </Message>
 </Incidents>
