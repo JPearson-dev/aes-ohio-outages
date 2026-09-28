@@ -1,8 +1,8 @@
 [
   {
     "id": 1814541,
-    "lat": 40.06679621,
-    "lng": -84.103722901775,
+    "lat": 40.06775741,
+    "lng": -84.1024432696308,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814545,
-    "lat": 39.76454881,
-    "lng": -84.2092057942942,
+    "lat": 39.76551001,
+    "lng": -84.2079322323916,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1814560,
-    "lat": 39.5623514,
-    "lng": -83.4077511924157,
+    "lat": 39.5633126,
+    "lng": -83.4064816384328,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1814566,
-    "lat": 39.7151915,
-    "lng": -84.0498103076876,
+    "lat": 39.7161527,
+    "lng": -84.0485377280254,
     "customers_affected": 9,
     "county": "GREENE",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1814571,
-    "lat": 39.64294824,
-    "lng": -83.8795951764596,
+    "lat": 39.64390944,
+    "lng": -83.8783240299462,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
@@ -50,23 +50,23 @@
     "estimate_time": "2026-09-28T20:00:00"
   },
   {
-    "id": 1814577,
-    "lat": 39.69027274,
-    "lng": -84.4101130465536,
-    "customers_affected": 3,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-28T18:31:00",
-    "estimate_time": "2026-09-28T21:00:00"
-  },
-  {
     "id": 1814612,
-    "lat": 40.17990753,
-    "lng": -84.1985542784617,
+    "lat": 40.18086873,
+    "lng": -84.1972723499349,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-09-28T18:48:00",
     "estimate_time": "2026-09-28T21:00:00"
+  },
+  {
+    "id": 1814616,
+    "lat": 39.55215984,
+    "lng": -83.4051215817389,
+    "customers_affected": 1,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-09-28T19:36:00",
+    "estimate_time": "2026-09-28T22:00:00"
   }
 ]
