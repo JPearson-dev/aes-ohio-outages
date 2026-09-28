@@ -1,8 +1,8 @@
 [
   {
     "id": 1814499,
-    "lat": 39.78744415,
-    "lng": -83.8165656986029,
+    "lat": 39.78927755,
+    "lng": -83.8141355922816,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814520,
-    "lat": 40.1488321,
-    "lng": -84.4157594728152,
+    "lat": 40.1506655,
+    "lng": -84.4133154839353,
     "customers_affected": 3,
     "county": "DARKE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1814535,
-    "lat": 40.17642374,
-    "lng": -83.5389932193972,
+    "lat": 40.17825714,
+    "lng": -83.5365481598159,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -31,12 +31,22 @@
   },
   {
     "id": 1814536,
-    "lat": 39.77490035,
-    "lng": -84.2223856624801,
+    "lat": 39.77673375,
+    "lng": -84.2199560333494,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-28T14:00:00",
     "estimate_time": "2026-09-28T16:00:00"
+  },
+  {
+    "id": 1814541,
+    "lat": 40.06773071,
+    "lng": -84.1024788149681,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-28T14:36:00",
+    "estimate_time": "2026-09-28T17:00:00"
   }
 ]

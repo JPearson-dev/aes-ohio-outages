@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.17642374</LAT>
-    <LNG>-83.5389932193972</LNG>
+    <LAT>40.17825714</LAT>
+    <LNG>-83.5365481598159</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814535</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/28/2026 01:57 PM</OutageTime>
     <EstimateTime>09/28/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.1488321</LAT>
-    <LNG>-84.4157594728152</LNG>
+    <LAT>40.1506655</LAT>
+    <LNG>-84.4133154839353</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1814520</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/28/2026 01:14 PM</OutageTime>
     <EstimateTime>09/28/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78744415</LAT>
-    <LNG>-83.8165656986029</LNG>
+    <LAT>39.78927755</LAT>
+    <LNG>-83.8141355922816</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1814499</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/28/2026 10:49 AM</OutageTime>
     <EstimateTime>09/28/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77490035</LAT>
-    <LNG>-84.2223856624801</LNG>
+    <LAT>40.06773071</LAT>
+    <LNG>-84.1024788149681</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814541</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>8</total>
+    <OutageTime>09/28/2026 02:36 PM</OutageTime>
+    <EstimateTime>09/28/2026 05:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77673375</LAT>
+    <LNG>-84.2199560333494</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814536</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>09/28/2026 02:00 PM</OutageTime>
     <EstimateTime>09/28/2026 04:00 PM</EstimateTime>
   </Markers>
@@ -106,7 +117,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>7</TotalOut>
-    <Outageat>9/28/2026 2:35:31 PM</Outageat>
+    <TotalOut>8</TotalOut>
+    <Outageat>9/28/2026 2:50:31 PM</Outageat>
   </Message>
 </Incidents>
