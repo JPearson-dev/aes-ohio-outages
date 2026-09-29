@@ -1,35 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.67431586</LAT>
-    <LNG>-84.1254800887677</LNG>
+    <LAT>39.67170816</LAT>
+    <LNG>-84.1289303322871</LNG>
     <TOTALCUSTS>54</TOTALCUSTS>
     <INCIDENTID>1814676</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>60</total>
+    <total>61</total>
     <OutageTime>09/29/2026 10:33 AM</OutageTime>
-    <EstimateTime>09/29/2026 01:00 PM</EstimateTime>
+    <EstimateTime>09/29/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77511826</LAT>
-    <LNG>-84.1506888780108</LNG>
+    <LAT>39.77251056</LAT>
+    <LNG>-84.1541445594466</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1814648</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>60</total>
+    <total>61</total>
     <OutageTime>09/29/2026 09:03 AM</OutageTime>
-    <EstimateTime>09/29/2026 01:00 PM</EstimateTime>
+    <EstimateTime>09/29/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.25380659</LAT>
-    <LNG>-83.3556281639676</LNG>
+    <LAT>39.83135157</LAT>
+    <LNG>-84.1786869757383</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814720</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>61</total>
+    <OutageTime>09/29/2026 12:48 PM</OutageTime>
+    <EstimateTime>09/29/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.25119889</LAT>
+    <LNG>-83.3591100619467</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1814681</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>60</total>
+    <total>61</total>
     <OutageTime>09/29/2026 10:58 AM</OutageTime>
     <EstimateTime>09/29/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -99,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>57</TotOut>
+    <TotOut>58</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>60</TotalOut>
-    <Outageat>9/29/2026 12:50:30 PM</Outageat>
+    <TotalOut>61</TotalOut>
+    <Outageat>9/29/2026 1:05:30 PM</Outageat>
   </Message>
 </Incidents>
