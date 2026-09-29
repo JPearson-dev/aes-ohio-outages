@@ -1,8 +1,8 @@
 [
   {
     "id": 1814648,
-    "lat": 39.77408586,
-    "lng": -84.1520569976236,
+    "lat": 39.77592816,
+    "lng": -84.1496156117628,
     "customers_affected": 3,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814676,
-    "lat": 39.67328346,
-    "lng": -84.1268460554853,
+    "lat": 39.67512576,
+    "lng": -84.1244085114289,
     "customers_affected": 54,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1814681,
-    "lat": 40.25277419,
-    "lng": -83.3570066628262,
+    "lat": 40.25461649,
+    "lng": -83.3545467553802,
     "customers_affected": 3,
     "county": "UNION",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1814734,
-    "lat": 39.79674488,
-    "lng": -83.9982404517889,
+    "lat": 39.79858718,
+    "lng": -83.995798199567,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -41,12 +41,62 @@
   },
   {
     "id": 1814739,
-    "lat": 39.67278611,
-    "lng": -84.1835731697388,
+    "lat": 39.67462841,
+    "lng": -84.1811356445877,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-29T14:30:00",
+    "estimate_time": "2026-09-29T17:00:00"
+  },
+  {
+    "id": 1814742,
+    "lat": 39.6301512,
+    "lng": -83.9917632388603,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-09-11T12:53:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1814746,
+    "lat": 39.8342382,
+    "lng": -84.1187804339841,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-04-28T00:32:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1814749,
+    "lat": 39.6511932,
+    "lng": -84.1444896151506,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-09-21T00:21:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1814750,
+    "lat": 39.9985692,
+    "lng": -84.4391338802166,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-09-16T08:30:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1814751,
+    "lat": 0.0129762,
+    "lng": 0.0129762,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-09-16T10:57:00",
     "estimate_time": null
   }
 ]
