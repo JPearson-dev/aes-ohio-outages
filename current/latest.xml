@@ -1,36 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.5638199</LAT>
-    <LNG>-83.405811596053</LNG>
+    <LAT>39.5621823</LAT>
+    <LNG>-83.4079745398756</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814560</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>10</total>
+    <total>7</total>
     <OutageTime>09/28/2026 04:25 PM</OutageTime>
     <EstimateTime>09/29/2026 06:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64441674</LAT>
-    <LNG>-83.8776531470641</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1814571</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>10</total>
-    <OutageTime>09/28/2026 06:08 PM</OutageTime>
-    <EstimateTime>09/29/2026 05:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.8917322</LAT>
-    <LNG>-84.3003003653944</LNG>
+    <LAT>39.8900946</LAT>
+    <LNG>-84.3024744193112</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1814624</INCIDENTID>
     <IND>D</IND>
-    <total>10</total>
+    <total>7</total>
     <OutageTime>09/29/2026 02:11 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>09/29/2026 05:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -70,7 +59,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>3</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -131,7 +120,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>9/29/2026 3:20:30 AM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>9/29/2026 3:35:30 AM</Outageat>
   </Message>
 </Incidents>
