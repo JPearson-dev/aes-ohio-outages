@@ -1,8 +1,8 @@
 [
   {
     "id": 1814648,
-    "lat": 39.77464656,
-    "lng": -84.1513139671442,
+    "lat": 39.77339166,
+    "lng": -84.1529769401219,
     "customers_affected": 3,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-09-29T13:00:00"
   },
   {
-    "id": 1814650,
-    "lat": 39.69812948,
-    "lng": -83.9063880705869,
-    "customers_affected": 3,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-09-29T09:14:00",
-    "estimate_time": "2026-09-29T12:00:00"
-  },
-  {
     "id": 1814676,
-    "lat": 39.67384416,
-    "lng": -84.1261041942508,
+    "lat": 39.67258926,
+    "lng": -84.1277645503471,
     "customers_affected": 54,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1814681,
-    "lat": 40.25333489,
-    "lng": -83.3562579953426,
+    "lat": 40.25207999,
+    "lng": -83.3579335844725,
     "customers_affected": 3,
     "county": "UNION",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1814682,
-    "lat": 39.72225064,
-    "lng": -84.0131749492282,
+    "lat": 39.72099574,
+    "lng": -84.01483656027,
     "customers_affected": 38,
     "county": "GREENE",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1814683,
-    "lat": 39.72285169,
-    "lng": -84.0131964938293,
+    "lat": 39.72159679,
+    "lng": -84.0148581204732,
     "customers_affected": 3,
     "county": "GREENE",
     "indicator": "D",
@@ -61,12 +51,22 @@
   },
   {
     "id": 1814695,
-    "lat": 39.71383862,
-    "lng": -84.2935937836882,
+    "lat": 39.71258372,
+    "lng": -84.2952551764203,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-29T11:17:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1814705,
+    "lat": 39.66969618,
+    "lng": -84.1601290634814,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-09-29T11:43:00",
     "estimate_time": null
   }
 ]
