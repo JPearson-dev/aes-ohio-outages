@@ -1,46 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.5637309</LAT>
-    <LNG>-83.4059291473477</LNG>
+    <LAT>39.5620755</LAT>
+    <LNG>-83.4081156014293</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814560</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>6</total>
+    <total>5</total>
     <OutageTime>09/28/2026 04:25 PM</OutageTime>
     <EstimateTime>09/29/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64432774</LAT>
-    <LNG>-83.8777708458154</LNG>
+    <LAT>39.64267234</LAT>
+    <LNG>-83.8799600425884</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1814571</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>6</total>
+    <total>5</total>
     <OutageTime>09/28/2026 06:08 PM</OutageTime>
     <EstimateTime>09/29/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.70159991</LAT>
-    <LNG>-84.6240696022449</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814617</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MERCER</COUNTY>
-    <total>6</total>
-    <OutageTime>09/28/2026 07:45 PM</OutageTime>
-    <EstimateTime>09/29/2026 03:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.06817571</LAT>
-    <LNG>-84.1018863926791</LNG>
+    <LAT>40.06652031</LAT>
+    <LNG>-84.1040902035942</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814541</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>6</total>
+    <total>5</total>
     <OutageTime>09/28/2026 02:30 PM</OutageTime>
     <EstimateTime>09/29/2026 05:00 AM</EstimateTime>
   </Markers>
@@ -102,7 +91,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>9/28/2026 11:20:31 PM</Outageat>
+    <TotalOut>5</TotalOut>
+    <Outageat>9/28/2026 11:35:31 PM</Outageat>
   </Message>
 </Incidents>
