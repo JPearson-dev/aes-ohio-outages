@@ -1,8 +1,8 @@
 [
   {
     "id": 1814541,
-    "lat": 40.06775741,
-    "lng": -84.1024432696308,
+    "lat": 40.06799771,
+    "lng": -84.1021233615947,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814545,
-    "lat": 39.76551001,
-    "lng": -84.2079322323916,
+    "lat": 39.76575031,
+    "lng": -84.2076138419159,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1814560,
-    "lat": 39.5633126,
-    "lng": -83.4064816384328,
+    "lat": 39.5635529,
+    "lng": -83.4061642499372,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1814566,
-    "lat": 39.7161527,
-    "lng": -84.0485377280254,
+    "lat": 39.716393,
+    "lng": -84.0482195831098,
     "customers_affected": 9,
     "county": "GREENE",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1814571,
-    "lat": 39.64390944,
-    "lng": -83.8783240299462,
+    "lat": 39.64414974,
+    "lng": -83.8780062433179,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
@@ -51,22 +51,32 @@
   },
   {
     "id": 1814612,
-    "lat": 40.18086873,
-    "lng": -84.1972723499349,
+    "lat": 40.18110903,
+    "lng": -84.1969518678032,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-09-28T18:48:00",
-    "estimate_time": "2026-09-28T21:00:00"
+    "estimate_time": "2026-09-28T23:00:00"
   },
   {
     "id": 1814616,
-    "lat": 39.55215984,
-    "lng": -83.4051215817389,
+    "lat": 39.55240014,
+    "lng": -83.4048042482045,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-09-28T19:36:00",
+    "estimate_time": "2026-09-28T22:00:00"
+  },
+  {
+    "id": 1814617,
+    "lat": 40.70142191,
+    "lng": -84.6243089852793,
+    "customers_affected": 1,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-09-28T19:45:00",
     "estimate_time": "2026-09-28T22:00:00"
   }
 ]
