@@ -1,70 +1,81 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.40903813</LAT>
-    <LNG>-83.9580133896765</LNG>
+    <LAT>39.40802353</LAT>
+    <LNG>-83.9593502674716</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814894</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>752</total>
+    <total>753</total>
     <OutageTime>09/30/2026 04:08 PM</OutageTime>
     <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7145712</LAT>
-    <LNG>-83.9043785374567</LNG>
+    <LAT>39.73973948</LAT>
+    <LNG>-84.0040426247343</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814895</INCIDENTID>
+    <INCIDENTID>1814900</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>752</total>
-    <OutageTime>09/30/2026 04:36 PM</OutageTime>
+    <total>753</total>
+    <OutageTime>09/30/2026 04:55 PM</OutageTime>
     <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78455727</LAT>
-    <LNG>-84.0405626870504</LNG>
+    <LAT>39.78354267</LAT>
+    <LNG>-84.0419073942205</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1814870</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>752</total>
+    <total>753</total>
     <OutageTime>09/30/2026 01:32 PM</OutageTime>
     <EstimateTime>09/30/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.48000833</LAT>
-    <LNG>-84.1641479689938</LNG>
+    <LAT>39.7135566</LAT>
+    <LNG>-83.9057217738502</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814895</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>753</total>
+    <OutageTime>09/30/2026 04:36 PM</OutageTime>
+    <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.47899373</LAT>
+    <LNG>-84.1655075863576</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814886</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>752</total>
+    <total>753</total>
     <OutageTime>09/30/2026 03:35 PM</OutageTime>
     <EstimateTime>09/30/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.26341473</LAT>
-    <LNG>-83.3562897212244</LNG>
+    <LAT>40.26240013</LAT>
+    <LNG>-83.3576446367788</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814890</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>752</total>
+    <total>753</total>
     <OutageTime>09/30/2026 03:52 PM</OutageTime>
-    <EstimateTime>09/30/2026 05:00 PM</EstimateTime>
+    <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.4835927963341</LAT>
-    <LNG>-83.9666970354608</LNG>
+    <LAT>39.4825781963341</LAT>
+    <LNG>-83.9680354555597</LNG>
     <TOTALCUSTS>742</TOTALCUSTS>
     <INCIDENTID>299052</INCIDENTID>
     <IND>T</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>752</total>
+    <total>753</total>
     <OutageTime>09/30/2026 03:44 PM</OutageTime>
-    <EstimateTime>09/30/2026 05:00 PM</EstimateTime>
+    <EstimateTime>09/30/2026 06:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -104,7 +115,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>7</TotOut>
+    <TotOut>8</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -165,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>752</TotalOut>
-    <Outageat>9/30/2026 4:50:30 PM</Outageat>
+    <TotalOut>753</TotalOut>
+    <Outageat>9/30/2026 5:05:30 PM</Outageat>
   </Message>
 </Incidents>

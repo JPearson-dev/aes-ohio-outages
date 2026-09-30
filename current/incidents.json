@@ -1,18 +1,18 @@
 [
   {
     "id": 299052,
-    "lat": 39.4835927963341,
-    "lng": -83.9666970354608,
+    "lat": 39.4825781963341,
+    "lng": -83.9680354555597,
     "customers_affected": 742,
     "county": "WARREN",
     "indicator": "T",
     "outage_time": "2026-09-30T15:44:00",
-    "estimate_time": "2026-09-30T17:00:00"
+    "estimate_time": "2026-09-30T18:00:00"
   },
   {
     "id": 1814870,
-    "lat": 39.78455727,
-    "lng": -84.0405626870504,
+    "lat": 39.78354267,
+    "lng": -84.0419073942205,
     "customers_affected": 6,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1814886,
-    "lat": 40.48000833,
-    "lng": -84.1641479689938,
+    "lat": 40.47899373,
+    "lng": -84.1655075863576,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -31,18 +31,18 @@
   },
   {
     "id": 1814890,
-    "lat": 40.26341473,
-    "lng": -83.3562897212244,
+    "lat": 40.26240013,
+    "lng": -83.3576446367788,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
     "outage_time": "2026-09-30T15:52:00",
-    "estimate_time": "2026-09-30T17:00:00"
+    "estimate_time": "2026-09-30T19:00:00"
   },
   {
     "id": 1814894,
-    "lat": 39.40903813,
-    "lng": -83.9580133896765,
+    "lat": 39.40802353,
+    "lng": -83.9593502674716,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -51,12 +51,22 @@
   },
   {
     "id": 1814895,
-    "lat": 39.7145712,
-    "lng": -83.9043785374567,
+    "lat": 39.7135566,
+    "lng": -83.9057217738502,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-30T16:36:00",
+    "estimate_time": "2026-09-30T19:00:00"
+  },
+  {
+    "id": 1814900,
+    "lat": 39.73973948,
+    "lng": -84.0040426247343,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-30T16:55:00",
     "estimate_time": "2026-09-30T19:00:00"
   }
 ]
