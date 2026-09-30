@@ -1,8 +1,8 @@
 [
   {
     "id": 299052,
-    "lat": 39.4833257963341,
-    "lng": -83.9670492512763,
+    "lat": 39.4818127963341,
+    "lng": -83.9690451408975,
     "customers_affected": 742,
     "county": "WARREN",
     "indicator": "T",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814870,
-    "lat": 39.78429027,
-    "lng": -84.0409165573584,
+    "lat": 39.78277727,
+    "lng": -84.0429218224365,
     "customers_affected": 3,
     "county": "GREENE",
     "indicator": "D",
@@ -21,28 +21,18 @@
   },
   {
     "id": 1814873,
-    "lat": 39.65256538,
-    "lng": -84.0989261991537,
+    "lat": 39.65105238,
+    "lng": -84.1009273427752,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-30T14:07:00",
-    "estimate_time": "2026-09-30T16:00:00"
-  },
-  {
-    "id": 1814880,
-    "lat": 39.77194439,
-    "lng": -84.1376174728676,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-30T14:48:00",
-    "estimate_time": "2026-09-30T17:00:00"
+    "estimate_time": "2026-09-30T18:00:00"
   },
   {
     "id": 1814886,
-    "lat": 40.47974133,
-    "lng": -84.1645057630369,
+    "lat": 40.47822833,
+    "lng": -84.1665332626145,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -51,12 +41,32 @@
   },
   {
     "id": 1814887,
-    "lat": 39.77702012,
-    "lng": -84.020225675918,
+    "lat": 39.77550712,
+    "lng": -84.0222307127884,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-30T15:38:00",
     "estimate_time": "2026-09-30T18:00:00"
+  },
+  {
+    "id": 1814890,
+    "lat": 40.26163473,
+    "lng": -83.3586667660566,
+    "customers_affected": 1,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-09-30T15:52:00",
+    "estimate_time": "2026-09-30T17:00:00"
+  },
+  {
+    "id": 1814892,
+    "lat": 40.1184173,
+    "lng": -84.358848640385,
+    "customers_affected": 4,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-09-30T13:29:00",
+    "estimate_time": "2026-09-30T17:00:00"
   }
 ]
