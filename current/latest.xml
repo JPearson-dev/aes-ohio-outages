@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.23891043</LAT>
-    <LNG>-84.5956117627875</LNG>
+    <LAT>40.23788693</LAT>
+    <LNG>-84.5969781000146</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1814906</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,19 @@
     <EstimateTime>09/30/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78135327</LAT>
-    <LNG>-84.0448091307454</LNG>
+    <LAT>39.55578172</LAT>
+    <LNG>-83.4149644892889</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814920</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>17</total>
+    <OutageTime>09/30/2026 07:10 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.78032977</LAT>
+    <LNG>-84.0461656335924</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1814870</INCIDENTID>
     <IND>D</IND>
@@ -23,25 +34,14 @@
     <EstimateTime>09/30/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7281038</LAT>
-    <LNG>-84.15256106811</LNG>
+    <LAT>39.7270803</LAT>
+    <LNG>-84.1539164415974</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814918</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>17</total>
     <OutageTime>09/30/2026 06:10 PM</OutageTime>
-    <EstimateTime>09/30/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.47680433</LAT>
-    <LNG>-84.1684414975111</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814886</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>17</total>
-    <OutageTime>09/30/2026 03:35 PM</OutageTime>
     <EstimateTime>09/30/2026 08:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -78,7 +78,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -126,7 +126,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -144,6 +144,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>17</TotalOut>
-    <Outageat>9/30/2026 7:05:30 PM</Outageat>
+    <Outageat>9/30/2026 7:20:30 PM</Outageat>
   </Message>
 </Incidents>
