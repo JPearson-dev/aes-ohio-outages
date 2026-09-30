@@ -1,8 +1,18 @@
 [
   {
+    "id": 299052,
+    "lat": 39.4833257963341,
+    "lng": -83.9670492512763,
+    "customers_affected": 742,
+    "county": "WARREN",
+    "indicator": "T",
+    "outage_time": "2026-09-30T15:44:00",
+    "estimate_time": "2026-09-30T17:00:00"
+  },
+  {
     "id": 1814870,
-    "lat": 39.78355157,
-    "lng": -84.0418955985436,
+    "lat": 39.78429027,
+    "lng": -84.0409165573584,
     "customers_affected": 3,
     "county": "GREENE",
     "indicator": "D",
@@ -10,19 +20,9 @@
     "estimate_time": "2026-09-30T16:00:00"
   },
   {
-    "id": 1814872,
-    "lat": 39.6374206,
-    "lng": -84.210427462628,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-09-30T14:06:00",
-    "estimate_time": "2026-09-30T16:00:00"
-  },
-  {
     "id": 1814873,
-    "lat": 39.65182668,
-    "lng": -84.0999032280983,
+    "lat": 39.65256538,
+    "lng": -84.0989261991537,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -30,23 +30,33 @@
     "estimate_time": "2026-09-30T16:00:00"
   },
   {
-    "id": 1814875,
-    "lat": 39.79553755,
-    "lng": -84.013826531718,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-09-30T14:09:00",
-    "estimate_time": "2026-09-30T17:00:00"
-  },
-  {
     "id": 1814880,
-    "lat": 39.77120569,
-    "lng": -84.1385963248704,
+    "lat": 39.77194439,
+    "lng": -84.1376174728676,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-09-30T14:48:00",
     "estimate_time": "2026-09-30T17:00:00"
+  },
+  {
+    "id": 1814886,
+    "lat": 40.47974133,
+    "lng": -84.1645057630369,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-09-30T15:35:00",
+    "estimate_time": "2026-09-30T18:00:00"
+  },
+  {
+    "id": 1814887,
+    "lat": 39.77702012,
+    "lng": -84.020225675918,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-30T15:38:00",
+    "estimate_time": "2026-09-30T18:00:00"
   }
 ]
