@@ -1,48 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.349950663201</LAT>
-    <LNG>-83.6056531427159</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814790</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>HIGHLAND</COUNTY>
-    <total>5</total>
-    <OutageTime>09/30/2026 07:40 AM</OutageTime>
-    <EstimateTime>09/30/2026 10:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.8375166</LAT>
-    <LNG>-84.3924738523389</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1814793</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
-    <OutageTime>09/30/2026 08:12 AM</OutageTime>
-    <EstimateTime>09/30/2026 10:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.85726438</LAT>
-    <LNG>-84.427986300705</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814794</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
-    <OutageTime>09/30/2026 08:12 AM</OutageTime>
-    <EstimateTime>09/30/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.82032985</LAT>
-    <LNG>-84.4266960115872</LNG>
+    <LAT>39.81931525</LAT>
+    <LNG>-84.4280414996312</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814792</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
+    <total>4</total>
     <OutageTime>09/30/2026 08:10 AM</OutageTime>
     <EstimateTime>09/30/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.85624978</LAT>
+    <LNG>-84.4293325686006</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814794</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>4</total>
+    <OutageTime>09/30/2026 08:12 AM</OutageTime>
+    <EstimateTime>09/30/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.836502</LAT>
+    <LNG>-84.3938197030849</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1814793</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>4</total>
+    <OutageTime>09/30/2026 08:12 AM</OutageTime>
+    <EstimateTime>09/30/2026 10:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -90,7 +79,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>9/30/2026 8:35:31 AM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>9/30/2026 8:50:31 AM</Outageat>
   </Message>
 </Incidents>
