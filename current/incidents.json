@@ -1,32 +1,62 @@
 [
   {
     "id": 1814870,
-    "lat": 39.78087267,
-    "lng": -84.0454460972997,
+    "lat": 39.78145117,
+    "lng": -84.0446793782992,
     "customers_affected": 6,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-30T13:32:00",
-    "estimate_time": "2026-09-30T18:00:00"
+    "estimate_time": "2026-09-30T22:00:00"
   },
   {
     "id": 1814886,
-    "lat": 40.47632373,
-    "lng": -84.1690855267887,
+    "lat": 40.47690223,
+    "lng": -84.168310306362,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-09-30T15:35:00",
-    "estimate_time": "2026-09-30T18:00:00"
+    "estimate_time": "2026-09-30T20:00:00"
   },
   {
     "id": 1814906,
-    "lat": 40.23842983,
-    "lng": -84.5962533472246,
+    "lat": 40.23900833,
+    "lng": -84.5954810696614,
     "customers_affected": 9,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-09-30T17:07:00",
     "estimate_time": "2026-09-30T20:00:00"
+  },
+  {
+    "id": 1814915,
+    "lat": 39.50699882,
+    "lng": -84.0000691800817,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-09-30T17:49:00",
+    "estimate_time": "2026-09-30T20:00:00"
+  },
+  {
+    "id": 1814916,
+    "lat": 39.51448331,
+    "lng": -83.9965568463395,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-09-30T17:55:00",
+    "estimate_time": "2026-09-30T21:00:00"
+  },
+  {
+    "id": 1814917,
+    "lat": 39.84444304,
+    "lng": -84.0029998045312,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-09-30T17:55:00",
+    "estimate_time": "2026-09-30T21:00:00"
   }
 ]
