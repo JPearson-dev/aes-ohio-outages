@@ -1,79 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.23835789</LAT>
-    <LNG>-84.606855367336</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1814907</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>22</total>
-    <OutageTime>09/30/2026 05:17 PM</OutageTime>
-    <EstimateTime>09/30/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.24191863</LAT>
-    <LNG>-84.591595919459</LNG>
+    <LAT>40.23842983</LAT>
+    <LNG>-84.5962533472246</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1814906</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>22</total>
+    <total>16</total>
     <OutageTime>09/30/2026 05:07 PM</OutageTime>
     <EstimateTime>09/30/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78180148</LAT>
-    <LNG>-84.049933285464</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814913</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>22</total>
-    <OutageTime>09/30/2026 05:27 PM</OutageTime>
-    <EstimateTime>09/30/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.74055828</LAT>
-    <LNG>-84.0029581658511</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814900</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>22</total>
-    <OutageTime>09/30/2026 04:55 PM</OutageTime>
-    <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.7143754</LAT>
-    <LNG>-83.9046377585151</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814895</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>22</total>
-    <OutageTime>09/30/2026 04:36 PM</OutageTime>
-    <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78436147</LAT>
-    <LNG>-84.0408221919429</LNG>
+    <LAT>39.78087267</LAT>
+    <LNG>-84.0454460972997</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1814870</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>22</total>
+    <total>16</total>
     <OutageTime>09/30/2026 01:32 PM</OutageTime>
     <EstimateTime>09/30/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.47981253</LAT>
-    <LNG>-84.1644103512921</LNG>
+    <LAT>40.47632373</LAT>
+    <LNG>-84.1690855267887</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814886</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>22</total>
+    <total>16</total>
     <OutageTime>09/30/2026 03:35 PM</OutageTime>
     <EstimateTime>09/30/2026 06:00 PM</EstimateTime>
   </Markers>
@@ -103,7 +59,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>12</TotOut>
+    <TotOut>9</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -115,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>9</TotOut>
+    <TotOut>6</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -176,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>22</TotalOut>
-    <Outageat>9/30/2026 5:35:30 PM</Outageat>
+    <TotalOut>16</TotalOut>
+    <Outageat>9/30/2026 5:50:30 PM</Outageat>
   </Message>
 </Incidents>
