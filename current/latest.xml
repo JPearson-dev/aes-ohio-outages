@@ -1,79 +1,90 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.40802353</LAT>
-    <LNG>-83.9593502674716</LNG>
+    <LAT>39.40772983</LAT>
+    <LNG>-83.9597372584123</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814894</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>753</total>
+    <total>781</total>
     <OutageTime>09/30/2026 04:08 PM</OutageTime>
     <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.73973948</LAT>
-    <LNG>-84.0040426247343</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814900</INCIDENTID>
+    <LAT>40.24080613</LAT>
+    <LNG>-84.593081068619</LNG>
+    <TOTALCUSTS>9</TOTALCUSTS>
+    <INCIDENTID>1814906</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>753</total>
-    <OutageTime>09/30/2026 04:55 PM</OutageTime>
-    <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
+    <COUNTY>DARKE</COUNTY>
+    <total>781</total>
+    <OutageTime>09/30/2026 05:07 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78354267</LAT>
-    <LNG>-84.0419073942205</LNG>
+    <LAT>40.11293654</LAT>
+    <LNG>-84.6183739964219</LNG>
+    <TOTALCUSTS>20</TOTALCUSTS>
+    <INCIDENTID>1814905</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>781</total>
+    <OutageTime>09/30/2026 05:13 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.78324897</LAT>
+    <LNG>-84.0422966515592</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1814870</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>753</total>
+    <total>781</total>
     <OutageTime>09/30/2026 01:32 PM</OutageTime>
     <EstimateTime>09/30/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7135566</LAT>
-    <LNG>-83.9057217738502</LNG>
+    <LAT>39.7132629</LAT>
+    <LNG>-83.9061106054378</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814895</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>753</total>
+    <total>781</total>
     <OutageTime>09/30/2026 04:36 PM</OutageTime>
     <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.47899373</LAT>
-    <LNG>-84.1655075863576</LNG>
+    <LAT>39.73944578</LAT>
+    <LNG>-84.0044316154207</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1814900</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>781</total>
+    <OutageTime>09/30/2026 04:55 PM</OutageTime>
+    <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.47870003</LAT>
+    <LNG>-84.165901159805</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814886</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>753</total>
+    <total>781</total>
     <OutageTime>09/30/2026 03:35 PM</OutageTime>
     <EstimateTime>09/30/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.26240013</LAT>
-    <LNG>-83.3576446367788</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1814890</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>753</total>
-    <OutageTime>09/30/2026 03:52 PM</OutageTime>
-    <EstimateTime>09/30/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.4825781963341</LAT>
-    <LNG>-83.9680354555597</LNG>
+    <LAT>39.4822844963341</LAT>
+    <LNG>-83.9684228929568</LNG>
     <TOTALCUSTS>742</TOTALCUSTS>
     <INCIDENTID>299052</INCIDENTID>
     <IND>T</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>753</total>
+    <total>781</total>
     <OutageTime>09/30/2026 03:44 PM</OutageTime>
     <EstimateTime>09/30/2026 06:00 PM</EstimateTime>
   </Markers>
@@ -103,7 +114,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>29</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -163,7 +174,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -176,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>753</TotalOut>
-    <Outageat>9/30/2026 5:05:30 PM</Outageat>
+    <TotalOut>781</TotalOut>
+    <Outageat>9/30/2026 5:20:30 PM</Outageat>
   </Message>
 </Incidents>

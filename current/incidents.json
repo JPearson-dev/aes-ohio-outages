@@ -1,8 +1,8 @@
 [
   {
     "id": 299052,
-    "lat": 39.4825781963341,
-    "lng": -83.9680354555597,
+    "lat": 39.4822844963341,
+    "lng": -83.9684228929568,
     "customers_affected": 742,
     "county": "WARREN",
     "indicator": "T",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814870,
-    "lat": 39.78354267,
-    "lng": -84.0419073942205,
+    "lat": 39.78324897,
+    "lng": -84.0422966515592,
     "customers_affected": 6,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1814886,
-    "lat": 40.47899373,
-    "lng": -84.1655075863576,
+    "lat": 40.47870003,
+    "lng": -84.165901159805,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -30,19 +30,9 @@
     "estimate_time": "2026-09-30T18:00:00"
   },
   {
-    "id": 1814890,
-    "lat": 40.26240013,
-    "lng": -83.3576446367788,
-    "customers_affected": 1,
-    "county": "UNION",
-    "indicator": "D",
-    "outage_time": "2026-09-30T15:52:00",
-    "estimate_time": "2026-09-30T19:00:00"
-  },
-  {
     "id": 1814894,
-    "lat": 39.40802353,
-    "lng": -83.9593502674716,
+    "lat": 39.40772983,
+    "lng": -83.9597372584123,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1814895,
-    "lat": 39.7135566,
-    "lng": -83.9057217738502,
+    "lat": 39.7132629,
+    "lng": -83.9061106054378,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -61,12 +51,32 @@
   },
   {
     "id": 1814900,
-    "lat": 39.73973948,
-    "lng": -84.0040426247343,
+    "lat": 39.73944578,
+    "lng": -84.0044316154207,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-09-30T16:55:00",
     "estimate_time": "2026-09-30T19:00:00"
+  },
+  {
+    "id": 1814905,
+    "lat": 40.11293654,
+    "lng": -84.6183739964219,
+    "customers_affected": 20,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-09-30T17:13:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1814906,
+    "lat": 40.24080613,
+    "lng": -84.593081068619,
+    "customers_affected": 9,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-09-30T17:07:00",
+    "estimate_time": null
   }
 ]
