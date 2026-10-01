@@ -1,24 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77763973</LAT>
-    <LNG>-84.2324058797416</LNG>
+    <LAT>39.6603003</LAT>
+    <LNG>-83.482668821554</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815030</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>21</total>
+    <OutageTime>10/01/2026 12:16 PM</OutageTime>
+    <EstimateTime>10/01/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7625937441713</LAT>
+    <LNG>-84.1237363803592</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815031</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>21</total>
+    <OutageTime>10/01/2026 12:18 PM</OutageTime>
+    <EstimateTime>10/01/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.78107513</LAT>
+    <LNG>-84.2278529617648</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814977</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>19</total>
+    <total>21</total>
     <OutageTime>10/01/2026 09:28 AM</OutageTime>
     <EstimateTime>10/01/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66237971</LAT>
-    <LNG>-84.1314370175512</LNG>
+    <LAT>39.66581511</LAT>
+    <LNG>-84.126892290218</LNG>
     <TOTALCUSTS>18</TOTALCUSTS>
     <INCIDENTID>1814969</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>19</total>
+    <total>21</total>
     <OutageTime>10/01/2026 08:56 AM</OutageTime>
     <EstimateTime>10/01/2026 03:00 PM</EstimateTime>
   </Markers>
@@ -56,7 +78,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -88,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>19</TotOut>
+    <TotOut>20</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -121,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>19</TotalOut>
-    <Outageat>10/1/2026 12:20:30 PM</Outageat>
+    <TotalOut>21</TotalOut>
+    <Outageat>10/1/2026 12:35:30 PM</Outageat>
   </Message>
 </Incidents>
