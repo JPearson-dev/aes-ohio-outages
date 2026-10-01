@@ -1,46 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.5184078</LAT>
-    <LNG>-83.5230420562725</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815014</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>26</total>
-    <OutageTime>10/01/2026 11:11 AM</OutageTime>
-    <EstimateTime>10/01/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.69770575</LAT>
-    <LNG>-83.8930577713863</LNG>
-    <TOTALCUSTS>6</TOTALCUSTS>
-    <INCIDENTID>1815024</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>26</total>
-    <OutageTime>10/01/2026 11:45 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.77793343</LAT>
-    <LNG>-84.23201664064</LNG>
+    <LAT>39.77763973</LAT>
+    <LNG>-84.2324058797416</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1814977</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>26</total>
+    <total>19</total>
     <OutageTime>10/01/2026 09:28 AM</OutageTime>
     <EstimateTime>10/01/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66267341</LAT>
-    <LNG>-84.1310484786859</LNG>
+    <LAT>39.66237971</LAT>
+    <LNG>-84.1314370175512</LNG>
     <TOTALCUSTS>18</TOTALCUSTS>
     <INCIDENTID>1814969</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>26</total>
+    <total>19</total>
     <OutageTime>10/01/2026 08:56 AM</OutageTime>
     <EstimateTime>10/01/2026 03:00 PM</EstimateTime>
   </Markers>
@@ -78,11 +56,11 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>6</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -143,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>26</TotalOut>
-    <Outageat>10/1/2026 12:05:30 PM</Outageat>
+    <TotalOut>19</TotalOut>
+    <Outageat>10/1/2026 12:20:30 PM</Outageat>
   </Message>
 </Incidents>
