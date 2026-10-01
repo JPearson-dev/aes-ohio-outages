@@ -1,8 +1,8 @@
 [
   {
     "id": 1814969,
-    "lat": 39.66581511,
-    "lng": -84.126892290218,
+    "lat": 39.66319851,
+    "lng": -84.1303538182904,
     "customers_affected": 18,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814977,
-    "lat": 39.78107513,
-    "lng": -84.2278529617648,
+    "lat": 39.77845853,
+    "lng": -84.2313207283068,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1815030,
-    "lat": 39.6603003,
-    "lng": -83.482668821554,
+    "lat": 39.6576837,
+    "lng": -83.4861300520722,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -31,12 +31,22 @@
   },
   {
     "id": 1815031,
-    "lat": 39.7625937441713,
-    "lng": -84.1237363803592,
+    "lat": 39.7599771441713,
+    "lng": -84.1272031440746,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-01T12:18:00",
+    "estimate_time": "2026-10-01T15:00:00"
+  },
+  {
+    "id": 1815038,
+    "lat": 39.76239336,
+    "lng": -84.1530729986548,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-01T12:36:00",
     "estimate_time": "2026-10-01T15:00:00"
   }
 ]
