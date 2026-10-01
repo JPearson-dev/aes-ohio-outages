@@ -1,25 +1,36 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.80779964</LAT>
-    <LNG>-84.269741110199</LNG>
+    <LAT>39.80158106</LAT>
+    <LNG>-84.2446993250564</LNG>
+    <TOTALCUSTS>8</TOTALCUSTS>
+    <INCIDENTID>1815067</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>10</total>
+    <OutageTime>10/01/2026 03:19 PM</OutageTime>
+    <EstimateTime>10/01/2026 05:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80828914</LAT>
+    <LNG>-84.2690920789753</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815055</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>78</total>
+    <total>10</total>
     <OutageTime>10/01/2026 02:15 PM</OutageTime>
     <EstimateTime>10/01/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66839839</LAT>
-    <LNG>-84.1302038293282</LNG>
-    <TOTALCUSTS>77</TOTALCUSTS>
-    <INCIDENTID>1814969</INCIDENTID>
+    <LAT>39.64347005</LAT>
+    <LNG>-84.631438083272</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815068</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>78</total>
-    <OutageTime>10/01/2026 08:56 AM</OutageTime>
+    <COUNTY>PREBLE</COUNTY>
+    <total>10</total>
+    <OutageTime>10/01/2026 03:23 PM</OutageTime>
     <EstimateTime>10/01/2026 05:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -88,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>78</TotOut>
+    <TotOut>9</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -96,7 +107,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>78</TotalOut>
-    <Outageat>10/1/2026 3:20:30 PM</Outageat>
+    <TotalOut>10</TotalOut>
+    <Outageat>10/1/2026 3:35:31 PM</Outageat>
   </Message>
 </Incidents>
