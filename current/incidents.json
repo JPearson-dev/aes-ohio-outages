@@ -1,8 +1,8 @@
 [
   {
     "id": 1814969,
-    "lat": 39.66515651,
-    "lng": -84.1277635591886,
+    "lat": 39.66350111,
+    "lng": -84.1299535055202,
     "customers_affected": 18,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1814977,
-    "lat": 39.78041653,
-    "lng": -84.2287258009624,
+    "lat": 39.77876113,
+    "lng": -84.2309196940808,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -20,19 +20,9 @@
     "estimate_time": "2026-10-01T12:00:00"
   },
   {
-    "id": 1814984,
-    "lat": 39.69487933,
-    "lng": -84.1879912538741,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-01T09:32:00",
-    "estimate_time": "2026-10-01T12:00:00"
-  },
-  {
     "id": 1814989,
-    "lat": 39.66350063,
-    "lng": -83.5600524025211,
+    "lat": 39.66184523,
+    "lng": -83.5622422923234,
     "customers_affected": 2,
     "county": "FAYETTE",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1815006,
-    "lat": 39.87349595,
-    "lng": -84.3297191096273,
+    "lat": 39.87184055,
+    "lng": -84.3319162073253,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,12 +41,32 @@
   },
   {
     "id": 1815009,
-    "lat": 40.12443964,
-    "lng": -84.4818730696896,
+    "lat": 40.12278424,
+    "lng": -84.4840788847615,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-10-01T10:41:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-01T13:00:00"
+  },
+  {
+    "id": 1815011,
+    "lat": 39.76269596,
+    "lng": -84.1526720652463,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-01T10:47:00",
+    "estimate_time": "2026-10-01T13:00:00"
+  },
+  {
+    "id": 1815012,
+    "lat": 39.63187342,
+    "lng": -84.1465283452404,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-01T10:48:00",
+    "estimate_time": "2026-10-01T13:00:00"
   }
 ]
