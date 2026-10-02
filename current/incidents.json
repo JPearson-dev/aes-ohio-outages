@@ -1,8 +1,8 @@
 [
   {
     "id": 1815075,
-    "lat": 39.9323743,
-    "lng": -84.1615475870599,
+    "lat": 39.9337271,
+    "lng": -84.1597503775228,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1815105,
-    "lat": 39.80737631,
-    "lng": -84.289290516442,
+    "lat": 39.80872911,
+    "lng": -84.2874968320438,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-01T19:27:00",
     "estimate_time": "2026-10-02T00:00:00"
+  },
+  {
+    "id": 1815113,
+    "lat": 40.48089916,
+    "lng": -84.6140653366687,
+    "customers_affected": 2,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-10-01T23:47:00",
+    "estimate_time": "2026-10-02T03:00:00"
   }
 ]

@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.9323743</LAT>
-    <LNG>-84.1615475870599</LNG>
+    <LAT>40.48089916</LAT>
+    <LNG>-84.6140653366687</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1815113</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>4</total>
+    <OutageTime>10/01/2026 11:47 PM</OutageTime>
+    <EstimateTime>10/02/2026 03:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.9337271</LAT>
+    <LNG>-84.1597503775228</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815075</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>2</total>
+    <total>4</total>
     <OutageTime>10/01/2026 03:54 PM</OutageTime>
     <EstimateTime>10/02/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80737631</LAT>
-    <LNG>-84.289290516442</LNG>
+    <LAT>39.80872911</LAT>
+    <LNG>-84.2874968320438</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815105</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>2</total>
+    <total>4</total>
     <OutageTime>10/01/2026 07:27 PM</OutageTime>
     <EstimateTime>10/02/2026 12:00 AM</EstimateTime>
   </Markers>
@@ -80,7 +91,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>10/1/2026 11:50:30 PM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>10/2/2026 12:05:30 AM</Outageat>
   </Message>
 </Incidents>
