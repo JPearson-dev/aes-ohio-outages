@@ -1,8 +1,8 @@
 [
   {
     "id": 1815075,
-    "lat": 39.9320628,
-    "lng": -84.1619614182033,
+    "lat": 39.9335046,
+    "lng": -84.1600459711966,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1815099,
-    "lat": 40.22249781,
-    "lng": -84.6303740026582,
+    "lat": 40.22393961,
+    "lng": -84.6284497310334,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1815105,
-    "lat": 39.80706481,
-    "lng": -84.2897035358758,
+    "lat": 39.80850661,
+    "lng": -84.2877918459251,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-01T19:27:00",
     "estimate_time": "2026-10-01T22:00:00"
+  },
+  {
+    "id": 1815110,
+    "lat": 39.66138882,
+    "lng": -84.2642722492879,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-01T20:55:00",
+    "estimate_time": "2026-10-02T00:00:00"
   }
 ]
