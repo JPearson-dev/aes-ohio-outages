@@ -1,46 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.97570607</LAT>
-    <LNG>-84.2659212418204</LNG>
-    <TOTALCUSTS>47</TOTALCUSTS>
-    <INCIDENTID>1815129</INCIDENTID>
+    <LAT>40.30938429</LAT>
+    <LNG>-83.955385577576</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815133</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>105</total>
-    <OutageTime>10/02/2026 03:24 AM</OutageTime>
-    <EstimateTime>10/02/2026 06:00 AM</EstimateTime>
+    <COUNTY>LOGAN</COUNTY>
+    <total>59</total>
+    <OutageTime>10/02/2026 05:06 AM</OutageTime>
+    <EstimateTime>10/02/2026 08:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8229695</LAT>
-    <LNG>-84.2533411441044</LNG>
+    <LAT>39.8214654</LAT>
+    <LNG>-84.2553359001539</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1815119</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>105</total>
+    <total>59</total>
     <OutageTime>10/02/2026 02:26 AM</OutageTime>
-    <EstimateTime>10/02/2026 05:00 AM</EstimateTime>
+    <EstimateTime>10/02/2026 07:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75534179</LAT>
-    <LNG>-84.2782188323772</LNG>
+    <LAT>39.75383769</LAT>
+    <LNG>-84.2802114768918</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815131</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>105</total>
+    <total>59</total>
     <OutageTime>10/02/2026 04:04 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76045901</LAT>
-    <LNG>-84.0966198804916</LNG>
+    <LAT>39.75895491</LAT>
+    <LNG>-84.0986126845213</LNG>
     <TOTALCUSTS>48</TOTALCUSTS>
     <INCIDENTID>1815122</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>105</total>
+    <total>59</total>
     <OutageTime>10/02/2026 02:39 AM</OutageTime>
     <EstimateTime>10/02/2026 05:00 AM</EstimateTime>
   </Markers>
@@ -94,7 +94,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -106,7 +106,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>47</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -143,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>105</TotalOut>
-    <Outageat>10/2/2026 5:05:30 AM</Outageat>
+    <TotalOut>59</TotalOut>
+    <Outageat>10/2/2026 5:20:30 AM</Outageat>
   </Message>
 </Incidents>
