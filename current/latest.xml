@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.48296396</LAT>
-    <LNG>-84.6112982576269</LNG>
+    <LAT>40.47950186</LAT>
+    <LNG>-84.6159378858479</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1815113</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>65</total>
+    <total>171</total>
     <OutageTime>10/01/2026 11:47 PM</OutageTime>
     <EstimateTime>10/02/2026 06:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.9357919</LAT>
-    <LNG>-84.1570072682292</LNG>
+    <LAT>39.9323298</LAT>
+    <LNG>-84.1616067057947</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815075</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>65</total>
+    <total>171</total>
     <OutageTime>10/01/2026 03:54 PM</OutageTime>
     <EstimateTime>10/02/2026 08:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76306671</LAT>
-    <LNG>-84.0931649007243</LNG>
+    <LAT>39.94616002</LAT>
+    <LNG>-84.2620023793246</LNG>
+    <TOTALCUSTS>106</TOTALCUSTS>
+    <INCIDENTID>1815127</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>171</total>
+    <OutageTime>10/02/2026 03:24 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.75960461</LAT>
+    <LNG>-84.0977518875144</LNG>
     <TOTALCUSTS>48</TOTALCUSTS>
     <INCIDENTID>1815122</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>65</total>
+    <total>171</total>
     <OutageTime>10/02/2026 02:39 AM</OutageTime>
     <EstimateTime>10/02/2026 05:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8255772</LAT>
-    <LNG>-84.2498827800658</LNG>
+    <LAT>39.8221151</LAT>
+    <LNG>-84.2544742599668</LNG>
     <TOTALCUSTS>14</TOTALCUSTS>
     <INCIDENTID>1815119</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>65</total>
+    <total>171</total>
     <OutageTime>10/02/2026 02:26 AM</OutageTime>
     <EstimateTime>10/02/2026 05:00 AM</EstimateTime>
   </Markers>
@@ -106,7 +117,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>107</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>65</TotalOut>
-    <Outageat>10/2/2026 3:20:30 AM</Outageat>
+    <TotalOut>171</TotalOut>
+    <Outageat>10/2/2026 3:35:31 AM</Outageat>
   </Message>
 </Incidents>
