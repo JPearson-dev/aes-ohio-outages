@@ -1,18 +1,18 @@
 [
   {
     "id": 1815119,
-    "lat": 39.8225334,
-    "lng": -84.2539195053258,
+    "lat": 39.8243668,
+    "lng": -84.2514880275376,
     "customers_affected": 9,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-02T02:26:00",
-    "estimate_time": "2026-10-02T09:00:00"
+    "estimate_time": "2026-10-02T11:00:00"
   },
   {
     "id": 1815122,
-    "lat": 39.76002291,
-    "lng": -84.0971976757428,
+    "lat": 39.76185631,
+    "lng": -84.0947685773398,
     "customers_affected": 48,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1815134,
-    "lat": 39.9895567,
-    "lng": -84.318342033514,
+    "lat": 39.9913901,
+    "lng": -84.3159041600896,
     "customers_affected": 3,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,19 +31,19 @@
   },
   {
     "id": 1815137,
-    "lat": 39.8659234,
-    "lng": -84.2094588787007,
-    "customers_affected": 33,
+    "lat": 39.86875621,
+    "lng": -84.2030350472746,
+    "customers_affected": 688,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-02T06:36:00",
-    "estimate_time": "2026-10-02T10:00:00"
+    "estimate_time": "2026-10-02T08:00:00"
   },
   {
     "id": 1815158,
-    "lat": 39.86692281,
-    "lng": -84.2054682193956,
-    "customers_affected": 9,
+    "lat": 39.86875621,
+    "lng": -84.2030350472746,
+    "customers_affected": 13,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-02T06:36:00",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1815159,
-    "lat": 39.70223249,
-    "lng": -84.0532320438482,
+    "lat": 39.70406589,
+    "lng": -84.0508051382971,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -60,73 +60,33 @@
     "estimate_time": "2026-10-02T10:00:00"
   },
   {
-    "id": 1815160,
-    "lat": 39.85837199,
-    "lng": -84.217501159831,
-    "customers_affected": 103,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-02T06:36:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1815161,
-    "lat": 39.8660793,
-    "lng": -84.2055052260515,
-    "customers_affected": 47,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-02T06:36:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1815166,
-    "lat": 39.87654474,
-    "lng": -84.2139896637301,
-    "customers_affected": 3,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-02T06:36:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1815168,
-    "lat": 39.86601454,
-    "lng": -84.2069512596138,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-02T06:36:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1815169,
-    "lat": 39.87701742,
-    "lng": -84.209171784684,
-    "customers_affected": 2,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-02T06:36:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1815170,
-    "lat": 39.86713462,
-    "lng": -84.2058574750351,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-02T06:39:00",
-    "estimate_time": null
-  },
-  {
     "id": 1815171,
-    "lat": 39.78615865,
-    "lng": -84.2276941286798,
+    "lat": 39.78799205,
+    "lng": -84.2252640363928,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-02T07:14:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-02T10:00:00"
+  },
+  {
+    "id": 1815172,
+    "lat": 39.87109999,
+    "lng": -84.2018217468068,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-02T07:21:00",
+    "estimate_time": "2026-10-02T10:00:00"
+  },
+  {
+    "id": 1815173,
+    "lat": 39.67830849,
+    "lng": -83.8369251184316,
+    "customers_affected": 4,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-02T07:22:00",
+    "estimate_time": "2026-10-02T09:00:00"
   }
 ]
