@@ -1,8 +1,8 @@
 [
   {
     "id": 1815396,
-    "lat": 39.55840831,
-    "lng": -84.1536920234371,
+    "lat": 39.55841721,
+    "lng": -84.1536802685644,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1815441,
-    "lat": 39.50024683,
-    "lng": -83.6187158642614,
+    "lat": 39.50025573,
+    "lng": -83.6187041199906,
     "customers_affected": 4,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-10-03T12:15:00",
+    "estimate_time": "2026-10-03T15:00:00"
+  },
+  {
+    "id": 1815443,
+    "lat": 40.05288439,
+    "lng": -84.1748637479803,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-10-03T12:34:00",
     "estimate_time": "2026-10-03T15:00:00"
   }
 ]
