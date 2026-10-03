@@ -1,24 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.50127033</LAT>
-    <LNG>-83.617365273126</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
+    <LAT>39.50024683</LAT>
+    <LNG>-83.6187158642614</LNG>
+    <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1815441</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>10/03/2026 12:15 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/03/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55943181</LAT>
-    <LNG>-84.1523402130796</LNG>
+    <LAT>39.55840831</LAT>
+    <LNG>-84.1536920234371</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815396</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>10/03/2026 07:54 AM</OutageTime>
     <EstimateTime>10/03/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -44,7 +44,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>3</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -121,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>10/3/2026 12:20:31 PM</Outageat>
+    <TotalOut>5</TotalOut>
+    <Outageat>10/3/2026 12:35:31 PM</Outageat>
   </Message>
 </Incidents>
