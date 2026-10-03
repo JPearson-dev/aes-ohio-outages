@@ -1,35 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.50035363</LAT>
-    <LNG>-83.6185749330125</LNG>
-    <TOTALCUSTS>8</TOTALCUSTS>
-    <INCIDENTID>1815441</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>10</total>
-    <OutageTime>10/03/2026 12:15 PM</OutageTime>
-    <EstimateTime>10/03/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.13507321</LAT>
-    <LNG>-84.3413710440319</LNG>
+    <LAT>40.13518001</LAT>
+    <LNG>-84.3412287033606</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815444</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>10</total>
+    <total>2</total>
     <OutageTime>10/03/2026 12:50 PM</OutageTime>
     <EstimateTime>10/03/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.05298229</LAT>
-    <LNG>-84.1747334385406</LNG>
+    <LAT>40.05308909</LAT>
+    <LNG>-84.1745912827883</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815443</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>10</total>
+    <total>2</total>
     <OutageTime>10/03/2026 12:34 PM</OutageTime>
     <EstimateTime>10/03/2026 03:00 PM</EstimateTime>
   </Markers>
@@ -55,7 +44,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>8</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>10</TotalOut>
-    <Outageat>10/3/2026 1:20:32 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>10/3/2026 1:50:31 PM</Outageat>
   </Message>
 </Incidents>
