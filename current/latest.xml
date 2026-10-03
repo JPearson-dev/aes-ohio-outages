@@ -1,35 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.86118398</LAT>
-    <LNG>-84.2579992947015</LNG>
-    <TOTALCUSTS>259</TOTALCUSTS>
-    <INCIDENTID>1815425</INCIDENTID>
+    <LAT>39.86921014</LAT>
+    <LNG>-84.2313537994634</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1815439</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>261</total>
-    <OutageTime>10/03/2026 10:30 AM</OutageTime>
-    <EstimateTime>10/03/2026 02:00 PM</EstimateTime>
+    <total>3</total>
+    <OutageTime>10/03/2026 11:56 AM</OutageTime>
+    <EstimateTime>10/03/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.30068774</LAT>
-    <LNG>-84.3099405344965</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815428</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>261</total>
-    <OutageTime>10/03/2026 10:50 AM</OutageTime>
-    <EstimateTime>10/03/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.55875541</LAT>
-    <LNG>-84.1532335834028</LNG>
+    <LAT>39.55933391</LAT>
+    <LNG>-84.152469516679</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815396</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>261</total>
+    <total>3</total>
     <OutageTime>10/03/2026 07:54 AM</OutageTime>
     <EstimateTime>10/03/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -99,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>259</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -115,7 +104,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>261</TotalOut>
-    <Outageat>10/3/2026 11:50:31 AM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>10/3/2026 12:05:31 PM</Outageat>
   </Message>
 </Incidents>
