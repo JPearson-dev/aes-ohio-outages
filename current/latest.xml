@@ -1,26 +1,58 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.3500968</LAT>
-    <LNG>-84.6262016007475</LNG>
+    <LAT>39.53328868</LAT>
+    <LNG>-83.8784199758426</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815393</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>52</total>
+    <OutageTime>10/03/2026 07:28 AM</OutageTime>
+    <EstimateTime>10/03/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.3503549</LAT>
+    <LNG>-84.625856448316</LNG>
     <TOTALCUSTS>45</TOTALCUSTS>
     <INCIDENTID>1815385</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>47</total>
+    <total>52</total>
     <OutageTime>10/03/2026 12:51 AM</OutageTime>
     <EstimateTime>10/03/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.6633103</LAT>
-    <LNG>-84.4333444968753</LNG>
+    <LAT>39.6635684</LAT>
+    <LNG>-84.4330030658252</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1815356</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>47</total>
+    <total>52</total>
     <OutageTime>10/02/2026 04:58 PM</OutageTime>
     <EstimateTime>10/03/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77875274</LAT>
+    <LNG>-84.619552065019</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1815394</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>52</total>
+    <OutageTime>10/03/2026 07:21 AM</OutageTime>
+    <EstimateTime>10/03/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.5351071</LAT>
+    <LNG>-83.8771917688236</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815395</INCIDENTID>
+    <IND>D</IND>
+    <total>52</total>
+    <OutageTime>10/03/2026 07:22 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -44,7 +76,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -96,7 +128,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -121,7 +153,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>47</TotalOut>
-    <Outageat>10/3/2026 7:20:31 AM</Outageat>
+    <TotalOut>51</TotalOut>
+    <Outageat>10/3/2026 7:35:32 AM</Outageat>
   </Message>
 </Incidents>
