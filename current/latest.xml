@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.50208913</LAT>
-    <LNG>-83.6162848002176</LNG>
-    <TOTALCUSTS>7</TOTALCUSTS>
+    <LAT>39.50035363</LAT>
+    <LNG>-83.6185749330125</LNG>
+    <TOTALCUSTS>8</TOTALCUSTS>
     <INCIDENTID>1815441</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
@@ -12,8 +12,8 @@
     <EstimateTime>10/03/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.13680871</LAT>
-    <LNG>-84.3390580081227</LNG>
+    <LAT>40.13507321</LAT>
+    <LNG>-84.3413710440319</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815444</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +23,8 @@
     <EstimateTime>10/03/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.05471779</LAT>
-    <LNG>-84.1724234075646</LNG>
+    <LAT>40.05298229</LAT>
+    <LNG>-84.1747334385406</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815443</INCIDENTID>
     <IND>D</IND>
@@ -32,17 +32,6 @@
     <total>10</total>
     <OutageTime>10/03/2026 12:34 PM</OutageTime>
     <EstimateTime>10/03/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.56025061</LAT>
-    <LNG>-84.1512587647935</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815396</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>10</total>
-    <OutageTime>10/03/2026 07:54 AM</OutageTime>
-    <EstimateTime>10/03/2026 02:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -66,7 +55,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>7</TotOut>
+    <TotOut>8</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -138,12 +127,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>10</TotalOut>
-    <Outageat>10/3/2026 1:05:32 PM</Outageat>
+    <Outageat>10/3/2026 1:20:32 PM</Outageat>
   </Message>
 </Incidents>
