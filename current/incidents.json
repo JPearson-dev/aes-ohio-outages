@@ -1,8 +1,8 @@
 [
   {
     "id": 1815323,
-    "lat": 39.82978307,
-    "lng": -84.4306681360772,
+    "lat": 39.82980087,
+    "lng": -84.4306445264074,
     "customers_affected": 8,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1815356,
-    "lat": 39.6597147,
-    "lng": -84.4381009846075,
+    "lat": 39.6597325,
+    "lng": -84.4380774376385,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1815361,
-    "lat": 39.64304891,
-    "lng": -84.6188689502414,
+    "lat": 39.64306671,
+    "lng": -84.618845409387,
     "customers_affected": 2,
     "county": "PREBLE",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1815375,
-    "lat": 39.8873553,
-    "lng": -84.1778946161649,
+    "lat": 39.8873731,
+    "lng": -84.1778709851434,
     "customers_affected": 35,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1815377,
-    "lat": 40.50904702,
-    "lng": -84.54855115505,
+    "lat": 40.50906482,
+    "lng": -84.5485272893344,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -51,12 +51,22 @@
   },
   {
     "id": 1815378,
-    "lat": 39.85928093,
-    "lng": -84.344883627367,
+    "lat": 39.85929873,
+    "lng": -84.3448600067653,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-02T20:45:00",
     "estimate_time": "2026-10-02T23:00:00"
+  },
+  {
+    "id": 1815381,
+    "lat": 39.86986782,
+    "lng": -84.3536378406005,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-02T21:19:00",
+    "estimate_time": "2026-10-03T00:00:00"
   }
 ]
