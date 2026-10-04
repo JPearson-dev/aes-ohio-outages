@@ -1,8 +1,8 @@
 [
   {
     "id": 1815481,
-    "lat": 39.71520299,
-    "lng": -83.9102479344562,
+    "lat": 39.71220369,
+    "lng": -83.9142188428977,
     "customers_affected": 13,
     "county": "GREENE",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1815482,
-    "lat": 39.71415461,
-    "lng": -83.9065453058693,
+    "lat": 39.71115531,
+    "lng": -83.9105161492951,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-04T01:53:00",
+    "estimate_time": "2026-10-04T08:00:00"
+  },
+  {
+    "id": 1815485,
+    "lat": 40.23112564,
+    "lng": -84.6248621136816,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-04T05:13:00",
     "estimate_time": "2026-10-04T08:00:00"
   }
 ]
