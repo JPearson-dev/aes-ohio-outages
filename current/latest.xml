@@ -1,48 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12303669</LAT>
-    <LNG>-84.4402503434239</LNG>
+    <LAT>40.12114989</LAT>
+    <LNG>-84.4427644292035</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815563</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>50</total>
+    <total>55</total>
     <OutageTime>10/04/2026 02:34 PM</OutageTime>
-    <EstimateTime>10/04/2026 07:00 PM</EstimateTime>
+    <EstimateTime>10/04/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56112423</LAT>
-    <LNG>-83.4053701923826</LNG>
-    <TOTALCUSTS>42</TOTALCUSTS>
+    <LAT>39.55923743</LAT>
+    <LNG>-83.4078622102888</LNG>
+    <TOTALCUSTS>47</TOTALCUSTS>
     <INCIDENTID>1815558</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>50</total>
+    <total>55</total>
     <OutageTime>10/04/2026 02:15 PM</OutageTime>
-    <EstimateTime>10/04/2026 07:00 PM</EstimateTime>
+    <EstimateTime>10/04/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82954493</LAT>
-    <LNG>-84.090189687255</LNG>
+    <LAT>39.82765813</LAT>
+    <LNG>-84.0926921663258</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815561</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>50</total>
+    <total>55</total>
     <OutageTime>10/04/2026 02:27 PM</OutageTime>
     <EstimateTime>10/04/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.73733114</LAT>
-    <LNG>-84.1426318078995</LNG>
+    <LAT>39.73544434</LAT>
+    <LNG>-84.1451306766506</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1815562</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>50</total>
+    <total>55</total>
     <OutageTime>10/04/2026 02:25 PM</OutageTime>
-    <EstimateTime>10/04/2026 07:00 PM</EstimateTime>
+    <EstimateTime>10/04/2026 10:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -78,7 +78,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>42</TotOut>
+    <TotOut>47</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -143,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>50</TotalOut>
-    <Outageat>10/4/2026 7:05:31 PM</Outageat>
+    <TotalOut>55</TotalOut>
+    <Outageat>10/4/2026 7:20:31 PM</Outageat>
   </Message>
 </Incidents>
