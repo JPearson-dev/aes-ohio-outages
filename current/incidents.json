@@ -1,8 +1,8 @@
 [
   {
     "id": 1815481,
-    "lat": 39.71565689,
-    "lng": -83.90964699579,
+    "lat": 39.71328949,
+    "lng": -83.9127813033432,
     "customers_affected": 8,
     "county": "GREENE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1815482,
-    "lat": 39.71460851,
-    "lng": -83.9059443770422,
+    "lat": 39.71224111,
+    "lng": -83.9090786332774,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1815530,
-    "lat": 39.46562097,
-    "lng": -83.7977081121504,
+    "lat": 39.46325357,
+    "lng": -83.8008302593111,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1815536,
-    "lat": 39.77317963,
-    "lng": -84.1266855099819,
+    "lat": 39.77081223,
+    "lng": -84.1298226375529,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1815537,
-    "lat": 40.41030217,
-    "lng": -84.1497693318891,
+    "lat": 40.40793477,
+    "lng": -84.1529382655857,
     "customers_affected": 20,
     "county": "SHELBY",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1815540,
-    "lat": 39.80255175,
-    "lng": -84.2465596516021,
+    "lat": 39.80018435,
+    "lng": -84.24969822238,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,12 +61,32 @@
   },
   {
     "id": 1815541,
-    "lat": 40.36960231,
-    "lng": -83.7571824792801,
+    "lat": 40.36723491,
+    "lng": -83.7603493494163,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
     "outage_time": "2026-10-04T09:24:00",
     "estimate_time": "2026-10-04T12:00:00"
+  },
+  {
+    "id": 1815544,
+    "lat": 39.68986434,
+    "lng": -84.1293295047279,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-04T09:38:00",
+    "estimate_time": "2026-10-04T13:00:00"
+  },
+  {
+    "id": 1815545,
+    "lat": 39.66248575,
+    "lng": -83.8450248874292,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-04T09:44:00",
+    "estimate_time": null
   }
 ]
