@@ -1,70 +1,81 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.46218557</LAT>
-    <LNG>-83.802238746752</LNG>
+    <LAT>39.46562097</LAT>
+    <LNG>-83.7977081121504</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815530</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>32</total>
+    <total>33</total>
     <OutageTime>10/04/2026 08:22 AM</OutageTime>
     <EstimateTime>10/04/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.71117311</LAT>
-    <LNG>-83.9104925834588</LNG>
+    <LAT>39.71460851</LAT>
+    <LNG>-83.9059443770422</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815482</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>32</total>
+    <total>33</total>
     <OutageTime>10/04/2026 01:53 AM</OutageTime>
     <EstimateTime>10/04/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.71222149</LAT>
-    <LNG>-83.9141952766755</LNG>
+    <LAT>39.71565689</LAT>
+    <LNG>-83.90964699579</LNG>
     <TOTALCUSTS>8</TOTALCUSTS>
     <INCIDENTID>1815481</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>32</total>
+    <total>33</total>
     <OutageTime>10/04/2026 01:38 AM</OutageTime>
     <EstimateTime>10/04/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76974423</LAT>
-    <LNG>-84.1312378830737</LNG>
+    <LAT>40.36960231</LAT>
+    <LNG>-83.7571824792801</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815541</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>33</total>
+    <OutageTime>10/04/2026 09:24 AM</OutageTime>
+    <EstimateTime>10/04/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80255175</LAT>
+    <LNG>-84.2465596516021</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815540</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>33</total>
+    <OutageTime>10/04/2026 09:25 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77317963</LAT>
+    <LNG>-84.1266855099819</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815536</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>32</total>
+    <total>33</total>
     <OutageTime>10/04/2026 09:13 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/04/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.40473031</LAT>
-    <LNG>-84.1574235455256</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815539</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>32</total>
-    <OutageTime>10/04/2026 09:15 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.40686677</LAT>
-    <LNG>-84.1543678597346</LNG>
+    <LAT>40.41030217</LAT>
+    <LNG>-84.1497693318891</LNG>
     <TOTALCUSTS>20</TOTALCUSTS>
     <INCIDENTID>1815537</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>32</total>
+    <total>33</total>
     <OutageTime>10/04/2026 09:04 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/04/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -116,7 +127,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -132,7 +143,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -148,7 +159,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>21</TotOut>
+    <TotOut>20</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -165,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>32</TotalOut>
-    <Outageat>10/4/2026 9:20:31 AM</Outageat>
+    <TotalOut>33</TotalOut>
+    <Outageat>10/4/2026 9:35:31 AM</Outageat>
   </Message>
 </Incidents>
