@@ -1,8 +1,8 @@
 [
   {
     "id": 1815609,
-    "lat": 39.65528262,
-    "lng": -84.2258669656793,
+    "lat": 39.65759662,
+    "lng": -84.2228060741458,
     "customers_affected": 10,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1815616,
-    "lat": 40.29034964,
-    "lng": -84.1452563641726,
+    "lat": 40.29266364,
+    "lng": -84.1421646700808,
     "customers_affected": 6,
     "county": "SHELBY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1815617,
-    "lat": 39.56984788,
-    "lng": -84.1528949301565,
+    "lat": 39.57216188,
+    "lng": -84.1498381053201,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1815621,
-    "lat": 39.66268894,
-    "lng": -84.0192191688096,
+    "lat": 39.66500294,
+    "lng": -84.016157923884,
     "customers_affected": 12,
     "county": "GREENE",
     "indicator": "D",
@@ -40,19 +40,9 @@
     "estimate_time": "2026-10-05T16:00:00"
   },
   {
-    "id": 1815638,
-    "lat": 39.80445951,
-    "lng": -84.2894617105525,
-    "customers_affected": 3,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-05T10:01:00",
-    "estimate_time": "2026-10-05T12:00:00"
-  },
-  {
     "id": 1815650,
-    "lat": 39.73246782,
-    "lng": -84.1488243605364,
+    "lat": 39.73478182,
+    "lng": -84.1457597794303,
     "customers_affected": 11,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1815657,
-    "lat": 39.81489638,
-    "lng": -84.1981817950287,
+    "lat": 39.81721038,
+    "lng": -84.1951132573262,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -71,8 +61,8 @@
   },
   {
     "id": 1815663,
-    "lat": 39.80208871,
-    "lng": -83.934206904614,
+    "lat": 39.80440271,
+    "lng": -83.9311389827972,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -81,8 +71,8 @@
   },
   {
     "id": 1815665,
-    "lat": 40.03879513,
-    "lng": -84.1932558669609,
+    "lat": 40.04110913,
+    "lng": -84.1901764959934,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -90,49 +80,19 @@
     "estimate_time": "2026-10-05T14:00:00"
   },
   {
-    "id": 1815666,
-    "lat": 40.264191,
-    "lng": -83.5690535663325,
-    "customers_affected": 23,
-    "county": "LOGAN",
-    "indicator": "D",
-    "outage_time": "2026-10-05T11:23:00",
-    "estimate_time": "2026-10-05T13:00:00"
-  },
-  {
-    "id": 1815667,
-    "lat": 40.2539327,
-    "lng": -83.5642412739374,
-    "customers_affected": 2,
-    "county": "LOGAN",
-    "indicator": "D",
-    "outage_time": "2026-10-05T11:23:00",
-    "estimate_time": "2026-10-05T13:00:00"
-  },
-  {
-    "id": 1815669,
-    "lat": 40.24052814,
-    "lng": -83.5484960534271,
-    "customers_affected": 3,
-    "county": "LOGAN",
-    "indicator": "D",
-    "outage_time": "2026-10-05T11:24:00",
-    "estimate_time": "2026-10-05T14:00:00"
-  },
-  {
     "id": 1815670,
-    "lat": 40.3258365024868,
-    "lng": -83.5723337341058,
+    "lat": 40.3281505024868,
+    "lng": -83.5692402885311,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
-    "outage_time": "2026-10-05T11:24:00",
+    "outage_time": "2026-10-05T11:23:00",
     "estimate_time": "2026-10-05T14:00:00"
   },
   {
     "id": 1815675,
-    "lat": 39.89409631,
-    "lng": -84.1628006809299,
+    "lat": 39.89641031,
+    "lng": -84.1597283255911,
     "customers_affected": 31,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -140,13 +100,23 @@
     "estimate_time": "2026-10-05T14:00:00"
   },
   {
+    "id": 1815676,
+    "lat": 39.84479284,
+    "lng": -84.2463808264138,
+    "customers_affected": 4,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-05T12:02:00",
+    "estimate_time": "2026-10-05T14:00:00"
+  },
+  {
     "id": 1815677,
-    "lat": 39.8935007,
-    "lng": -84.167029743017,
+    "lat": 39.8958147,
+    "lng": -84.1639574164469,
     "customers_affected": 115,
     "county": null,
     "indicator": "D",
     "outage_time": "2026-10-05T11:47:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-05T14:00:00"
   }
 ]
