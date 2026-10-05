@@ -1,57 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.52343531</LAT>
-    <LNG>-84.0599340736088</LNG>
+    <LAT>40.52631001</LAT>
+    <LNG>-84.0560789624827</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815593</INCIDENTID>
     <IND>D</IND>
     <COUNTY>AUGLAIZE</COUNTY>
-    <total>20</total>
+    <total>19</total>
     <OutageTime>10/04/2026 10:08 PM</OutageTime>
     <EstimateTime>10/05/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.0172063</LAT>
-    <LNG>-84.4520726667947</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815594</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>20</total>
-    <OutageTime>10/04/2026 11:01 PM</OutageTime>
-    <EstimateTime>10/05/2026 02:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.12106979</LAT>
-    <LNG>-84.4428711592602</LNG>
+    <LAT>40.12394449</LAT>
+    <LNG>-84.4390407361148</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815563</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>20</total>
+    <total>19</total>
     <OutageTime>10/04/2026 02:34 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55915733</LAT>
-    <LNG>-83.4079680035018</LNG>
+    <LAT>39.56203203</LAT>
+    <LNG>-83.4041712026354</LNG>
     <TOTALCUSTS>16</TOTALCUSTS>
     <INCIDENTID>1815558</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>20</total>
+    <total>19</total>
     <OutageTime>10/04/2026 02:15 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82757803</LAT>
-    <LNG>-84.0927984036449</LNG>
+    <LAT>39.83045273</LAT>
+    <LNG>-84.0889856643059</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815561</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>20</total>
+    <total>19</total>
     <OutageTime>10/04/2026 02:27 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
@@ -81,7 +70,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>20</TotalOut>
-    <Outageat>10/5/2026 12:05:31 AM</Outageat>
+    <TotalOut>19</TotalOut>
+    <Outageat>10/5/2026 12:20:30 AM</Outageat>
   </Message>
 </Incidents>
