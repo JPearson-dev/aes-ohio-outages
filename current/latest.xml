@@ -1,52 +1,63 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12161269</LAT>
-    <LNG>-84.4421477666538</LNG>
+    <LAT>40.52494831</LAT>
+    <LNG>-84.057905067753</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815593</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>AUGLAIZE</COUNTY>
+    <total>120</total>
+    <OutageTime>10/04/2026 10:08 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.12258279</LAT>
+    <LNG>-84.4408551470784</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815563</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>119</total>
+    <total>120</total>
     <OutageTime>10/04/2026 02:34 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55970023</LAT>
-    <LNG>-83.4072509606137</LNG>
+    <LAT>39.56067033</LAT>
+    <LNG>-83.4059696872563</LNG>
     <TOTALCUSTS>116</TOTALCUSTS>
     <INCIDENTID>1815558</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>119</total>
+    <total>120</total>
     <OutageTime>10/04/2026 02:15 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82812093</LAT>
-    <LNG>-84.0920783507047</LNG>
+    <LAT>39.82909103</LAT>
+    <LNG>-84.0907916987296</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815561</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>119</total>
+    <total>120</total>
     <OutageTime>10/04/2026 02:27 PM</OutageTime>
     <EstimateTime>10/05/2026 12:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.20997167</LAT>
-    <LNG>-83.2869974238684</LNG>
+    <LAT>40.21094177</LAT>
+    <LNG>-83.2857029897307</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815592</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>119</total>
+    <total>120</total>
     <OutageTime>10/04/2026 09:51 PM</OutageTime>
     <EstimateTime>10/05/2026 12:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>BROWN</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>119</TotalOut>
-    <Outageat>10/4/2026 10:05:31 PM</Outageat>
+    <TotalOut>120</TotalOut>
+    <Outageat>10/4/2026 10:20:31 PM</Outageat>
   </Message>
 </Incidents>
