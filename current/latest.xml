@@ -1,68 +1,90 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.26771154</LAT>
-    <LNG>-83.7702746927743</LNG>
+    <LAT>39.26742674</LAT>
+    <LNG>-83.770649143912</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815751</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>33</total>
+    <total>35</total>
     <OutageTime>10/05/2026 05:48 PM</OutageTime>
     <EstimateTime>10/05/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.53743055</LAT>
-    <LNG>-83.3746663626305</LNG>
+    <LAT>39.53714575</LAT>
+    <LNG>-83.3750423764942</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815719</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>33</total>
+    <total>35</total>
     <OutageTime>10/05/2026 02:55 PM</OutageTime>
     <EstimateTime>10/05/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80575551</LAT>
-    <LNG>-83.9293454285043</LNG>
+    <LAT>39.55022381</LAT>
+    <LNG>-83.4216561137395</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815761</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>35</total>
+    <OutageTime>10/05/2026 06:53 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80547071</LAT>
+    <LNG>-83.9297230188818</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815749</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>33</total>
+    <total>35</total>
     <OutageTime>10/05/2026 05:42 PM</OutageTime>
     <EstimateTime>10/05/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69349895</LAT>
-    <LNG>-83.9233631582857</LNG>
+    <LAT>39.69321415</LAT>
+    <LNG>-83.9237400864365</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815758</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>33</total>
+    <total>35</total>
     <OutageTime>10/05/2026 06:31 PM</OutageTime>
     <EstimateTime>10/05/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83276831</LAT>
-    <LNG>-84.2196113665108</LNG>
+    <LAT>39.71170588</LAT>
+    <LNG>-84.1175393493155</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815760</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>35</total>
+    <OutageTime>10/05/2026 06:37 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.83248351</LAT>
+    <LNG>-84.2199891168207</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1815754</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>33</total>
+    <total>35</total>
     <OutageTime>10/05/2026 06:20 PM</OutageTime>
     <EstimateTime>10/05/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.6907894</LAT>
-    <LNG>-84.2921596879592</LNG>
+    <LAT>39.6905046</LAT>
+    <LNG>-84.2925366001734</LNG>
     <TOTALCUSTS>26</TOTALCUSTS>
     <INCIDENTID>1815755</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>33</total>
+    <total>35</total>
     <OutageTime>10/05/2026 06:17 PM</OutageTime>
     <EstimateTime>10/05/2026 09:00 PM</EstimateTime>
   </Markers>
@@ -100,7 +122,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -132,7 +154,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>29</TotOut>
+    <TotOut>30</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -165,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>33</TotalOut>
-    <Outageat>10/5/2026 6:50:31 PM</Outageat>
+    <TotalOut>35</TotalOut>
+    <Outageat>10/5/2026 7:05:31 PM</Outageat>
   </Message>
 </Incidents>
