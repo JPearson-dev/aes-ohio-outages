@@ -1,15 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.56061693</LAT>
-    <LNG>-83.406040216065</LNG>
-    <TOTALCUSTS>6</TOTALCUSTS>
+    <LAT>39.56157813</LAT>
+    <LNG>-83.404770697509</LNG>
+    <TOTALCUSTS>8</TOTALCUSTS>
     <INCIDENTID>1815597</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>6</total>
+    <total>9</total>
     <OutageTime>10/05/2026 04:17 AM</OutageTime>
-    <EstimateTime>10/05/2026 08:00 AM</EstimateTime>
+    <EstimateTime>10/05/2026 09:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.82602612</LAT>
+    <LNG>-84.0019234805744</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815598</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>9</total>
+    <OutageTime>10/05/2026 05:12 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -45,11 +56,11 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>6</TotOut>
+    <TotOut>8</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>10/5/2026 5:05:31 AM</Outageat>
+    <TotalOut>9</TotalOut>
+    <Outageat>10/5/2026 5:20:31 AM</Outageat>
   </Message>
 </Incidents>
