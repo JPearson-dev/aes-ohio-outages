@@ -1,37 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12278749</LAT>
-    <LNG>-84.4405823924891</LNG>
+    <LAT>40.12161269</LAT>
+    <LNG>-84.4421477666538</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815563</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>118</total>
+    <total>119</total>
     <OutageTime>10/04/2026 02:34 PM</OutageTime>
-    <EstimateTime>10/04/2026 10:00 PM</EstimateTime>
+    <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56087503</LAT>
-    <LNG>-83.4056993268231</LNG>
+    <LAT>39.55970023</LAT>
+    <LNG>-83.4072509606137</LNG>
     <TOTALCUSTS>116</TOTALCUSTS>
     <INCIDENTID>1815558</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>118</total>
+    <total>119</total>
     <OutageTime>10/04/2026 02:15 PM</OutageTime>
-    <EstimateTime>10/04/2026 10:00 PM</EstimateTime>
+    <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82929573</LAT>
-    <LNG>-84.0905202033587</LNG>
+    <LAT>39.82812093</LAT>
+    <LNG>-84.0920783507047</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815561</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>118</total>
+    <total>119</total>
     <OutageTime>10/04/2026 02:27 PM</OutageTime>
-    <EstimateTime>10/04/2026 10:00 PM</EstimateTime>
+    <EstimateTime>10/05/2026 12:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.20997167</LAT>
+    <LNG>-83.2869974238684</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815592</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>119</total>
+    <OutageTime>10/04/2026 09:51 PM</OutageTime>
+    <EstimateTime>10/05/2026 12:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -119,7 +130,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>118</TotalOut>
-    <Outageat>10/4/2026 9:50:31 PM</Outageat>
+    <TotalOut>119</TotalOut>
+    <Outageat>10/4/2026 10:05:31 PM</Outageat>
   </Message>
 </Incidents>
