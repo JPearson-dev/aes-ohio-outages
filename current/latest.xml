@@ -1,16 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
-  <Markers>
-    <LAT>39.56161373</LAT>
-    <LNG>-83.4047236783032</LNG>
-    <TOTALCUSTS>18</TOTALCUSTS>
-    <INCIDENTID>1815597</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>18</total>
-    <OutageTime>10/05/2026 04:17 AM</OutageTime>
-    <EstimateTime>10/05/2026 09:00 AM</EstimateTime>
-  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -45,7 +34,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>18</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -110,7 +99,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>18</TotalOut>
-    <Outageat>10/5/2026 6:20:31 AM</Outageat>
+    <TotalOut>0</TotalOut>
+    <Outageat>10/5/2026 6:35:31 AM</Outageat>
   </Message>
 </Incidents>
