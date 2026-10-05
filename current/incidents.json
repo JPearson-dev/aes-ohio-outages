@@ -1,8 +1,8 @@
 [
   {
     "id": 1815599,
-    "lat": 39.61115608,
-    "lng": -84.1879187122003,
+    "lat": 39.61139638,
+    "lng": -84.1876010688302,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,12 +11,72 @@
   },
   {
     "id": 1815612,
-    "lat": 39.7476713,
-    "lng": -84.3929136862274,
+    "lat": 39.7479116,
+    "lng": -84.3925953657034,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-05T09:09:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-05T12:00:00"
+  },
+  {
+    "id": 1815616,
+    "lat": 40.29060774,
+    "lng": -84.1449115213701,
+    "customers_affected": 6,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-10-05T09:16:00",
+    "estimate_time": "2026-10-05T12:00:00"
+  },
+  {
+    "id": 1815617,
+    "lat": 39.57010598,
+    "lng": -84.1525539766171,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-10-05T09:20:00",
+    "estimate_time": "2026-10-05T12:00:00"
+  },
+  {
+    "id": 1815619,
+    "lat": 39.7566359,
+    "lng": -84.340762029297,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-05T09:20:00",
+    "estimate_time": "2026-10-05T12:00:00"
+  },
+  {
+    "id": 1815621,
+    "lat": 39.66294704,
+    "lng": -84.0188777222602,
+    "customers_affected": 13,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-05T09:17:00",
+    "estimate_time": "2026-10-05T12:00:00"
+  },
+  {
+    "id": 1815622,
+    "lat": 39.64507337,
+    "lng": -84.0536254092548,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-05T09:28:00",
+    "estimate_time": "2026-10-05T12:00:00"
+  },
+  {
+    "id": 1815623,
+    "lat": 39.66218474,
+    "lng": -84.0227409080575,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-05T09:28:00",
+    "estimate_time": "2026-10-05T12:00:00"
   }
 ]
