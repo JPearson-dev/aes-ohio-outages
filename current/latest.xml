@@ -1,59 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.52401381</LAT>
-    <LNG>-84.0591582772522</LNG>
+    <LAT>40.52498391</LAT>
+    <LNG>-84.0578573264387</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815593</INCIDENTID>
     <IND>D</IND>
     <COUNTY>AUGLAIZE</COUNTY>
-    <total>120</total>
+    <total>20</total>
     <OutageTime>10/04/2026 10:08 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.12164829</LAT>
-    <LNG>-84.4421003310731</LNG>
+    <LAT>40.0187549</LAT>
+    <LNG>-84.4500126069327</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815594</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>20</total>
+    <OutageTime>10/04/2026 11:01 PM</OutageTime>
+    <EstimateTime>10/05/2026 02:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.12261839</LAT>
+    <LNG>-84.4408077114977</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815563</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>120</total>
+    <total>20</total>
     <OutageTime>10/04/2026 02:34 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55973583</LAT>
-    <LNG>-83.4072039414079</LNG>
-    <TOTALCUSTS>116</TOTALCUSTS>
+    <LAT>39.56070593</LAT>
+    <LNG>-83.4059226680505</LNG>
+    <TOTALCUSTS>16</TOTALCUSTS>
     <INCIDENTID>1815558</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>120</total>
+    <total>20</total>
     <OutageTime>10/04/2026 02:15 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82815653</LAT>
-    <LNG>-84.0920311341185</LNG>
+    <LAT>39.82912663</LAT>
+    <LNG>-84.0907444821434</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815561</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>120</total>
+    <total>20</total>
     <OutageTime>10/04/2026 02:27 PM</OutageTime>
     <EstimateTime>10/05/2026 01:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.21000727</LAT>
-    <LNG>-83.2869499216982</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815592</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>120</total>
-    <OutageTime>10/04/2026 09:51 PM</OutageTime>
-    <EstimateTime>10/05/2026 12:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -81,7 +81,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -89,7 +89,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>116</TotOut>
+    <TotOut>16</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -141,7 +141,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -154,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>120</TotalOut>
-    <Outageat>10/4/2026 11:05:31 PM</Outageat>
+    <TotalOut>20</TotalOut>
+    <Outageat>10/4/2026 11:20:31 PM</Outageat>
   </Message>
 </Incidents>
