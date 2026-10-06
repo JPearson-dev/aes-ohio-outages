@@ -1,8 +1,8 @@
 [
   {
     "id": 1815833,
-    "lat": 40.22169308,
-    "lng": -83.3063133457808,
+    "lat": 40.22241398,
+    "lng": -83.305351236454,
     "customers_affected": 70,
     "county": "UNION",
     "indicator": "D",
@@ -10,13 +10,23 @@
     "estimate_time": "2026-10-06T18:00:00"
   },
   {
-    "id": 1815869,
-    "lat": 39.58397784,
-    "lng": -84.6352196205494,
-    "customers_affected": 1,
-    "county": "PREBLE",
+    "id": 1815865,
+    "lat": 40.23950666,
+    "lng": -83.380229889301,
+    "customers_affected": 8,
+    "county": "UNION",
     "indicator": "D",
-    "outage_time": "2026-10-06T14:49:00",
-    "estimate_time": "2026-10-06T17:00:00"
+    "outage_time": "2026-10-06T16:01:00",
+    "estimate_time": "2026-10-06T18:00:00"
+  },
+  {
+    "id": 1815888,
+    "lat": 40.46516535,
+    "lng": -84.0543590927826,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-10-06T16:06:00",
+    "estimate_time": "2026-10-06T18:00:00"
   }
 ]

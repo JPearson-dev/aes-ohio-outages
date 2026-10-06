@@ -1,25 +1,36 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.58397784</LAT>
-    <LNG>-84.6352196205494</LNG>
+    <LAT>40.46516535</LAT>
+    <LNG>-84.0543590927826</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815869</INCIDENTID>
+    <INCIDENTID>1815888</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>71</total>
-    <OutageTime>10/06/2026 02:49 PM</OutageTime>
-    <EstimateTime>10/06/2026 05:00 PM</EstimateTime>
+    <COUNTY>SHELBY</COUNTY>
+    <total>79</total>
+    <OutageTime>10/06/2026 04:06 PM</OutageTime>
+    <EstimateTime>10/06/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22169308</LAT>
-    <LNG>-83.3063133457808</LNG>
+    <LAT>40.22241398</LAT>
+    <LNG>-83.305351236454</LNG>
     <TOTALCUSTS>70</TOTALCUSTS>
     <INCIDENTID>1815833</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>71</total>
+    <total>79</total>
     <OutageTime>10/06/2026 11:23 AM</OutageTime>
+    <EstimateTime>10/06/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.23950666</LAT>
+    <LNG>-83.380229889301</LNG>
+    <TOTALCUSTS>8</TOTALCUSTS>
+    <INCIDENTID>1815865</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>79</total>
+    <OutageTime>10/06/2026 04:01 PM</OutageTime>
     <EstimateTime>10/06/2026 06:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -96,7 +107,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -104,11 +115,11 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>70</TotOut>
+    <TotOut>78</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>71</TotalOut>
-    <Outageat>10/6/2026 4:05:32 PM</Outageat>
+    <TotalOut>79</TotalOut>
+    <Outageat>10/6/2026 4:20:32 PM</Outageat>
   </Message>
 </Incidents>
