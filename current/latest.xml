@@ -1,92 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.52043642</LAT>
-    <LNG>-83.5049250023944</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815807</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>141</total>
-    <OutageTime>10/06/2026 10:30 AM</OutageTime>
-    <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.8360074</LAT>
-    <LNG>-84.0515143261864</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815804</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>141</total>
-    <OutageTime>10/06/2026 10:12 AM</OutageTime>
-    <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.77174452</LAT>
-    <LNG>-84.3792811752871</LNG>
-    <TOTALCUSTS>51</TOTALCUSTS>
-    <INCIDENTID>1815834</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>141</total>
-    <OutageTime>10/06/2026 11:26 AM</OutageTime>
-    <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.8242155</LAT>
-    <LNG>-84.2516886834716</LNG>
+    <LAT>39.8224711</LAT>
+    <LNG>-84.2540021283574</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815824</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>141</total>
+    <total>138</total>
     <OutageTime>10/06/2026 11:19 AM</OutageTime>
     <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7722523</LAT>
-    <LNG>-84.6196332817601</LNG>
+    <LAT>39.77000012</LAT>
+    <LNG>-84.381592719387</LNG>
+    <TOTALCUSTS>51</TOTALCUSTS>
+    <INCIDENTID>1815834</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>138</total>
+    <OutageTime>10/06/2026 11:26 AM</OutageTime>
+    <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7705079</LAT>
+    <LNG>-84.6219448442298</LNG>
     <TOTALCUSTS>15</TOTALCUSTS>
     <INCIDENTID>1815791</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>141</total>
+    <total>138</total>
     <OutageTime>10/06/2026 09:25 AM</OutageTime>
-    <EstimateTime>10/06/2026 12:00 PM</EstimateTime>
+    <EstimateTime>10/06/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22313488</LAT>
-    <LNG>-83.3043891271272</LNG>
+    <LAT>40.22139048</LAT>
+    <LNG>-83.3067171941402</LNG>
     <TOTALCUSTS>70</TOTALCUSTS>
     <INCIDENTID>1815833</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>141</total>
+    <total>138</total>
     <OutageTime>10/06/2026 11:23 AM</OutageTime>
     <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2463294</LAT>
-    <LNG>-83.3569761669538</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815806</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>141</total>
-    <OutageTime>10/06/2026 10:23 AM</OutageTime>
-    <EstimateTime>10/06/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.58121096</LAT>
-    <LNG>-84.0166766867778</LNG>
+    <LAT>39.57946656</LAT>
+    <LNG>-84.0189813721432</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815782</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>141</total>
+    <total>138</total>
     <OutageTime>10/06/2026 08:59 AM</OutageTime>
-    <EstimateTime>10/06/2026 12:00 PM</EstimateTime>
+    <EstimateTime>10/06/2026 03:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -122,11 +89,11 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -174,7 +141,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>71</TotOut>
+    <TotOut>70</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -187,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>141</TotalOut>
-    <Outageat>10/6/2026 11:50:31 AM</Outageat>
+    <TotalOut>138</TotalOut>
+    <Outageat>10/6/2026 12:05:31 PM</Outageat>
   </Message>
 </Incidents>
