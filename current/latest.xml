@@ -1,57 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.8240108</LAT>
-    <LNG>-84.251960159147</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815824</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>138</total>
-    <OutageTime>10/06/2026 11:19 AM</OutageTime>
-    <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.77153982</LAT>
-    <LNG>-84.3795524279111</LNG>
+    <LAT>39.77020482</LAT>
+    <LNG>-84.3813214667631</LNG>
     <TOTALCUSTS>51</TOTALCUSTS>
     <INCIDENTID>1815834</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>138</total>
+    <total>123</total>
     <OutageTime>10/06/2026 11:26 AM</OutageTime>
     <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7720476</LAT>
-    <LNG>-84.6199045365397</LNG>
-    <TOTALCUSTS>15</TOTALCUSTS>
-    <INCIDENTID>1815791</INCIDENTID>
+    <LAT>39.8226758</LAT>
+    <LNG>-84.2537306526821</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815824</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>138</total>
-    <OutageTime>10/06/2026 09:25 AM</OutageTime>
-    <EstimateTime>10/06/2026 03:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>123</total>
+    <OutageTime>10/06/2026 11:19 AM</OutageTime>
+    <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22293018</LAT>
-    <LNG>-83.3046623186644</LNG>
+    <LAT>40.22159518</LAT>
+    <LNG>-83.3064440026029</LNG>
     <TOTALCUSTS>70</TOTALCUSTS>
     <INCIDENTID>1815833</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>138</total>
+    <total>123</total>
     <OutageTime>10/06/2026 11:23 AM</OutageTime>
     <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.58100626</LAT>
-    <LNG>-84.0169471345503</LNG>
+    <LAT>39.57967126</LAT>
+    <LNG>-84.0187109243707</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815782</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>138</total>
+    <total>123</total>
     <OutageTime>10/06/2026 08:59 AM</OutageTime>
     <EstimateTime>10/06/2026 03:00 PM</EstimateTime>
   </Markers>
@@ -129,7 +118,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>15</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>138</TotalOut>
-    <Outageat>10/6/2026 12:35:31 PM</Outageat>
+    <TotalOut>123</TotalOut>
+    <Outageat>10/6/2026 12:50:31 PM</Outageat>
   </Message>
 </Incidents>
