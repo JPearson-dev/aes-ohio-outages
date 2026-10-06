@@ -1,68 +1,112 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.51763292</LAT>
-    <LNG>-83.5086254679072</LNG>
+    <LAT>39.51860302</LAT>
+    <LNG>-83.5073449893647</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815807</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>23</total>
+    <total>232</total>
     <OutageTime>10/06/2026 10:30 AM</OutageTime>
     <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8332039</LAT>
-    <LNG>-84.0552330502769</LNG>
+    <LAT>39.834174</LAT>
+    <LNG>-84.0539462536868</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815804</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>23</total>
+    <total>232</total>
     <OutageTime>10/06/2026 10:12 AM</OutageTime>
     <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83598114</LAT>
-    <LNG>-84.2342256643803</LNG>
+    <LAT>39.76991843</LAT>
+    <LNG>-84.3777048438102</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1815828</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>232</total>
+    <OutageTime>10/06/2026 11:26 AM</OutageTime>
+    <EstimateTime>10/06/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.8223821</LAT>
+    <LNG>-84.2541201612598</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815824</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>232</total>
+    <OutageTime>10/06/2026 11:19 AM</OutageTime>
+    <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.83695124</LAT>
+    <LNG>-84.2329388117257</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1815819</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>23</total>
+    <total>232</total>
     <OutageTime>10/06/2026 11:02 AM</OutageTime>
     <EstimateTime>10/06/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7694488</LAT>
-    <LNG>-84.623348292872</LNG>
+    <LAT>39.7704189</LAT>
+    <LNG>-84.6220627810904</LNG>
     <TOTALCUSTS>15</TOTALCUSTS>
     <INCIDENTID>1815791</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>23</total>
+    <total>232</total>
     <OutageTime>10/06/2026 09:25 AM</OutageTime>
     <EstimateTime>10/06/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2435259</LAT>
-    <LNG>-83.3607190846773</LNG>
+    <LAT>40.22219982</LAT>
+    <LNG>-83.3030433342994</LNG>
+    <TOTALCUSTS>136</TOTALCUSTS>
+    <INCIDENTID>1815830</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>232</total>
+    <OutageTime>10/06/2026 11:23 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.22130148</LAT>
+    <LNG>-83.3068359730694</LNG>
+    <TOTALCUSTS>70</TOTALCUSTS>
+    <INCIDENTID>1815833</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>232</total>
+    <OutageTime>10/06/2026 11:23 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.244496</LAT>
+    <LNG>-83.3594239163222</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815806</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>23</total>
+    <total>232</total>
     <OutageTime>10/06/2026 10:23 AM</OutageTime>
     <EstimateTime>10/06/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.57840746</LAT>
-    <LNG>-84.0203806454007</LNG>
+    <LAT>39.57937756</LAT>
+    <LNG>-84.0190989581312</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815782</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>23</total>
+    <total>232</total>
     <OutageTime>10/06/2026 08:59 AM</OutageTime>
     <EstimateTime>10/06/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -132,7 +176,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>4</TotOut>
+    <TotOut>7</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -152,7 +196,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>1</TotOut>
+    <TotOut>207</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -165,7 +209,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>23</TotalOut>
-    <Outageat>10/6/2026 11:20:31 AM</Outageat>
+    <TotalOut>232</TotalOut>
+    <Outageat>10/6/2026 11:35:31 AM</Outageat>
   </Message>
 </Incidents>
