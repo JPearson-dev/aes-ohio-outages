@@ -1,35 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.46516535</LAT>
-    <LNG>-84.0543590927826</LNG>
+    <LAT>40.10763333</LAT>
+    <LNG>-83.6998946340645</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815892</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>12</total>
+    <OutageTime>10/06/2026 04:23 PM</OutageTime>
+    <EstimateTime>10/06/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.35297029</LAT>
+    <LNG>-83.7471475959386</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815891</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>12</total>
+    <OutageTime>10/06/2026 04:16 PM</OutageTime>
+    <EstimateTime>10/06/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77197235</LAT>
+    <LNG>-84.3528123430589</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815893</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>12</total>
+    <OutageTime>10/06/2026 04:24 PM</OutageTime>
+    <EstimateTime>10/06/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.46439105</LAT>
+    <LNG>-84.0553964856508</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815888</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>79</total>
+    <total>12</total>
     <OutageTime>10/06/2026 04:06 PM</OutageTime>
     <EstimateTime>10/06/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22241398</LAT>
-    <LNG>-83.305351236454</LNG>
-    <TOTALCUSTS>70</TOTALCUSTS>
-    <INCIDENTID>1815833</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>79</total>
-    <OutageTime>10/06/2026 11:23 AM</OutageTime>
-    <EstimateTime>10/06/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.23950666</LAT>
-    <LNG>-83.380229889301</LNG>
+    <LAT>40.23873236</LAT>
+    <LNG>-83.3812635471109</LNG>
     <TOTALCUSTS>8</TOTALCUSTS>
     <INCIDENTID>1815865</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>79</total>
+    <total>12</total>
     <OutageTime>10/06/2026 04:01 PM</OutageTime>
     <EstimateTime>10/06/2026 06:00 PM</EstimateTime>
   </Markers>
@@ -47,7 +69,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -83,7 +105,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -99,7 +121,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -119,7 +141,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>78</TotOut>
+    <TotOut>8</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -132,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>79</TotalOut>
-    <Outageat>10/6/2026 4:20:32 PM</Outageat>
+    <TotalOut>12</TotalOut>
+    <Outageat>10/6/2026 4:35:32 PM</Outageat>
   </Message>
 </Incidents>
