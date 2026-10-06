@@ -1,37 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12289914</LAT>
-    <LNG>-84.4799278624418</LNG>
-    <TOTALCUSTS>7</TOTALCUSTS>
-    <INCIDENTID>1815770</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>9</total>
-    <OutageTime>10/06/2026 08:20 AM</OutageTime>
-    <EstimateTime>10/06/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.83091764</LAT>
-    <LNG>-84.0979925336193</LNG>
+    <LAT>39.83028574</LAT>
+    <LNG>-84.0988306550761</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815775</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>9</total>
+    <total>2</total>
     <OutageTime>10/06/2026 08:38 AM</OutageTime>
     <EstimateTime>10/06/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.58122876</LAT>
-    <LNG>-84.0166531695802</LNG>
+    <LAT>39.58059686</LAT>
+    <LNG>-84.0174880300952</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815782</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>9</total>
+    <total>2</total>
     <OutageTime>10/06/2026 08:59 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/06/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -59,7 +48,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>7</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>9</TotalOut>
-    <Outageat>10/6/2026 9:05:31 AM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>10/6/2026 9:20:31 AM</Outageat>
   </Message>
 </Incidents>
