@@ -1,37 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.14377123</LAT>
-    <LNG>-84.4147755349026</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816058</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>48</total>
-    <OutageTime>10/07/2026 04:47 PM</OutageTime>
-    <EstimateTime>10/07/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.68376138</LAT>
-    <LNG>-84.2681675417259</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816064</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>48</total>
-    <OutageTime>10/07/2026 05:28 PM</OutageTime>
-    <EstimateTime>10/07/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.84476867</LAT>
-    <LNG>-84.1255071827899</LNG>
+    <LAT>39.84490217</LAT>
+    <LNG>-84.1253300750364</LNG>
     <TOTALCUSTS>46</TOTALCUSTS>
     <INCIDENTID>1816071</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>48</total>
+    <total>47</total>
     <OutageTime>10/07/2026 06:35 PM</OutageTime>
     <EstimateTime>10/07/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68389488</LAT>
+    <LNG>-84.2679908795724</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816064</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>47</total>
+    <OutageTime>10/07/2026 05:28 PM</OutageTime>
+    <EstimateTime>10/07/2026 08:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -59,7 +48,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>48</TotalOut>
-    <Outageat>10/7/2026 7:20:31 PM</Outageat>
+    <TotalOut>47</TotalOut>
+    <Outageat>10/7/2026 7:35:33 PM</Outageat>
   </Message>
 </Incidents>
