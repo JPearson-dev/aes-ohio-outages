@@ -1,8 +1,8 @@
 [
   {
     "id": 1816053,
-    "lat": 40.15686432,
-    "lng": -84.3361115919343,
+    "lat": 40.15967672,
+    "lng": -84.3323619999373,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1816058,
-    "lat": 40.14208913,
-    "lng": -84.4170176449053,
+    "lat": 40.14490153,
+    "lng": -84.4132689318849,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1816059,
-    "lat": 40.2971694,
-    "lng": -84.1399108654299,
+    "lat": 40.2999818,
+    "lng": -84.1361528928238,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1816062,
-    "lat": 39.69520575,
-    "lng": -84.1494042789004,
+    "lat": 39.69801815,
+    "lng": -84.145681833819,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,12 +41,22 @@
   },
   {
     "id": 1816064,
-    "lat": 39.68207928,
-    "lng": -84.2703934848593,
+    "lat": 39.68489168,
+    "lng": -84.26667180216,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-07T17:28:00",
     "estimate_time": "2026-10-07T20:00:00"
+  },
+  {
+    "id": 1816065,
+    "lat": 39.87482846,
+    "lng": -84.1147432337119,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-07T17:40:00",
+    "estimate_time": null
   }
 ]
