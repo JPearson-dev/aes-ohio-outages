@@ -1,47 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.79294908</LAT>
-    <LNG>-84.0563282778926</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1815991</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>100</total>
-    <OutageTime>10/07/2026 10:56 AM</OutageTime>
-    <EstimateTime>10/07/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.04472796</LAT>
-    <LNG>-84.3558936389169</LNG>
+    <LAT>40.04171086</LAT>
+    <LNG>-84.3599088459862</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816030</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>100</total>
+    <total>37</total>
     <OutageTime>10/07/2026 01:11 PM</OutageTime>
     <EstimateTime>10/07/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.87444345</LAT>
-    <LNG>-84.2782643808092</LNG>
+    <LAT>39.87142635</LAT>
+    <LNG>-84.2822688287089</LNG>
     <TOTALCUSTS>36</TOTALCUSTS>
     <INCIDENTID>1816004</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>100</total>
+    <total>37</total>
     <OutageTime>10/07/2026 11:50 AM</OutageTime>
-    <EstimateTime>10/07/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.86873441</LAT>
-    <LNG>-84.276222900255</LNG>
-    <TOTALCUSTS>59</TOTALCUSTS>
-    <INCIDENTID>1815985</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>100</total>
-    <OutageTime>10/07/2026 10:43 AM</OutageTime>
     <EstimateTime>10/07/2026 02:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -82,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -110,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>95</TotOut>
+    <TotOut>36</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>100</TotalOut>
-    <Outageat>10/7/2026 1:35:31 PM</Outageat>
+    <TotalOut>37</TotalOut>
+    <Outageat>10/7/2026 1:50:31 PM</Outageat>
   </Message>
 </Incidents>
