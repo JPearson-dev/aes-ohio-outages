@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.69915646</LAT>
-    <LNG>-84.0695605330005</LNG>
+    <LAT>39.36521285</LAT>
+    <LNG>-83.6942037253118</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1815922</INCIDENTID>
+    <INCIDENTID>1815923</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
+    <COUNTY>CLINTON</COUNTY>
     <total>1</total>
-    <OutageTime>10/07/2026 07:46 AM</OutageTime>
+    <OutageTime>10/07/2026 08:23 AM</OutageTime>
     <EstimateTime>10/07/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
@@ -33,7 +33,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -49,7 +49,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -111,6 +111,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>1</TotalOut>
-    <Outageat>10/7/2026 8:20:32 AM</Outageat>
+    <Outageat>10/7/2026 8:35:31 AM</Outageat>
   </Message>
 </Incidents>
