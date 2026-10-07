@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.10867463</LAT>
-    <LNG>-83.6985074336432</LNG>
+    <LAT>40.10949343</LAT>
+    <LNG>-83.6974166435684</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815892</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>2</total>
+    <total>3</total>
     <OutageTime>10/06/2026 04:23 PM</OutageTime>
     <EstimateTime>10/06/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.58856441</LAT>
-    <LNG>-83.9937551171711</LNG>
+    <LAT>40.0923923</LAT>
+    <LNG>-84.5492525871721</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815916</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>3</total>
+    <OutageTime>10/06/2026 09:45 PM</OutageTime>
+    <EstimateTime>10/07/2026 12:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.58938321</LAT>
+    <LNG>-83.9926731947873</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815915</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>2</total>
+    <total>3</total>
     <OutageTime>10/06/2026 09:12 PM</OutageTime>
     <EstimateTime>10/06/2026 11:00 PM</EstimateTime>
   </Markers>
@@ -48,7 +59,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>10/6/2026 9:50:31 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>10/6/2026 10:05:31 PM</Outageat>
   </Message>
 </Incidents>
