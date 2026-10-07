@@ -1,8 +1,8 @@
 [
   {
     "id": 1815892,
-    "lat": 40.10949343,
-    "lng": -83.6974166435684,
+    "lat": 40.10935103,
+    "lng": -83.6976063461901,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -10,23 +10,23 @@
     "estimate_time": "2026-10-06T23:00:00"
   },
   {
-    "id": 1815915,
-    "lat": 39.58938321,
-    "lng": -83.9926731947873,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-10-06T21:12:00",
-    "estimate_time": "2026-10-06T23:00:00"
-  },
-  {
     "id": 1815916,
-    "lat": 40.0923923,
-    "lng": -84.5492525871721,
+    "lat": 40.0922499,
+    "lng": -84.5494422384196,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-10-06T21:45:00",
     "estimate_time": "2026-10-07T00:00:00"
+  },
+  {
+    "id": 1815917,
+    "lat": 40.09615153,
+    "lng": -84.559340464921,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-06T22:02:00",
+    "estimate_time": "2026-10-07T01:00:00"
   }
 ]
