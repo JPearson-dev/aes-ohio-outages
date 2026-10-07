@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.11024103</LAT>
-    <LNG>-83.6964207048044</LNG>
+    <LAT>40.11033003</LAT>
+    <LNG>-83.6963021406658</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1815892</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>10/06/2026 04:23 PM</OutageTime>
     <EstimateTime>10/06/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.06400123</LAT>
-    <LNG>-84.1716537033413</LNG>
+    <LAT>39.59021981</LAT>
+    <LNG>-83.9915677523517</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1815915</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>6</total>
+    <OutageTime>10/06/2026 09:12 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.06409023</LAT>
+    <LNG>-84.1715352259563</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1815910</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>10/06/2026 08:01 PM</OutageTime>
     <EstimateTime>10/06/2026 10:00 PM</EstimateTime>
   </Markers>
@@ -60,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>10/6/2026 9:05:31 PM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>10/6/2026 9:20:31 PM</Outageat>
   </Message>
 </Incidents>
