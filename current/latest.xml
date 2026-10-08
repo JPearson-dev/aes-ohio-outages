@@ -1,59 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.90531</LAT>
-    <LNG>-84.0292811318312</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816106</INCIDENTID>
+    <LAT>39.77326204</LAT>
+    <LNG>-84.0286622863634</LNG>
+    <TOTALCUSTS>4</TOTALCUSTS>
+    <INCIDENTID>1816113</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>CLARK</COUNTY>
-    <total>209</total>
-    <OutageTime>10/08/2026 08:40 AM</OutageTime>
+    <COUNTY>GREENE</COUNTY>
+    <total>211</total>
+    <OutageTime>10/08/2026 08:58 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.49954635</LAT>
-    <LNG>-84.6255912034462</LNG>
+    <LAT>40.49822025</LAT>
+    <LNG>-84.6273688260682</LNG>
     <TOTALCUSTS>65</TOTALCUSTS>
     <INCIDENTID>1816097</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>209</total>
+    <total>211</total>
     <OutageTime>10/08/2026 06:19 AM</OutageTime>
     <EstimateTime>10/08/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68730819</LAT>
-    <LNG>-84.1271863853792</LNG>
+    <LAT>39.68598209</LAT>
+    <LNG>-84.1289412921846</LNG>
     <TOTALCUSTS>78</TOTALCUSTS>
     <INCIDENTID>1816094</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>209</total>
+    <total>211</total>
     <OutageTime>10/08/2026 05:06 AM</OutageTime>
     <EstimateTime>10/08/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69223174</LAT>
-    <LNG>-84.1261963431644</LNG>
+    <LAT>39.69090564</LAT>
+    <LNG>-84.1279513847921</LNG>
     <TOTALCUSTS>64</TOTALCUSTS>
     <INCIDENTID>1816093</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>209</total>
+    <total>211</total>
     <OutageTime>10/08/2026 05:06 AM</OutageTime>
     <EstimateTime>10/08/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.75616584</LAT>
-    <LNG>-84.6166714333916</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816104</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>209</total>
-    <OutageTime>10/08/2026 08:27 AM</OutageTime>
-    <EstimateTime>10/08/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -73,7 +62,7 @@
   </Counties>
   <Counties>
     <County>CLARK</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLINTON</County>
@@ -93,7 +82,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -129,7 +118,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>209</TotalOut>
-    <Outageat>10/8/2026 8:50:31 AM</Outageat>
+    <TotalOut>211</TotalOut>
+    <Outageat>10/8/2026 9:05:32 AM</Outageat>
   </Message>
 </Incidents>
