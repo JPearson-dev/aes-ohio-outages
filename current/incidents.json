@@ -1,8 +1,8 @@
 [
   {
     "id": 1816087,
-    "lat": 40.30077696,
-    "lng": -83.3300817797893,
+    "lat": 40.29961106,
+    "lng": -83.3316397144942,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
@@ -10,13 +10,23 @@
     "estimate_time": "2026-10-08T08:00:00"
   },
   {
-    "id": 1816091,
-    "lat": 39.69125274,
-    "lng": -84.1274920114802,
-    "customers_affected": 5,
+    "id": 1816093,
+    "lat": 39.69008684,
+    "lng": -84.1290350346562,
+    "customers_affected": 64,
     "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-10-08T05:09:00",
-    "estimate_time": "2026-10-08T09:00:00"
+    "outage_time": "2026-10-08T05:06:00",
+    "estimate_time": "2026-10-08T08:00:00"
+  },
+  {
+    "id": 1816094,
+    "lat": 39.68516329,
+    "lng": -84.1300248588028,
+    "customers_affected": 78,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-08T05:06:00",
+    "estimate_time": "2026-10-08T08:00:00"
   }
 ]
