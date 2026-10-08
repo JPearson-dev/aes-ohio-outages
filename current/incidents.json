@@ -1,8 +1,8 @@
 [
   {
     "id": 1816093,
-    "lat": 39.69064754,
-    "lng": -84.1282929700754,
+    "lat": 39.68914344,
+    "lng": -84.1302835877604,
     "customers_affected": 39,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -10,29 +10,9 @@
     "estimate_time": "2026-10-08T16:00:00"
   },
   {
-    "id": 1816182,
-    "lat": 39.83066511,
-    "lng": -84.1683258514101,
-    "customers_affected": 5,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-08T12:12:00",
-    "estimate_time": "2026-10-08T18:00:00"
-  },
-  {
-    "id": 1816189,
-    "lat": 39.65820443,
-    "lng": -84.143447996638,
-    "customers_affected": 3,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-08T12:36:00",
-    "estimate_time": "2026-10-08T15:00:00"
-  },
-  {
     "id": 1816202,
-    "lat": 39.54405184,
-    "lng": -83.4137645724978,
+    "lat": 39.54254774,
+    "lng": -83.4157506538234,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -41,8 +21,8 @@
   },
   {
     "id": 1816206,
-    "lat": 39.83368537,
-    "lng": -84.208914994672,
+    "lat": 39.83218127,
+    "lng": -84.2109100720583,
     "customers_affected": 6,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,8 +31,8 @@
   },
   {
     "id": 1816209,
-    "lat": 40.47420016,
-    "lng": -83.6604724066999,
+    "lat": 40.47269606,
+    "lng": -83.6624878670238,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -61,12 +41,22 @@
   },
   {
     "id": 1816216,
-    "lat": 39.55482946,
-    "lng": -83.94219096766,
+    "lat": 39.55332536,
+    "lng": -83.9441773813208,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-10-08T14:51:00",
+    "estimate_time": "2026-10-08T17:00:00"
+  },
+  {
+    "id": 1816218,
+    "lat": 39.70163162,
+    "lng": -84.1411496661815,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-08T15:04:00",
     "estimate_time": "2026-10-08T17:00:00"
   }
 ]
