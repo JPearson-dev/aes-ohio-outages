@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.89323765</LAT>
-    <LNG>-84.0226188282459</LNG>
+    <LAT>39.89165345</LAT>
+    <LNG>-84.0247221215509</LNG>
     <TOTALCUSTS>68</TOTALCUSTS>
     <INCIDENTID>1816246</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,19 @@
     <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.47410226</LAT>
-    <LNG>-83.660603590508</LNG>
+    <LAT>39.62570135</LAT>
+    <LNG>-83.8482491855993</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816249</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>94</total>
+    <OutageTime>10/08/2026 06:08 PM</OutageTime>
+    <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.47251806</LAT>
+    <LNG>-83.6627263830384</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816209</INCIDENTID>
     <IND>D</IND>
@@ -23,41 +34,8 @@
     <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.34822</LAT>
-    <LNG>-83.7493692465173</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816239</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
-    <total>94</total>
-    <OutageTime>10/08/2026 05:04 PM</OutageTime>
-    <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.7663017</LAT>
-    <LNG>-84.1984440186662</LNG>
-    <TOTALCUSTS>10</TOTALCUSTS>
-    <INCIDENTID>1816223</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>94</total>
-    <OutageTime>10/08/2026 03:31 PM</OutageTime>
-    <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76737951</LAT>
-    <LNG>-84.1996422166148</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1816225</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>94</total>
-    <OutageTime>10/08/2026 03:42 PM</OutageTime>
-    <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76777509</LAT>
-    <LNG>-84.1989231077732</LNG>
+    <LAT>39.76619089</LAT>
+    <LNG>-84.2010222663405</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816224</INCIDENTID>
     <IND>D</IND>
@@ -67,8 +45,30 @@
     <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.85184557</LAT>
-    <LNG>-84.1064749352146</LNG>
+    <LAT>39.76579531</LAT>
+    <LNG>-84.201741362188</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1816225</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>94</total>
+    <OutageTime>10/08/2026 03:42 PM</OutageTime>
+    <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7647175</LAT>
+    <LNG>-84.2005431288366</LNG>
+    <TOTALCUSTS>10</TOTALCUSTS>
+    <INCIDENTID>1816223</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>94</total>
+    <OutageTime>10/08/2026 03:31 PM</OutageTime>
+    <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.85026137</LAT>
+    <LNG>-84.1085768614198</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1816242</INCIDENTID>
     <IND>D</IND>
@@ -78,8 +78,8 @@
     <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86889157</LAT>
-    <LNG>-84.7807259384038</LNG>
+    <LAT>39.86730737</LAT>
+    <LNG>-84.7828284272486</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1816235</INCIDENTID>
     <IND>D</IND>
@@ -89,8 +89,8 @@
     <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24088415</LAT>
-    <LNG>-83.3656989037391</LNG>
+    <LAT>40.23929995</LAT>
+    <LNG>-83.3678137962242</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1816248</INCIDENTID>
     <IND>D</IND>
@@ -137,7 +137,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -149,7 +149,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -199,6 +199,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>94</TotalOut>
-    <Outageat>10/8/2026 6:05:32 PM</Outageat>
+    <Outageat>10/8/2026 6:20:31 PM</Outageat>
   </Message>
 </Incidents>
