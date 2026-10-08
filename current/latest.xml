@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.89165345</LAT>
-    <LNG>-84.0247221215509</LNG>
+    <LAT>39.89215185</LAT>
+    <LNG>-84.0240604112976</LNG>
     <TOTALCUSTS>68</TOTALCUSTS>
     <INCIDENTID>1816246</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,8 @@
     <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.62570135</LAT>
-    <LNG>-83.8482491855993</LNG>
+    <LAT>39.62619975</LAT>
+    <LNG>-83.8475902227442</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816249</INCIDENTID>
     <IND>D</IND>
@@ -23,19 +23,30 @@
     <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.47251806</LAT>
-    <LNG>-83.6627263830384</LNG>
+    <LAT>40.3471342</LAT>
+    <LNG>-83.7508212633989</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816251</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>94</total>
+    <OutageTime>10/08/2026 06:28 PM</OutageTime>
+    <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.47301646</LAT>
+    <LNG>-83.6620585381974</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816209</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
     <total>94</total>
     <OutageTime>10/08/2026 02:25 PM</OutageTime>
-    <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
+    <EstimateTime>10/08/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76619089</LAT>
-    <LNG>-84.2010222663405</LNG>
+    <LAT>39.76668929</LAT>
+    <LNG>-84.2003618569036</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816224</INCIDENTID>
     <IND>D</IND>
@@ -45,8 +56,8 @@
     <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76579531</LAT>
-    <LNG>-84.201741362188</LNG>
+    <LAT>39.76629371</LAT>
+    <LNG>-84.2010809568391</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1816225</INCIDENTID>
     <IND>D</IND>
@@ -56,8 +67,8 @@
     <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7647175</LAT>
-    <LNG>-84.2005431288366</LNG>
+    <LAT>39.7652159</LAT>
+    <LNG>-84.1998827346257</LNG>
     <TOTALCUSTS>10</TOTALCUSTS>
     <INCIDENTID>1816223</INCIDENTID>
     <IND>D</IND>
@@ -67,8 +78,8 @@
     <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.85026137</LAT>
-    <LNG>-84.1085768614198</LNG>
+    <LAT>39.85075977</LAT>
+    <LNG>-84.1079155812654</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1816242</INCIDENTID>
     <IND>D</IND>
@@ -78,19 +89,19 @@
     <EstimateTime>10/08/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86730737</LAT>
-    <LNG>-84.7828284272486</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1816235</INCIDENTID>
+    <LAT>40.29862785</LAT>
+    <LNG>-84.1638202435232</LNG>
+    <TOTALCUSTS>4</TOTALCUSTS>
+    <INCIDENTID>1816250</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
+    <COUNTY>SHELBY</COUNTY>
     <total>94</total>
-    <OutageTime>10/08/2026 04:35 PM</OutageTime>
+    <OutageTime>10/08/2026 06:25 PM</OutageTime>
     <EstimateTime>10/08/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.23929995</LAT>
-    <LNG>-83.3678137962242</LNG>
+    <LAT>40.23979835</LAT>
+    <LNG>-83.3671484367907</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1816248</INCIDENTID>
     <IND>D</IND>
@@ -149,7 +160,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -173,7 +184,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>5</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -181,7 +192,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -199,6 +210,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>94</TotalOut>
-    <Outageat>10/8/2026 6:20:31 PM</Outageat>
+    <Outageat>10/8/2026 6:35:32 PM</Outageat>
   </Message>
 </Incidents>
