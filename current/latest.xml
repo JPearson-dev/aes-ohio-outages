@@ -1,35 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.68495859</LAT>
-    <LNG>-84.1302957504573</LNG>
+    <LAT>40.49696535</LAT>
+    <LNG>-84.6290510058649</LNG>
+    <TOTALCUSTS>88</TOTALCUSTS>
+    <INCIDENTID>1816097</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>231</total>
+    <OutageTime>10/08/2026 06:19 AM</OutageTime>
+    <EstimateTime>10/08/2026 09:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68472719</LAT>
+    <LNG>-84.1306019758059</LNG>
     <TOTALCUSTS>78</TOTALCUSTS>
     <INCIDENTID>1816094</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>143</total>
+    <total>231</total>
     <OutageTime>10/08/2026 05:06 AM</OutageTime>
     <EstimateTime>10/08/2026 08:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68988214</LAT>
-    <LNG>-84.1293059471222</LNG>
+    <LAT>39.68965074</LAT>
+    <LNG>-84.1296121959968</LNG>
     <TOTALCUSTS>64</TOTALCUSTS>
     <INCIDENTID>1816093</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>143</total>
+    <total>231</total>
     <OutageTime>10/08/2026 05:06 AM</OutageTime>
     <EstimateTime>10/08/2026 08:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.29940636</LAT>
-    <LNG>-83.331913245015</LNG>
+    <LAT>40.29917496</LAT>
+    <LNG>-83.3322224534297</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816087</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>143</total>
+    <total>231</total>
     <OutageTime>10/08/2026 04:41 AM</OutageTime>
     <EstimateTime>10/08/2026 08:00 AM</EstimateTime>
   </Markers>
@@ -91,7 +102,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>88</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>143</TotalOut>
-    <Outageat>10/8/2026 6:20:31 AM</Outageat>
+    <TotalOut>231</TotalOut>
+    <Outageat>10/8/2026 6:35:32 AM</Outageat>
   </Message>
 </Incidents>
