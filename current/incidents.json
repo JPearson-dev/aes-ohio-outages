@@ -1,8 +1,8 @@
 [
   {
     "id": 1816353,
-    "lat": 39.62092789,
-    "lng": -84.2065568432496,
+    "lat": 39.62475489,
+    "lng": -84.201497302053,
     "customers_affected": 6,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1816355,
-    "lat": 39.79140374,
-    "lng": -84.2515185038491,
+    "lat": 39.79523074,
+    "lng": -84.2464454767398,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1816373,
-    "lat": 40.47434879,
-    "lng": -84.5384359397386,
+    "lat": 40.47817579,
+    "lng": -84.533307669776,
     "customers_affected": 10,
     "county": "MERCER",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1816378,
-    "lat": 39.71446514,
-    "lng": -84.1787360836683,
+    "lat": 39.71829214,
+    "lng": -84.1736691577751,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1816381,
-    "lat": 39.7418499,
-    "lng": -84.5349875247075,
+    "lat": 39.7456769,
+    "lng": -84.5299184300052,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1816383,
-    "lat": 39.65346112,
-    "lng": -84.2484340796997,
+    "lat": 39.65728812,
+    "lng": -84.2433719740986,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,12 +61,22 @@
   },
   {
     "id": 1816384,
-    "lat": 39.40691622,
-    "lng": -84.0028528389473,
+    "lat": 39.41074322,
+    "lng": -83.997810059492,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
     "outage_time": "2026-10-09T14:43:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-09T17:00:00"
+  },
+  {
+    "id": 1816385,
+    "lat": 39.78207926,
+    "lng": -84.2238716029228,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-09T14:47:00",
+    "estimate_time": "2026-10-09T17:00:00"
   }
 ]
