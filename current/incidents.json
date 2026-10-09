@@ -1,8 +1,8 @@
 [
   {
     "id": 1816266,
-    "lat": 39.66294968,
-    "lng": -83.5166705190952,
+    "lat": 39.65986138,
+    "lng": -83.5207559094158,
     "customers_affected": 2,
     "county": "FAYETTE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1816270,
-    "lat": 39.46295489,
-    "lng": -83.8076783711464,
+    "lat": 39.45986659,
+    "lng": -83.8117510910686,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1816272,
-    "lat": 39.7662671,
-    "lng": -84.1999432269911,
+    "lat": 39.7631788,
+    "lng": -84.204035214597,
     "customers_affected": 6,
     "county": null,
     "indicator": "D",
@@ -31,12 +31,22 @@
   },
   {
     "id": 1816273,
-    "lat": 39.76578274,
-    "lng": -84.1998155407683,
+    "lat": 39.76269444,
+    "lng": -84.2039074973628,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-09T00:26:00",
     "estimate_time": "2026-10-09T04:00:00"
+  },
+  {
+    "id": 1816274,
+    "lat": 39.87022556,
+    "lng": -84.3508623152852,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-09T01:42:00",
+    "estimate_time": null
   }
 ]
