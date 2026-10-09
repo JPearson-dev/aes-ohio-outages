@@ -1,8 +1,8 @@
 [
   {
     "id": 1816353,
-    "lat": 39.62475489,
-    "lng": -84.201497302053,
+    "lat": 39.62285919,
+    "lng": -84.2040035399016,
     "customers_affected": 6,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,9 +11,9 @@
   },
   {
     "id": 1816355,
-    "lat": 39.79523074,
-    "lng": -84.2464454767398,
-    "customers_affected": 1,
+    "lat": 39.79333504,
+    "lng": -84.2489583948195,
+    "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-09T12:16:00",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1816373,
-    "lat": 40.47817579,
-    "lng": -84.533307669776,
+    "lat": 40.47628009,
+    "lng": -84.5358479523389,
     "customers_affected": 10,
     "county": "MERCER",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1816378,
-    "lat": 39.71829214,
-    "lng": -84.1736691577751,
+    "lat": 39.71639644,
+    "lng": -84.1761790536245,
     "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1816381,
-    "lat": 39.7456769,
-    "lng": -84.5299184300052,
+    "lat": 39.7437812,
+    "lng": -84.5324294001717,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1816383,
-    "lat": 39.65728812,
-    "lng": -84.2433719740986,
+    "lat": 39.65539242,
+    "lng": -84.245879482222,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,8 +61,8 @@
   },
   {
     "id": 1816384,
-    "lat": 39.41074322,
-    "lng": -83.997810059492,
+    "lat": 39.40884752,
+    "lng": -84.0003079944315,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -71,12 +71,22 @@
   },
   {
     "id": 1816385,
-    "lat": 39.78207926,
-    "lng": -84.2238716029228,
+    "lat": 39.78018356,
+    "lng": -84.2263840035412,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-09T14:47:00",
     "estimate_time": "2026-10-09T17:00:00"
+  },
+  {
+    "id": 1816390,
+    "lat": 40.11895113,
+    "lng": -83.7126088207439,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-10-09T15:13:00",
+    "estimate_time": null
   }
 ]
