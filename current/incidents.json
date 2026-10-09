@@ -1,8 +1,8 @@
 [
   {
     "id": 1816324,
-    "lat": 39.73515909,
-    "lng": -84.2939027400096,
+    "lat": 39.73350369,
+    "lng": -84.2960951089427,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-10-09T16:00:00"
   },
   {
-    "id": 1816338,
-    "lat": 40.64466352,
-    "lng": -84.603970128282,
-    "customers_affected": 1,
-    "county": "MERCER",
-    "indicator": "D",
-    "outage_time": "2026-10-09T10:27:00",
-    "estimate_time": "2026-10-09T15:00:00"
-  },
-  {
     "id": 1816353,
-    "lat": 39.62325969,
-    "lng": -84.2034740530322,
+    "lat": 39.62160429,
+    "lng": -84.2056625987591,
     "customers_affected": 6,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1816355,
-    "lat": 39.79373554,
-    "lng": -84.2484274966336,
+    "lat": 39.79208014,
+    "lng": -84.2506218758019,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -40,13 +30,33 @@
     "estimate_time": null
   },
   {
-    "id": 1816357,
-    "lat": 39.57796626,
-    "lng": -84.0618198114751,
-    "customers_affected": 1,
-    "county": "WARREN",
+    "id": 1816373,
+    "lat": 40.47502519,
+    "lng": -84.5375295478382,
+    "customers_affected": 10,
+    "county": "MERCER",
     "indicator": "D",
-    "outage_time": "2026-10-09T12:18:00",
-    "estimate_time": "2026-10-09T15:00:00"
+    "outage_time": "2026-10-09T13:55:00",
+    "estimate_time": "2026-10-09T16:00:00"
+  },
+  {
+    "id": 1816374,
+    "lat": 40.47502546,
+    "lng": -84.5376843877823,
+    "customers_affected": 1,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-10-09T13:55:00",
+    "estimate_time": "2026-10-09T16:00:00"
+  },
+  {
+    "id": 1816375,
+    "lat": 39.64082004,
+    "lng": -84.2529993522783,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-09T13:58:00",
+    "estimate_time": "2026-10-09T16:00:00"
   }
 ]
