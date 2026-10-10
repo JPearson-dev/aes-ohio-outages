@@ -1,48 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.13038505</LAT>
-    <LNG>-83.7345248801542</LNG>
+    <LAT>40.13023375</LAT>
+    <LNG>-83.7347265081023</LNG>
     <TOTALCUSTS>24</TOTALCUSTS>
     <INCIDENTID>1816473</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>45</total>
+    <total>48</total>
     <OutageTime>10/10/2026 10:34 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/10/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.02548299</LAT>
-    <LNG>-84.2070016511642</LNG>
+    <LAT>39.69286126</LAT>
+    <LNG>-83.9405438191219</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1816474</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>48</total>
+    <OutageTime>10/10/2026 10:43 AM</OutageTime>
+    <EstimateTime>10/10/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.02533169</LAT>
+    <LNG>-84.2072029446639</LNG>
     <TOTALCUSTS>19</TOTALCUSTS>
     <INCIDENTID>1816469</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>45</total>
+    <total>48</total>
     <OutageTime>10/10/2026 09:56 AM</OutageTime>
     <EstimateTime>10/10/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.677541</LAT>
-    <LNG>-84.1312677009909</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816470</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>45</total>
-    <OutageTime>10/10/2026 10:36 AM</OutageTime>
-    <EstimateTime>10/10/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.83128159</LAT>
-    <LNG>-84.2279514264647</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
+    <LAT>39.83113029</LAT>
+    <LNG>-84.2281521056152</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1816438</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>45</total>
+    <total>48</total>
     <OutageTime>10/10/2026 08:06 AM</OutageTime>
-    <EstimateTime>10/10/2026 11:00 AM</EstimateTime>
+    <EstimateTime>10/10/2026 02:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -82,7 +82,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -143,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>45</TotalOut>
-    <Outageat>10/10/2026 10:50:33 AM</Outageat>
+    <TotalOut>48</TotalOut>
+    <Outageat>10/10/2026 11:05:33 AM</Outageat>
   </Message>
 </Incidents>
