@@ -1,13 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.62808655</LAT>
-    <LNG>-83.8450955776499</LNG>
+    <LAT>40.13923021</LAT>
+    <LNG>-83.7331841285771</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816507</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>2</total>
+    <OutageTime>10/10/2026 06:32 PM</OutageTime>
+    <EstimateTime>10/10/2026 10:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.62596835</LAT>
+    <LNG>-83.847896169784</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816500</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>1</total>
+    <total>2</total>
     <OutageTime>10/10/2026 04:28 PM</OutageTime>
     <EstimateTime>10/10/2026 09:00 PM</EstimateTime>
   </Markers>
@@ -25,7 +36,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>10/10/2026 6:35:33 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>10/10/2026 6:50:33 PM</Outageat>
   </Message>
 </Incidents>
