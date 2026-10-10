@@ -1,19 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.6771405</LAT>
-    <LNG>-84.1317976347051</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816477</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>4</total>
-    <OutageTime>10/10/2026 11:20 AM</OutageTime>
-    <EstimateTime>10/10/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.83088109</LAT>
-    <LNG>-84.2284826359808</LNG>
+    <LAT>39.83256319</LAT>
+    <LNG>-84.2262515560134</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1816438</INCIDENTID>
     <IND>D</IND>
@@ -23,14 +12,14 @@
     <EstimateTime>10/10/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65249872</LAT>
-    <LNG>-84.4652657043456</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816482</INCIDENTID>
+    <LAT>39.6788226</LAT>
+    <LNG>-84.1295719131052</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1816477</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
+    <COUNTY>MONTGOMERY</COUNTY>
     <total>4</total>
-    <OutageTime>10/10/2026 12:23 PM</OutageTime>
+    <OutageTime>10/10/2026 11:20 AM</OutageTime>
     <EstimateTime>10/10/2026 03:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -99,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>3</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -107,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -133,6 +122,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>4</TotalOut>
-    <Outageat>10/10/2026 12:35:33 PM</Outageat>
+    <Outageat>10/10/2026 12:50:33 PM</Outageat>
   </Message>
 </Incidents>
