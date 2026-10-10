@@ -1,8 +1,8 @@
 [
   {
     "id": 1816438,
-    "lat": 39.83221609,
-    "lng": -84.226711937594,
+    "lat": 39.82967069,
+    "lng": -84.2300880691848,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1816439,
-    "lat": 39.84565829,
-    "lng": -84.0998519619509,
+    "lat": 39.84311289,
+    "lng": -84.1032288055835,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1816441,
-    "lat": 39.77237483,
-    "lng": -84.3744498119501,
+    "lat": 39.76982943,
+    "lng": -84.3778227797472,
     "customers_affected": 49,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1816444,
-    "lat": 39.54541306,
-    "lng": -83.4344376106743,
+    "lat": 39.54359746,
+    "lng": -83.4368350354388,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -41,12 +41,42 @@
   },
   {
     "id": 1816450,
-    "lat": 39.69596603,
-    "lng": -84.1378789479595,
-    "customers_affected": 3,
+    "lat": 39.69342063,
+    "lng": -84.1412478903252,
+    "customers_affected": 8,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-10T08:39:00",
+    "estimate_time": "2026-10-10T11:00:00"
+  },
+  {
+    "id": 1816452,
+    "lat": 39.6759301,
+    "lng": -84.1333992121527,
+    "customers_affected": 4,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-10T08:47:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1816454,
+    "lat": 39.87169108,
+    "lng": -84.3010446062915,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-10T08:55:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1816455,
+    "lat": 39.67428925,
+    "lng": -84.1298762542592,
+    "customers_affected": 15,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-10T08:47:00",
     "estimate_time": null
   }
 ]
