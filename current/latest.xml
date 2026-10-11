@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.95561205</LAT>
-    <LNG>-84.0099839114745</LNG>
+    <LAT>39.90868541</LAT>
+    <LNG>-84.0344571084166</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
+    <INCIDENTID>1816518</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLARK</COUNTY>
+    <total>58</total>
+    <OutageTime>10/11/2026 12:29 AM</OutageTime>
+    <EstimateTime>10/11/2026 04:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.95355615</LAT>
+    <LNG>-84.0127161274677</LNG>
     <TOTALCUSTS>35</TOTALCUSTS>
     <INCIDENTID>1816510</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>53</total>
+    <total>58</total>
     <OutageTime>10/10/2026 10:31 PM</OutageTime>
     <EstimateTime>10/11/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.60378094</LAT>
-    <LNG>-83.7970873102423</LNG>
+    <LAT>39.60172504</LAT>
+    <LNG>-83.799804518747</LNG>
     <TOTALCUSTS>18</TOTALCUSTS>
     <INCIDENTID>1816517</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>53</total>
+    <total>58</total>
     <OutageTime>10/10/2026 11:05 PM</OutageTime>
     <EstimateTime>10/11/2026 01:00 AM</EstimateTime>
   </Markers>
@@ -40,7 +51,7 @@
   </Counties>
   <Counties>
     <County>CLARK</County>
-    <TotOut>35</TotOut>
+    <TotOut>40</TotOut>
   </Counties>
   <Counties>
     <County>CLINTON</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>53</TotalOut>
-    <Outageat>10/11/2026 12:20:32 AM</Outageat>
+    <TotalOut>58</TotalOut>
+    <Outageat>10/11/2026 12:35:32 AM</Outageat>
   </Message>
 </Incidents>

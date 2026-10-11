@@ -1,8 +1,8 @@
 [
   {
     "id": 1816510,
-    "lat": 39.95561205,
-    "lng": -84.0099839114745,
+    "lat": 39.95355615,
+    "lng": -84.0127161274677,
     "customers_affected": 35,
     "county": "CLARK",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1816517,
-    "lat": 39.60378094,
-    "lng": -83.7970873102423,
+    "lat": 39.60172504,
+    "lng": -83.799804518747,
     "customers_affected": 18,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-10T23:05:00",
     "estimate_time": "2026-10-11T01:00:00"
+  },
+  {
+    "id": 1816518,
+    "lat": 39.90868541,
+    "lng": -84.0344571084166,
+    "customers_affected": 5,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-10-11T00:29:00",
+    "estimate_time": "2026-10-11T04:00:00"
   }
 ]
