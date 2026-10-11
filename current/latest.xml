@@ -1,24 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.55738139</LAT>
-    <LNG>-83.4196586105381</LNG>
-    <TOTALCUSTS>161</TOTALCUSTS>
-    <INCIDENTID>1816524</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>165</total>
-    <OutageTime>10/11/2026 08:01 AM</OutageTime>
-    <EstimateTime>10/11/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.61951716</LAT>
-    <LNG>-83.9113067763671</LNG>
+    <LAT>39.62072756</LAT>
+    <LNG>-83.909706583858</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1816558</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>165</total>
+    <total>4</total>
     <OutageTime>10/11/2026 02:17 PM</OutageTime>
     <EstimateTime>10/11/2026 05:00 PM</EstimateTime>
   </Markers>
@@ -56,7 +45,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>161</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -121,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>165</TotalOut>
-    <Outageat>10/11/2026 2:50:32 PM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>10/11/2026 3:05:32 PM</Outageat>
   </Message>
 </Incidents>
