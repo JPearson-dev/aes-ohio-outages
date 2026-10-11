@@ -1,35 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.62160866</LAT>
-    <LNG>-83.9085417378404</LNG>
+    <LAT>39.62059406</LAT>
+    <LNG>-83.9098830756789</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1816558</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>14</total>
+    <total>15</total>
     <OutageTime>10/11/2026 02:17 PM</OutageTime>
     <EstimateTime>10/11/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80634521</LAT>
-    <LNG>-84.1956769843977</LNG>
+    <LAT>39.80344928</LAT>
+    <LNG>-84.196850198465</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816567</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>15</total>
+    <OutageTime>10/11/2026 05:13 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80533061</LAT>
+    <LNG>-84.1970221978162</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1816563</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>14</total>
+    <total>15</total>
     <OutageTime>10/11/2026 04:29 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2820138</LAT>
-    <LNG>-84.3072111234576</LNG>
+    <LAT>40.2809992</LAT>
+    <LNG>-84.3085664891373</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816562</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>14</total>
+    <total>15</total>
     <OutageTime>10/11/2026 04:27 PM</OutageTime>
     <EstimateTime>10/11/2026 07:00 PM</EstimateTime>
   </Markers>
@@ -99,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>9</TotOut>
+    <TotOut>10</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>14</TotalOut>
-    <Outageat>10/11/2026 5:05:31 PM</Outageat>
+    <TotalOut>15</TotalOut>
+    <Outageat>10/11/2026 5:20:31 PM</Outageat>
   </Message>
 </Incidents>
