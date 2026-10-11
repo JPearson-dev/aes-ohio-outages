@@ -1,16 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
-  <Markers>
-    <LAT>39.62551445</LAT>
-    <LNG>-83.8484962966699</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816500</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>1</total>
-    <OutageTime>10/10/2026 04:28 PM</OutageTime>
-    <EstimateTime>10/10/2026 09:00 PM</EstimateTime>
-  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -49,7 +38,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -110,7 +99,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>10/10/2026 8:50:33 PM</Outageat>
+    <TotalOut>0</TotalOut>
+    <Outageat>10/10/2026 9:05:33 PM</Outageat>
   </Message>
 </Incidents>
