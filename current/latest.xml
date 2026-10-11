@@ -1,37 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.56041629</LAT>
-    <LNG>-83.4156502373979</LNG>
+    <LAT>39.56138639</LAT>
+    <LNG>-83.4143689685642</LNG>
     <TOTALCUSTS>161</TOTALCUSTS>
     <INCIDENTID>1816524</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>171</total>
+    <total>172</total>
     <OutageTime>10/11/2026 08:01 AM</OutageTime>
-    <EstimateTime>10/11/2026 02:00 PM</EstimateTime>
+    <EstimateTime>10/11/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69547077</LAT>
-    <LNG>-83.9116015896997</LNG>
+    <LAT>39.69644087</LAT>
+    <LNG>-83.9103176240536</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1816554</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>171</total>
+    <total>172</total>
     <OutageTime>10/11/2026 01:16 PM</OutageTime>
     <EstimateTime>10/11/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.87482306</LAT>
-    <LNG>-84.1249153812119</LNG>
+    <LAT>39.81370991</LAT>
+    <LNG>-84.1957328552854</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816557</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>172</total>
+    <OutageTime>10/11/2026 01:57 PM</OutageTime>
+    <EstimateTime>10/11/2026 04:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.87579316</LAT>
+    <LNG>-84.1236278048098</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816541</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>171</total>
+    <total>172</total>
     <OutageTime>10/11/2026 09:23 AM</OutageTime>
-    <EstimateTime>10/11/2026 02:00 PM</EstimateTime>
+    <EstimateTime>10/11/2026 05:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -99,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>171</TotalOut>
-    <Outageat>10/11/2026 1:50:31 PM</Outageat>
+    <TotalOut>172</TotalOut>
+    <Outageat>10/11/2026 2:05:31 PM</Outageat>
   </Message>
 </Incidents>
