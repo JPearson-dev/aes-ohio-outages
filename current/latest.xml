@@ -1,48 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.62128826</LAT>
-    <LNG>-83.9089653182105</LNG>
+    <LAT>39.62351326</LAT>
+    <LNG>-83.906023787863</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1816558</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>16</total>
+    <total>14</total>
     <OutageTime>10/11/2026 02:17 PM</OutageTime>
     <EstimateTime>10/11/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80602481</LAT>
-    <LNG>-84.1961017886351</LNG>
+    <LAT>39.80824981</LAT>
+    <LNG>-84.1931517592086</LNG>
     <TOTALCUSTS>10</TOTALCUSTS>
     <INCIDENTID>1816563</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>16</total>
+    <total>14</total>
     <OutageTime>10/11/2026 04:29 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.83756442</LAT>
-    <LNG>-84.1911248486239</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816578</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>16</total>
-    <OutageTime>10/11/2026 09:24 PM</OutageTime>
-    <EstimateTime>10/12/2026 01:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.68578429</LAT>
-    <LNG>-84.1431317181338</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816579</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>16</total>
-    <OutageTime>10/11/2026 09:25 PM</OutageTime>
-    <EstimateTime>10/12/2026 01:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -110,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>12</TotOut>
+    <TotOut>10</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>16</TotalOut>
-    <Outageat>10/11/2026 9:35:31 PM</Outageat>
+    <TotalOut>14</TotalOut>
+    <Outageat>10/11/2026 9:50:31 PM</Outageat>
   </Message>
 </Incidents>
