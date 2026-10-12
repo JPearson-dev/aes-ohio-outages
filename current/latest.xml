@@ -1,48 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.61765399</LAT>
-    <LNG>-84.0704806768142</LNG>
+    <LAT>39.61837489</LAT>
+    <LNG>-84.0695276730416</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816625</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>9</total>
+    <total>12</total>
     <OutageTime>10/12/2026 11:08 AM</OutageTime>
     <EstimateTime>10/12/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7975172</LAT>
-    <LNG>-84.0019870398647</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816634</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>9</total>
-    <OutageTime>10/12/2026 11:57 AM</OutageTime>
-    <EstimateTime>10/12/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.81053906</LAT>
-    <LNG>-84.0063603519812</LNG>
+    <LAT>39.81125996</LAT>
+    <LNG>-84.0054044729589</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1816624</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>9</total>
+    <total>12</total>
     <OutageTime>10/12/2026 11:00 AM</OutageTime>
     <EstimateTime>10/12/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.46131925</LAT>
-    <LNG>-84.6401594581108</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816630</INCIDENTID>
+    <LAT>39.72983719</LAT>
+    <LNG>-84.14573895817</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
+    <INCIDENTID>1816636</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MERCER</COUNTY>
-    <total>9</total>
-    <OutageTime>10/12/2026 11:26 AM</OutageTime>
-    <EstimateTime>10/12/2026 02:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>12</total>
+    <OutageTime>10/12/2026 12:06 PM</OutageTime>
+    <EstimateTime>10/12/2026 03:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -82,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>8</TotOut>
+    <TotOut>7</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -102,7 +91,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -110,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>5</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>9</TotalOut>
-    <Outageat>10/12/2026 12:05:32 PM</Outageat>
+    <TotalOut>12</TotalOut>
+    <Outageat>10/12/2026 12:20:32 PM</Outageat>
   </Message>
 </Incidents>
