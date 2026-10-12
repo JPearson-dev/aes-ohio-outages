@@ -1,25 +1,36 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.15465335</LAT>
-    <LNG>-84.1069177280734</LNG>
+    <LAT>40.15607735</LAT>
+    <LNG>-84.1050192547644</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1816588</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>14</total>
+    <total>8</total>
     <OutageTime>10/12/2026 08:15 AM</OutageTime>
     <EstimateTime>10/12/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.28329001</LAT>
-    <LNG>-84.1492654232891</LNG>
-    <TOTALCUSTS>11</TOTALCUSTS>
-    <INCIDENTID>1816592</INCIDENTID>
+    <LAT>39.60467976</LAT>
+    <LNG>-84.233251772345</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816596</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>8</total>
+    <OutageTime>10/12/2026 09:12 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.28471401</LAT>
+    <LNG>-84.1473630610815</LNG>
+    <TOTALCUSTS>4</TOTALCUSTS>
+    <INCIDENTID>1816597</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>14</total>
-    <OutageTime>10/12/2026 08:54 AM</OutageTime>
+    <total>8</total>
+    <OutageTime>10/12/2026 09:04 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
@@ -88,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -104,7 +115,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>11</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>14</TotalOut>
-    <Outageat>10/12/2026 9:05:34 AM</Outageat>
+    <TotalOut>8</TotalOut>
+    <Outageat>10/12/2026 9:20:32 AM</Outageat>
   </Message>
 </Incidents>
