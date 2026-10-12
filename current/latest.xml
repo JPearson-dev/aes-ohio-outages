@@ -1,37 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.55674698</LAT>
-    <LNG>-83.402591939047</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816599</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>28</total>
-    <OutageTime>10/12/2026 09:28 AM</OutageTime>
-    <EstimateTime>10/12/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78338349</LAT>
-    <LNG>-84.2515521608619</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816610</INCIDENTID>
+    <LAT>39.65383642</LAT>
+    <LNG>-84.261688569959</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1816608</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>28</total>
-    <OutageTime>10/12/2026 10:04 AM</OutageTime>
-    <EstimateTime>10/12/2026 01:00 PM</EstimateTime>
+    <total>35</total>
+    <OutageTime>10/12/2026 09:58 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74988954</LAT>
-    <LNG>-84.0895361475022</LNG>
+    <LAT>39.74973824</LAT>
+    <LNG>-84.089736568</LNG>
     <TOTALCUSTS>26</TOTALCUSTS>
     <INCIDENTID>1816614</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>28</total>
+    <total>35</total>
     <OutageTime>10/12/2026 10:07 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/12/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.30379727</LAT>
+    <LNG>-84.1693206781089</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
+    <INCIDENTID>1816617</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>35</total>
+    <OutageTime>10/12/2026 10:21 AM</OutageTime>
+    <EstimateTime>10/12/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -67,7 +67,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -99,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>27</TotOut>
+    <TotOut>29</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -115,7 +115,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>6</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -132,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>28</TotalOut>
-    <Outageat>10/12/2026 10:20:32 AM</Outageat>
+    <TotalOut>35</TotalOut>
+    <Outageat>10/12/2026 10:35:32 AM</Outageat>
   </Message>
 </Incidents>
