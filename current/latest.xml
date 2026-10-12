@@ -1,36 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.68791319</LAT>
-    <LNG>-84.0481200425264</LNG>
+    <LAT>39.68872309</LAT>
+    <LNG>-84.0470481987401</LNG>
     <TOTALCUSTS>11</TOTALCUSTS>
     <INCIDENTID>1816678</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>13</total>
+    <total>11</total>
     <OutageTime>10/12/2026 04:04 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.87363132</LAT>
-    <LNG>-84.1688078475713</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816642</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>13</total>
-    <OutageTime>10/12/2026 12:50 PM</OutageTime>
-    <EstimateTime>10/12/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.86431368</LAT>
-    <LNG>-84.7834943860176</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816653</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>13</total>
-    <OutageTime>10/12/2026 01:27 PM</OutageTime>
     <EstimateTime>10/12/2026 06:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -99,7 +77,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -107,7 +85,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -132,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>13</TotalOut>
-    <Outageat>10/12/2026 4:20:33 PM</Outageat>
+    <TotalOut>11</TotalOut>
+    <Outageat>10/12/2026 4:35:32 PM</Outageat>
   </Message>
 </Incidents>
