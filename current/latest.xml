@@ -1,47 +1,36 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.30517682</LAT>
-    <LNG>-83.7459389143487</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1816666</INCIDENTID>
+    <LAT>39.68791319</LAT>
+    <LNG>-84.0481200425264</LNG>
+    <TOTALCUSTS>11</TOTALCUSTS>
+    <INCIDENTID>1816678</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
-    <total>5</total>
-    <OutageTime>10/12/2026 02:40 PM</OutageTime>
-    <EstimateTime>10/12/2026 05:00 PM</EstimateTime>
+    <COUNTY>GREENE</COUNTY>
+    <total>13</total>
+    <OutageTime>10/12/2026 04:04 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.87449462</LAT>
-    <LNG>-84.1676620058634</LNG>
+    <LAT>39.87363132</LAT>
+    <LNG>-84.1688078475713</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816642</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
+    <total>13</total>
     <OutageTime>10/12/2026 12:50 PM</OutageTime>
     <EstimateTime>10/12/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86517698</LAT>
-    <LNG>-84.7823487119901</LNG>
+    <LAT>39.86431368</LAT>
+    <LNG>-84.7834943860176</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816653</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>5</total>
+    <total>13</total>
     <OutageTime>10/12/2026 01:27 PM</OutageTime>
-    <EstimateTime>10/12/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.24371194</LAT>
-    <LNG>-83.3495691816566</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816674</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>5</total>
-    <OutageTime>10/12/2026 03:55 PM</OutageTime>
     <EstimateTime>10/12/2026 06:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -82,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>11</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -94,7 +83,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>2</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -130,7 +119,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>10/12/2026 4:05:32 PM</Outageat>
+    <TotalOut>13</TotalOut>
+    <Outageat>10/12/2026 4:20:33 PM</Outageat>
   </Message>
 </Incidents>
