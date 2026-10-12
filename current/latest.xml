@@ -1,26 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.80931976</LAT>
-    <LNG>-84.0079770856363</LNG>
-    <TOTALCUSTS>6</TOTALCUSTS>
-    <INCIDENTID>1816624</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>7</total>
-    <OutageTime>10/12/2026 11:00 AM</OutageTime>
-    <EstimateTime>10/12/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.61643469</LAT>
-    <LNG>-84.0720925473925</LNG>
+    <LAT>39.61636349</LAT>
+    <LNG>-84.0721866712219</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816625</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>7</total>
+    <total>8</total>
     <OutageTime>10/12/2026 11:08 AM</OutageTime>
     <EstimateTime>10/12/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80924856</LAT>
+    <LNG>-84.008071493441</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
+    <INCIDENTID>1816624</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>8</total>
+    <OutageTime>10/12/2026 11:00 AM</OutageTime>
+    <EstimateTime>10/12/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.46002875</LAT>
+    <LNG>-84.6418883518547</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816630</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>8</total>
+    <OutageTime>10/12/2026 11:26 AM</OutageTime>
+    <EstimateTime>10/12/2026 02:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -80,7 +91,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>7</TotalOut>
-    <Outageat>10/12/2026 11:20:33 AM</Outageat>
+    <TotalOut>8</TotalOut>
+    <Outageat>10/12/2026 11:35:32 AM</Outageat>
   </Message>
 </Incidents>
