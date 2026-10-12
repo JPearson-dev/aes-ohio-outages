@@ -1,8 +1,8 @@
 [
   {
     "id": 1816624,
-    "lat": 39.81133116,
-    "lng": -84.0053100651542,
+    "lat": 39.81053906,
+    "lng": -84.0063603519812,
     "customers_affected": 6,
     "county": "GREENE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1816625,
-    "lat": 39.61844609,
-    "lng": -84.0694335492122,
+    "lat": 39.61765399,
+    "lng": -84.0704806768142,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1816630,
-    "lat": 40.46211135,
-    "lng": -84.6390982750543,
+    "lat": 40.46131925,
+    "lng": -84.6401594581108,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-10-12T11:26:00",
+    "estimate_time": "2026-10-12T14:00:00"
+  },
+  {
+    "id": 1816634,
+    "lat": 39.7975172,
+    "lng": -84.0019870398647,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-12T11:57:00",
     "estimate_time": "2026-10-12T14:00:00"
   }
 ]
