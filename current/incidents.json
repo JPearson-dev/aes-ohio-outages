@@ -1,8 +1,8 @@
 [
   {
     "id": 1816639,
-    "lat": 39.7540528,
-    "lng": -84.0807555330593,
+    "lat": 39.7537413,
+    "lng": -84.0811682001847,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1816642,
-    "lat": 39.87466372,
-    "lng": -84.1674375626422,
+    "lat": 39.87435222,
+    "lng": -84.1678510106812,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1816643,
-    "lat": 39.7769522063572,
-    "lng": -84.2408056757631,
+    "lat": 39.7766407063572,
+    "lng": -84.2412184907776,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -30,29 +30,9 @@
     "estimate_time": "2026-10-12T17:00:00"
   },
   {
-    "id": 1816644,
-    "lat": 39.64522525,
-    "lng": -84.2835622180306,
-    "customers_affected": 4,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-12T12:56:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1816648,
-    "lat": 39.64614437,
-    "lng": -84.2831591224079,
-    "customers_affected": 5,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-12T13:06:00",
-    "estimate_time": "2026-10-12T16:00:00"
-  },
-  {
     "id": 1816651,
-    "lat": 39.75722465,
-    "lng": -84.5126924093955,
+    "lat": 39.75691315,
+    "lng": -84.5131050969948,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -61,12 +41,32 @@
   },
   {
     "id": 1816653,
-    "lat": 39.86534608,
-    "lng": -84.7821243016136,
+    "lat": 39.86503458,
+    "lng": -84.7825376891493,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
     "outage_time": "2026-10-12T13:27:00",
     "estimate_time": "2026-10-12T16:00:00"
+  },
+  {
+    "id": 1816664,
+    "lat": 39.7974994,
+    "lng": -84.0020106370006,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-12T14:31:00",
+    "estimate_time": "2026-10-12T17:00:00"
+  },
+  {
+    "id": 1816666,
+    "lat": 40.30503442,
+    "lng": -83.7461292123758,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-10-12T14:40:00",
+    "estimate_time": null
   }
 ]
