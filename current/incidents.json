@@ -1,12 +1,32 @@
 [
   {
     "id": 1816599,
-    "lat": 39.55354298,
-    "lng": -83.4068233834346,
+    "lat": 39.55674698,
+    "lng": -83.402591939047,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-10-12T09:28:00",
     "estimate_time": "2026-10-12T12:00:00"
+  },
+  {
+    "id": 1816610,
+    "lat": 39.78338349,
+    "lng": -84.2515521608619,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-12T10:04:00",
+    "estimate_time": "2026-10-12T13:00:00"
+  },
+  {
+    "id": 1816614,
+    "lat": 39.74988954,
+    "lng": -84.0895361475022,
+    "customers_affected": 26,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-12T10:07:00",
+    "estimate_time": null
   }
 ]
