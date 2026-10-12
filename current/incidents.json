@@ -1,12 +1,32 @@
 [
   {
     "id": 1816678,
-    "lat": 39.68992459,
-    "lng": -84.0454581008153,
+    "lat": 39.68954189,
+    "lng": -84.0459645764506,
     "customers_affected": 11,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-12T16:04:00",
     "estimate_time": "2026-10-12T18:00:00"
+  },
+  {
+    "id": 1816682,
+    "lat": 39.61551024,
+    "lng": -84.539776873834,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-10-12T16:50:00",
+    "estimate_time": "2026-10-12T19:00:00"
+  },
+  {
+    "id": 1816683,
+    "lat": 40.10211061,
+    "lng": -84.6212784649881,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-12T16:58:00",
+    "estimate_time": "2026-10-12T19:00:00"
   }
 ]
