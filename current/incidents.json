@@ -1,32 +1,52 @@
 [
   {
     "id": 1816688,
-    "lat": 40.42086282,
-    "lng": -84.5136752924252,
-    "customers_affected": 1,
+    "lat": 40.42023092,
+    "lng": -84.5145212702964,
+    "customers_affected": 77,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-10-12T18:42:00",
+    "estimate_time": "2026-10-12T21:00:00"
+  },
+  {
+    "id": 1816691,
+    "lat": 39.80166603,
+    "lng": -84.2833001384703,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-12T18:47:00",
     "estimate_time": null
   },
   {
-    "id": 1816689,
-    "lat": 40.42063268,
-    "lng": -84.4951171872746,
+    "id": 1816693,
+    "lat": 40.42000078,
+    "lng": -84.4959631620263,
+    "customers_affected": 37,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-10-12T18:42:00",
+    "estimate_time": "2026-10-12T21:00:00"
+  },
+  {
+    "id": 1816694,
+    "lat": 40.41987009,
+    "lng": -84.5440813170807,
     "customers_affected": 3,
     "county": "MERCER",
     "indicator": "D",
-    "outage_time": "2026-10-12T18:45:00",
-    "estimate_time": null
+    "outage_time": "2026-10-12T18:52:00",
+    "estimate_time": "2026-10-12T22:00:00"
   },
   {
-    "id": 1816690,
-    "lat": 40.42050199,
-    "lng": -84.5432353441004,
-    "customers_affected": 2,
-    "county": "MERCER",
+    "id": 1816696,
+    "lat": 39.90723072,
+    "lng": -84.1685358361265,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-10-12T18:45:00",
-    "estimate_time": null
+    "outage_time": "2026-10-12T18:57:00",
+    "estimate_time": "2026-10-12T22:00:00"
   }
 ]
