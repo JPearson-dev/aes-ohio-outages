@@ -1,57 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.33757899</LAT>
-    <LNG>-84.4686210494447</LNG>
-    <TOTALCUSTS>36</TOTALCUSTS>
-    <INCIDENTID>1816712</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>213</total>
-    <OutageTime>10/13/2026 01:04 AM</OutageTime>
-    <EstimateTime>10/13/2026 04:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.33757899</LAT>
-    <LNG>-84.4686210494447</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816715</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>213</total>
-    <OutageTime>10/13/2026 01:15 AM</OutageTime>
-    <EstimateTime>10/13/2026 05:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.34725331</LAT>
-    <LNG>-84.4334754298998</LNG>
+    <LAT>40.34559791</LAT>
+    <LNG>-84.4356891005377</LNG>
     <TOTALCUSTS>11</TOTALCUSTS>
     <INCIDENTID>1816711</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>213</total>
+    <total>173</total>
     <OutageTime>10/13/2026 01:14 AM</OutageTime>
     <EstimateTime>10/13/2026 05:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.34088734</LAT>
-    <LNG>-84.4570732324223</LNG>
+    <LAT>40.33923194</LAT>
+    <LNG>-84.4592866778953</LNG>
     <TOTALCUSTS>162</TOTALCUSTS>
     <INCIDENTID>1816713</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>213</total>
-    <OutageTime>10/13/2026 01:15 AM</OutageTime>
-    <EstimateTime>10/13/2026 04:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.33768826</LAT>
-    <LNG>-84.4686114824619</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1816714</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>213</total>
+    <total>173</total>
     <OutageTime>10/13/2026 01:15 AM</OutageTime>
     <EstimateTime>10/13/2026 04:00 AM</EstimateTime>
   </Markers>
@@ -81,7 +48,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>213</TotOut>
+    <TotOut>173</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -154,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>213</TotalOut>
-    <Outageat>10/13/2026 1:35:32 AM</Outageat>
+    <TotalOut>173</TotalOut>
+    <Outageat>10/13/2026 1:50:32 AM</Outageat>
   </Message>
 </Incidents>
