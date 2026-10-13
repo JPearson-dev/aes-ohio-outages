@@ -1,14 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.98084019</LAT>
-    <LNG>-84.696187268053</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
+    <LAT>39.980606</LAT>
+    <LNG>-84.7075352981164</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816705</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>49</total>
+    <OutageTime>10/12/2026 11:23 PM</OutageTime>
+    <EstimateTime>10/13/2026 02:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.97838379</LAT>
+    <LNG>-84.6994529993196</LNG>
+    <TOTALCUSTS>48</TOTALCUSTS>
     <INCIDENTID>1816704</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>3</total>
-    <OutageTime>10/12/2026 11:14 PM</OutageTime>
+    <total>49</total>
+    <OutageTime>10/12/2026 11:12 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
@@ -37,7 +48,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>3</TotOut>
+    <TotOut>49</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>10/12/2026 11:20:32 PM</Outageat>
+    <TotalOut>49</TotalOut>
+    <Outageat>10/12/2026 11:35:32 PM</Outageat>
   </Message>
 </Incidents>
