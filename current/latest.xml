@@ -1,5 +1,60 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
+  <Markers>
+    <LAT>40.33525609</LAT>
+    <LNG>-84.4717268490944</LNG>
+    <TOTALCUSTS>36</TOTALCUSTS>
+    <INCIDENTID>1816712</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>213</total>
+    <OutageTime>10/13/2026 01:04 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.33525609</LAT>
+    <LNG>-84.4717268490944</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816715</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>213</total>
+    <OutageTime>10/13/2026 01:15 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.34493041</LAT>
+    <LNG>-84.4365817096659</LNG>
+    <TOTALCUSTS>11</TOTALCUSTS>
+    <INCIDENTID>1816711</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>213</total>
+    <OutageTime>10/13/2026 01:14 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.33856444</LAT>
+    <LNG>-84.4601791962312</LNG>
+    <TOTALCUSTS>162</TOTALCUSTS>
+    <INCIDENTID>1816713</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>213</total>
+    <OutageTime>10/13/2026 01:15 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.33536536</LAT>
+    <LNG>-84.4717172875331</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1816714</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>213</total>
+    <OutageTime>10/13/2026 01:15 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -26,7 +81,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>213</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -99,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>0</TotalOut>
-    <Outageat>10/13/2026 1:05:32 AM</Outageat>
+    <TotalOut>213</TotalOut>
+    <Outageat>10/13/2026 1:20:32 AM</Outageat>
   </Message>
 </Incidents>
