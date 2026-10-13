@@ -1,18 +1,8 @@
 [
   {
-    "id": 1816735,
-    "lat": 39.77359859,
-    "lng": -84.0211636110279,
-    "customers_affected": 22,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-10-13T08:09:00",
-    "estimate_time": "2026-10-13T10:00:00"
-  },
-  {
     "id": 1816745,
-    "lat": 40.03499215,
-    "lng": -84.3256424786137,
+    "lat": 40.03382625,
+    "lng": -84.3271938425911,
     "customers_affected": 61,
     "county": "MIAMI",
     "indicator": "D",
@@ -21,9 +11,9 @@
   },
   {
     "id": 1816750,
-    "lat": 39.54671165,
-    "lng": -83.415203066168,
-    "customers_affected": 4,
+    "lat": 39.54554575,
+    "lng": -83.4167426120965,
+    "customers_affected": 6,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-10-13T08:37:00",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1816765,
-    "lat": 40.30819928,
-    "lng": -84.1404003610903,
+    "lat": 40.30703338,
+    "lng": -84.1419584699117,
     "customers_affected": 3,
     "county": "SHELBY",
     "indicator": "D",
@@ -40,23 +30,33 @@
     "estimate_time": "2026-10-13T11:00:00"
   },
   {
-    "id": 1816766,
-    "lat": 39.54608724,
-    "lng": -83.4161867091431,
-    "customers_affected": 1,
-    "county": "FAYETTE",
-    "indicator": "D",
-    "outage_time": "2026-10-13T09:02:00",
-    "estimate_time": "2026-10-13T11:00:00"
-  },
-  {
     "id": 1816767,
-    "lat": 39.78599149,
-    "lng": -84.1809527978267,
+    "lat": 39.78482559,
+    "lng": -84.1824980976441,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-13T09:04:00",
     "estimate_time": "2026-10-13T11:00:00"
+  },
+  {
+    "id": 1816771,
+    "lat": 40.22219148,
+    "lng": -83.3056481837771,
+    "customers_affected": 4,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-10-13T09:18:00",
+    "estimate_time": "2026-10-13T12:00:00"
+  },
+  {
+    "id": 1816773,
+    "lat": 39.64653376,
+    "lng": -84.2295608652026,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-13T09:19:00",
+    "estimate_time": "2026-10-13T12:00:00"
   }
 ]

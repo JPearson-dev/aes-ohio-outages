@@ -1,70 +1,70 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.54608724</LAT>
-    <LNG>-83.4161867091431</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816766</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>92</total>
-    <OutageTime>10/13/2026 09:02 AM</OutageTime>
-    <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.54671165</LAT>
-    <LNG>-83.415203066168</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
+    <LAT>39.54554575</LAT>
+    <LNG>-83.4167426120965</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1816750</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>92</total>
+    <total>76</total>
     <OutageTime>10/13/2026 08:37 AM</OutageTime>
     <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77359859</LAT>
-    <LNG>-84.0211636110279</LNG>
-    <TOTALCUSTS>22</TOTALCUSTS>
-    <INCIDENTID>1816735</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>92</total>
-    <OutageTime>10/13/2026 08:09 AM</OutageTime>
-    <EstimateTime>10/13/2026 10:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.03499215</LAT>
-    <LNG>-84.3256424786137</LNG>
+    <LAT>40.03382625</LAT>
+    <LNG>-84.3271938425911</LNG>
     <TOTALCUSTS>61</TOTALCUSTS>
     <INCIDENTID>1816745</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>92</total>
+    <total>76</total>
     <OutageTime>10/13/2026 08:40 AM</OutageTime>
     <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78599149</LAT>
-    <LNG>-84.1809527978267</LNG>
+    <LAT>39.64653376</LAT>
+    <LNG>-84.2295608652026</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816773</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>76</total>
+    <OutageTime>10/13/2026 09:19 AM</OutageTime>
+    <EstimateTime>10/13/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.78482559</LAT>
+    <LNG>-84.1824980976441</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816767</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>92</total>
+    <total>76</total>
     <OutageTime>10/13/2026 09:04 AM</OutageTime>
     <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.30819928</LAT>
-    <LNG>-84.1404003610903</LNG>
+    <LAT>40.30703338</LAT>
+    <LNG>-84.1419584699117</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1816765</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>92</total>
+    <total>76</total>
     <OutageTime>10/13/2026 08:59 AM</OutageTime>
     <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.22219148</LAT>
+    <LNG>-83.3056481837771</LNG>
+    <TOTALCUSTS>4</TOTALCUSTS>
+    <INCIDENTID>1816771</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>76</total>
+    <OutageTime>10/13/2026 09:18 AM</OutageTime>
+    <EstimateTime>10/13/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -100,11 +100,11 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>5</TotOut>
+    <TotOut>6</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>22</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -132,7 +132,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -152,7 +152,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>0</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -165,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>92</TotalOut>
-    <Outageat>10/13/2026 9:20:32 AM</Outageat>
+    <TotalOut>76</TotalOut>
+    <Outageat>10/13/2026 9:35:32 AM</Outageat>
   </Message>
 </Incidents>
