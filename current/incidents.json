@@ -1,12 +1,32 @@
 [
   {
     "id": 1816735,
-    "lat": 39.77228139,
-    "lng": -84.0229091072661,
-    "customers_affected": 16,
+    "lat": 39.77326929,
+    "lng": -84.0215999850875,
+    "customers_affected": 17,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-13T08:09:00",
     "estimate_time": "2026-10-13T10:00:00"
+  },
+  {
+    "id": 1816745,
+    "lat": 40.03466285,
+    "lng": -84.3260806501188,
+    "customers_affected": 2,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-10-13T08:30:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1816750,
+    "lat": 39.54638235,
+    "lng": -83.4156378997508,
+    "customers_affected": 2,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-10-13T08:37:00",
+    "estimate_time": "2026-10-13T11:00:00"
   }
 ]
