@@ -1,18 +1,8 @@
 [
   {
-    "id": 1816821,
-    "lat": 39.86840834,
-    "lng": -84.1217646961364,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-13T11:17:00",
-    "estimate_time": "2026-10-13T14:00:00"
-  },
-  {
     "id": 1816828,
-    "lat": 39.70570552,
-    "lng": -83.8943709632378,
+    "lat": 39.70277742,
+    "lng": -83.8982469651274,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1816835,
-    "lat": 39.66291133,
-    "lng": -84.1492661214219,
+    "lat": 39.65998323,
+    "lng": -84.1531395366499,
     "customers_affected": 51,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,18 +21,18 @@
   },
   {
     "id": 1816841,
-    "lat": 39.78937712,
-    "lng": -84.2293233628357,
-    "customers_affected": 2,
+    "lat": 39.78644902,
+    "lng": -84.2332044388445,
+    "customers_affected": 3,
     "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-10-13T12:17:00",
+    "outage_time": "2026-10-13T12:07:00",
     "estimate_time": "2026-10-13T15:00:00"
   },
   {
     "id": 1816843,
-    "lat": 39.80264905,
-    "lng": -84.3491275055374,
+    "lat": 39.79972095,
+    "lng": -84.35300938843,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1816844,
-    "lat": 40.2767484,
-    "lng": -83.1953953232314,
+    "lat": 40.2738203,
+    "lng": -83.1993063984354,
     "customers_affected": 1,
     "county": "DELAWARE",
     "indicator": "D",
@@ -61,12 +51,22 @@
   },
   {
     "id": 1816847,
-    "lat": 39.84030248,
-    "lng": -84.1745051709876,
-    "customers_affected": 1,
+    "lat": 39.83737438,
+    "lng": -84.1783893461026,
+    "customers_affected": 2,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-13T12:40:00",
+    "estimate_time": "2026-10-13T15:00:00"
+  },
+  {
+    "id": 1816849,
+    "lat": 39.62519376,
+    "lng": -84.21352619214,
+    "customers_affected": 9,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-13T12:49:00",
     "estimate_time": null
   }
 ]
