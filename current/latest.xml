@@ -1,19 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.54554575</LAT>
-    <LNG>-83.4167426120965</LNG>
-    <TOTALCUSTS>6</TOTALCUSTS>
-    <INCIDENTID>1816750</INCIDENTID>
+    <LAT>40.516317</LAT>
+    <LNG>-83.7394491088854</LNG>
+    <TOTALCUSTS>7</TOTALCUSTS>
+    <INCIDENTID>1816780</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
+    <COUNTY>LOGAN</COUNTY>
     <total>76</total>
-    <OutageTime>10/13/2026 08:37 AM</OutageTime>
-    <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
+    <OutageTime>10/13/2026 09:41 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.03382625</LAT>
-    <LNG>-84.3271938425911</LNG>
+    <LAT>40.03255355</LAT>
+    <LNG>-84.3288873162458</LNG>
     <TOTALCUSTS>61</TOTALCUSTS>
     <INCIDENTID>1816745</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +23,8 @@
     <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64653376</LAT>
-    <LNG>-84.2295608652026</LNG>
+    <LAT>39.64526106</LAT>
+    <LNG>-84.231244079597</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816773</INCIDENTID>
     <IND>D</IND>
@@ -34,19 +34,8 @@
     <EstimateTime>10/13/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78482559</LAT>
-    <LNG>-84.1824980976441</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1816767</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>76</total>
-    <OutageTime>10/13/2026 09:04 AM</OutageTime>
-    <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.30703338</LAT>
-    <LNG>-84.1419584699117</LNG>
+    <LAT>40.30576068</LAT>
+    <LNG>-84.1436593062588</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1816765</INCIDENTID>
     <IND>D</IND>
@@ -56,8 +45,8 @@
     <EstimateTime>10/13/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.22219148</LAT>
-    <LNG>-83.3056481837771</LNG>
+    <LAT>40.22091878</LAT>
+    <LNG>-83.3073467224651</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1816771</INCIDENTID>
     <IND>D</IND>
@@ -100,7 +89,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>6</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -116,7 +105,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>7</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -132,7 +121,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -166,6 +155,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>76</TotalOut>
-    <Outageat>10/13/2026 9:35:32 AM</Outageat>
+    <Outageat>10/13/2026 9:50:32 AM</Outageat>
   </Message>
 </Incidents>
