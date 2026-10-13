@@ -1,68 +1,68 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.11257345</LAT>
-    <LNG>-84.6056740520467</LNG>
-    <TOTALCUSTS>6</TOTALCUSTS>
-    <INCIDENTID>1816789</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>235</total>
-    <OutageTime>10/13/2026 09:52 AM</OutageTime>
-    <EstimateTime>10/13/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.71846672</LAT>
-    <LNG>-83.8729976057366</LNG>
+    <LAT>39.72170632</LAT>
+    <LNG>-83.8687081438314</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816791</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>235</total>
+    <total>230</total>
     <OutageTime>10/13/2026 10:04 AM</OutageTime>
     <EstimateTime>10/13/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.97459014</LAT>
-    <LNG>-84.2730742304723</LNG>
+    <LAT>39.97782974</LAT>
+    <LNG>-84.2687674916626</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816795</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>235</total>
+    <total>230</total>
     <OutageTime>10/13/2026 10:18 AM</OutageTime>
     <EstimateTime>10/13/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8534543</LAT>
-    <LNG>-84.1154529163086</LNG>
+    <LAT>39.86769634</LAT>
+    <LNG>-84.1227095931676</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1816821</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>230</total>
+    <OutageTime>10/13/2026 11:17 AM</OutageTime>
+    <EstimateTime>10/13/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.8566939</LAT>
+    <LNG>-84.1111543774645</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816802</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>235</total>
+    <total>230</total>
     <OutageTime>10/13/2026 10:35 AM</OutageTime>
     <EstimateTime>10/13/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75810864</LAT>
-    <LNG>-84.1385885250419</LNG>
+    <LAT>39.76134824</LAT>
+    <LNG>-84.1342964041098</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1816815</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>235</total>
+    <total>230</total>
     <OutageTime>10/13/2026 11:02 AM</OutageTime>
     <EstimateTime>10/13/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83764187</LAT>
-    <LNG>-84.1858479590014</LNG>
+    <LAT>39.84088147</LAT>
+    <LNG>-84.1815504867274</LNG>
     <TOTALCUSTS>225</TOTALCUSTS>
     <INCIDENTID>1816777</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>235</total>
+    <total>230</total>
     <OutageTime>10/13/2026 10:14 AM</OutageTime>
     <EstimateTime>10/13/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -92,7 +92,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>6</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -132,7 +132,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>227</TotOut>
+    <TotOut>228</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -165,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>235</TotalOut>
-    <Outageat>10/13/2026 11:20:33 AM</Outageat>
+    <TotalOut>230</TotalOut>
+    <Outageat>10/13/2026 11:35:32 AM</Outageat>
   </Message>
 </Incidents>
