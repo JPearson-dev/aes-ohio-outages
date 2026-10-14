@@ -1,27 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
-  <Markers>
-    <LAT>39.78675139</LAT>
-    <LNG>-83.9999637790484</LNG>
-    <TOTALCUSTS>40</TOTALCUSTS>
-    <INCIDENTID>1817134</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>41</total>
-    <OutageTime>10/14/2026 04:13 PM</OutageTime>
-    <EstimateTime>10/14/2026 09:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.63139943</LAT>
-    <LNG>-84.3348228093574</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1817140</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>41</total>
-    <OutageTime>10/14/2026 05:40 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -60,7 +38,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>40</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -88,7 +66,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -121,7 +99,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>41</TotalOut>
-    <Outageat>10/14/2026 7:05:31 PM</Outageat>
+    <TotalOut>0</TotalOut>
+    <Outageat>10/14/2026 7:20:32 PM</Outageat>
   </Message>
 </Incidents>
