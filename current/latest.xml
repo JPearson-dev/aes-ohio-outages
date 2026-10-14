@@ -1,57 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.40377918</LAT>
-    <LNG>-83.975753947082</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1817128</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>44</total>
-    <OutageTime>10/14/2026 03:30 PM</OutageTime>
-    <EstimateTime>10/14/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.60378645</LAT>
-    <LNG>-83.3717457119385</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1817124</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>44</total>
-    <OutageTime>10/14/2026 03:00 PM</OutageTime>
-    <EstimateTime>10/14/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78672469</LAT>
-    <LNG>-83.9999991695883</LNG>
+    <LAT>39.78706289</LAT>
+    <LNG>-83.9995508894163</LNG>
     <TOTALCUSTS>40</TOTALCUSTS>
     <INCIDENTID>1817134</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>44</total>
+    <total>42</total>
     <OutageTime>10/14/2026 04:13 PM</OutageTime>
     <EstimateTime>10/14/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.91388302</LAT>
-    <LNG>-84.3888521554022</LNG>
+    <LAT>39.91422122</LAT>
+    <LNG>-84.3884029795994</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817122</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>44</total>
+    <total>42</total>
     <OutageTime>10/14/2026 02:58 PM</OutageTime>
     <EstimateTime>10/14/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2492151259142</LAT>
-    <LNG>-83.3522796305175</LNG>
+    <LAT>40.2495533259142</LAT>
+    <LNG>-83.3518280641794</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817126</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>44</total>
+    <total>42</total>
     <OutageTime>10/14/2026 03:14 PM</OutageTime>
     <EstimateTime>10/14/2026 05:00 PM</EstimateTime>
   </Markers>
@@ -77,7 +55,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -89,7 +67,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -154,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>44</TotalOut>
-    <Outageat>10/14/2026 5:05:31 PM</Outageat>
+    <TotalOut>42</TotalOut>
+    <Outageat>10/14/2026 5:20:31 PM</Outageat>
   </Message>
 </Incidents>
