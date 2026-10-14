@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.73779301</LAT>
-    <LNG>-83.6772839360994</LNG>
+    <LAT>39.74090801</LAT>
+    <LNG>-83.6731581904624</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817100</INCIDENTID>
     <IND>D</IND>
@@ -12,19 +12,8 @@
     <EstimateTime>10/14/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.1403835</LAT>
-    <LNG>-84.3617573621</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1817074</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>113</total>
-    <OutageTime>10/14/2026 11:14 AM</OutageTime>
-    <EstimateTime>10/14/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76501977</LAT>
-    <LNG>-84.2100637002893</LNG>
+    <LAT>39.76813477</LAT>
+    <LNG>-84.205936197405</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1817066</INCIDENTID>
     <IND>D</IND>
@@ -34,8 +23,19 @@
     <EstimateTime>10/14/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.63654954</LAT>
-    <LNG>-84.1124624165599</LNG>
+    <LAT>39.76312464</LAT>
+    <LNG>-84.2301854399922</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817105</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>113</total>
+    <OutageTime>10/14/2026 01:02 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.63966454</LAT>
+    <LNG>-84.1083431835211</LNG>
     <TOTALCUSTS>104</TOTALCUSTS>
     <INCIDENTID>1817061</INCIDENTID>
     <IND>D</IND>
@@ -45,8 +45,8 @@
     <EstimateTime>10/14/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75582284</LAT>
-    <LNG>-84.372354185513</LNG>
+    <LAT>39.75893784</LAT>
+    <LNG>-84.3682272764877</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817076</INCIDENTID>
     <IND>D</IND>
@@ -117,11 +117,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>111</TotOut>
+    <TotOut>112</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -155,6 +155,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>113</TotalOut>
-    <Outageat>10/14/2026 1:05:41 PM</Outageat>
+    <Outageat>10/14/2026 1:21:19 PM</Outageat>
   </Message>
 </Incidents>
