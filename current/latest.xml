@@ -1,5 +1,71 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
+  <Markers>
+    <LAT>39.45836713</LAT>
+    <LNG>-83.3258970511129</LNG>
+    <TOTALCUSTS>51</TOTALCUSTS>
+    <INCIDENTID>1817073</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>336</total>
+    <OutageTime>10/14/2026 11:04 AM</OutageTime>
+    <EstimateTime>10/14/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.73829378</LAT>
+    <LNG>-84.0326518083896</LNG>
+    <TOTALCUSTS>174</TOTALCUSTS>
+    <INCIDENTID>1817077</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>336</total>
+    <OutageTime>10/14/2026 11:09 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.74650364</LAT>
+    <LNG>-84.0405140559511</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817075</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>336</total>
+    <OutageTime>10/14/2026 11:15 AM</OutageTime>
+    <EstimateTime>10/14/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.1445131</LAT>
+    <LNG>-84.3562530164825</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817074</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>336</total>
+    <OutageTime>10/14/2026 11:14 AM</OutageTime>
+    <EstimateTime>10/14/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.76914937</LAT>
+    <LNG>-84.2045918107512</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
+    <INCIDENTID>1817066</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>336</total>
+    <OutageTime>10/14/2026 11:11 AM</OutageTime>
+    <EstimateTime>10/14/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.64067914</LAT>
+    <LNG>-84.1070014904742</LNG>
+    <TOTALCUSTS>104</TOTALCUSTS>
+    <INCIDENTID>1817061</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>336</total>
+    <OutageTime>10/14/2026 11:00 AM</OutageTime>
+    <EstimateTime>10/14/2026 01:00 PM</EstimateTime>
+  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -34,11 +100,11 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>51</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>175</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -62,11 +128,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>109</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -99,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>0</TotalOut>
-    <Outageat>10/14/2026 11:05:39 AM</Outageat>
+    <TotalOut>336</TotalOut>
+    <Outageat>10/14/2026 11:22:08 AM</Outageat>
   </Message>
 </Incidents>
