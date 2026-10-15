@@ -1,37 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.30185014</LAT>
-    <LNG>-83.5691456196196</LNG>
+    <LAT>40.30441334</LAT>
+    <LNG>-83.5657203727444</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817158</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>17</total>
+    <total>7</total>
     <OutageTime>10/15/2026 08:55 AM</OutageTime>
     <EstimateTime>10/15/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75731596</LAT>
-    <LNG>-84.1222931386227</LNG>
+    <LAT>39.75987916</LAT>
+    <LNG>-84.1188972329944</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1817184</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>17</total>
+    <total>7</total>
     <OutageTime>10/15/2026 10:26 AM</OutageTime>
     <EstimateTime>10/15/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.30516834</LAT>
-    <LNG>-84.1395195864417</LNG>
-    <TOTALCUSTS>10</TOTALCUSTS>
-    <INCIDENTID>1817165</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>17</total>
-    <OutageTime>10/15/2026 09:55 AM</OutageTime>
-    <EstimateTime>10/15/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -115,7 +104,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>10</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>17</TotalOut>
-    <Outageat>10/15/2026 10:50:31 AM</Outageat>
+    <TotalOut>7</TotalOut>
+    <Outageat>10/15/2026 11:05:31 AM</Outageat>
   </Message>
 </Incidents>
