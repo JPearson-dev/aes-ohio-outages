@@ -1,59 +1,103 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.80303701</LAT>
-    <LNG>-84.013423790591</LNG>
-    <TOTALCUSTS>61</TOTALCUSTS>
-    <INCIDENTID>1817273</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>83</total>
-    <OutageTime>10/16/2026 04:47 AM</OutageTime>
-    <EstimateTime>10/16/2026 09:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.8251515</LAT>
-    <LNG>-84.0217509779369</LNG>
+    <LAT>39.8267535</LAT>
+    <LNG>-84.0196262646646</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>299171</INCIDENTID>
     <IND>T</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>83</total>
+    <total>166</total>
     <OutageTime>10/16/2026 01:54 AM</OutageTime>
     <EstimateTime>10/16/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.61216946</LAT>
-    <LNG>-84.4797070115336</LNG>
+    <LAT>39.80463901</LAT>
+    <LNG>-84.01129981375</LNG>
+    <TOTALCUSTS>61</TOTALCUSTS>
+    <INCIDENTID>1817273</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>166</total>
+    <OutageTime>10/16/2026 04:47 AM</OutageTime>
+    <EstimateTime>10/16/2026 09:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.51693695</LAT>
+    <LNG>-83.732577641595</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1817302</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>166</total>
+    <OutageTime>10/16/2026 08:21 AM</OutageTime>
+    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.61377146</LAT>
+    <LNG>-84.477555529441</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817289</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>83</total>
+    <total>166</total>
     <OutageTime>10/16/2026 07:40 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.08680896</LAT>
-    <LNG>-84.2131479393278</LNG>
-    <TOTALCUSTS>10</TOTALCUSTS>
-    <INCIDENTID>1817297</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>83</total>
-    <OutageTime>10/16/2026 07:09 AM</OutageTime>
-    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.0675239</LAT>
-    <LNG>-84.2017699506213</LNG>
+    <LAT>40.0691259</LAT>
+    <LNG>-84.1996371103374</LNG>
     <TOTALCUSTS>10</TOTALCUSTS>
     <INCIDENTID>1817285</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>83</total>
+    <total>166</total>
     <OutageTime>10/16/2026 07:21 AM</OutageTime>
     <EstimateTime>10/16/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.08841096</LAT>
+    <LNG>-84.2110144479771</LNG>
+    <TOTALCUSTS>10</TOTALCUSTS>
+    <INCIDENTID>1817297</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>166</total>
+    <OutageTime>10/16/2026 07:09 AM</OutageTime>
+    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.2977425</LAT>
+    <LNG>-84.1830207897235</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817299</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>166</total>
+    <OutageTime>10/16/2026 08:16 AM</OutageTime>
+    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.25593319</LAT>
+    <LNG>-83.3239510677694</LNG>
+    <TOTALCUSTS>44</TOTALCUSTS>
+    <INCIDENTID>1817308</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>166</total>
+    <OutageTime>10/16/2026 08:18 AM</OutageTime>
+    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.25492737</LAT>
+    <LNG>-83.3237848452908</LNG>
+    <TOTALCUSTS>35</TOTALCUSTS>
+    <INCIDENTID>1817307</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>166</total>
+    <OutageTime>10/16/2026 08:18 AM</OutageTime>
+    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -105,7 +149,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -137,11 +181,11 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>0</TotOut>
+    <TotOut>79</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -154,7 +198,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>83</TotalOut>
-    <Outageat>10/16/2026 8:20:31 AM</Outageat>
+    <TotalOut>166</TotalOut>
+    <Outageat>10/16/2026 8:35:31 AM</Outageat>
   </Message>
 </Incidents>

@@ -1,8 +1,8 @@
 [
   {
     "id": 299171,
-    "lat": 39.8251515,
-    "lng": -84.0217509779369,
+    "lat": 39.8267535,
+    "lng": -84.0196262646646,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "T",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1817273,
-    "lat": 39.80303701,
-    "lng": -84.013423790591,
+    "lat": 39.80463901,
+    "lng": -84.01129981375,
     "customers_affected": 61,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1817285,
-    "lat": 40.0675239,
-    "lng": -84.2017699506213,
+    "lat": 40.0691259,
+    "lng": -84.1996371103374,
     "customers_affected": 10,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1817289,
-    "lat": 40.61216946,
-    "lng": -84.4797070115336,
+    "lat": 40.61377146,
+    "lng": -84.477555529441,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -41,12 +41,52 @@
   },
   {
     "id": 1817297,
-    "lat": 40.08680896,
-    "lng": -84.2131479393278,
+    "lat": 40.08841096,
+    "lng": -84.2110144479771,
     "customers_affected": 10,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-10-16T07:09:00",
+    "estimate_time": "2026-10-16T11:00:00"
+  },
+  {
+    "id": 1817299,
+    "lat": 40.2977425,
+    "lng": -84.1830207897235,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-10-16T08:16:00",
+    "estimate_time": "2026-10-16T11:00:00"
+  },
+  {
+    "id": 1817302,
+    "lat": 40.51693695,
+    "lng": -83.732577641595,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-10-16T08:21:00",
+    "estimate_time": "2026-10-16T11:00:00"
+  },
+  {
+    "id": 1817307,
+    "lat": 40.25492737,
+    "lng": -83.3237848452908,
+    "customers_affected": 35,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-10-16T08:18:00",
+    "estimate_time": "2026-10-16T11:00:00"
+  },
+  {
+    "id": 1817308,
+    "lat": 40.25593319,
+    "lng": -83.3239510677694,
+    "customers_affected": 44,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-10-16T08:18:00",
     "estimate_time": "2026-10-16T11:00:00"
   }
 ]
