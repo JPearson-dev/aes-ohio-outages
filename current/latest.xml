@@ -1,68 +1,79 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.46679103</LAT>
-    <LNG>-83.8349495626904</LNG>
+    <LAT>39.46483303</LAT>
+    <LNG>-83.8375318111725</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817379</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>11</total>
+    <total>17</total>
     <OutageTime>10/16/2026 01:59 PM</OutageTime>
     <EstimateTime>10/16/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.42781263</LAT>
-    <LNG>-83.7449480703534</LNG>
+    <LAT>39.46788594</LAT>
+    <LNG>-83.8096911140046</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817384</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>17</total>
+    <OutageTime>10/16/2026 02:22 PM</OutageTime>
+    <EstimateTime>10/16/2026 05:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.42585463</LAT>
+    <LNG>-83.7475287626502</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817381</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>11</total>
+    <total>17</total>
     <OutageTime>10/16/2026 02:10 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/16/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8292633</LAT>
-    <LNG>-84.0162975472048</LNG>
+    <LAT>39.8273053</LAT>
+    <LNG>-84.018894418982</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>299171</INCIDENTID>
     <IND>T</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>11</total>
+    <total>17</total>
     <OutageTime>10/16/2026 01:54 AM</OutageTime>
     <EstimateTime>10/16/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79722539</LAT>
-    <LNG>-84.2435760893676</LNG>
+    <LAT>39.79526739</LAT>
+    <LNG>-84.2461716575052</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817361</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>11</total>
+    <total>17</total>
     <OutageTime>10/16/2026 12:03 PM</OutageTime>
     <EstimateTime>10/16/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.85658965</LAT>
-    <LNG>-84.2567330306166</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
+    <LAT>39.85463165</LAT>
+    <LNG>-84.2593310160359</LNG>
+    <TOTALCUSTS>7</TOTALCUSTS>
     <INCIDENTID>1817382</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>11</total>
-    <OutageTime>10/16/2026 02:14 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <total>17</total>
+    <OutageTime>10/16/2026 02:12 PM</OutageTime>
+    <EstimateTime>10/16/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76069885</LAT>
-    <LNG>-84.098391229965</LNG>
+    <LAT>39.75874085</LAT>
+    <LNG>-84.1009853144658</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1817344</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>11</total>
+    <total>17</total>
     <OutageTime>10/16/2026 10:46 AM</OutageTime>
     <EstimateTime>10/16/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -88,7 +99,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>2</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -132,7 +143,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>8</TotOut>
+    <TotOut>13</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -165,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>11</TotalOut>
-    <Outageat>10/16/2026 2:20:31 PM</Outageat>
+    <TotalOut>17</TotalOut>
+    <Outageat>10/16/2026 2:35:32 PM</Outageat>
   </Message>
 </Incidents>
