@@ -1,57 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.42509813</LAT>
-    <LNG>-83.7485258483102</LNG>
+    <LAT>39.42469763</LAT>
+    <LNG>-83.7490537171891</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817381</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>137</total>
+    <total>135</total>
     <OutageTime>10/16/2026 02:10 PM</OutageTime>
     <EstimateTime>10/16/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.46712944</LAT>
-    <LNG>-83.8106888480615</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1817384</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>137</total>
-    <OutageTime>10/16/2026 02:22 PM</OutageTime>
-    <EstimateTime>10/16/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.8265488</LAT>
-    <LNG>-84.019897755805</LNG>
+    <LAT>39.8261483</LAT>
+    <LNG>-84.0204289341231</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>299171</INCIDENTID>
     <IND>T</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>137</total>
+    <total>135</total>
     <OutageTime>10/16/2026 01:54 AM</OutageTime>
     <EstimateTime>10/16/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76729227</LAT>
-    <LNG>-84.0754228717323</LNG>
+    <LAT>39.76689177</LAT>
+    <LNG>-84.0759535572033</LNG>
     <TOTALCUSTS>132</TOTALCUSTS>
     <INCIDENTID>1817398</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>137</total>
+    <total>135</total>
     <OutageTime>10/16/2026 04:00 PM</OutageTime>
     <EstimateTime>10/16/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76083962</LAT>
-    <LNG>-84.1623991470943</LNG>
+    <LAT>39.76043912</LAT>
+    <LNG>-84.1629297789891</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817401</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>137</total>
+    <total>135</total>
     <OutageTime>10/16/2026 04:40 PM</OutageTime>
     <EstimateTime>10/16/2026 07:00 PM</EstimateTime>
   </Markers>
@@ -77,7 +66,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>3</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>137</TotalOut>
-    <Outageat>10/16/2026 5:05:31 PM</Outageat>
+    <TotalOut>135</TotalOut>
+    <Outageat>10/16/2026 5:20:31 PM</Outageat>
   </Message>
 </Incidents>
