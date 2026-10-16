@@ -1,8 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.8258101</LAT>
-    <LNG>-84.0208774847028</LNG>
+    <LAT>39.80512851</LAT>
+    <LNG>-84.0106508208263</LNG>
+    <TOTALCUSTS>61</TOTALCUSTS>
+    <INCIDENTID>1817273</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>105</total>
+    <OutageTime>10/16/2026 04:47 AM</OutageTime>
+    <EstimateTime>10/16/2026 09:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.827243</LAT>
+    <LNG>-84.0189770467204</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>299171</INCIDENTID>
     <IND>T</IND>
@@ -12,19 +23,8 @@
     <EstimateTime>10/16/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80369561</LAT>
-    <LNG>-84.0125506001119</LNG>
-    <TOTALCUSTS>61</TOTALCUSTS>
-    <INCIDENTID>1817273</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>105</total>
-    <OutageTime>10/16/2026 04:47 AM</OutageTime>
-    <EstimateTime>10/16/2026 07:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.14798069</LAT>
-    <LNG>-84.3992291018403</LNG>
+    <LAT>40.14941359</LAT>
+    <LNG>-84.3973189812584</LNG>
     <TOTALCUSTS>35</TOTALCUSTS>
     <INCIDENTID>1817279</INCIDENTID>
     <IND>D</IND>
@@ -34,8 +34,41 @@
     <EstimateTime>10/16/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.73543291</LAT>
-    <LNG>-84.1801225507282</LNG>
+    <LAT>40.0696154</LAT>
+    <LNG>-84.1989854091396</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1817285</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>105</total>
+    <OutageTime>10/16/2026 07:21 AM</OutageTime>
+    <EstimateTime>10/16/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.08212865</LAT>
+    <LNG>-84.202170575981</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817288</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>105</total>
+    <OutageTime>10/16/2026 07:24 AM</OutageTime>
+    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.08879583</LAT>
+    <LNG>-84.2174550123844</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1817284</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>105</total>
+    <OutageTime>10/16/2026 07:20 AM</OutageTime>
+    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.73686581</LAT>
+    <LNG>-84.1782247999268</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817281</INCIDENTID>
     <IND>D</IND>
@@ -45,15 +78,15 @@
     <EstimateTime>10/16/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.29857888</LAT>
-    <LNG>-84.1624464179858</LNG>
-    <TOTALCUSTS>7</TOTALCUSTS>
-    <INCIDENTID>1817280</INCIDENTID>
+    <LAT>39.9203074</LAT>
+    <LNG>-84.6611484704214</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817283</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
+    <COUNTY>PREBLE</COUNTY>
     <total>105</total>
-    <OutageTime>10/16/2026 06:12 AM</OutageTime>
-    <EstimateTime>10/16/2026 09:00 AM</EstimateTime>
+    <OutageTime>10/16/2026 07:16 AM</OutageTime>
+    <EstimateTime>10/16/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -117,7 +150,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>35</TotOut>
+    <TotOut>41</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -129,7 +162,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -137,7 +170,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>7</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -155,6 +188,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>105</TotalOut>
-    <Outageat>10/16/2026 7:20:32 AM</Outageat>
+    <Outageat>10/16/2026 7:35:31 AM</Outageat>
   </Message>
 </Incidents>

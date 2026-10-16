@@ -1,8 +1,8 @@
 [
   {
     "id": 299171,
-    "lat": 39.8258101,
-    "lng": -84.0208774847028,
+    "lat": 39.827243,
+    "lng": -84.0189770467204,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "T",
@@ -11,18 +11,18 @@
   },
   {
     "id": 1817273,
-    "lat": 39.80369561,
-    "lng": -84.0125506001119,
+    "lat": 39.80512851,
+    "lng": -84.0106508208263,
     "customers_affected": 61,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-16T04:47:00",
-    "estimate_time": "2026-10-16T07:00:00"
+    "estimate_time": "2026-10-16T09:00:00"
   },
   {
     "id": 1817279,
-    "lat": 40.14798069,
-    "lng": -84.3992291018403,
+    "lat": 40.14941359,
+    "lng": -84.3973189812584,
     "customers_affected": 35,
     "county": "MIAMI",
     "indicator": "D",
@@ -30,23 +30,53 @@
     "estimate_time": "2026-10-16T09:00:00"
   },
   {
-    "id": 1817280,
-    "lat": 40.29857888,
-    "lng": -84.1624464179858,
-    "customers_affected": 7,
-    "county": "SHELBY",
-    "indicator": "D",
-    "outage_time": "2026-10-16T06:12:00",
-    "estimate_time": "2026-10-16T09:00:00"
-  },
-  {
     "id": 1817281,
-    "lat": 39.73543291,
-    "lng": -84.1801225507282,
+    "lat": 39.73686581,
+    "lng": -84.1782247999268,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-16T07:06:00",
     "estimate_time": "2026-10-16T10:00:00"
+  },
+  {
+    "id": 1817283,
+    "lat": 39.9203074,
+    "lng": -84.6611484704214,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-10-16T07:16:00",
+    "estimate_time": "2026-10-16T11:00:00"
+  },
+  {
+    "id": 1817284,
+    "lat": 40.08879583,
+    "lng": -84.2174550123844,
+    "customers_affected": 2,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-10-16T07:20:00",
+    "estimate_time": "2026-10-16T11:00:00"
+  },
+  {
+    "id": 1817285,
+    "lat": 40.0696154,
+    "lng": -84.1989854091396,
+    "customers_affected": 3,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-10-16T07:21:00",
+    "estimate_time": "2026-10-16T12:00:00"
+  },
+  {
+    "id": 1817288,
+    "lat": 40.08212865,
+    "lng": -84.202170575981,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-10-16T07:24:00",
+    "estimate_time": "2026-10-16T11:00:00"
   }
 ]
