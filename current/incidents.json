@@ -1,8 +1,8 @@
 [
   {
     "id": 299171,
-    "lat": 39.8286937,
-    "lng": -84.0170530008127,
+    "lat": 39.826887,
+    "lng": -84.0194492052253,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "T",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1817273,
-    "lat": 39.80657921,
-    "lng": -84.0087274417981,
+    "lat": 39.80477251,
+    "lng": -84.0111228156799,
     "customers_affected": 61,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1817285,
-    "lat": 40.0710661,
-    "lng": -84.1970540037714,
+    "lat": 40.0692594,
+    "lng": -84.1994593736471,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1817289,
-    "lat": 40.61571166,
-    "lng": -84.4749498455733,
+    "lat": 40.61390496,
+    "lng": -84.4773762392666,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -40,29 +40,9 @@
     "estimate_time": null
   },
   {
-    "id": 1817299,
-    "lat": 40.2996827,
-    "lng": -84.1804282844178,
-    "customers_affected": 2,
-    "county": "SHELBY",
-    "indicator": "D",
-    "outage_time": "2026-10-16T08:16:00",
-    "estimate_time": "2026-10-16T11:00:00"
-  },
-  {
-    "id": 1817307,
-    "lat": 40.25686757,
-    "lng": -83.3211941087162,
-    "customers_affected": 35,
-    "county": "UNION",
-    "indicator": "D",
-    "outage_time": "2026-10-16T08:18:00",
-    "estimate_time": "2026-10-16T11:00:00"
-  },
-  {
     "id": 1817308,
-    "lat": 40.25787339,
-    "lng": -83.3213602896889,
+    "lat": 40.25606669,
+    "lng": -83.3237728032226,
     "customers_affected": 44,
     "county": "UNION",
     "indicator": "D",
@@ -70,29 +50,9 @@
     "estimate_time": "2026-10-16T11:00:00"
   },
   {
-    "id": 1817310,
-    "lat": 40.25401043,
-    "lng": -83.3206660928404,
-    "customers_affected": 1,
-    "county": "UNION",
-    "indicator": "D",
-    "outage_time": "2026-10-16T08:33:00",
-    "estimate_time": "2026-10-16T11:00:00"
-  },
-  {
-    "id": 1817311,
-    "lat": 39.850854,
-    "lng": -84.2567434711765,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-16T08:37:00",
-    "estimate_time": "2026-10-16T12:00:00"
-  },
-  {
     "id": 1817315,
-    "lat": 40.1449542,
-    "lng": -83.969794894244,
+    "lat": 40.1431475,
+    "lng": -83.9722030813413,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -100,13 +60,33 @@
     "estimate_time": "2026-10-16T12:00:00"
   },
   {
-    "id": 1817317,
-    "lat": 39.70122071,
-    "lng": -84.19371841263,
+    "id": 1817322,
+    "lat": 40.25220373,
+    "lng": -83.3230784579454,
+    "customers_affected": 37,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-10-16T08:18:00",
+    "estimate_time": "2026-10-16T11:00:00"
+  },
+  {
+    "id": 1817324,
+    "lat": 39.80907229,
+    "lng": -84.1439362235956,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-10-16T08:52:00",
+    "outage_time": "2026-10-16T09:29:00",
+    "estimate_time": "2026-10-16T12:00:00"
+  },
+  {
+    "id": 1817325,
+    "lat": 39.75977441,
+    "lng": -84.1384685911968,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-16T09:29:00",
     "estimate_time": "2026-10-16T12:00:00"
   }
 ]
