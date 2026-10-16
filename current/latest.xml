@@ -1,26 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.450657153102</LAT>
-    <LNG>-84.4835837925957</LNG>
+    <LAT>40.448521153102</LAT>
+    <LNG>-84.4864447986243</LNG>
     <TOTALCUSTS>517</TOTALCUSTS>
     <INCIDENTID>299170</INCIDENTID>
     <IND>T</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>518</total>
+    <total>517</total>
     <OutageTime>10/15/2026 11:17 PM</OutageTime>
     <EstimateTime>10/16/2026 01:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.84185377</LAT>
-    <LNG>-84.25112901296</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1817238</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>518</total>
-    <OutageTime>10/15/2026 03:54 PM</OutageTime>
-    <EstimateTime>10/16/2026 02:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -88,7 +77,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -121,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>518</TotalOut>
-    <Outageat>10/16/2026 12:05:31 AM</Outageat>
+    <TotalOut>517</TotalOut>
+    <Outageat>10/16/2026 12:20:31 AM</Outageat>
   </Message>
 </Incidents>
