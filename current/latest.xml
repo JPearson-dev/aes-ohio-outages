@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.42765243</LAT>
-    <LNG>-83.745159217905</LNG>
+    <LAT>39.42484893</LAT>
+    <LNG>-83.7488543000571</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817381</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,8 @@
     <EstimateTime>10/16/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.11970162</LAT>
-    <LNG>-84.543219717794</LNG>
+    <LAT>40.11689812</LAT>
+    <LNG>-84.5469550396548</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817404</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +23,19 @@
     <EstimateTime>10/16/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76984657</LAT>
-    <LNG>-84.0720382777282</LNG>
+    <LAT>39.73620818</LAT>
+    <LNG>-84.0628057705316</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817405</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>148</total>
+    <OutageTime>10/16/2026 05:35 PM</OutageTime>
+    <EstimateTime>10/16/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.76704307</LAT>
+    <LNG>-84.0757530760254</LNG>
     <TOTALCUSTS>132</TOTALCUSTS>
     <INCIDENTID>1817398</INCIDENTID>
     <IND>D</IND>
@@ -34,19 +45,8 @@
     <EstimateTime>10/16/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8291031</LAT>
-    <LNG>-84.016510018532</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>299171</INCIDENTID>
-    <IND>T</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>148</total>
-    <OutageTime>10/16/2026 01:54 AM</OutageTime>
-    <EstimateTime>10/16/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.85349033</LAT>
-    <LNG>-84.4062107379178</LNG>
+    <LAT>39.85068683</LAT>
+    <LNG>-84.4099304090665</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1817403</INCIDENTID>
     <IND>D</IND>
@@ -56,8 +56,8 @@
     <EstimateTime>10/16/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76339392</LAT>
-    <LNG>-84.1590148947872</LNG>
+    <LAT>39.76059042</LAT>
+    <LNG>-84.1627293180511</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817401</INCIDENTID>
     <IND>D</IND>
@@ -166,6 +166,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>148</TotalOut>
-    <Outageat>10/16/2026 5:35:31 PM</Outageat>
+    <Outageat>10/16/2026 5:50:34 PM</Outageat>
   </Message>
 </Incidents>
