@@ -1,8 +1,8 @@
 [
   {
     "id": 299171,
-    "lat": 39.8253206,
-    "lng": -84.0215267026471,
+    "lat": 39.828756,
+    "lng": -84.0169703730743,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "T",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1817273,
-    "lat": 39.80320611,
-    "lng": -84.0131995930355,
+    "lat": 39.80664151,
+    "lng": -84.0086448426987,
     "customers_affected": 61,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1817285,
-    "lat": 40.067693,
-    "lng": -84.2015448174802,
+    "lat": 40.0711284,
+    "lng": -84.1969710599826,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1817289,
-    "lat": 40.61233856,
-    "lng": -84.479479910646,
+    "lat": 40.61577396,
+    "lng": -84.4748661768253,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1817315,
-    "lat": 40.1415811,
-    "lng": -83.9742909676916,
+    "lat": 40.1450165,
+    "lng": -83.9697118533096,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -51,12 +51,22 @@
   },
   {
     "id": 1817333,
-    "lat": 39.49588174,
-    "lng": -83.6198247420145,
-    "customers_affected": 1,
+    "lat": 39.49931714,
+    "lng": -83.6152917513932,
+    "customers_affected": 2,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-10-16T10:09:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-16T13:00:00"
+  },
+  {
+    "id": 1817339,
+    "lat": 39.65854765,
+    "lng": -84.2244138162481,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-16T10:29:00",
+    "estimate_time": "2026-10-16T13:00:00"
   }
 ]
