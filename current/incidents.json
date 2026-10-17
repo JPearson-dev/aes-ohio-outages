@@ -1,38 +1,38 @@
 [
   {
     "id": 1817439,
-    "lat": 39.879133,
-    "lng": -84.294208449383,
+    "lat": 39.8782697,
+    "lng": -84.2953543292481,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-16T22:44:00",
-    "estimate_time": "2026-10-17T02:00:00"
+    "estimate_time": "2026-10-17T05:00:00"
   },
   {
     "id": 1817441,
-    "lat": 39.88619885,
-    "lng": -84.2812195929641,
+    "lat": 39.88533555,
+    "lng": -84.2823656000547,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-16T22:46:00",
-    "estimate_time": "2026-10-17T02:00:00"
+    "estimate_time": "2026-10-17T06:00:00"
   },
   {
     "id": 1817462,
-    "lat": 39.87091405,
-    "lng": -84.1922882925442,
+    "lat": 39.87005075,
+    "lng": -84.1934340244803,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-16T22:53:00",
-    "estimate_time": "2026-10-17T02:00:00"
+    "estimate_time": "2026-10-17T05:00:00"
   },
   {
     "id": 1817472,
-    "lat": 40.2188683,
-    "lng": -83.2963351573953,
+    "lat": 40.218005,
+    "lng": -83.2974872077408,
     "customers_affected": 124,
     "county": "UNION",
     "indicator": "D",
@@ -40,19 +40,9 @@
     "estimate_time": "2026-10-17T04:00:00"
   },
   {
-    "id": 1817473,
-    "lat": 40.55977674,
-    "lng": -84.6299393921393,
-    "customers_affected": 1,
-    "county": "MERCER",
-    "indicator": "D",
-    "outage_time": "2026-10-17T00:12:00",
-    "estimate_time": "2026-10-17T03:00:00"
-  },
-  {
     "id": 1817474,
-    "lat": 39.76672677,
-    "lng": -84.1395000477078,
+    "lat": 39.76586347,
+    "lng": -84.1406439098994,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1817476,
-    "lat": 39.76624634,
-    "lng": -84.1394059892536,
+    "lat": 39.76538304,
+    "lng": -84.1405498428469,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -71,12 +61,22 @@
   },
   {
     "id": 1817477,
-    "lat": 39.97250527,
-    "lng": -84.6540586503957,
+    "lat": 39.97164197,
+    "lng": -84.6552062152756,
     "customers_affected": 4,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-10-17T01:17:00",
+    "estimate_time": "2026-10-17T04:00:00"
+  },
+  {
+    "id": 1817482,
+    "lat": 39.71913661,
+    "lng": -84.0888571434689,
+    "customers_affected": 8,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-17T01:48:00",
     "estimate_time": "2026-10-17T04:00:00"
   }
 ]
