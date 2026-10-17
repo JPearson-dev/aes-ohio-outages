@@ -1,26 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.78234843</LAT>
-    <LNG>-84.0557803289562</LNG>
-    <TOTALCUSTS>121</TOTALCUSTS>
-    <INCIDENTID>1817535</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>201</total>
-    <OutageTime>10/17/2026 05:07 PM</OutageTime>
-    <EstimateTime>10/17/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.77303614</LAT>
-    <LNG>-84.0197845731578</LNG>
+    <LAT>39.77327644</LAT>
+    <LNG>-84.0194661381307</LNG>
     <TOTALCUSTS>80</TOTALCUSTS>
     <INCIDENTID>1817544</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>201</total>
+    <total>82</total>
     <OutageTime>10/17/2026 05:58 PM</OutageTime>
     <EstimateTime>10/17/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.94112619</LAT>
+    <LNG>-84.1637027538937</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1817545</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>82</total>
+    <OutageTime>10/17/2026 06:41 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -60,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>201</TotOut>
+    <TotOut>80</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -84,7 +84,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -121,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>201</TotalOut>
-    <Outageat>10/17/2026 6:35:32 PM</Outageat>
+    <TotalOut>82</TotalOut>
+    <Outageat>10/17/2026 6:50:32 PM</Outageat>
   </Message>
 </Incidents>
