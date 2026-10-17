@@ -1,9 +1,9 @@
 [
   {
     "id": 299175,
-    "lat": 39.8513788469495,
-    "lng": -84.1684773434231,
-    "customers_affected": 1818,
+    "lat": 39.8535682469495,
+    "lng": -84.1655724375984,
+    "customers_affected": 418,
     "county": "MONTGOMERY",
     "indicator": "T",
     "outage_time": "2026-10-16T22:42:00",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1817439,
-    "lat": 39.8763651,
-    "lng": -84.2978823528681,
+    "lat": 39.8785545,
+    "lng": -84.2949763070246,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1817441,
-    "lat": 39.88343095,
-    "lng": -84.2848939043578,
+    "lat": 39.88562035,
+    "lng": -84.2819875358599,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1817462,
-    "lat": 39.86814615,
-    "lng": -84.1959617217415,
+    "lat": 39.87033555,
+    "lng": -84.1930560510581,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1817472,
-    "lat": 40.2161004,
-    "lng": -83.3000288445854,
+    "lat": 40.2182898,
+    "lng": -83.2971071498948,
     "customers_affected": 124,
     "county": "UNION",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1817473,
-    "lat": 40.55700884,
-    "lng": -84.6336532870481,
+    "lat": 40.55919824,
+    "lng": -84.6307156081171,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -61,12 +61,32 @@
   },
   {
     "id": 1817474,
-    "lat": 39.76395887,
-    "lng": -84.1431674821572,
+    "lat": 39.76614827,
+    "lng": -84.1402665533001,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-17T00:39:00",
     "estimate_time": null
+  },
+  {
+    "id": 1817476,
+    "lat": 39.76566784,
+    "lng": -84.1401724890842,
+    "customers_affected": 5,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-17T01:12:00",
+    "estimate_time": "2026-10-17T05:00:00"
+  },
+  {
+    "id": 1817477,
+    "lat": 39.97192677,
+    "lng": -84.6548276371709,
+    "customers_affected": 4,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-17T01:17:00",
+    "estimate_time": "2026-10-17T05:00:00"
   }
 ]
