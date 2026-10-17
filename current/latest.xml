@@ -1,26 +1,70 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.54318173</LAT>
-    <LNG>-83.8674726922231</LNG>
+    <LAT>40.11795839</LAT>
+    <LNG>-83.7354011533582</LNG>
+    <TOTALCUSTS>20</TOTALCUSTS>
+    <INCIDENTID>1817500</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>33</total>
+    <OutageTime>10/17/2026 08:46 AM</OutageTime>
+    <EstimateTime>10/17/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.54168653</LAT>
+    <LNG>-83.8694469583806</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817491</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>11</total>
+    <total>33</total>
     <OutageTime>10/17/2026 08:37 AM</OutageTime>
+    <EstimateTime>10/17/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.78131147</LAT>
+    <LNG>-84.1323757885239</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
+    <INCIDENTID>1817497</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>33</total>
+    <OutageTime>10/17/2026 08:35 AM</OutageTime>
     <EstimateTime>10/17/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78221891</LAT>
-    <LNG>-84.1373572318797</LNG>
-    <TOTALCUSTS>10</TOTALCUSTS>
+    <LAT>39.77927946</LAT>
+    <LNG>-84.1345420865604</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817495</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>33</total>
+    <OutageTime>10/17/2026 08:46 AM</OutageTime>
+    <EstimateTime>10/17/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.78072371</LAT>
+    <LNG>-84.1393388681236</LNG>
+    <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1817492</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>11</total>
-    <OutageTime>10/17/2026 08:35 AM</OutageTime>
+    <total>33</total>
+    <OutageTime>10/17/2026 08:46 AM</OutageTime>
     <EstimateTime>10/17/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.35517402</LAT>
+    <LNG>-84.3590335612768</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817501</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>33</total>
+    <OutageTime>10/17/2026 08:50 AM</OutageTime>
+    <EstimateTime>10/17/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -36,7 +80,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>20</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -88,7 +132,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>10</TotOut>
+    <TotOut>11</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -104,7 +148,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -121,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>11</TotalOut>
-    <Outageat>10/17/2026 8:50:33 AM</Outageat>
+    <TotalOut>33</TotalOut>
+    <Outageat>10/17/2026 9:05:39 AM</Outageat>
   </Message>
 </Incidents>
