@@ -1,24 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77322304</LAT>
-    <LNG>-84.0195369014701</LNG>
-    <TOTALCUSTS>80</TOTALCUSTS>
-    <INCIDENTID>1817544</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>82</total>
-    <OutageTime>10/17/2026 05:58 PM</OutageTime>
-    <EstimateTime>10/17/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.94107279</LAT>
-    <LNG>-84.1637737039446</LNG>
+    <LAT>39.93845619</LAT>
+    <LNG>-84.167250256439</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1817545</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>82</total>
+    <total>2</total>
     <OutageTime>10/17/2026 06:41 PM</OutageTime>
     <EstimateTime>10/17/2026 09:00 PM</EstimateTime>
   </Markers>
@@ -60,7 +49,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>80</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -121,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>82</TotalOut>
-    <Outageat>10/17/2026 7:05:32 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>10/17/2026 7:20:32 PM</Outageat>
   </Message>
 </Incidents>
