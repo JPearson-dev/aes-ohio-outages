@@ -14,11 +14,17 @@ import json
 from pathlib import Path
 import shutil
 import sys
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 
 DEFAULT_URL = "https://myprofile.aes-ohio.com/DATA/DPLOMSDATA.xml"
 USER_AGENT = "Mozilla/5.0 (AES-Ohio-Outage-Tracker; +https://github.com/JPearson-dev/aes-ohio-outages)"
+# Seconds to wait before each retry. The upstream server returns 502 Bad
+# Gateway around 1:23am every Saturday (the 1:08 and 1:38 runs succeed), so
+# retries span ~8 minutes, short of the next 15-minute run.
+RETRY_DELAYS = (15, 45, 120, 300)
 
 
 def parse_datetime(dt_str, date_format="%m/%d/%Y %I:%M %p"):
@@ -79,11 +85,28 @@ def parse_int(val, default=None):
         return default
 
 
+def is_transient(err):
+    """True for errors worth retrying: 5xx/429 responses, connection problems, timeouts."""
+    if isinstance(err, urllib.error.HTTPError):
+        return err.code >= 500 or err.code == 429
+    return isinstance(err, (urllib.error.URLError, TimeoutError, ConnectionError))
+
+
 def fetch_xml(url):
-    """Fetches raw XML bytes from the given URL."""
+    """Fetches raw XML bytes from the given URL, retrying transient failures."""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read()
+    for attempt, delay in enumerate((*RETRY_DELAYS, None), start=1):
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = resp.read()
+            if attempt > 1:
+                print(f"Attempt {attempt} succeeded.", file=sys.stderr)
+            return data
+        except Exception as e:
+            if delay is None or not is_transient(e):
+                raise
+            print(f"Attempt {attempt} failed ({e}); retrying in {delay}s...", file=sys.stderr)
+            time.sleep(delay)
 
 
 def ensure_readme(out_path):

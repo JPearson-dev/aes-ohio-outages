@@ -10,6 +10,8 @@ This is the `main` branch, which hosts the code for collecting and making sense 
 
 ## Local Dev
 
+See [docs/local-dev.md](docs/local-dev.md).
+
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
@@ -30,6 +32,7 @@ This is the `main` branch, which hosts the code for collecting and making sense 
   * Might want a time-picker component that can be reused, that uses the known time divisions. Then that can be used with the chart or it can key off another chart or control, like a scrub-bar.
     * Could have a variant for time range picker that supports choosing two endpoints (probably last two dates clicked) or dragging a range.
     * Might need to handle different scales of selection, such as times within a day vs days in a month or two vs months in a year.
+* The AES server returns 502 at 1:23am on Saturdays. The fetch-data Github workflow now retries a few times. We should double check if it actually fetches data in that 15min window now, or if it is being delayed into the next 15min window. If the retries don't help, we can back them off or just exit gracefully on 502.
 * Incident map with time-travel scrub-bar
   * Need underlying map tiles
   * Need county boundaries

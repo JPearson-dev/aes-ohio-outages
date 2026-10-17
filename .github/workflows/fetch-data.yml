@@ -10,9 +10,19 @@ on:
 permissions:
   contents: write
 
+# Overlapping runs race to push the data branch ("cannot lock ref ... expected
+# ..."). Queue them instead; the queued run checks out data after the first
+# one has pushed.
+concurrency:
+  group: fetch-data
+  cancel-in-progress: false
+
 jobs:
   fetch-and-commit:
-    runs-on: ubuntu-latest
+    # ubuntu-slim is a container with 15min limit. It's enough for us.
+    #   Hopefully using it reduces the already-rare issues obtaining a Runner
+    # ubuntu-latest is a full vm and has a 6hr limit.
+    runs-on: ubuntu-slim
     steps:
       - name: Checkout main branch (code)
         uses: actions/checkout@v4
@@ -27,7 +37,7 @@ jobs:
           path: 'data'
 
       - name: Fetch and process outage data
-        run: python code/ingest/scripts/fetch/fetch.py --out-dir data
+        run: python3 code/ingest/scripts/fetch/fetch.py --out-dir data
 
       - name: Commit and push changes
         id: commit
