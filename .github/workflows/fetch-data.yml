@@ -25,13 +25,13 @@ jobs:
     runs-on: ubuntu-slim
     steps:
       - name: Checkout main branch (code)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: 'main'
           path: 'code'
 
       - name: Checkout data branch (data)
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: 'data'
           path: 'data'
