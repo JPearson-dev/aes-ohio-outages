@@ -3,11 +3,19 @@ import { Chart as ChartJS, BarElement, CategoryScale, LinearScale, Tooltip } fro
 import type { Database } from 'sql.js'
 import { Bar } from 'react-chartjs-2'
 import { loadHistoryDb } from '../lib/historyDb'
-import { linearBuckets, queryCurrentCustomersAffected, type SizeDistributionBucket } from '../lib/sizeDistribution'
+import { linearBuckets, queryCustomersAffectedAsOf, type SizeDistributionBucket } from '../lib/sizeDistribution'
 import { InfoTooltip } from './InfoTooltip'
+import { DistributionSettings, type DistributionMetric } from './DistributionSettings'
 import styles from './IncidentSizeDistribution.module.css'
 
 ChartJS.register(BarElement, CategoryScale, LinearScale, Tooltip)
+
+// Temporary: pin the chart to a fixed moment instead of always-latest data,
+// until the moment-in-time scrubber described in the README exists. This is
+// 2026-09-16 8:05 PM America/New_York (EDT, UTC-4, so 00:05 the next day in
+// UTC) - commit_at is stored as UTC, so the offset is applied here rather
+// than left implicit.
+const PINNED_MOMENT = '2026-09-17T00:05:00Z'
 
 function bucketLabel(bucket: SizeDistributionBucket): string {
   return bucket.start === bucket.end ? `${bucket.start}` : `${bucket.start}–${bucket.end}`
@@ -17,6 +25,7 @@ type LoadState = { status: 'loading' } | { status: 'error'; message: string } | 
 
 export function IncidentSizeDistribution() {
   const [state, setState] = useState<LoadState>({ status: 'loading' })
+  const [metric, setMetric] = useState<DistributionMetric>('incidents')
 
   useEffect(() => {
     let cancelled = false
@@ -40,7 +49,7 @@ export function IncidentSizeDistribution() {
   }, [])
 
   const buckets = useMemo(
-    () => (state.status === 'ready' ? linearBuckets(queryCurrentCustomersAffected(state.db)) : []),
+    () => (state.status === 'ready' ? linearBuckets(queryCustomersAffectedAsOf(state.db, PINNED_MOMENT)) : []),
     [state],
   )
 
@@ -52,19 +61,24 @@ export function IncidentSizeDistribution() {
     return <p className={styles.status}>Couldn't load incident size data: {state.message}</p>
   }
 
+  const values = buckets.map((b) => (metric === 'incidents' ? b.count : b.customersTotal))
+
   return (
     <div className={styles.wrap}>
-      <h2>Current Incident Size Distribution</h2>
+      <div className={styles.heading}>
+        <h2>Incident Size Distribution</h2>
+        <DistributionSettings metric={metric} onChange={setMetric} />
+      </div>
 
       <div className={styles.chartWrap}>
-        <InfoTooltip text="This chart updates roughly once a day (expected staleness less than 1 day)." />
+        <InfoTooltip text="This chart is temporarily pinned to a single moment (Sep 16, 2026, 8:05 PM Eastern) while the moment-in-time scrubber is built." />
         <Bar
           data={{
             labels: buckets.map(bucketLabel),
             datasets: [
               {
-                label: 'Incidents',
-                data: buckets.map((b) => b.count),
+                label: metric === 'incidents' ? 'Incidents' : 'Customers affected',
+                data: values,
                 backgroundColor: '#0072B2',
               },
             ],
@@ -83,11 +97,13 @@ export function IncidentSizeDistribution() {
                   title: (items) => {
                     const bucket = buckets[items[0].dataIndex]
                     const noun = bucket.start === bucket.end && bucket.start === 1 ? 'customer' : 'customers'
-                    return `${bucketLabel(bucket)} ${noun} affected`
+                    return `${bucketLabel(bucket)} ${noun} affected per incident`
                   },
                   label: (item) => {
-                    const count = item.parsed.y
-                    return `${count} incident${count === 1 ? '' : 's'}`
+                    const value = item.parsed.y
+                    return metric === 'incidents'
+                      ? `${value} incident${value === 1 ? '' : 's'}`
+                      : `${value} total customer${value === 1 ? '' : 's'} affected`
                   },
                 },
               },
@@ -104,10 +120,10 @@ export function IncidentSizeDistribution() {
               y: {
                 type: 'linear',
                 beginAtZero: true,
-                title: { display: true, text: 'Incident count' },
-                // Incident counts are always whole numbers - without this,
+                title: { display: true, text: metric === 'incidents' ? 'Incident count' : 'Total customers affected' },
+                // Both metrics are always whole numbers - without this,
                 // Chart.js's "nice round number" tick algorithm can land on
-                // fractional ticks (0.5, 1.5, ...) when the max count is low.
+                // fractional ticks (0.5, 1.5, ...) when the max value is low.
                 ticks: { precision: 0 },
               },
             },

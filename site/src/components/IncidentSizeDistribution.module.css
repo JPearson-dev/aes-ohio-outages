@@ -2,8 +2,16 @@
   padding: 16px 0;
 }
 
-.wrap h2 {
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
   margin: 0 0 16px;
+}
+
+.heading h2 {
+  margin: 0;
 }
 
 .chartWrap {

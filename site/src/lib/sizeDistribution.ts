@@ -4,30 +4,40 @@ export interface SizeDistributionBucket {
   start: number
   end: number
   count: number
+  customersTotal: number
 }
 
-// Reads each currently-active incident's most recent customers_affected
-// value - "currently active" meaning its _last_seen_commit matches the db's
-// latest commit, "most recent" meaning the item_version row with the
-// greatest _commit for that item (its latest recorded snapshot, whether or
-// not that commit itself introduced a new version row). This is the
-// "initially, just use the latest time" slice of the moment-in-time
-// distribution chart - a future scrubber would parameterize the commit
-// instead of always using MAX(id).
-export function queryCurrentCustomersAffected(db: Database): number[] {
+// Reads each incident's customers_affected value as it stood at a given
+// moment - the commit whose commit_at is closest to targetTimestamp - among
+// incidents active at that moment ("active" meaning _first_seen_commit and
+// _last_seen_commit straddle that commit). "As it stood" means the
+// item_version row with the greatest _commit not after that commit (its
+// most recent recorded snapshot as of then, whether or not that commit
+// itself introduced a new version row). This is the moment-in-time
+// distribution chart from the README notes; a future scrubber would drive
+// targetTimestamp from a UI control instead of a fixed value.
+export function queryCustomersAffectedAsOf(db: Database, targetTimestamp: string): number[] {
   const result = db.exec(`
-    WITH latest_version AS (
+    WITH target_commit AS (
+      SELECT id
+      FROM commits
+      ORDER BY ABS(strftime('%s', commit_at) - strftime('%s', '${targetTimestamp}'))
+      LIMIT 1
+    ),
+    latest_version AS (
       SELECT
         _item,
         customers_affected,
         ROW_NUMBER() OVER (PARTITION BY _item ORDER BY _commit DESC) AS rn
       FROM item_version
+      WHERE _commit <= (SELECT id FROM target_commit)
     )
     SELECT lv.customers_affected
     FROM latest_version lv
     JOIN item i ON i._id = lv._item
     WHERE lv.rn = 1
-      AND i._last_seen_commit = (SELECT MAX(id) FROM commits)
+      AND i._first_seen_commit <= (SELECT id FROM target_commit)
+      AND i._last_seen_commit >= (SELECT id FROM target_commit)
   `)[0]
 
   return (result?.values ?? []).map(([customers]) => customers as number)
@@ -54,12 +64,13 @@ export function linearBuckets(values: number[], maxBuckets = 50): SizeDistributi
 
   const buckets: SizeDistributionBucket[] = []
   for (let start = min; start <= max; start += width) {
-    buckets.push({ start, end: Math.min(start + width - 1, max), count: 0 })
+    buckets.push({ start, end: Math.min(start + width - 1, max), count: 0, customersTotal: 0 })
   }
 
   for (const value of values) {
     const index = Math.min(buckets.length - 1, Math.floor((value - min) / width))
     buckets[index].count++
+    buckets[index].customersTotal += value
   }
 
   return buckets
