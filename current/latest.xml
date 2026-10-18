@@ -1,37 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.07772556</LAT>
-    <LNG>-84.3585176390204</LNG>
-    <TOTALCUSTS>272</TOTALCUSTS>
+    <LAT>40.07752976</LAT>
+    <LNG>-84.3587783573241</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817584</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>275</total>
+    <total>3</total>
     <OutageTime>10/18/2026 12:48 AM</OutageTime>
-    <EstimateTime>10/18/2026 04:00 AM</EstimateTime>
+    <EstimateTime>10/18/2026 08:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64634752</LAT>
-    <LNG>-84.2742140634415</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1817585</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>275</total>
-    <OutageTime>10/18/2026 01:58 AM</OutageTime>
-    <EstimateTime>10/18/2026 05:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.13209688</LAT>
-    <LNG>-83.4436344593533</LNG>
+    <LAT>40.13190108</LAT>
+    <LNG>-83.443895402319</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1817586</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>275</total>
+    <total>3</total>
     <OutageTime>10/18/2026 02:52 AM</OutageTime>
-    <EstimateTime>10/18/2026 05:00 AM</EstimateTime>
+    <EstimateTime>10/18/2026 07:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -95,11 +84,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>272</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>275</TotalOut>
-    <Outageat>10/18/2026 3:06:25 AM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>10/18/2026 4:36:55 AM</Outageat>
   </Message>
 </Incidents>
