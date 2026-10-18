@@ -1,26 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.81338246</LAT>
-    <LNG>-84.2279709831828</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1817648</INCIDENTID>
+    <LAT>40.41242915</LAT>
+    <LNG>-83.5261313992187</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1817652</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
-    <OutageTime>10/18/2026 06:17 PM</OutageTime>
-    <EstimateTime>10/18/2026 10:00 PM</EstimateTime>
+    <COUNTY>LOGAN</COUNTY>
+    <total>9</total>
+    <OutageTime>10/18/2026 06:47 PM</OutageTime>
+    <EstimateTime>10/18/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65049165</LAT>
-    <LNG>-84.0986648173219</LNG>
+    <LAT>39.65185335</LAT>
+    <LNG>-84.0968638075444</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817649</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
+    <total>9</total>
     <OutageTime>10/18/2026 06:28 PM</OutageTime>
     <EstimateTime>10/18/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.81474416</LAT>
+    <LNG>-84.2261653829198</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
+    <INCIDENTID>1817648</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>9</total>
+    <OutageTime>10/18/2026 06:17 PM</OutageTime>
+    <EstimateTime>10/18/2026 10:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -72,7 +83,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>10/18/2026 6:50:32 PM</Outageat>
+    <TotalOut>9</TotalOut>
+    <Outageat>10/18/2026 7:05:32 PM</Outageat>
   </Message>
 </Incidents>
