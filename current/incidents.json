@@ -1,8 +1,8 @@
 [
   {
     "id": 1817663,
-    "lat": 39.89000036,
-    "lng": -84.0338944991169,
+    "lat": 39.89145106,
+    "lng": -84.0319685325502,
     "customers_affected": 2,
     "county": "CLARK",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1817668,
-    "lat": 39.73635413,
-    "lng": -84.171961147156,
+    "lat": 39.73780483,
+    "lng": -84.1700398133889,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,42 +21,42 @@
   },
   {
     "id": 1817671,
-    "lat": 39.9047079,
-    "lng": -84.0334822265758,
-    "customers_affected": 9,
+    "lat": 39.9061586,
+    "lng": -84.0315558145964,
+    "customers_affected": 10,
     "county": "CLARK",
     "indicator": "D",
     "outage_time": "2026-10-19T08:50:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1817672,
-    "lat": 39.9032865,
-    "lng": -84.0276198432899,
-    "customers_affected": 3,
-    "county": "CLARK",
-    "indicator": "D",
-    "outage_time": "2026-10-19T08:50:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1817677,
-    "lat": 40.11970025,
-    "lng": -83.7494068324274,
-    "customers_affected": 1,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-10-19T08:59:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-19T12:00:00"
   },
   {
     "id": 1817678,
-    "lat": 39.90330621,
-    "lng": -84.030753689037,
+    "lat": 39.90475691,
+    "lng": -84.0288273195219,
     "customers_affected": 17,
     "county": "CLARK",
     "indicator": "D",
     "outage_time": "2026-10-19T08:50:00",
+    "estimate_time": "2026-10-19T11:00:00"
+  },
+  {
+    "id": 1817679,
+    "lat": 39.76021628,
+    "lng": -84.376944633121,
+    "customers_affected": 34,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-19T09:04:00",
+    "estimate_time": "2026-10-19T12:00:00"
+  },
+  {
+    "id": 1817680,
+    "lat": 39.69289373,
+    "lng": -84.0136074462885,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-19T09:12:00",
     "estimate_time": null
   }
 ]
