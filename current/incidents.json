@@ -1,8 +1,8 @@
 [
   {
     "id": 1817663,
-    "lat": 39.89150446,
-    "lng": -84.0318976380754,
+    "lat": 39.89000036,
+    "lng": -84.0338944991169,
     "customers_affected": 2,
     "county": "CLARK",
     "indicator": "D",
@@ -11,12 +11,52 @@
   },
   {
     "id": 1817668,
-    "lat": 39.73785823,
-    "lng": -84.1699690894466,
+    "lat": 39.73635413,
+    "lng": -84.171961147156,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-19T08:39:00",
+    "estimate_time": "2026-10-19T11:00:00"
+  },
+  {
+    "id": 1817671,
+    "lat": 39.9047079,
+    "lng": -84.0334822265758,
+    "customers_affected": 9,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-10-19T08:50:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1817672,
+    "lat": 39.9032865,
+    "lng": -84.0276198432899,
+    "customers_affected": 3,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-10-19T08:50:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1817677,
+    "lat": 40.11970025,
+    "lng": -83.7494068324274,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-10-19T08:59:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1817678,
+    "lat": 39.90330621,
+    "lng": -84.030753689037,
+    "customers_affected": 17,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-10-19T08:50:00",
     "estimate_time": null
   }
 ]

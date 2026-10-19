@@ -1,26 +1,70 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.89150446</LAT>
-    <LNG>-84.0318976380754</LNG>
+    <LAT>40.11970025</LAT>
+    <LNG>-83.7494068324274</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1817677</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>33</total>
+    <OutageTime>10/19/2026 08:59 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.89000036</LAT>
+    <LNG>-84.0338944991169</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1817663</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>3</total>
+    <total>33</total>
     <OutageTime>10/19/2026 07:58 AM</OutageTime>
     <EstimateTime>10/19/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.73785823</LAT>
-    <LNG>-84.1699690894466</LNG>
+    <LAT>39.9032865</LAT>
+    <LNG>-84.0276198432899</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1817672</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLARK</COUNTY>
+    <total>33</total>
+    <OutageTime>10/19/2026 08:50 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.90330621</LAT>
+    <LNG>-84.030753689037</LNG>
+    <TOTALCUSTS>17</TOTALCUSTS>
+    <INCIDENTID>1817678</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLARK</COUNTY>
+    <total>33</total>
+    <OutageTime>10/19/2026 08:50 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.9047079</LAT>
+    <LNG>-84.0334822265758</LNG>
+    <TOTALCUSTS>9</TOTALCUSTS>
+    <INCIDENTID>1817671</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLARK</COUNTY>
+    <total>33</total>
+    <OutageTime>10/19/2026 08:50 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.73635413</LAT>
+    <LNG>-84.171961147156</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817668</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
+    <total>33</total>
     <OutageTime>10/19/2026 08:39 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/19/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -36,11 +80,11 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
-    <TotOut>2</TotOut>
+    <TotOut>31</TotOut>
   </Counties>
   <Counties>
     <County>CLINTON</County>
@@ -121,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>10/19/2026 8:50:31 AM</Outageat>
+    <TotalOut>33</TotalOut>
+    <Outageat>10/19/2026 9:05:31 AM</Outageat>
   </Message>
 </Incidents>
