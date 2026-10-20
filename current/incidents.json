@@ -1,18 +1,8 @@
 [
   {
-    "id": 299230,
-    "lat": 40.2754274752776,
-    "lng": -84.6206520139649,
-    "customers_affected": 916,
-    "county": "DARKE",
-    "indicator": "T",
-    "outage_time": "2026-10-20T12:30:00",
-    "estimate_time": "2026-10-20T15:00:00"
-  },
-  {
     "id": 1817841,
-    "lat": 39.77866735,
-    "lng": -84.1834995656732,
+    "lat": 39.77828465,
+    "lng": -84.1840067564038,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1817946,
-    "lat": 39.5883448,
-    "lng": -83.862677861103,
+    "lat": 39.5879621,
+    "lng": -83.8631835481173,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -31,12 +21,22 @@
   },
   {
     "id": 1817957,
-    "lat": 39.56744805,
-    "lng": -83.4023071130119,
+    "lat": 39.56706535,
+    "lng": -83.4028126358276,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-10-20T13:23:00",
     "estimate_time": "2026-10-20T16:00:00"
+  },
+  {
+    "id": 1817963,
+    "lat": 39.82649658,
+    "lng": -84.0082280377454,
+    "customers_affected": 4,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-10-20T14:09:00",
+    "estimate_time": null
   }
 ]
