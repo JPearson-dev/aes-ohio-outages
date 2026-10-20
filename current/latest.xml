@@ -1,36 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.49085758</LAT>
-    <LNG>-84.2850080102469</LNG>
+    <LAT>40.49292238</LAT>
+    <LNG>-84.2822404122137</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817985</INCIDENTID>
     <IND>D</IND>
     <COUNTY>AUGLAIZE</COUNTY>
-    <total>161</total>
+    <total>2</total>
     <OutageTime>10/20/2026 03:32 PM</OutageTime>
     <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77767055</LAT>
-    <LNG>-84.1848206205995</LNG>
+    <LAT>39.77973535</LAT>
+    <LNG>-84.1820841496808</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817841</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>161</total>
+    <total>2</total>
     <OutageTime>10/20/2026 09:05 AM</OutageTime>
-    <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.7532576</LAT>
-    <LNG>-84.6068545328681</LNG>
-    <TOTALCUSTS>159</TOTALCUSTS>
-    <INCIDENTID>1817977</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>161</total>
-    <OutageTime>10/20/2026 02:45 PM</OutageTime>
     <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -107,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>159</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>161</TotalOut>
-    <Outageat>10/20/2026 4:05:32 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>10/20/2026 4:20:38 PM</Outageat>
   </Message>
 </Incidents>
