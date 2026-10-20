@@ -1,91 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.82861478</LAT>
-    <LNG>-84.0054186745915</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1817963</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>182</total>
-    <OutageTime>10/20/2026 02:09 PM</OutageTime>
-    <EstimateTime>10/20/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78040285</LAT>
-    <LNG>-84.1811995146856</LNG>
+    <LAT>39.77929035</LAT>
+    <LNG>-84.1826739063443</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1817841</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>182</total>
+    <total>160</total>
     <OutageTime>10/20/2026 09:05 AM</OutageTime>
     <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.71969131</LAT>
-    <LNG>-84.559474018576</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1817971</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>182</total>
-    <OutageTime>10/20/2026 02:51 PM</OutageTime>
-    <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.7559899</LAT>
-    <LNG>-84.6032348100006</LNG>
+    <LAT>39.7548774</LAT>
+    <LNG>-84.6047086385297</LNG>
     <TOTALCUSTS>159</TOTALCUSTS>
     <INCIDENTID>1817977</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>182</total>
+    <total>160</total>
     <OutageTime>10/20/2026 02:45 PM</OutageTime>
-    <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.75603078</LAT>
-    <LNG>-84.5998439198003</LNG>
-    <TOTALCUSTS>12</TOTALCUSTS>
-    <INCIDENTID>1817979</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>182</total>
-    <OutageTime>10/20/2026 02:45 PM</OutageTime>
-    <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.71969035</LAT>
-    <LNG>-84.5596162888151</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1817978</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>182</total>
-    <OutageTime>10/20/2026 02:56 PM</OutageTime>
-    <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.71212783</LAT>
-    <LNG>-84.5594382818647</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1817972</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>182</total>
-    <OutageTime>10/20/2026 02:52 PM</OutageTime>
-    <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.75581492</LAT>
-    <LNG>-84.5973199136608</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1817980</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>182</total>
-    <OutageTime>10/20/2026 02:56 PM</OutageTime>
     <EstimateTime>10/20/2026 05:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -126,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -162,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>177</TotOut>
+    <TotOut>159</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -187,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>182</TotalOut>
-    <Outageat>10/20/2026 3:20:32 PM</Outageat>
+    <TotalOut>160</TotalOut>
+    <Outageat>10/20/2026 3:35:32 PM</Outageat>
   </Message>
 </Incidents>
