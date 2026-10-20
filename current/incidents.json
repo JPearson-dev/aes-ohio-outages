@@ -1,8 +1,8 @@
 [
   {
     "id": 299230,
-    "lat": 40.2748400752776,
-    "lng": -84.6214366257681,
+    "lat": 40.2762729752776,
+    "lng": -84.6195226484907,
     "customers_affected": 1174,
     "county": "DARKE",
     "indicator": "T",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1817841,
-    "lat": 39.77807995,
-    "lng": -84.1842780444691,
+    "lat": 39.77951285,
+    "lng": -84.1823790280126,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1817885,
-    "lat": 39.9725512,
-    "lng": -84.3193793022515,
+    "lat": 39.9739841,
+    "lng": -84.3174744750193,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1817913,
-    "lat": 40.42734107,
-    "lng": -84.6273413984738,
+    "lat": 40.42877397,
+    "lng": -84.6254227500436,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1817942,
-    "lat": 39.96901647,
-    "lng": -84.658696232178,
+    "lat": 39.97044937,
+    "lng": -84.6567915110889,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -51,12 +51,42 @@
   },
   {
     "id": 1817946,
-    "lat": 39.5877574,
-    "lng": -83.8634540318691,
+    "lat": 39.5891903,
+    "lng": -83.8615606456062,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-20T12:46:00",
     "estimate_time": "2026-10-20T15:00:00"
+  },
+  {
+    "id": 1817954,
+    "lat": 40.12299082,
+    "lng": -84.595589303271,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-20T13:20:00",
+    "estimate_time": "2026-10-20T16:00:00"
+  },
+  {
+    "id": 1817956,
+    "lat": 39.96571517,
+    "lng": -84.1190124972374,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-10-20T13:20:00",
+    "estimate_time": "2026-10-20T15:00:00"
+  },
+  {
+    "id": 1817957,
+    "lat": 39.56829355,
+    "lng": -83.4011902602798,
+    "customers_affected": 1,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-10-20T13:23:00",
+    "estimate_time": "2026-10-20T16:00:00"
   }
 ]
