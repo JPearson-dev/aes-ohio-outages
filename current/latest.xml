@@ -1,37 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.46640054</LAT>
-    <LNG>-83.7972724802126</LNG>
+    <LAT>39.46606234</LAT>
+    <LNG>-83.7977185042209</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818048</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>61</total>
+    <total>62</total>
     <OutageTime>10/21/2026 07:42 AM</OutageTime>
     <EstimateTime>10/21/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.35722505</LAT>
-    <LNG>-83.5814035171127</LNG>
+    <LAT>39.35688685</LAT>
+    <LNG>-83.5818487896177</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818049</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>61</total>
+    <total>62</total>
     <OutageTime>10/21/2026 08:08 AM</OutageTime>
     <EstimateTime>10/21/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.85323847</LAT>
-    <LNG>-84.2711980007189</LNG>
+    <LAT>39.85290027</LAT>
+    <LNG>-84.2716467220564</LNG>
     <TOTALCUSTS>59</TOTALCUSTS>
     <INCIDENTID>1818041</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>61</total>
+    <total>62</total>
     <OutageTime>10/21/2026 01:43 AM</OutageTime>
     <EstimateTime>10/21/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.72672471</LAT>
+    <LNG>-84.6964106484168</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818050</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>62</total>
+    <OutageTime>10/21/2026 08:26 AM</OutageTime>
+    <EstimateTime>10/21/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -107,7 +118,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>61</TotalOut>
-    <Outageat>10/21/2026 8:20:32 AM</Outageat>
+    <TotalOut>62</TotalOut>
+    <Outageat>10/21/2026 8:35:32 AM</Outageat>
   </Message>
 </Incidents>
