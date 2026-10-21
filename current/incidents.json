@@ -1,8 +1,8 @@
 [
   {
     "id": 1818041,
-    "lat": 39.85290027,
-    "lng": -84.2716467220564,
+    "lat": 39.85217047,
+    "lng": -84.2726150154688,
     "customers_affected": 59,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1818048,
-    "lat": 39.46606234,
-    "lng": -83.7977185042209,
+    "lat": 39.46533254,
+    "lng": -83.7986809770808,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1818049,
-    "lat": 39.35688685,
-    "lng": -83.5818487896177,
+    "lat": 39.35615705,
+    "lng": -83.5828096408127,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -30,13 +30,23 @@
     "estimate_time": "2026-10-21T11:00:00"
   },
   {
-    "id": 1818050,
-    "lat": 39.72672471,
-    "lng": -84.6964106484168,
+    "id": 1818051,
+    "lat": 40.39824498,
+    "lng": -83.71272899319,
     "customers_affected": 1,
-    "county": "PREBLE",
+    "county": "LOGAN",
     "indicator": "D",
-    "outage_time": "2026-10-21T08:26:00",
+    "outage_time": "2026-10-21T08:33:00",
+    "estimate_time": "2026-10-21T11:00:00"
+  },
+  {
+    "id": 1818054,
+    "lat": 39.80041247,
+    "lng": -83.6975661092062,
+    "customers_affected": 1,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-10-21T08:38:00",
     "estimate_time": "2026-10-21T11:00:00"
   }
 ]
