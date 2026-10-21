@@ -1,59 +1,103 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.80041247</LAT>
-    <LNG>-83.6975661092062</LNG>
+    <LAT>39.80144487</LAT>
+    <LNG>-83.696197439582</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818054</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>63</total>
+    <total>72</total>
     <OutageTime>10/21/2026 08:38 AM</OutageTime>
     <EstimateTime>10/21/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.46533254</LAT>
-    <LNG>-83.7986809770808</LNG>
+    <LAT>39.46636494</LAT>
+    <LNG>-83.7973194301082</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818048</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>63</total>
+    <total>72</total>
     <OutageTime>10/21/2026 07:42 AM</OutageTime>
     <EstimateTime>10/21/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.35615705</LAT>
-    <LNG>-83.5828096408127</LNG>
+    <LAT>39.81413613</LAT>
+    <LNG>-83.8500334479727</LNG>
+    <TOTALCUSTS>4</TOTALCUSTS>
+    <INCIDENTID>1818060</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>72</total>
+    <OutageTime>10/21/2026 08:56 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.35718945</LAT>
+    <LNG>-83.5814503879027</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818049</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>63</total>
+    <total>72</total>
     <OutageTime>10/21/2026 08:08 AM</OutageTime>
     <EstimateTime>10/21/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.39824498</LAT>
-    <LNG>-83.71272899319</LNG>
+    <LAT>40.39927738</LAT>
+    <LNG>-83.7113473030239</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818051</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>63</total>
-    <OutageTime>10/21/2026 08:33 AM</OutageTime>
+    <total>72</total>
+    <OutageTime>10/21/2026 08:26 AM</OutageTime>
     <EstimateTime>10/21/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.85217047</LAT>
-    <LNG>-84.2726150154688</LNG>
+    <LAT>39.85320287</LAT>
+    <LNG>-84.2712452345439</LNG>
     <TOTALCUSTS>59</TOTALCUSTS>
     <INCIDENTID>1818041</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>63</total>
+    <total>72</total>
     <OutageTime>10/21/2026 01:43 AM</OutageTime>
     <EstimateTime>10/21/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7334313</LAT>
+    <LNG>-84.1573772039384</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818062</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>72</total>
+    <OutageTime>10/21/2026 08:56 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.64115862</LAT>
+    <LNG>-84.1488089966374</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1818061</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>72</total>
+    <OutageTime>10/21/2026 08:52 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77104879</LAT>
+    <LNG>-84.2112359996032</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818065</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>72</total>
+    <OutageTime>10/21/2026 08:59 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -93,7 +137,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -121,7 +165,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>59</TotOut>
+    <TotOut>64</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -154,7 +198,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>63</TotalOut>
-    <Outageat>10/21/2026 8:50:32 AM</Outageat>
+    <TotalOut>72</TotalOut>
+    <Outageat>10/21/2026 9:05:32 AM</Outageat>
   </Message>
 </Incidents>
