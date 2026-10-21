@@ -1,92 +1,80 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.67335087</LAT>
-    <LNG>-84.0702198010413</LNG>
+    <LAT>39.67024477</LAT>
+    <LNG>-84.0743293436328</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818159</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>77</total>
+    <total>193</total>
     <OutageTime>10/21/2026 03:56 PM</OutageTime>
     <EstimateTime>10/21/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75778537</LAT>
-    <LNG>-83.9150661690378</LNG>
+    <LAT>39.75467927</LAT>
+    <LNG>-83.9191811342294</LNG>
     <TOTALCUSTS>58</TOTALCUSTS>
     <INCIDENTID>1818199</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>77</total>
+    <total>193</total>
     <OutageTime>10/21/2026 06:15 PM</OutageTime>
     <EstimateTime>10/21/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.39021378</LAT>
-    <LNG>-83.7318161930611</LNG>
+    <LAT>40.38710768</LAT>
+    <LNG>-83.7359725414134</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1818193</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>77</total>
+    <total>193</total>
     <OutageTime>10/21/2026 06:17 PM</OutageTime>
     <EstimateTime>10/21/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66420054</LAT>
-    <LNG>-84.1635339672154</LNG>
+    <LAT>39.66109444</LAT>
+    <LNG>-84.1676429235772</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1818147</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>77</total>
+    <total>193</total>
     <OutageTime>10/21/2026 02:17 PM</OutageTime>
-    <EstimateTime>10/21/2026 07:00 PM</EstimateTime>
+    <EstimateTime>10/21/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75358276</LAT>
-    <LNG>-84.2193074252977</LNG>
+    <LAT>39.75047666</LAT>
+    <LNG>-84.2234221200237</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818166</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>77</total>
+    <total>193</total>
     <OutageTime>10/21/2026 04:25 PM</OutageTime>
     <EstimateTime>10/21/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76326561</LAT>
-    <LNG>-84.2289590708852</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818181</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>77</total>
-    <OutageTime>10/21/2026 05:59 PM</OutageTime>
-    <EstimateTime>10/21/2026 09:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76374366</LAT>
-    <LNG>-84.2028462793063</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818165</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>77</total>
-    <OutageTime>10/21/2026 04:23 PM</OutageTime>
-    <EstimateTime>10/21/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.75688027</LAT>
-    <LNG>-84.6447880680784</LNG>
+    <LAT>39.75377417</LAT>
+    <LNG>-84.6489029750158</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818179</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>77</total>
+    <total>193</total>
     <OutageTime>10/21/2026 05:49 PM</OutageTime>
     <EstimateTime>10/21/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.1891547</LAT>
+    <LNG>-83.6191105652784</LNG>
+    <TOTALCUSTS>118</TOTALCUSTS>
+    <INCIDENTID>1818206</INCIDENTID>
+    <IND>D</IND>
+    <total>193</total>
+    <OutageTime>10/21/2026 06:04 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -154,7 +142,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>15</TotOut>
+    <TotOut>13</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -187,7 +175,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>77</TotalOut>
-    <Outageat>10/21/2026 6:50:32 PM</Outageat>
+    <TotalOut>75</TotalOut>
+    <Outageat>10/21/2026 7:05:31 PM</Outageat>
   </Message>
 </Incidents>
