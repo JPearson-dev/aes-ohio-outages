@@ -1,8 +1,8 @@
 [
   {
     "id": 1818147,
-    "lat": 39.66273204,
-    "lng": -84.165476597014,
+    "lat": 39.66145934,
+    "lng": -84.167160209506,
     "customers_affected": 18,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1818159,
-    "lat": 39.67188237,
-    "lng": -84.0721627079972,
+    "lat": 39.67060967,
+    "lng": -84.0738465606923,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -20,19 +20,9 @@
     "estimate_time": "2026-10-21T18:00:00"
   },
   {
-    "id": 1818162,
-    "lat": 39.86951675,
-    "lng": -84.194142724647,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-21T16:13:00",
-    "estimate_time": "2026-10-21T18:00:00"
-  },
-  {
     "id": 1818164,
-    "lat": 39.77585392,
-    "lng": -84.2212846559694,
+    "lat": 39.77458122,
+    "lng": -84.2229712460345,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1818165,
-    "lat": 39.76227516,
-    "lng": -84.2047919312932,
+    "lat": 39.76100246,
+    "lng": -84.2064781630152,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1818166,
-    "lat": 39.75211426,
-    "lng": -84.2212527680765,
+    "lat": 39.75084156,
+    "lng": -84.222938731818,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,12 +51,32 @@
   },
   {
     "id": 1818167,
-    "lat": 40.12437017,
-    "lng": -83.7504428380394,
+    "lat": 40.12309747,
+    "lng": -83.7521387126441,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
     "outage_time": "2026-10-21T16:28:00",
+    "estimate_time": "2026-10-21T19:00:00"
+  },
+  {
+    "id": 1818168,
+    "lat": 39.69875544,
+    "lng": -84.1255342773096,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-21T16:31:00",
+    "estimate_time": "2026-10-21T19:00:00"
+  },
+  {
+    "id": 1818169,
+    "lat": 40.31581877,
+    "lng": -84.1522595800232,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-10-21T16:35:00",
     "estimate_time": "2026-10-21T19:00:00"
   }
 ]
