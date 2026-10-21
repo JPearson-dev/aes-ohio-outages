@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.46472734</LAT>
-    <LNG>-83.7994791253061</LNG>
+    <LAT>39.46640054</LAT>
+    <LNG>-83.7972724802126</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818048</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>60</total>
+    <total>61</total>
     <OutageTime>10/21/2026 07:42 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/21/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.85156527</LAT>
-    <LNG>-84.2734179904938</LNG>
+    <LAT>39.35722505</LAT>
+    <LNG>-83.5814035171127</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818049</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>HIGHLAND</COUNTY>
+    <total>61</total>
+    <OutageTime>10/21/2026 08:08 AM</OutageTime>
+    <EstimateTime>10/21/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.85323847</LAT>
+    <LNG>-84.2711980007189</LNG>
     <TOTALCUSTS>59</TOTALCUSTS>
     <INCIDENTID>1818041</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>60</total>
+    <total>61</total>
     <OutageTime>10/21/2026 01:43 AM</OutageTime>
     <EstimateTime>10/21/2026 10:00 AM</EstimateTime>
   </Markers>
@@ -68,7 +79,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>60</TotalOut>
-    <Outageat>10/21/2026 8:05:32 AM</Outageat>
+    <TotalOut>61</TotalOut>
+    <Outageat>10/21/2026 8:20:32 AM</Outageat>
   </Message>
 </Incidents>
