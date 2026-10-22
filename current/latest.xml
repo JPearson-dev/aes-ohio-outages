@@ -1,46 +1,68 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.44325836</LAT>
-    <LNG>-83.8156348646139</LNG>
+    <LAT>39.43997426</LAT>
+    <LNG>-83.8199644677862</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818241</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>39</total>
+    <total>41</total>
     <OutageTime>10/22/2026 09:08 AM</OutageTime>
     <EstimateTime>10/22/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.32898809</LAT>
-    <LNG>-83.6966733023486</LNG>
+    <LAT>40.32570399</LAT>
+    <LNG>-83.7010635937205</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818238</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>39</total>
+    <total>41</total>
     <OutageTime>10/22/2026 09:01 AM</OutageTime>
     <EstimateTime>10/22/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66902798</LAT>
-    <LNG>-84.1104069250243</LNG>
+    <LAT>39.66574388</LAT>
+    <LNG>-84.1147517328888</LNG>
     <TOTALCUSTS>34</TOTALCUSTS>
     <INCIDENTID>1818232</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>39</total>
+    <total>41</total>
     <OutageTime>10/22/2026 08:45 AM</OutageTime>
     <EstimateTime>10/22/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.53124696</LAT>
-    <LNG>-84.0594582207154</LNG>
+    <LAT>39.70504309</LAT>
+    <LNG>-84.6912213125745</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818246</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>41</total>
+    <OutageTime>10/22/2026 09:27 AM</OutageTime>
+    <EstimateTime>10/22/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.31807045</LAT>
+    <LNG>-84.1455216516796</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818248</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>41</total>
+    <OutageTime>10/22/2026 09:28 AM</OutageTime>
+    <EstimateTime>10/22/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.52796286</LAT>
+    <LNG>-84.0637937283873</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1818230</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>39</total>
+    <total>41</total>
     <OutageTime>10/22/2026 08:39 AM</OutageTime>
     <EstimateTime>10/22/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -118,7 +140,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -126,7 +148,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -143,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>39</TotalOut>
-    <Outageat>10/22/2026 9:20:32 AM</Outageat>
+    <TotalOut>41</TotalOut>
+    <Outageat>10/22/2026 9:35:31 AM</Outageat>
   </Message>
 </Incidents>
