@@ -1,8 +1,8 @@
 [
   {
     "id": 1818232,
-    "lat": 39.66745268,
-    "lng": -84.1124910198536,
+    "lat": 39.66698098,
+    "lng": -84.1131150708477,
     "customers_affected": 34,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1818273,
-    "lat": 39.80494604,
-    "lng": -84.177064638543,
+    "lat": 39.80447434,
+    "lng": -84.1776900321162,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1818294,
-    "lat": 39.70947508,
-    "lng": -84.1160988592104,
+    "lat": 39.70900338,
+    "lng": -84.116723319522,
     "customers_affected": 323,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -30,19 +30,9 @@
     "estimate_time": "2026-10-22T14:00:00"
   },
   {
-    "id": 1818295,
-    "lat": 40.31141619,
-    "lng": -83.9548153261806,
-    "customers_affected": 9,
-    "county": "LOGAN",
-    "indicator": "D",
-    "outage_time": "2026-10-22T12:21:00",
-    "estimate_time": "2026-10-22T16:00:00"
-  },
-  {
     "id": 1818298,
-    "lat": 40.23011911,
-    "lng": -83.5490761324956,
+    "lat": 40.22964741,
+    "lng": -83.5497057390734,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1818299,
-    "lat": 39.78353013,
-    "lng": -84.0211887565654,
+    "lat": 39.78305843,
+    "lng": -84.0218139403875,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -61,12 +51,22 @@
   },
   {
     "id": 1818305,
-    "lat": 39.6922361,
-    "lng": -84.1588064227791,
+    "lat": 39.6917644,
+    "lng": -84.1594307150671,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-22T13:05:00",
     "estimate_time": "2026-10-22T15:00:00"
+  },
+  {
+    "id": 1818309,
+    "lat": 39.64035255,
+    "lng": -84.2560056561995,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-22T13:29:00",
+    "estimate_time": "2026-10-22T16:00:00"
   }
 ]
