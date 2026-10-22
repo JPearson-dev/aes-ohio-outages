@@ -1,36 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.47543204</LAT>
-    <LNG>-83.9541365870848</LNG>
+    <LAT>39.47581474</LAT>
+    <LNG>-83.9536317980488</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1818207</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>147</total>
+    <total>25</total>
     <OutageTime>10/21/2026 07:10 PM</OutageTime>
     <EstimateTime>10/22/2026 01:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75645927</LAT>
-    <LNG>-83.9168229879878</LNG>
+    <LAT>39.75684197</LAT>
+    <LNG>-83.9163159865458</LNG>
     <TOTALCUSTS>20</TOTALCUSTS>
     <INCIDENTID>1818199</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>147</total>
+    <total>25</total>
     <OutageTime>10/21/2026 06:15 PM</OutageTime>
-    <EstimateTime>10/21/2026 11:00 PM</EstimateTime>
+    <EstimateTime>10/22/2026 02:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.1909347</LAT>
-    <LNG>-83.6167362109964</LNG>
-    <TOTALCUSTS>123</TOTALCUSTS>
-    <INCIDENTID>1818206</INCIDENTID>
+    <LAT>39.6565088</LAT>
+    <LNG>-84.2614026659654</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818217</INCIDENTID>
     <IND>D</IND>
-    <total>147</total>
-    <OutageTime>10/21/2026 06:04 PM</OutageTime>
-    <EstimateTime>10/22/2026 12:00 AM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>25</total>
+    <OutageTime>10/21/2026 10:49 PM</OutageTime>
+    <EstimateTime>10/22/2026 01:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -98,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -131,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>24</TotalOut>
-    <Outageat>10/21/2026 10:50:32 PM</Outageat>
+    <TotalOut>25</TotalOut>
+    <Outageat>10/21/2026 11:05:32 PM</Outageat>
   </Message>
 </Incidents>
