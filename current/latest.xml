@@ -1,81 +1,70 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.86990067</LAT>
-    <LNG>-84.0304734054576</LNG>
+    <LAT>39.87124457</LAT>
+    <LNG>-84.0286897672924</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818285</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>120</total>
+    <total>118</total>
     <OutageTime>10/22/2026 11:12 AM</OutageTime>
     <EstimateTime>10/22/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.69439762</LAT>
-    <LNG>-84.2081065367526</LNG>
+    <LAT>39.69574152</LAT>
+    <LNG>-84.206327793156</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818284</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>120</total>
+    <total>118</total>
     <OutageTime>10/22/2026 11:10 AM</OutageTime>
     <EstimateTime>10/22/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70674641</LAT>
-    <LNG>-84.1101470680465</LNG>
-    <TOTALCUSTS>76</TOTALCUSTS>
-    <INCIDENTID>1818268</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>120</total>
-    <OutageTime>10/22/2026 10:30 AM</OutageTime>
-    <EstimateTime>10/22/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.84985647</LAT>
-    <LNG>-84.2756852140938</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1818280</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>120</total>
-    <OutageTime>10/22/2026 10:46 AM</OutageTime>
-    <EstimateTime>10/22/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66602868</LAT>
-    <LNG>-84.1143749473829</LNG>
-    <TOTALCUSTS>34</TOTALCUSTS>
-    <INCIDENTID>1818232</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>120</total>
-    <OutageTime>10/22/2026 08:45 AM</OutageTime>
-    <EstimateTime>10/22/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.80352204</LAT>
-    <LNG>-84.1789526191414</LNG>
+    <LAT>39.80486594</LAT>
+    <LNG>-84.1771708374516</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818273</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>120</total>
+    <total>118</total>
     <OutageTime>10/22/2026 10:26 AM</OutageTime>
     <EstimateTime>10/22/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.28292749</LAT>
-    <LNG>-84.1559853876422</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1818277</INCIDENTID>
+    <LAT>39.85120037</LAT>
+    <LNG>-84.2739021372001</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
+    <INCIDENTID>1818280</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>120</total>
-    <OutageTime>10/22/2026 10:36 AM</OutageTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>118</total>
+    <OutageTime>10/22/2026 10:46 AM</OutageTime>
     <EstimateTime>10/22/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.66737258</LAT>
+    <LNG>-84.1125969907771</LNG>
+    <TOTALCUSTS>34</TOTALCUSTS>
+    <INCIDENTID>1818232</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>118</total>
+    <OutageTime>10/22/2026 08:45 AM</OutageTime>
+    <EstimateTime>10/22/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.70809031</LAT>
+    <LNG>-84.108367981516</LNG>
+    <TOTALCUSTS>76</TOTALCUSTS>
+    <INCIDENTID>1818268</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>118</total>
+    <OutageTime>10/22/2026 10:30 AM</OutageTime>
+    <EstimateTime>10/22/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -159,7 +148,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>2</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -176,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>120</TotalOut>
-    <Outageat>10/22/2026 11:35:32 AM</Outageat>
+    <TotalOut>118</TotalOut>
+    <Outageat>10/22/2026 11:50:32 AM</Outageat>
   </Message>
 </Incidents>
