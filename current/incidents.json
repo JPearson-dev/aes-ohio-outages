@@ -1,8 +1,8 @@
 [
   {
     "id": 1818232,
-    "lat": 39.66754168,
-    "lng": -84.112373274383,
+    "lat": 39.66648258,
+    "lng": -84.113774445483,
     "customers_affected": 34,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1818238,
-    "lat": 40.32750179,
-    "lng": -83.6986602363841,
+    "lat": 40.32644269,
+    "lng": -83.700076075607,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -20,19 +20,9 @@
     "estimate_time": "2026-10-22T11:00:00"
   },
   {
-    "id": 1818241,
-    "lat": 39.44177206,
-    "lng": -83.8175943327162,
-    "customers_affected": 1,
-    "county": "CLINTON",
-    "indicator": "D",
-    "outage_time": "2026-10-22T09:08:00",
-    "estimate_time": "2026-10-22T12:00:00"
-  },
-  {
     "id": 1818258,
-    "lat": 39.86007065,
-    "lng": -84.3828301243715,
+    "lat": 39.85901155,
+    "lng": -84.3842355226223,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1818259,
-    "lat": 39.86278513,
-    "lng": -84.175784492699,
+    "lat": 39.86172603,
+    "lng": -84.1771899508519,
     "customers_affected": 4,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1818261,
-    "lat": 39.80310506,
-    "lng": -84.0542876204442,
+    "lat": 39.80204596,
+    "lng": -84.0556917635512,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -61,12 +51,22 @@
   },
   {
     "id": 1818262,
-    "lat": 39.77101313,
-    "lng": -84.3762542317856,
+    "lat": 39.76995403,
+    "lng": -84.3776576694354,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-22T09:58:00",
+    "estimate_time": "2026-10-22T13:00:00"
+  },
+  {
+    "id": 1818273,
+    "lat": 39.80397594,
+    "lng": -84.1783508253257,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-22T10:26:00",
     "estimate_time": "2026-10-22T13:00:00"
   }
 ]
