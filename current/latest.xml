@@ -1,24 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.11710034</LAT>
-    <LNG>-83.709145204922</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
+    <LAT>40.11661084</LAT>
+    <LNG>-83.7097973799425</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1818369</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>5</total>
+    <total>7</total>
     <OutageTime>10/23/2026 01:42 AM</OutageTime>
     <EstimateTime>10/23/2026 04:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7815214</LAT>
-    <LNG>-84.0925950207548</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
+    <LAT>39.7810319</LAT>
+    <LNG>-84.0932437576655</LNG>
+    <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1818368</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
+    <total>7</total>
     <OutageTime>10/23/2026 01:38 AM</OutageTime>
     <EstimateTime>10/23/2026 04:00 AM</EstimateTime>
   </Markers>
@@ -36,7 +36,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>2</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -88,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>3</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -121,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>10/23/2026 2:35:31 AM</Outageat>
+    <TotalOut>7</TotalOut>
+    <Outageat>10/23/2026 2:50:32 AM</Outageat>
   </Message>
 </Incidents>
