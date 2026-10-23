@@ -1,36 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.32978447</LAT>
-    <LNG>-83.6754265726375</LNG>
+    <LAT>39.32835157</LAT>
+    <LNG>-83.6773123598969</LNG>
     <TOTALCUSTS>52</TOTALCUSTS>
     <INCIDENTID>1818466</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>56</total>
+    <total>53</total>
     <OutageTime>10/23/2026 04:32 PM</OutageTime>
     <EstimateTime>10/23/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78585509</LAT>
-    <LNG>-84.4087332918865</LNG>
+    <LAT>39.78442219</LAT>
+    <LNG>-84.4106324823653</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818463</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>56</total>
+    <total>53</total>
     <OutageTime>10/23/2026 04:25 PM</OutageTime>
-    <EstimateTime>10/23/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76161601</LAT>
-    <LNG>-84.095086954315</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1818460</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>56</total>
-    <OutageTime>10/23/2026 04:05 PM</OutageTime>
     <EstimateTime>10/23/2026 07:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -99,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>4</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>56</TotalOut>
-    <Outageat>10/23/2026 5:05:32 PM</Outageat>
+    <TotalOut>53</TotalOut>
+    <Outageat>10/23/2026 5:20:32 PM</Outageat>
   </Message>
 </Incidents>
