@@ -1,15 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.32784427</LAT>
-    <LNG>-83.6779799988646</LNG>
+    <LAT>39.32997137</LAT>
+    <LNG>-83.6751806003862</LNG>
     <TOTALCUSTS>52</TOTALCUSTS>
     <INCIDENTID>1818466</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>52</total>
+    <total>53</total>
     <OutageTime>10/23/2026 04:32 PM</OutageTime>
     <EstimateTime>10/23/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80894945</LAT>
+    <LNG>-84.002946694782</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818473</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>53</total>
+    <OutageTime>10/23/2026 05:47 PM</OutageTime>
+    <EstimateTime>10/23/2026 08:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -49,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>52</TotalOut>
-    <Outageat>10/23/2026 5:50:32 PM</Outageat>
+    <TotalOut>53</TotalOut>
+    <Outageat>10/23/2026 6:05:32 PM</Outageat>
   </Message>
 </Incidents>
