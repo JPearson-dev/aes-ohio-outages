@@ -52,7 +52,7 @@ jobs:
       # previous run's db, which git-history then extends incrementally
       # instead of re-walking all of history from scratch. See docs/site.md.
       - name: Cache historical incident db
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with:
           path: ingest/history.db
           key: history-db-v1-${{ github.run_id }}
