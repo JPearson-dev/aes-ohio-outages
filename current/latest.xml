@@ -1,35 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.06276943</LAT>
-    <LNG>-84.712761761133</LNG>
+    <LAT>40.06401543</LAT>
+    <LNG>-84.7111030138572</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818525</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>5</total>
+    <total>2</total>
     <OutageTime>10/24/2026 06:40 AM</OutageTime>
     <EstimateTime>10/24/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.15446449</LAT>
-    <LNG>-84.1052847110105</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1818534</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>5</total>
-    <OutageTime>10/24/2026 09:35 AM</OutageTime>
-    <EstimateTime>10/24/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.7531241</LAT>
-    <LNG>-84.6070313922916</LNG>
+    <LAT>39.7543701</LAT>
+    <LNG>-84.605380704339</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818535</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>5</total>
+    <total>2</total>
     <OutageTime>10/24/2026 09:41 AM</OutageTime>
     <EstimateTime>10/24/2026 11:00 AM</EstimateTime>
   </Markers>
@@ -95,7 +84,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>3</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>10/24/2026 10:20:33 AM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>10/24/2026 10:35:33 AM</Outageat>
   </Message>
 </Incidents>
