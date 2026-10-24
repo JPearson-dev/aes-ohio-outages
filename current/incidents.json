@@ -1,8 +1,8 @@
 [
   {
     "id": 1818585,
-    "lat": 39.86950902,
-    "lng": -84.1223206994589,
+    "lat": 39.86599352,
+    "lng": -84.1269862476728,
     "customers_affected": 103,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,38 +11,38 @@
   },
   {
     "id": 1818600,
-    "lat": 39.70650616,
-    "lng": -84.0541356154616,
+    "lat": 39.70299066,
+    "lng": -84.0587892702804,
     "customers_affected": 2,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-24T15:28:00",
-    "estimate_time": "2026-10-24T19:00:00"
+    "estimate_time": "2026-10-24T23:00:00"
   },
   {
     "id": 1818603,
-    "lat": 39.67065362,
-    "lng": -83.7256953211429,
+    "lat": 39.66713812,
+    "lng": -83.7303463735011,
     "customers_affected": 27,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-24T15:43:00",
-    "estimate_time": "2026-10-24T19:00:00"
+    "estimate_time": "2026-10-24T22:00:00"
   },
   {
     "id": 1818607,
-    "lat": 39.78066533,
-    "lng": -84.0670577882852,
+    "lat": 39.77714983,
+    "lng": -84.0717168415791,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-24T16:29:00",
-    "estimate_time": "2026-10-24T19:00:00"
+    "estimate_time": "2026-10-24T22:00:00"
   },
   {
     "id": 1818608,
-    "lat": 39.8003789,
-    "lng": -84.2083076067143,
+    "lat": 39.7968634,
+    "lng": -84.212968098579,
     "customers_affected": 18,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,12 +51,22 @@
   },
   {
     "id": 1818614,
-    "lat": 39.49604631,
-    "lng": -83.8551897364924,
+    "lat": 39.49253081,
+    "lng": -83.8598281835244,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-10-24T18:42:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-24T21:00:00"
+  },
+  {
+    "id": 1818615,
+    "lat": 40.12501389,
+    "lng": -84.605153623446,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-24T18:50:00",
+    "estimate_time": "2026-10-24T21:00:00"
   }
 ]
