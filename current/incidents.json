@@ -1,12 +1,22 @@
 [
   {
     "id": 1818524,
-    "lat": 39.73673351,
-    "lng": -84.1212822520109,
+    "lat": 39.73804181,
+    "lng": -84.119549500086,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-24T06:24:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1818525,
+    "lat": 40.06504783,
+    "lng": -84.7097286232572,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-24T06:40:00",
     "estimate_time": null
   }
 ]
