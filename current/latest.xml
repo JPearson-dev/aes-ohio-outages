@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.74363826</LAT>
-    <LNG>-83.462514627821</LNG>
+    <LAT>39.42581903</LAT>
+    <LNG>-83.7475756843283</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818674</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>5</total>
+    <OutageTime>10/25/2026 07:24 PM</OutageTime>
+    <EstimateTime>10/25/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.74491096</LAT>
+    <LNG>-83.4608288366124</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818671</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MADISON</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>10/25/2026 06:37 PM</OutageTime>
     <EstimateTime>10/25/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7020577</LAT>
-    <LNG>-84.6639777558131</LNG>
+    <LAT>39.7033304</LAT>
+    <LNG>-84.6622930593908</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1818672</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>10/25/2026 06:40 PM</OutageTime>
     <EstimateTime>10/25/2026 09:00 PM</EstimateTime>
   </Markers>
@@ -44,7 +55,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>10/25/2026 7:20:32 PM</Outageat>
+    <TotalOut>5</TotalOut>
+    <Outageat>10/25/2026 7:35:32 PM</Outageat>
   </Message>
 </Incidents>

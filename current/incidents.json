@@ -1,8 +1,8 @@
 [
   {
     "id": 1818671,
-    "lat": 39.74363826,
-    "lng": -83.462514627821,
+    "lat": 39.74491096,
+    "lng": -83.4608288366124,
     "customers_affected": 1,
     "county": "MADISON",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1818672,
-    "lat": 39.7020577,
-    "lng": -84.6639777558131,
+    "lat": 39.7033304,
+    "lng": -84.6622930593908,
     "customers_affected": 3,
     "county": "PREBLE",
     "indicator": "D",
     "outage_time": "2026-10-25T18:40:00",
+    "estimate_time": "2026-10-25T21:00:00"
+  },
+  {
+    "id": 1818674,
+    "lat": 39.42581903,
+    "lng": -83.7475756843283,
+    "customers_affected": 1,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-10-25T19:24:00",
     "estimate_time": "2026-10-25T21:00:00"
   }
 ]
