@@ -16,19 +16,12 @@ See [docs/local-dev.md](docs/local-dev.md).
 
 **Upcoming:**
 * Incident-size distribution chart
-  * Settings
-    * Moment in time
-      * Might be a control outside of settings? Or exist multiple ways?
-    * Y-axis: customers vs incidents DONE
-    * Cummulative vs bar chart for x-axis DONE
-    * Linear vs log x-axis (cumm only? or also bar chart?) DONE
-    * No toggle for linear vs log for y-axis
-  * Initially, just use the latest time
-  * Anything that accumulates across a time range? What rule would even be used for defining the size of outages correctly? And they might duplicate customers affected if a new incident is a subset of an older, larger one.
-  * Tie this to the mouse position on another chart? Or use a different control mechanism?
   * Might want a time-picker component that can be reused, that uses the known time divisions. Then that can be used with the chart or it can key off another chart or control, like a scrub-bar.
     * Could have a variant for time range picker that supports choosing two endpoints (probably last two dates clicked) or dragging a range.
     * Might need to handle different scales of selection, such as times within a day vs days in a month or two vs months in a year.
+    * Might just be a zoomable timeline, not a standard "picker"? Or combined?
+  * Support selecting a time range? What rule would even be used for defining the size of outages correctly? And they might duplicate customers affected if a new incident is a subset of an older, larger one.
+  * Do anything to make the arrows more usable? Specifically, do something to keep buckets more stable across adjacent times? Or do something to preview what happened befoe or after that time? And are those previews only on hover of the arrows, or always visible? And how far ahead/back does it look?
 * The AES server returns 502 at 1:23am on Saturdays. The fetch-data Github workflow now retries a few times. We should double check if it actually fetches data in that 15min window now, or if it is being delayed into the next 15min window. If the retries don't help, we can back them off or just exit gracefully on 502.
   * This wasn't an issue on Oct 25.
 * Incident map with time-travel scrub-bar

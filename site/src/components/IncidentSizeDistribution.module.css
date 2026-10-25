@@ -14,6 +14,35 @@
   margin: 0;
 }
 
+.stepper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--text);
+}
+
+.stepper button {
+  padding: 2px 8px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: none;
+  color: var(--text);
+  font: inherit;
+  cursor: pointer;
+}
+
+.stepper button:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.momentLabel {
+  min-width: 13em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+}
+
 .chartWrap {
   position: relative;
   height: 340px;

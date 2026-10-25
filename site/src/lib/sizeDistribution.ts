@@ -8,37 +8,31 @@ export interface SizeDistributionBucket {
 }
 
 // Reads each incident's customers_affected value as it stood at a given
-// moment - the commit whose commit_at is closest to targetTimestamp - among
-// incidents active at that moment ("active" meaning _first_seen_commit and
-// _last_seen_commit straddle that commit). "As it stood" means the
+// commit, among incidents active then ("active" meaning _first_seen_commit
+// and _last_seen_commit straddle that commit). "As it stood" means the
 // item_version row with the greatest _commit not after that commit (its
 // most recent recorded snapshot as of then, whether or not that commit
-// itself introduced a new version row). This is the moment-in-time
-// distribution chart from the README notes; a future scrubber would drive
-// targetTimestamp from a UI control instead of a fixed value.
-export function queryCustomersAffectedAsOf(db: Database, targetTimestamp: string): number[] {
-  const result = db.exec(`
-    WITH target_commit AS (
-      SELECT id
-      FROM commits
-      ORDER BY ABS(strftime('%s', commit_at) - strftime('%s', '${targetTimestamp}'))
-      LIMIT 1
-    ),
-    latest_version AS (
+// itself introduced a new version row).
+export function queryCustomersAffectedAt(db: Database, commitId: number): number[] {
+  const result = db.exec(
+    `
+    WITH latest_version AS (
       SELECT
         _item,
         customers_affected,
         ROW_NUMBER() OVER (PARTITION BY _item ORDER BY _commit DESC) AS rn
       FROM item_version
-      WHERE _commit <= (SELECT id FROM target_commit)
+      WHERE _commit <= :commit
     )
     SELECT lv.customers_affected
     FROM latest_version lv
     JOIN item i ON i._id = lv._item
     WHERE lv.rn = 1
-      AND i._first_seen_commit <= (SELECT id FROM target_commit)
-      AND i._last_seen_commit >= (SELECT id FROM target_commit)
-  `)[0]
+      AND i._first_seen_commit <= :commit
+      AND i._last_seen_commit >= :commit
+  `,
+    { ':commit': commitId },
+  )[0]
 
   return (result?.values ?? []).map(([customers]) => customers as number)
 }

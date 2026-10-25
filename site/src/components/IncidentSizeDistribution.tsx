@@ -1,4 +1,15 @@
-import { useEffect, useMemo, useState } from 'react'
+/**
+ * * Chart configuration
+ *   * Moment in time
+ *     * Defaults to most recent data
+ *     * Can be passed moments to control the time
+ *     * In the future, might support time ranges
+ *   * Y-axis: customers vs incidents
+ *   * Cummulative vs bar chart for x-axis
+ *   * Linear vs log x-axis
+ *   * No toggle for linear vs log for y-axis
+ */
+import { useMemo, useState } from 'react'
 import {
   Chart as ChartJS,
   BarElement,
@@ -9,14 +20,14 @@ import {
   PointElement,
   Tooltip,
 } from 'chart.js'
-import type { Database } from 'sql.js'
 import { Bar, Line } from 'react-chartjs-2'
-import { loadHistoryDb } from '../lib/historyDb'
+import { formatMoment, type Moment } from '../lib/moments'
+import type { HistoryDbState } from '../lib/useHistoryDb'
 import {
   cumulativePoints,
   linearBuckets,
   logBuckets,
-  queryCustomersAffectedAsOf,
+  queryCustomersAffectedAt,
   type CumulativePoint,
   type SizeDistributionBucket,
 } from '../lib/sizeDistribution'
@@ -27,13 +38,6 @@ import styles from './IncidentSizeDistribution.module.css'
 ChartJS.register(BarElement, CategoryScale, LinearScale, LineElement, LogarithmicScale, PointElement, Tooltip)
 
 const COLOR = '#0072B2'
-
-// Temporary: pin the chart to a fixed moment instead of always-latest data,
-// until the moment-in-time scrubber described in the README exists. This is
-// 2026-09-16 8:05 PM America/New_York (EDT, UTC-4, so 00:05 the next day in
-// UTC) - commit_at is stored as UTC, so the offset is applied here rather
-// than left implicit.
-const PINNED_MOMENT = '2026-09-17T00:05:00Z'
 
 function bucketLabel(bucket: SizeDistributionBucket): string {
   return bucket.start === bucket.end ? `${bucket.start}` : `${bucket.start}–${bucket.end}`
@@ -186,40 +190,30 @@ function CumulativeDistribution({
   )
 }
 
-type LoadState = { status: 'loading' } | { status: 'error'; message: string } | { status: 'ready'; db: Database }
+interface IncidentSizeDistributionProps {
+  dbState: HistoryDbState
+  moments: Moment[]
+  // Index into moments of the moment to show.
+  selectedIndex: number
+  onSelectIndex: (index: number) => void
+}
 
-export function IncidentSizeDistribution() {
-  const [state, setState] = useState<LoadState>({ status: 'loading' })
+export function IncidentSizeDistribution({
+  dbState,
+  moments,
+  selectedIndex,
+  onSelectIndex,
+}: IncidentSizeDistributionProps) {
   const [options, setOptions] = useState<DistributionOptions>({
     metric: 'incidents',
     aggregation: 'bucketed',
     xScale: 'linear',
   })
 
-  useEffect(() => {
-    let cancelled = false
-
-    loadHistoryDb()
-      .then((db) => {
-        if (!cancelled) setState({ status: 'ready', db })
-      })
-      .catch((error: unknown) => {
-        if (!cancelled) {
-          setState({
-            status: 'error',
-            message: error instanceof Error ? error.message : 'Unknown error',
-          })
-        }
-      })
-
-    return () => {
-      cancelled = true
-    }
-  }, [])
-
+  const moment = moments[selectedIndex] as Moment | undefined
   const values = useMemo(
-    () => (state.status === 'ready' ? queryCustomersAffectedAsOf(state.db, PINNED_MOMENT) : []),
-    [state],
+    () => (dbState.status === 'ready' && moment ? queryCustomersAffectedAt(dbState.db, moment.commitId) : []),
+    [dbState, moment],
   )
   const buckets = useMemo(
     () => (options.xScale === 'log' ? logBuckets(values) : linearBuckets(values)),
@@ -227,13 +221,19 @@ export function IncidentSizeDistribution() {
   )
   const points = useMemo(() => cumulativePoints(values), [values])
 
-  if (state.status === 'loading') {
+  if (dbState.status === 'loading') {
     return <p className={styles.status}>Loading incident size data…</p>
   }
 
-  if (state.status === 'error') {
-    return <p className={styles.status}>Couldn't load incident size data: {state.message}</p>
+  if (dbState.status === 'error') {
+    return <p className={styles.status}>Couldn't load incident size data: {dbState.message}</p>
   }
+
+  if (!moment) {
+    return <p className={styles.status}>No incident size data yet.</p>
+  }
+
+  const latestIndex = moments.length - 1
 
   return (
     <div className={styles.wrap}>
@@ -242,8 +242,31 @@ export function IncidentSizeDistribution() {
         <DistributionSettings options={options} onChange={setOptions} />
       </div>
 
+      <div className={styles.stepper}>
+        <button
+          type="button"
+          aria-label="Previous moment"
+          disabled={selectedIndex === 0}
+          onClick={() => onSelectIndex(selectedIndex - 1)}
+        >
+          ◀
+        </button>
+        <span className={styles.momentLabel}>{formatMoment(moment)}</span>
+        <button
+          type="button"
+          aria-label="Next moment"
+          disabled={selectedIndex === latestIndex}
+          onClick={() => onSelectIndex(selectedIndex + 1)}
+        >
+          ▶
+        </button>
+        <button type="button" disabled={selectedIndex === latestIndex} onClick={() => onSelectIndex(latestIndex)}>
+          Latest
+        </button>
+      </div>
+
       <div className={styles.chartWrap}>
-        <InfoTooltip text="This chart is temporarily pinned to a single moment (Sep 16, 2026, 8:05 PM Eastern) while the moment-in-time scrubber is built." />
+        <InfoTooltip text="Click the heartbeat chart to pick a moment, then use the arrows to step between updates. Updates come from the history database, which is rebuilt about daily, so the latest one can lag the heartbeat chart." />
         {options.aggregation === 'bucketed' ? (
           <BarDistribution buckets={buckets} metric={options.metric} />
         ) : (

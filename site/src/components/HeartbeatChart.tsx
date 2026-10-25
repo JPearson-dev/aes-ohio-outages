@@ -7,6 +7,8 @@ import {
   LineElement,
   Tooltip,
   Legend,
+  type ChartType,
+  type Plugin,
 } from 'chart.js'
 import 'chartjs-adapter-date-fns'
 import { Line } from 'react-chartjs-2'
@@ -23,12 +25,51 @@ const SERIES: (ChartLegendItem & { yAxisID: string })[] = [
   { key: 'avg', label: 'Avg customers/incident', color: '#009E73', dash: 'dotted', yAxisID: 'y2' },
 ]
 
+interface HeartbeatChartProps {
+  // x value (see easternWallClockMs) to draw the selected-moment marker at.
+  selectedMs?: number
+  // Called with the clicked x value; omitted while there's nothing to select.
+  onSelect?: (chartMs: number) => void
+}
+
+interface MomentMarkerOptions {
+  at?: number
+}
+
+declare module 'chart.js' {
+  interface PluginOptionsByType<TType extends ChartType> {
+    momentMarker?: MomentMarkerOptions
+  }
+}
+
+// Draws a vertical line at options.plugins.momentMarker.at - the selected
+// moment, on the same x scale as the heartbeat rows.
+const momentMarker: Plugin<'line', MomentMarkerOptions> = {
+  id: 'momentMarker',
+  afterDatasetsDraw(chart, _args, options) {
+    if (options.at === undefined) return
+    const { ctx, chartArea, scales } = chart
+    const x = scales.x.getPixelForValue(options.at)
+    if (x < chartArea.left || x > chartArea.right) return
+    ctx.save()
+    ctx.strokeStyle = MARKER_COLOR
+    ctx.lineWidth = 2
+    ctx.beginPath()
+    ctx.moveTo(x, chartArea.top)
+    ctx.lineTo(x, chartArea.bottom)
+    ctx.stroke()
+    ctx.restore()
+  },
+}
+
+const MARKER_COLOR = '#CC79A7'
+
 type LoadState =
   | { status: 'loading' }
   | { status: 'error'; message: string }
   | { status: 'ready'; rows: HeartbeatRow[] }
 
-export function HeartbeatChart() {
+export function HeartbeatChart({ selectedMs, onSelect }: HeartbeatChartProps) {
   const [state, setState] = useState<LoadState>({ status: 'loading' })
   const [hidden, setHidden] = useState<ReadonlySet<string>>(new Set(['avg']))
 
@@ -74,6 +115,7 @@ export function HeartbeatChart() {
       <ChartLegend items={SERIES} hidden={hidden} onToggle={toggleSeries} />
 
       <Line
+        plugins={[momentMarker]}
         data={{
           datasets: [
             {
@@ -118,7 +160,15 @@ export function HeartbeatChart() {
           maintainAspectRatio: false,
           animation: false,
           interaction: { mode: 'index', intersect: false },
-          plugins: { legend: { display: false } },
+          onClick: (event, _elements, chart) => {
+            if (!onSelect || event.x === null) return
+            const chartMs = chart.scales.x.getValueForPixel(event.x)
+            if (chartMs !== undefined) onSelect(chartMs)
+          },
+          onHover: (_event, _elements, chart) => {
+            chart.canvas.style.cursor = onSelect ? 'pointer' : ''
+          },
+          plugins: { legend: { display: false }, momentMarker: { at: selectedMs } },
           scales: {
             x: {
               type: 'time',
