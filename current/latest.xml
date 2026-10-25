@@ -1,36 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.05853214</LAT>
-    <LNG>-84.203372098045</LNG>
+    <LAT>40.05836304</LAT>
+    <LNG>-84.2035971889017</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1818646</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>6</total>
+    <total>3</total>
     <OutageTime>10/25/2026 11:10 AM</OutageTime>
     <EstimateTime>10/25/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75770976</LAT>
-    <LNG>-84.1349738133119</LNG>
+    <LAT>39.75754066</LAT>
+    <LNG>-84.1351978417115</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818642</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
+    <total>3</total>
     <OutageTime>10/25/2026 10:27 AM</OutageTime>
-    <EstimateTime>10/25/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.31971701</LAT>
-    <LNG>-84.1253947298277</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1818644</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>6</total>
-    <OutageTime>10/25/2026 11:02 AM</OutageTime>
     <EstimateTime>10/25/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -115,7 +104,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>3</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>10/25/2026 12:05:32 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>10/25/2026 12:20:32 PM</Outageat>
   </Message>
 </Incidents>
