@@ -1,15 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.50118488</LAT>
-    <LNG>-84.5330942920595</LNG>
+    <LAT>39.74534706</LAT>
+    <LNG>-83.4602511878766</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818671</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MADISON</COUNTY>
+    <total>3</total>
+    <OutageTime>10/25/2026 06:37 PM</OutageTime>
+    <EstimateTime>10/25/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.50063308</LAT>
+    <LNG>-84.533833997875</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818669</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>1</total>
+    <total>3</total>
     <OutageTime>10/25/2026 05:26 PM</OutageTime>
     <EstimateTime>10/25/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7037665</LAT>
+    <LNG>-84.6617157857916</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818672</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>3</total>
+    <OutageTime>10/25/2026 06:40 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -65,7 +87,7 @@
   </Counties>
   <Counties>
     <County>MADISON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MERCER</County>
@@ -85,7 +107,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -110,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>10/25/2026 6:35:32 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>10/25/2026 6:50:32 PM</Outageat>
   </Message>
 </Incidents>
