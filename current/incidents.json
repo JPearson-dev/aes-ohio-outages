@@ -1,8 +1,8 @@
 [
   {
     "id": 1818648,
-    "lat": 40.38607256,
-    "lng": -83.7288553768518,
+    "lat": 40.38511136,
+    "lng": -83.7301415538036,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1818650,
-    "lat": 40.3750181,
-    "lng": -83.7301173943454,
+    "lat": 40.3740569,
+    "lng": -83.731403343821,
     "customers_affected": 28,
     "county": "LOGAN",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1818651,
-    "lat": 39.73618173,
-    "lng": -83.7719012469258,
+    "lat": 39.73522053,
+    "lng": -83.7731742709157,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -31,12 +31,22 @@
   },
   {
     "id": 1818652,
-    "lat": 39.68879433,
-    "lng": -84.1306825852763,
+    "lat": 39.68783313,
+    "lng": -84.1319546675034,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-25T13:12:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-25T16:00:00"
+  },
+  {
+    "id": 1818653,
+    "lat": 40.23904335,
+    "lng": -83.3667268714875,
+    "customers_affected": 1,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-10-25T13:25:00",
+    "estimate_time": "2026-10-25T16:00:00"
   }
 ]

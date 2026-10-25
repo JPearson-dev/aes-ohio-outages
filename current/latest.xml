@@ -1,48 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.73618173</LAT>
-    <LNG>-83.7719012469258</LNG>
+    <LAT>39.73522053</LAT>
+    <LNG>-83.7731742709157</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818651</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>31</total>
+    <total>32</total>
     <OutageTime>10/25/2026 01:00 PM</OutageTime>
     <EstimateTime>10/25/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.38607256</LAT>
-    <LNG>-83.7288553768518</LNG>
+    <LAT>40.38511136</LAT>
+    <LNG>-83.7301415538036</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818648</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>31</total>
+    <total>32</total>
     <OutageTime>10/25/2026 12:40 PM</OutageTime>
     <EstimateTime>10/25/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.3750181</LAT>
-    <LNG>-83.7301173943454</LNG>
+    <LAT>40.3740569</LAT>
+    <LNG>-83.731403343821</LNG>
     <TOTALCUSTS>28</TOTALCUSTS>
     <INCIDENTID>1818650</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>31</total>
+    <total>32</total>
     <OutageTime>10/25/2026 12:38 PM</OutageTime>
     <EstimateTime>10/25/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68879433</LAT>
-    <LNG>-84.1306825852763</LNG>
+    <LAT>39.68783313</LAT>
+    <LNG>-84.1319546675034</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818652</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>31</total>
+    <total>32</total>
     <OutageTime>10/25/2026 01:12 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/25/2026 04:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.23904335</LAT>
+    <LNG>-83.3667268714875</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818653</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>32</total>
+    <OutageTime>10/25/2026 01:25 PM</OutageTime>
+    <EstimateTime>10/25/2026 04:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -130,7 +141,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>31</TotalOut>
-    <Outageat>10/25/2026 1:20:32 PM</Outageat>
+    <TotalOut>32</TotalOut>
+    <Outageat>10/25/2026 1:35:32 PM</Outageat>
   </Message>
 </Incidents>
