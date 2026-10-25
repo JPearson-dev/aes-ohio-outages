@@ -2,16 +2,51 @@ import { useEffect, useRef, useState } from 'react'
 import styles from './DistributionSettings.module.css'
 
 export type DistributionMetric = 'incidents' | 'customers'
+export type DistributionAggregation = 'bucketed' | 'cumulative'
+export type DistributionXScale = 'linear' | 'log'
 
-interface DistributionSettingsProps {
+export interface DistributionOptions {
   metric: DistributionMetric
-  onChange: (metric: DistributionMetric) => void
+  aggregation: DistributionAggregation
+  xScale: DistributionXScale
 }
 
-// A single either/or choice needs no preview/validation/Save-Cancel step
-// like BreakpointsSettings' free-text input does - picking an option applies
-// it immediately, and the popover just stays open until an outside click.
-export function DistributionSettings({ metric, onChange }: DistributionSettingsProps) {
+interface DistributionSettingsProps {
+  options: DistributionOptions
+  onChange: (options: DistributionOptions) => void
+}
+
+interface RadioGroupProps<T extends string> {
+  label: string
+  name: string
+  value: T
+  choices: { value: T; label: string }[]
+  onChange: (value: T) => void
+}
+
+function RadioGroup<T extends string>({ label, name, value, choices, onChange }: RadioGroupProps<T>) {
+  return (
+    <fieldset className={styles.group}>
+      <legend className={styles.label}>{label}</legend>
+      {choices.map((choice) => (
+        <label key={choice.value} className={styles.option}>
+          <input
+            type="radio"
+            name={name}
+            checked={value === choice.value}
+            onChange={() => onChange(choice.value)}
+          />
+          {choice.label}
+        </label>
+      ))}
+    </fieldset>
+  )
+}
+
+// Either/or choices need no preview/validation/Save-Cancel step like
+// BreakpointsSettings' free-text input does - picking an option applies it
+// immediately, and the popover just stays open until an outside click.
+export function DistributionSettings({ options, onChange }: DistributionSettingsProps) {
   const [open, setOpen] = useState(false)
   const wrapRef = useRef<HTMLSpanElement>(null)
 
@@ -52,25 +87,36 @@ export function DistributionSettings({ metric, onChange }: DistributionSettingsP
 
       {open && (
         <div className={styles.popover}>
-          <p className={styles.label}>Y Axis</p>
-          <label className={styles.option}>
-            <input
-              type="radio"
-              name="distribution-y-metric"
-              checked={metric === 'incidents'}
-              onChange={() => onChange('incidents')}
-            />
-            Incident count
-          </label>
-          <label className={styles.option}>
-            <input
-              type="radio"
-              name="distribution-y-metric"
-              checked={metric === 'customers'}
-              onChange={() => onChange('customers')}
-            />
-            Total customers affected
-          </label>
+          <RadioGroup
+            label="Aggregation"
+            name="distribution-aggregation"
+            value={options.aggregation}
+            choices={[
+              { value: 'bucketed', label: 'Per bucket' },
+              { value: 'cumulative', label: 'Cumulative' },
+            ]}
+            onChange={(aggregation) => onChange({ ...options, aggregation })}
+          />
+          <RadioGroup
+            label="X-Axis Scale"
+            name="distribution-x-scale"
+            value={options.xScale}
+            choices={[
+              { value: 'linear', label: 'Linear' },
+              { value: 'log', label: 'Log' },
+            ]}
+            onChange={(xScale) => onChange({ ...options, xScale })}
+          />
+          <RadioGroup
+            label="Measured Value"
+            name="distribution-y-metric"
+            value={options.metric}
+            choices={[
+              { value: 'incidents', label: 'Incident count' },
+              { value: 'customers', label: 'Total customers affected' },
+            ]}
+            onChange={(metric) => onChange({ ...options, metric })}
+          />
         </div>
       )}
     </span>

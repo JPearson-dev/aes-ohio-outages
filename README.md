@@ -15,24 +15,22 @@ See [docs/local-dev.md](docs/local-dev.md).
 ## 🚧 Project Status & Roadmap
 
 **Upcoming:**
-* For a moment in time, a distribution chart of incident size.
-  * Initially, just use the latest time
+* Incident-size distribution chart
   * Settings
     * Moment in time
       * Might be a control outside of settings? Or exist multiple ways?
     * Y-axis: customers vs incidents DONE
-    * Cummulative vs bar chart for x-axis
-    * Linear vs log x-axis (cumm only? or also bar chart?)
+    * Cummulative vs bar chart for x-axis DONE
+    * Linear vs log x-axis (cumm only? or also bar chart?) DONE
     * No toggle for linear vs log for y-axis
+  * Initially, just use the latest time
   * Anything that accumulates across a time range? What rule would even be used for defining the size of outages correctly? And they might duplicate customers affected if a new incident is a subset of an older, larger one.
-  * Might want to use some kind of dynamic bucket width? The idea is to have small bucket widths, but not tiny ones. We don't want every value between 1 and 1k. Maybe we just do up to 50 equal-width buckets? Or we do a somewhat log-based approach? That could also be up to 50 buckets (or however many), but figuring the base that produces the desired number of buckets. Could have a toggle to swap bucket method. Just round the log-scale buckets to the integer values marking the top and bottom of the range. And any buckets that have no integers in them should just be dropped or maybe the algorithm would need to try again with a different root to preserve the exact number of buckets while skipping inherently empty buckets? That would kind of skew the chart, but it's probably ok. I suppose a cummulative chart would be better than a bar chart for that... but I still like the bar chart concept because it says how many things (incidents) are in a spot, which is more useful seeing how many things are no larger than that size. I guess that isn't totally useless. So that might be a second toggle. And then there's whether the y axis is incidents or impacted customers, which might be a third toggle. Probably not a toggle per-se but a bar with two segments, one for each option; which is active needs to be relatively obvious, which suggests a non-gray color for the active one, since some systems use styles that suggest the active choice has an "active" style and some prefer a "already pressed button", which are opposites. I suppose if we offer log for the x axis we need to decide if we offer it for the y axis.
-    * The optimization problem isn't that bad. A for loop should be fine. Or use binary search. As soon as a bucket is wider that 1, there will be no more buckets lacking integers. You could even use that to avoid iterating over buckets: find when a bucket first exceeds width of 1. Every non-empty bucket smaller than that has 1 integer, and you know how many smaller integers there are. You know how many buckets are empty from a little math. I like the idea of the bars keeping the same count but just quickly shifting in heights when the scale changes. I suppose I'm not thinking of how to solve for x^i - x^(i-1). That's harder than solving for x^2 - (x-1)^2, which is the easy case I initially thought of. [Claude realized it's actually quite simple: the width is exactly x^(i-1) * (x-1).]
-    * The more interesting edge case is what we do when there are genuinely no larger incidents. Maybe the setting is disabled or we are forced to either fallback to linear or just pick a "reasonable" number of bars.
   * Tie this to the mouse position on another chart? Or use a different control mechanism?
   * Might want a time-picker component that can be reused, that uses the known time divisions. Then that can be used with the chart or it can key off another chart or control, like a scrub-bar.
     * Could have a variant for time range picker that supports choosing two endpoints (probably last two dates clicked) or dragging a range.
     * Might need to handle different scales of selection, such as times within a day vs days in a month or two vs months in a year.
 * The AES server returns 502 at 1:23am on Saturdays. The fetch-data Github workflow now retries a few times. We should double check if it actually fetches data in that 15min window now, or if it is being delayed into the next 15min window. If the retries don't help, we can back them off or just exit gracefully on 502.
+  * This wasn't an issue on Oct 25.
 * Incident map with time-travel scrub-bar
   * Need underlying map tiles
   * Need county boundaries
@@ -56,7 +54,6 @@ See [docs/local-dev.md](docs/local-dev.md).
   * Rebuild more often, e.g. hourly, gated by recency of last build and level of current outages, rather than a flat daily cadence.
   * Keep some older versions of the db around for anyone who loaded recently and hasn't refreshed?
   * Show a warning if the old db is missing? Maybe suggest refresh in a red banner and disable new queries until then?
-* Have the GH Action for data ingest retry on failure?
 * Change the sqlite pattern to be inverted? Provide a base sqlite image, updated on some cadence for new visitors, then have the browser replay events up to the current one and keep it in OPFS. manifest.json tracks the latest file available. Use CSV, JSON, or sql .patch to hold new data. This would preserve offline querying, but require using up some visitor disk space. It's the browser's job to decide caching strategy, so that isn't really an issue.
   * Using a gh-pages branch for this makes the update much smoother for GitHub, because it can use git diff to natively do cache invalidation and CDN updates, instead of needing a full tarball of the site. An update to site code only touches the site, and an update to built data only touches the data. In fact, we can just use a patch commit via the API instead of checking out the whole branch to make the commit. We also don't need an action cache, keeping the actions as simple as possible.
   * Rely on webapp polling for updated data availability.

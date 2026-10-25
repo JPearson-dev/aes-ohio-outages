@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { linearBuckets } from './sizeDistribution'
+import { cumulativePoints, linearBuckets, logBuckets } from './sizeDistribution'
 
 describe('linearBuckets', () => {
   it('returns nothing for no values', () => {
@@ -50,5 +50,66 @@ describe('linearBuckets', () => {
       { start: 5, end: 8, count: 2, customersTotal: 13 },
       { start: 9, end: 10, count: 2, customersTotal: 19 },
     ])
+  })
+})
+
+describe('logBuckets', () => {
+  it('returns nothing for no values', () => {
+    expect(logBuckets([])).toEqual([])
+  })
+
+  it('matches linearBuckets when the range has no more integers than maxBuckets', () => {
+    const values = [1, 2, 2, 7, 30]
+    expect(logBuckets(values, 50)).toEqual(linearBuckets(values, 50))
+  })
+
+  it('fills exactly maxBuckets contiguous buckets for a wide range', () => {
+    const values = [1, 2, 3, 10, 100, 1000, 3276]
+    const buckets = logBuckets(values, 50)
+    expect(buckets).toHaveLength(50)
+    expect(buckets[0].start).toBe(1)
+    expect(buckets.at(-1)!.end).toBe(3276)
+    for (let i = 1; i < buckets.length; i++) {
+      expect(buckets[i].start).toBe(buckets[i - 1].end + 1)
+    }
+  })
+
+  it('widths never shrink from one bucket to the next', () => {
+    const buckets = logBuckets([1, 5000], 30)
+    const widths = buckets.map((b) => b.end - b.start + 1)
+    for (let i = 1; i < widths.length; i++) {
+      expect(widths[i]).toBeGreaterThanOrEqual(widths[i - 1])
+    }
+  })
+
+  it('every value falls in exactly one bucket, and counts/totals sum to the input', () => {
+    const values = [1, 1, 2, 5, 9, 20, 20, 64, 65, 300, 2500]
+    const buckets = logBuckets(values, 10)
+    expect(buckets.reduce((sum, b) => sum + b.count, 0)).toBe(values.length)
+    expect(buckets.reduce((sum, b) => sum + b.customersTotal, 0)).toBe(values.reduce((a, b) => a + b, 0))
+    for (const value of values) {
+      const bucket = buckets.find((b) => b.start <= value && value <= b.end)!
+      expect(bucket.count).toBeGreaterThan(0)
+    }
+  })
+})
+
+describe('cumulativePoints', () => {
+  it('returns nothing for no values', () => {
+    expect(cumulativePoints([])).toEqual([])
+  })
+
+  it('gives one point per distinct value, accumulating counts and totals in order', () => {
+    expect(cumulativePoints([5, 1, 3, 1])).toEqual([
+      { value: 1, count: 2, customersTotal: 2 },
+      { value: 3, count: 3, customersTotal: 5 },
+      { value: 5, count: 4, customersTotal: 10 },
+    ])
+  })
+
+  it('does not reorder its input', () => {
+    const values = [3, 1, 2]
+    cumulativePoints(values)
+    expect(values).toEqual([3, 1, 2])
   })
 })

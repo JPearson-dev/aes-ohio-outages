@@ -61,6 +61,14 @@ export default defineConfig({
   // which is what this app actually is now - is the correct type, not a
   // workaround.
   appType: 'mpa',
+  build: {
+    // Vite's 500 kB default is aimed at apps where code splitting would
+    // defer real work. This is one page whose charts all render on load,
+    // using Chart.js and (for the distribution chart) sql.js right away, so
+    // splitting them out would add requests without shortening the wait -
+    // the warning is just noise at this size.
+    chunkSizeWarningLimit: 1000,
+  },
   plugins: [
     serveDirectoryIndexes(),
     react(),
