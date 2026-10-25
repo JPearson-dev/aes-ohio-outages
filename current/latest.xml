@@ -1,19 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.3745464</LAT>
-    <LNG>-83.7307484621436</LNG>
-    <TOTALCUSTS>28</TOTALCUSTS>
-    <INCIDENTID>1818650</INCIDENTID>
+    <LAT>39.73618173</LAT>
+    <LNG>-83.7719012469258</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818651</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
+    <COUNTY>GREENE</COUNTY>
     <total>31</total>
-    <OutageTime>10/25/2026 12:38 PM</OutageTime>
-    <EstimateTime>10/25/2026 03:00 PM</EstimateTime>
+    <OutageTime>10/25/2026 01:00 PM</OutageTime>
+    <EstimateTime>10/25/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.38560086</LAT>
-    <LNG>-83.7294865562819</LNG>
+    <LAT>40.38607256</LAT>
+    <LNG>-83.7288553768518</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818648</INCIDENTID>
     <IND>D</IND>
@@ -23,15 +23,26 @@
     <EstimateTime>10/25/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.05665424</LAT>
-    <LNG>-84.2058717912433</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1818646</INCIDENTID>
+    <LAT>40.3750181</LAT>
+    <LNG>-83.7301173943454</LNG>
+    <TOTALCUSTS>28</TOTALCUSTS>
+    <INCIDENTID>1818650</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
+    <COUNTY>LOGAN</COUNTY>
     <total>31</total>
-    <OutageTime>10/25/2026 11:10 AM</OutageTime>
-    <EstimateTime>10/25/2026 01:00 PM</EstimateTime>
+    <OutageTime>10/25/2026 12:38 PM</OutageTime>
+    <EstimateTime>10/25/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68879433</LAT>
+    <LNG>-84.1306825852763</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818652</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>31</total>
+    <OutageTime>10/25/2026 01:12 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -71,7 +82,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -95,11 +106,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>2</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -133,6 +144,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>31</TotalOut>
-    <Outageat>10/25/2026 1:05:32 PM</Outageat>
+    <Outageat>10/25/2026 1:20:32 PM</Outageat>
   </Message>
 </Incidents>
