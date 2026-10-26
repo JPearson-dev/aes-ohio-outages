@@ -1,46 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.73813126</LAT>
-    <LNG>-83.9516251622015</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818759</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>8</total>
-    <OutageTime>10/26/2026 12:32 PM</OutageTime>
-    <EstimateTime>10/26/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.87445045</LAT>
-    <LNG>-84.1062152465146</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1818745</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
-    <OutageTime>10/26/2026 11:25 AM</OutageTime>
-    <EstimateTime>10/26/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.77007002</LAT>
-    <LNG>-84.2066889263623</LNG>
+    <LAT>39.76846802</LAT>
+    <LNG>-84.2088116795122</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818749</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>8</total>
+    <total>3</total>
     <OutageTime>10/26/2026 11:33 AM</OutageTime>
     <EstimateTime>10/26/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75525502</LAT>
-    <LNG>-84.5589429882478</LNG>
+    <LAT>39.82945921</LAT>
+    <LNG>-84.2836591872933</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818761</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>3</total>
+    <OutageTime>10/26/2026 01:10 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.75365302</LAT>
+    <LNG>-84.5610652494618</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818750</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>8</total>
+    <total>3</total>
     <OutageTime>10/26/2026 11:39 AM</OutageTime>
     <EstimateTime>10/26/2026 01:00 PM</EstimateTime>
   </Markers>
@@ -82,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -110,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>6</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>8</TotalOut>
-    <Outageat>10/26/2026 1:05:32 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>10/26/2026 1:20:32 PM</Outageat>
   </Message>
 </Incidents>
