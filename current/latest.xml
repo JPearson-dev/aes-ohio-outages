@@ -1,15 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.80584541</LAT>
-    <LNG>-84.0046157683356</LNG>
+    <LAT>39.80245451</LAT>
+    <LNG>-84.0091114688772</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1818763</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>10/26/2026 01:25 PM</OutageTime>
     <EstimateTime>10/26/2026 04:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.85711604</LAT>
+    <LNG>-84.6163766144205</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818773</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>10</total>
+    <OutageTime>10/26/2026 02:45 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -85,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>9</TotalOut>
-    <Outageat>10/26/2026 2:35:32 PM</Outageat>
+    <TotalOut>10</TotalOut>
+    <Outageat>10/26/2026 2:50:35 PM</Outageat>
   </Message>
 </Incidents>
