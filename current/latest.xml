@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.74415446</LAT>
-    <LNG>-83.4618308803378</LNG>
+    <LAT>39.80291574</LAT>
+    <LNG>-84.1946140038123</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818687</INCIDENTID>
+    <INCIDENTID>1818688</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MADISON</COUNTY>
+    <COUNTY>MONTGOMERY</COUNTY>
     <total>1</total>
-    <OutageTime>10/25/2026 09:17 PM</OutageTime>
-    <EstimateTime>10/26/2026 01:00 AM</EstimateTime>
+    <OutageTime>10/25/2026 11:16 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -65,7 +65,7 @@
   </Counties>
   <Counties>
     <County>MADISON</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MERCER</County>
@@ -77,7 +77,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -111,6 +111,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>1</TotalOut>
-    <Outageat>10/25/2026 11:20:32 PM</Outageat>
+    <Outageat>10/25/2026 11:35:32 PM</Outageat>
   </Message>
 </Incidents>
