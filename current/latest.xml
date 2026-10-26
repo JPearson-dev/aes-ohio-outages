@@ -1,48 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.80360261</LAT>
-    <LNG>-84.0075893025521</LNG>
+    <LAT>39.80326441</LAT>
+    <LNG>-84.0080376926324</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1818763</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>12</total>
+    <total>10</total>
     <OutageTime>10/26/2026 01:25 PM</OutageTime>
     <EstimateTime>10/26/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82850691</LAT>
-    <LNG>-84.284922252372</LNG>
+    <LAT>39.73330175</LAT>
+    <LNG>-84.296701026975</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818761</INCIDENTID>
+    <INCIDENTID>1818767</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>12</total>
-    <OutageTime>10/26/2026 01:10 PM</OutageTime>
-    <EstimateTime>10/26/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76751572</LAT>
-    <LNG>-84.2100735383291</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818749</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>12</total>
-    <OutageTime>10/26/2026 11:33 AM</OutageTime>
-    <EstimateTime>10/26/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.75270072</LAT>
-    <LNG>-84.5623268158501</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818750</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>12</total>
-    <OutageTime>10/26/2026 11:39 AM</OutageTime>
-    <EstimateTime>10/26/2026 01:00 PM</EstimateTime>
+    <total>10</total>
+    <OutageTime>10/26/2026 01:44 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -110,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -118,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -143,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>12</TotalOut>
-    <Outageat>10/26/2026 1:35:32 PM</Outageat>
+    <TotalOut>10</TotalOut>
+    <Outageat>10/26/2026 1:50:32 PM</Outageat>
   </Message>
 </Incidents>
