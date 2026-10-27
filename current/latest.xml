@@ -1,37 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.74308173</LAT>
-    <LNG>-84.2292236400012</LNG>
-    <TOTALCUSTS>26</TOTALCUSTS>
-    <INCIDENTID>1818827</INCIDENTID>
+    <LAT>40.48932305</LAT>
+    <LNG>-83.8708868526744</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818837</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>204</total>
-    <OutageTime>10/27/2026 08:16 AM</OutageTime>
-    <EstimateTime>10/27/2026 10:00 AM</EstimateTime>
+    <COUNTY>LOGAN</COUNTY>
+    <total>205</total>
+    <OutageTime>10/27/2026 08:35 AM</OutageTime>
+    <EstimateTime>10/27/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82109877</LAT>
-    <LNG>-84.3154126136588</LNG>
+    <LAT>39.81949677</LAT>
+    <LNG>-84.3175371204593</LNG>
     <TOTALCUSTS>29</TOTALCUSTS>
     <INCIDENTID>1818826</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>204</total>
+    <total>205</total>
     <OutageTime>10/27/2026 08:24 AM</OutageTime>
     <EstimateTime>10/27/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79318725</LAT>
-    <LNG>-84.2980983162768</LNG>
+    <LAT>39.74147973</LAT>
+    <LNG>-84.2313455533768</LNG>
+    <TOTALCUSTS>26</TOTALCUSTS>
+    <INCIDENTID>1818827</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>205</total>
+    <OutageTime>10/27/2026 08:16 AM</OutageTime>
+    <EstimateTime>10/27/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.79158525</LAT>
+    <LNG>-84.3002218940397</LNG>
     <TOTALCUSTS>149</TOTALCUSTS>
     <INCIDENTID>1818835</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>204</total>
+    <total>205</total>
     <OutageTime>10/27/2026 08:24 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/27/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -83,7 +94,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>204</TotalOut>
-    <Outageat>10/27/2026 8:35:31 AM</Outageat>
+    <TotalOut>205</TotalOut>
+    <Outageat>10/27/2026 8:50:31 AM</Outageat>
   </Message>
 </Incidents>
