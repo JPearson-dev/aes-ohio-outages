@@ -1,24 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.11571695</LAT>
-    <LNG>-83.7291750342201</LNG>
+    <LAT>40.11824455</LAT>
+    <LNG>-83.7258073927538</LNG>
     <TOTALCUSTS>11</TOTALCUSTS>
     <INCIDENTID>1818804</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>13</total>
+    <total>12</total>
     <OutageTime>10/26/2026 07:48 PM</OutageTime>
     <EstimateTime>10/27/2026 06:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66035473</LAT>
-    <LNG>-83.9085094534648</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
+    <LAT>39.66288233</LAT>
+    <LNG>-83.9051658284427</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1818799</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>13</total>
+    <total>12</total>
     <OutageTime>10/26/2026 07:19 PM</OutageTime>
     <EstimateTime>10/27/2026 04:00 AM</EstimateTime>
   </Markers>
@@ -60,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -121,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>13</TotalOut>
-    <Outageat>10/27/2026 2:50:31 AM</Outageat>
+    <TotalOut>12</TotalOut>
+    <Outageat>10/27/2026 3:05:31 AM</Outageat>
   </Message>
 </Incidents>
