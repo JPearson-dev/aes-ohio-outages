@@ -1,19 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.51027465</LAT>
-    <LNG>-83.8394837115235</LNG>
+    <LAT>39.49671397</LAT>
+    <LNG>-83.6160630151318</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818923</INCIDENTID>
+    <INCIDENTID>1818933</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
+    <COUNTY>CLINTON</COUNTY>
     <total>4</total>
-    <OutageTime>10/27/2026 03:12 PM</OutageTime>
-    <EstimateTime>10/27/2026 05:00 PM</EstimateTime>
+    <OutageTime>10/27/2026 04:35 PM</OutageTime>
+    <EstimateTime>10/27/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83886402</LAT>
-    <LNG>-84.2867517528261</LNG>
+    <LAT>39.83947812</LAT>
+    <LNG>-84.2859371163689</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1818926</INCIDENTID>
     <IND>D</IND>
@@ -44,7 +44,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -72,7 +72,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -122,6 +122,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>4</TotalOut>
-    <Outageat>10/27/2026 4:35:31 PM</Outageat>
+    <Outageat>10/27/2026 4:50:31 PM</Outageat>
   </Message>
 </Incidents>
