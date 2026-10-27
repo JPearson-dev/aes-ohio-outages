@@ -1,48 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.08663117</LAT>
-    <LNG>-83.5406124751811</LNG>
+    <LAT>40.08310677</LAT>
+    <LNG>-83.5453058883442</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1818900</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>314</total>
+    <total>62</total>
     <OutageTime>10/27/2026 12:53 PM</OutageTime>
     <EstimateTime>10/27/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68819279</LAT>
-    <LNG>-83.9134249614533</LNG>
+    <LAT>40.10160037</LAT>
+    <LNG>-84.6161637230994</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1818908</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>62</total>
+    <OutageTime>10/27/2026 01:22 PM</OutageTime>
+    <EstimateTime>10/27/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.68466839</LAT>
+    <LNG>-83.9180890773279</LNG>
     <TOTALCUSTS>57</TOTALCUSTS>
     <INCIDENTID>1818843</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>314</total>
+    <total>62</total>
     <OutageTime>10/27/2026 09:51 AM</OutageTime>
     <EstimateTime>10/27/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.3079903</LAT>
-    <LNG>-83.5697582456719</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1818893</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
-    <total>314</total>
-    <OutageTime>10/27/2026 12:14 PM</OutageTime>
-    <EstimateTime>10/27/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.30763749</LAT>
-    <LNG>-83.5675226194171</LNG>
-    <TOTALCUSTS>248</TOTALCUSTS>
-    <INCIDENTID>1818905</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
-    <total>314</total>
-    <OutageTime>10/27/2026 12:25 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -70,7 +59,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -94,7 +83,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>253</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>314</TotalOut>
-    <Outageat>10/27/2026 1:20:31 PM</Outageat>
+    <TotalOut>62</TotalOut>
+    <Outageat>10/27/2026 1:35:31 PM</Outageat>
   </Message>
 </Incidents>
