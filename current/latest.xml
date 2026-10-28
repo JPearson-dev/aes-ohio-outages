@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.03746621</LAT>
-    <LNG>-84.0607862927442</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1818987</INCIDENTID>
+    <LAT>39.81012863</LAT>
+    <LNG>-84.0174356466948</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
+    <INCIDENTID>1818991</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>56</total>
-    <OutageTime>10/28/2026 08:59 AM</OutageTime>
+    <COUNTY>GREENE</COUNTY>
+    <total>74</total>
+    <OutageTime>10/28/2026 09:01 AM</OutageTime>
     <EstimateTime>10/28/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81556807</LAT>
-    <LNG>-84.2488825793856</LNG>
+    <LAT>39.8256138</LAT>
+    <LNG>-84.2173905724736</LNG>
+    <TOTALCUSTS>13</TOTALCUSTS>
+    <INCIDENTID>1818995</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>74</total>
+    <OutageTime>10/28/2026 09:06 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.81810457</LAT>
+    <LNG>-84.2455190456034</LNG>
     <TOTALCUSTS>55</TOTALCUSTS>
     <INCIDENTID>1818981</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>56</total>
+    <total>74</total>
     <OutageTime>10/28/2026 08:28 AM</OutageTime>
     <EstimateTime>10/28/2026 11:00 AM</EstimateTime>
   </Markers>
@@ -60,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>6</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -84,11 +95,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>55</TotOut>
+    <TotOut>68</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>56</TotalOut>
-    <Outageat>10/28/2026 9:05:31 AM</Outageat>
+    <TotalOut>74</TotalOut>
+    <Outageat>10/28/2026 9:20:30 AM</Outageat>
   </Message>
 </Incidents>
