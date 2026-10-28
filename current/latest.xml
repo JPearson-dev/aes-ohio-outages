@@ -1,8 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.36763921</LAT>
-    <LNG>-83.7611168339564</LNG>
+    <LAT>40.1141875</LAT>
+    <LNG>-84.6116680862695</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819025</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>133</total>
+    <OutageTime>10/28/2026 10:31 AM</OutageTime>
+    <EstimateTime>10/28/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.36619741</LAT>
+    <LNG>-83.7630455305179</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819013</INCIDENTID>
     <IND>D</IND>
@@ -12,19 +23,8 @@
     <EstimateTime>10/28/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.51950177</LAT>
-    <LNG>-84.6336353287318</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819017</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MERCER</COUNTY>
-    <total>133</total>
-    <OutageTime>10/28/2026 10:07 AM</OutageTime>
-    <EstimateTime>10/28/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.67266046</LAT>
-    <LNG>-84.1276703457459</LNG>
+    <LAT>39.67121866</LAT>
+    <LNG>-84.1295779889205</LNG>
     <TOTALCUSTS>54</TOTALCUSTS>
     <INCIDENTID>1819023</INCIDENTID>
     <IND>D</IND>
@@ -34,19 +34,19 @@
     <EstimateTime>10/28/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.67175975</LAT>
-    <LNG>-84.1277103710811</LNG>
+    <LAT>39.67031795</LAT>
+    <LNG>-84.1296179874612</LNG>
     <TOTALCUSTS>64</TOTALCUSTS>
     <INCIDENTID>1819024</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>133</total>
     <OutageTime>10/28/2026 10:20 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/28/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8228459</LAT>
-    <LNG>-84.2210613870854</LNG>
+    <LAT>39.8214041</LAT>
+    <LNG>-84.2229735155969</LNG>
     <TOTALCUSTS>13</TOTALCUSTS>
     <INCIDENTID>1818995</INCIDENTID>
     <IND>D</IND>
@@ -81,7 +81,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -113,7 +113,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -155,6 +155,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>133</TotalOut>
-    <Outageat>10/28/2026 10:35:31 AM</Outageat>
+    <Outageat>10/28/2026 10:50:31 AM</Outageat>
   </Message>
 </Incidents>
