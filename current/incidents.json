@@ -1,8 +1,8 @@
 [
   {
     "id": 1819055,
-    "lat": 39.68035867,
-    "lng": -84.0143917117827,
+    "lat": 39.68374957,
+    "lng": -84.0099045742794,
     "customers_affected": 5,
     "county": "GREENE",
     "indicator": "D",
@@ -11,12 +11,82 @@
   },
   {
     "id": 1819091,
-    "lat": 39.64136654,
-    "lng": -84.2882263513113,
+    "lat": 39.64475744,
+    "lng": -84.2837419404324,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-28T18:28:00",
     "estimate_time": "2026-10-28T21:00:00"
+  },
+  {
+    "id": 1819092,
+    "lat": 39.41928736,
+    "lng": -83.9971654525929,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:36:00",
+    "estimate_time": "2026-10-28T22:00:00"
+  },
+  {
+    "id": 1819093,
+    "lat": 40.1505886,
+    "lng": -84.5607664683978,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819094,
+    "lat": 40.13451006,
+    "lng": -84.526925005805,
+    "customers_affected": 2,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819095,
+    "lat": 40.1527286,
+    "lng": -84.5089079068082,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819096,
+    "lat": 40.14834994,
+    "lng": -84.5778874958111,
+    "customers_affected": 2,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819097,
+    "lat": 40.14891845,
+    "lng": -84.5300847866434,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819098,
+    "lat": 40.14837182,
+    "lng": -84.5871095100702,
+    "customers_affected": 2,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:42:00",
+    "estimate_time": null
   }
 ]
