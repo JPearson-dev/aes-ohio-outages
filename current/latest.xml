@@ -1,68 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.43715405</LAT>
-    <LNG>-83.8790603845527</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819073</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>48</total>
-    <OutageTime>10/28/2026 03:39 PM</OutageTime>
-    <EstimateTime>10/28/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.14668423</LAT>
-    <LNG>-84.6847622176732</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819077</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>48</total>
-    <OutageTime>10/28/2026 03:59 PM</OutageTime>
-    <EstimateTime>10/28/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.63034337</LAT>
-    <LNG>-83.8299375463375</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819074</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>48</total>
-    <OutageTime>10/28/2026 03:43 PM</OutageTime>
-    <EstimateTime>10/28/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.68281507</LAT>
-    <LNG>-84.0111411869771</LNG>
+    <LAT>39.68161357</LAT>
+    <LNG>-84.0127311175885</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1819055</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>48</total>
+    <total>46</total>
     <OutageTime>10/28/2026 11:55 AM</OutageTime>
-    <EstimateTime>10/28/2026 05:00 PM</EstimateTime>
+    <EstimateTime>10/28/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81269082</LAT>
-    <LNG>-84.207015675892</LNG>
-    <TOTALCUSTS>39</TOTALCUSTS>
+    <LAT>39.81148932</LAT>
+    <LNG>-84.2086088386574</LNG>
+    <TOTALCUSTS>40</TOTALCUSTS>
     <INCIDENTID>1819076</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>48</total>
+    <total>46</total>
     <OutageTime>10/28/2026 03:53 PM</OutageTime>
     <EstimateTime>10/28/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.32667485</LAT>
-    <LNG>-84.1401951149435</LNG>
+    <LAT>40.32547335</LAT>
+    <LNG>-84.1418012855662</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819080</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>48</total>
+    <total>46</total>
     <OutageTime>10/28/2026 04:24 PM</OutageTime>
     <EstimateTime>10/28/2026 06:00 PM</EstimateTime>
   </Markers>
@@ -88,11 +55,11 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -104,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>6</TotOut>
+    <TotOut>5</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -132,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>39</TotOut>
+    <TotOut>40</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -165,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>48</TotalOut>
-    <Outageat>10/28/2026 4:35:31 PM</Outageat>
+    <TotalOut>46</TotalOut>
+    <Outageat>10/28/2026 4:50:31 PM</Outageat>
   </Message>
 </Incidents>
