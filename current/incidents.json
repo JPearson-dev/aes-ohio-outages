@@ -1,18 +1,8 @@
 [
   {
-    "id": 1818995,
-    "lat": 39.8254981,
-    "lng": -84.217544014885,
-    "customers_affected": 13,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-10-28T09:06:00",
-    "estimate_time": "2026-10-28T18:00:00"
-  },
-  {
     "id": 1819055,
-    "lat": 39.68450607,
-    "lng": -84.0089035068574,
+    "lat": 39.68122197,
+    "lng": -84.0132493171952,
     "customers_affected": 5,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1819073,
-    "lat": 39.43884505,
-    "lng": -83.8768312253324,
+    "lat": 39.43556095,
+    "lng": -83.8811604871866,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1819074,
-    "lat": 39.63203437,
-    "lng": -83.827701695371,
+    "lat": 39.62875027,
+    "lng": -83.8320439533007,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -41,22 +31,42 @@
   },
   {
     "id": 1819076,
-    "lat": 39.81438182,
-    "lng": -84.2047734468148,
-    "customers_affected": 36,
+    "lat": 39.81109772,
+    "lng": -84.2091280917069,
+    "customers_affected": 38,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-28T15:53:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-28T18:00:00"
   },
   {
     "id": 1819077,
-    "lat": 40.14837523,
-    "lng": -84.6825081481293,
+    "lat": 40.14509113,
+    "lng": -84.686885788454,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-10-28T15:59:00",
-    "estimate_time": null
+    "estimate_time": "2026-10-28T18:00:00"
+  },
+  {
+    "id": 1819078,
+    "lat": 39.81270931,
+    "lng": -84.2099077708107,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-28T16:04:00",
+    "estimate_time": "2026-10-28T18:00:00"
+  },
+  {
+    "id": 1819079,
+    "lat": 39.54052708,
+    "lng": -83.4400822648382,
+    "customers_affected": 1,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T16:04:00",
+    "estimate_time": "2026-10-28T19:00:00"
   }
 ]
