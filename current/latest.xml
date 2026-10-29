@@ -1,47 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.45283806</LAT>
-    <LNG>-83.9269915660318</LNG>
+    <LAT>39.45449346</LAT>
+    <LNG>-83.924808787862</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819207</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>40</total>
+    <total>38</total>
     <OutageTime>10/29/2026 01:43 PM</OutageTime>
     <EstimateTime>10/29/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80932483</LAT>
-    <LNG>-84.1862208966301</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819188</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>40</total>
-    <OutageTime>10/29/2026 11:52 AM</OutageTime>
-    <EstimateTime>10/29/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.86777352</LAT>
-    <LNG>-84.1246239447797</LNG>
+    <LAT>39.86942892</LAT>
+    <LNG>-84.1224270030891</LNG>
     <TOTALCUSTS>37</TOTALCUSTS>
     <INCIDENTID>1819195</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>40</total>
+    <total>38</total>
     <OutageTime>10/29/2026 01:17 PM</OutageTime>
-    <EstimateTime>10/29/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.68590762</LAT>
-    <LNG>-84.1059559875757</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819210</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>40</total>
-    <OutageTime>10/29/2026 02:05 PM</OutageTime>
     <EstimateTime>10/29/2026 04:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -110,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>39</TotOut>
+    <TotOut>37</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>40</TotalOut>
-    <Outageat>10/29/2026 2:35:31 PM</Outageat>
+    <TotalOut>38</TotalOut>
+    <Outageat>10/29/2026 2:50:31 PM</Outageat>
   </Message>
 </Incidents>
