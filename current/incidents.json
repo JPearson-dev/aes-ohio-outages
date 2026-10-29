@@ -1,8 +1,8 @@
 [
   {
     "id": 1819055,
-    "lat": 39.68374957,
-    "lng": -84.0099045742794,
+    "lat": 39.68151567,
+    "lng": -84.0128606674902,
     "customers_affected": 5,
     "county": "GREENE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1819091,
-    "lat": 39.64475744,
-    "lng": -84.2837419404324,
+    "lat": 39.64252354,
+    "lng": -84.2866962373631,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1819092,
-    "lat": 39.41928736,
-    "lng": -83.9971654525929,
+    "lat": 39.41705346,
+    "lng": -84.0001094336469,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -30,63 +30,73 @@
     "estimate_time": "2026-10-28T22:00:00"
   },
   {
-    "id": 1819093,
-    "lat": 40.1505886,
-    "lng": -84.5607664683978,
-    "customers_affected": 1,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-10-28T19:42:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1819094,
-    "lat": 40.13451006,
-    "lng": -84.526925005805,
-    "customers_affected": 2,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-10-28T19:44:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1819095,
-    "lat": 40.1527286,
-    "lng": -84.5089079068082,
-    "customers_affected": 1,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-10-28T19:44:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1819096,
-    "lat": 40.14834994,
-    "lng": -84.5778874958111,
-    "customers_affected": 2,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-10-28T19:44:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1819097,
-    "lat": 40.14891845,
-    "lng": -84.5300847866434,
-    "customers_affected": 1,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-10-28T19:44:00",
-    "estimate_time": null
-  },
-  {
     "id": 1819098,
-    "lat": 40.14837182,
-    "lng": -84.5871095100702,
-    "customers_affected": 2,
+    "lat": 40.14613792,
+    "lng": -84.5900872901508,
+    "customers_affected": 19,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-10-28T19:42:00",
+    "estimate_time": "2026-10-28T22:00:00"
+  },
+  {
+    "id": 1819104,
+    "lat": 40.11688922,
+    "lng": -84.5469668978194,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:48:00",
+    "estimate_time": "2026-10-28T22:00:00"
+  },
+  {
+    "id": 1819109,
+    "lat": 40.14668455,
+    "lng": -84.533062592549,
+    "customers_affected": 18,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819110,
+    "lat": 40.14679248,
+    "lng": -84.5330885793286,
+    "customers_affected": 45,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819111,
+    "lat": 40.1467541,
+    "lng": -84.5318560375858,
+    "customers_affected": 120,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819115,
+    "lat": 40.14611604,
+    "lng": -84.580865274858,
+    "customers_affected": 18,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819116,
+    "lat": 40.15504244,
+    "lng": -84.098274544018,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-10-28T19:56:00",
     "estimate_time": null
   }
 ]
