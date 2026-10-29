@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.55900567</LAT>
-    <LNG>-84.3430216676608</LNG>
+    <LAT>40.56091027</LAT>
+    <LNG>-84.3404660802762</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819136</INCIDENTID>
     <IND>D</IND>
@@ -12,19 +12,8 @@
     <EstimateTime>10/29/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66652753</LAT>
-    <LNG>-83.7610425076272</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819138</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>3</total>
-    <OutageTime>10/29/2026 08:44 AM</OutageTime>
-    <EstimateTime>10/29/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.64648095</LAT>
-    <LNG>-84.1724102297353</LNG>
+    <LAT>39.64838555</LAT>
+    <LNG>-84.1698913168864</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819135</INCIDENTID>
     <IND>D</IND>
@@ -32,6 +21,17 @@
     <total>3</total>
     <OutageTime>10/29/2026 08:20 AM</OutageTime>
     <EstimateTime>10/29/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7571246</LAT>
+    <LNG>-84.5995790516951</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819143</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>3</total>
+    <OutageTime>10/29/2026 09:14 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -71,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -107,7 +107,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -133,6 +133,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>3</TotalOut>
-    <Outageat>10/29/2026 9:05:31 AM</Outageat>
+    <Outageat>10/29/2026 9:20:31 AM</Outageat>
   </Message>
 </Incidents>
