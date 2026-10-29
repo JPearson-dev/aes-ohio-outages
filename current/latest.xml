@@ -1,37 +1,70 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.56091027</LAT>
-    <LNG>-84.3404660802762</LNG>
+    <LAT>40.55755497</LAT>
+    <LNG>-84.3449682131921</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819136</INCIDENTID>
     <IND>D</IND>
     <COUNTY>AUGLAIZE</COUNTY>
-    <total>3</total>
+    <total>7</total>
     <OutageTime>10/29/2026 08:29 AM</OutageTime>
     <EstimateTime>10/29/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64838555</LAT>
-    <LNG>-84.1698913168864</LNG>
+    <LAT>40.32128473</LAT>
+    <LNG>-83.8975342388832</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819146</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>7</total>
+    <OutageTime>10/29/2026 09:23 AM</OutageTime>
+    <EstimateTime>10/29/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.45968605</LAT>
+    <LNG>-83.6684082916234</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819145</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>7</total>
+    <OutageTime>10/29/2026 09:21 AM</OutageTime>
+    <EstimateTime>10/29/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.64503025</LAT>
+    <LNG>-84.1743288409239</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819135</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
+    <total>7</total>
     <OutageTime>10/29/2026 08:20 AM</OutageTime>
     <EstimateTime>10/29/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7571246</LAT>
-    <LNG>-84.5995790516951</LNG>
+    <LAT>39.75985381</LAT>
+    <LNG>-84.0974217187994</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1819151</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>7</total>
+    <OutageTime>10/29/2026 09:27 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7537693</LAT>
+    <LNG>-84.6040241145135</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819143</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>3</total>
+    <total>7</total>
     <OutageTime>10/29/2026 09:14 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/29/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -83,7 +116,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -99,7 +132,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>10/29/2026 9:20:31 AM</Outageat>
+    <TotalOut>7</TotalOut>
+    <Outageat>10/29/2026 9:35:32 AM</Outageat>
   </Message>
 </Incidents>
