@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.83605052</LAT>
-    <LNG>-83.6334618207632</LNG>
+    <LAT>39.83729652</LAT>
+    <LNG>-83.6318090120774</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819249</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
-    <total>6</total>
+    <total>7</total>
     <OutageTime>10/30/2026 03:15 AM</OutageTime>
     <EstimateTime>10/30/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.767259</LAT>
-    <LNG>-84.1111483163369</LNG>
+    <LAT>40.47248317</LAT>
+    <LNG>-83.6558398024501</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819274</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>7</total>
+    <OutageTime>10/30/2026 09:07 AM</OutageTime>
+    <EstimateTime>10/30/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.768505</LAT>
+    <LNG>-84.109497288143</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1819264</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
+    <total>7</total>
     <OutageTime>10/30/2026 08:33 AM</OutageTime>
     <EstimateTime>10/30/2026 11:00 AM</EstimateTime>
   </Markers>
@@ -72,7 +83,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>10/30/2026 9:05:31 AM</Outageat>
+    <TotalOut>7</TotalOut>
+    <Outageat>10/30/2026 9:20:31 AM</Outageat>
   </Message>
 </Incidents>
