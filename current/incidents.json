@@ -1,12 +1,32 @@
 [
   {
     "id": 1819299,
-    "lat": 39.64899694,
-    "lng": -84.2136632820196,
+    "lat": 39.65192504,
+    "lng": -84.2097904772901,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-30T11:24:00",
     "estimate_time": "2026-10-30T18:00:00"
+  },
+  {
+    "id": 1819352,
+    "lat": 39.83051944,
+    "lng": -84.2796016080518,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-30T17:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819353,
+    "lat": 39.75619298,
+    "lng": -84.5133746541559,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-10-30T17:44:00",
+    "estimate_time": null
   }
 ]
