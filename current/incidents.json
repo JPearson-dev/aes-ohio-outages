@@ -1,12 +1,22 @@
 [
   {
     "id": 1819249,
-    "lat": 39.83686042,
-    "lng": -83.6323874951175,
+    "lat": 39.83692272,
+    "lng": -83.6323048546832,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
     "outage_time": "2026-10-30T03:15:00",
+    "estimate_time": "2026-10-30T11:00:00"
+  },
+  {
+    "id": 1819264,
+    "lat": 39.7681312,
+    "lng": -84.1099925966011,
+    "customers_affected": 4,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-30T08:33:00",
     "estimate_time": "2026-10-30T11:00:00"
   }
 ]
