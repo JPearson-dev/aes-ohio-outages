@@ -1,45 +1,34 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.78536062</LAT>
-    <LNG>-84.280266855688</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819379</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>39</total>
-    <OutageTime>10/31/2026 10:15 AM</OutageTime>
-    <EstimateTime>10/31/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.73151654</LAT>
-    <LNG>-84.1614590247686</LNG>
+    <LAT>39.73197934</LAT>
+    <LNG>-84.1608461208142</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819380</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>39</total>
+    <total>38</total>
     <OutageTime>10/31/2026 10:40 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/31/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.35238569</LAT>
-    <LNG>-84.0392363487031</LNG>
+    <LAT>39.78582342</LAT>
+    <LNG>-84.2796534352459</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819370</INCIDENTID>
+    <INCIDENTID>1819379</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>39</total>
-    <OutageTime>10/31/2026 08:16 AM</OutageTime>
-    <EstimateTime>10/31/2026 11:00 AM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>38</total>
+    <OutageTime>10/31/2026 10:15 AM</OutageTime>
+    <EstimateTime>10/31/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.703545</LAT>
-    <LNG>-84.1488294610748</LNG>
+    <LAT>39.7040078</LAT>
+    <LNG>-84.1482168248614</LNG>
     <TOTALCUSTS>36</TOTALCUSTS>
     <INCIDENTID>1819378</INCIDENTID>
     <IND>D</IND>
-    <total>39</total>
+    <total>38</total>
     <OutageTime>10/31/2026 09:39 AM</OutageTime>
     <EstimateTime>10/31/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -137,12 +126,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>10/31/2026 10:50:32 AM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>10/31/2026 11:05:33 AM</Outageat>
   </Message>
 </Incidents>
