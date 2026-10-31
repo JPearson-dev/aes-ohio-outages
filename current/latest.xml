@@ -1,5 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
+  <Markers>
+    <LAT>39.35401439</LAT>
+    <LNG>-84.0370920538199</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819370</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>WARREN</COUNTY>
+    <total>1</total>
+    <OutageTime>10/31/2026 08:16 AM</OutageTime>
+    <EstimateTime>10/31/2026 11:00 AM</EstimateTime>
+  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -94,12 +105,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>0</TotalOut>
-    <Outageat>10/31/2026 8:20:36 AM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>10/31/2026 8:35:32 AM</Outageat>
   </Message>
 </Incidents>
