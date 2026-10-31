@@ -1,8 +1,8 @@
 [
   {
     "id": 1819370,
-    "lat": 39.35526039,
-    "lng": -84.035451609647,
+    "lat": 39.35386309,
+    "lng": -84.0372912506123,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -10,20 +10,10 @@
     "estimate_time": "2026-10-31T11:00:00"
   },
   {
-    "id": 1819371,
-    "lat": 39.81206047,
-    "lng": -84.0205010045484,
-    "customers_affected": 6,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-10-31T08:49:00",
-    "estimate_time": "2026-10-31T11:00:00"
-  },
-  {
     "id": 1819374,
-    "lat": 39.83990508,
-    "lng": -84.0058248284952,
-    "customers_affected": 35,
+    "lat": 39.83850778,
+    "lng": -84.0076783869047,
+    "customers_affected": 8,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-10-31T08:57:00",
@@ -31,12 +21,32 @@
   },
   {
     "id": 1819375,
-    "lat": 40.13132111,
-    "lng": -83.7233914432038,
+    "lat": 40.12992381,
+    "lng": -83.7252535405942,
     "customers_affected": 3,
     "county": "CHAMPAIGN",
     "indicator": "D",
     "outage_time": "2026-10-31T09:10:00",
     "estimate_time": "2026-10-31T12:00:00"
+  },
+  {
+    "id": 1819378,
+    "lat": 39.7050224,
+    "lng": -84.1468737377781,
+    "customers_affected": 36,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-10-31T09:39:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819379,
+    "lat": 39.78683802,
+    "lng": -84.2783086288921,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-31T10:15:00",
+    "estimate_time": null
   }
 ]
