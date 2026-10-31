@@ -1,58 +1,36 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12992381</LAT>
-    <LNG>-83.7252535405942</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1819375</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CHAMPAIGN</COUNTY>
-    <total>49</total>
-    <OutageTime>10/31/2026 09:10 AM</OutageTime>
-    <EstimateTime>10/31/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.83850778</LAT>
-    <LNG>-84.0076783869047</LNG>
-    <TOTALCUSTS>8</TOTALCUSTS>
-    <INCIDENTID>1819374</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>49</total>
-    <OutageTime>10/31/2026 08:57 AM</OutageTime>
-    <EstimateTime>10/31/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78683802</LAT>
-    <LNG>-84.2783086288921</LNG>
+    <LAT>39.78648202</LAT>
+    <LNG>-84.2787804907706</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819379</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>49</total>
+    <total>38</total>
     <OutageTime>10/31/2026 10:15 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/31/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.35386309</LAT>
-    <LNG>-84.0372912506123</LNG>
+    <LAT>39.35350709</LAT>
+    <LNG>-84.0377599489474</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819370</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>49</total>
+    <total>38</total>
     <OutageTime>10/31/2026 08:16 AM</OutageTime>
     <EstimateTime>10/31/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7050224</LAT>
-    <LNG>-84.1468737377781</LNG>
+    <LAT>39.7046664</LAT>
+    <LNG>-84.1473449964038</LNG>
     <TOTALCUSTS>36</TOTALCUSTS>
     <INCIDENTID>1819378</INCIDENTID>
     <IND>D</IND>
-    <total>49</total>
+    <total>38</total>
     <OutageTime>10/31/2026 09:39 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>10/31/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -68,7 +46,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>3</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -92,7 +70,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>8</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -153,7 +131,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>13</TotalOut>
-    <Outageat>10/31/2026 10:20:37 AM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>10/31/2026 10:35:33 AM</Outageat>
   </Message>
 </Incidents>
