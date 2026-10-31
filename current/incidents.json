@@ -1,22 +1,32 @@
 [
   {
     "id": 1819378,
-    "lat": 39.7045952,
-    "lng": -84.147439248129,
+    "lat": 39.706037,
+    "lng": -84.1455306506948,
     "customers_affected": 8,
     "county": null,
     "indicator": "D",
     "outage_time": "2026-10-31T09:39:00",
-    "estimate_time": "2026-10-31T12:00:00"
+    "estimate_time": "2026-10-31T14:00:00"
   },
   {
     "id": 1819380,
-    "lat": 39.73256674,
-    "lng": -84.1600682042568,
+    "lat": 39.73400854,
+    "lng": -84.1581587727068,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-10-31T10:40:00",
     "estimate_time": "2026-10-31T13:00:00"
+  },
+  {
+    "id": 1819386,
+    "lat": 39.76938821,
+    "lng": -84.1241941967855,
+    "customers_affected": 4,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-10-31T11:53:00",
+    "estimate_time": "2026-10-31T14:00:00"
   }
 ]
