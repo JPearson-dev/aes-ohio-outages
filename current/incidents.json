@@ -1,8 +1,8 @@
 [
   {
     "id": 1819415,
-    "lat": 39.65257601,
-    "lng": -84.2265779345118,
+    "lat": 39.65470311,
+    "lng": -84.2237644710223,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1819511,
-    "lat": 39.76060976,
-    "lng": -84.6271865198293,
+    "lat": 39.76273686,
+    "lng": -84.6243683065931,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -20,19 +20,9 @@
     "estimate_time": "2026-11-01T15:00:00"
   },
   {
-    "id": 1819516,
-    "lat": 39.72958661,
-    "lng": -84.0707832261962,
-    "customers_affected": 37,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-11-01T13:45:00",
-    "estimate_time": "2026-11-01T16:00:00"
-  },
-  {
     "id": 1819518,
-    "lat": 39.45629084,
-    "lng": -83.8268964600594,
+    "lat": 39.45841794,
+    "lng": -83.8240915584084,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1819519,
-    "lat": 39.80151391,
-    "lng": -83.9419427314033,
+    "lat": 39.80364101,
+    "lng": -83.9391227128258,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1819521,
-    "lat": 39.70949288,
-    "lng": -84.1160752946703,
+    "lat": 39.71161998,
+    "lng": -84.1132593321325,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,12 +51,22 @@
   },
   {
     "id": 1819523,
-    "lat": 39.71392793,
-    "lng": -84.1232832633545,
+    "lat": 39.71605503,
+    "lng": -84.1204671057764,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-01T14:27:00",
+    "estimate_time": "2026-11-01T17:00:00"
+  },
+  {
+    "id": 1819524,
+    "lat": 39.71250032,
+    "lng": -84.1188393646825,
+    "customers_affected": 2,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-01T14:55:00",
     "estimate_time": "2026-11-01T17:00:00"
   }
 ]
