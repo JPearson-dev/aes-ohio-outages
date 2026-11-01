@@ -1,46 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.45741224</LAT>
-    <LNG>-83.8254177252978</LNG>
+    <LAT>39.45868494</LAT>
+    <LNG>-83.8237394787032</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819518</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>4</total>
+    <total>3</total>
     <OutageTime>11/01/2026 01:55 PM</OutageTime>
     <EstimateTime>11/01/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80263531</LAT>
-    <LNG>-83.9404560270487</LNG>
+    <LAT>39.80390801</LAT>
+    <LNG>-83.9387687355985</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819519</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>4</total>
+    <total>3</total>
     <OutageTime>11/01/2026 01:58 PM</OutageTime>
     <EstimateTime>11/01/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.89686222</LAT>
-    <LNG>-84.1198598308615</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819563</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>4</total>
-    <OutageTime>11/01/2026 05:30 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76173116</LAT>
-    <LNG>-84.6257007672445</LNG>
+    <LAT>39.76300386</LAT>
+    <LNG>-84.6240145559777</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819552</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>4</total>
+    <total>3</total>
     <OutageTime>11/01/2026 04:25 PM</OutageTime>
     <EstimateTime>11/01/2026 07:00 PM</EstimateTime>
   </Markers>
@@ -106,7 +95,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>11/1/2026 5:35:31 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>11/1/2026 5:50:31 PM</Outageat>
   </Message>
 </Incidents>
