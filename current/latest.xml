@@ -1,57 +1,68 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.447381953102</LAT>
-    <LNG>-84.4879706685062</LNG>
+    <LAT>39.45338898</LAT>
+    <LNG>-83.8189498997921</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819513</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>46</total>
+    <OutageTime>11/01/2026 01:44 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.447150553102</LAT>
+    <LNG>-84.4882806108259</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819505</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>45</total>
+    <total>46</total>
     <OutageTime>11/01/2026 12:14 PM</OutageTime>
     <EstimateTime>11/01/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65159701</LAT>
-    <LNG>-84.2278728340258</LNG>
+    <LAT>39.65136561</LAT>
+    <LNG>-84.2281789011837</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819415</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>45</total>
+    <total>46</total>
     <OutageTime>10/31/2026 07:24 PM</OutageTime>
     <EstimateTime>11/01/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75963076</LAT>
-    <LNG>-84.6284836054192</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819511</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>45</total>
-    <OutageTime>11/01/2026 12:53 PM</OutageTime>
-    <EstimateTime>11/01/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.86624471</LAT>
-    <LNG>-84.7857945359536</LNG>
+    <LAT>39.86601331</LAT>
+    <LNG>-84.7861016325921</LNG>
     <TOTALCUSTS>41</TOTALCUSTS>
     <INCIDENTID>1819510</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>45</total>
+    <total>46</total>
     <OutageTime>11/01/2026 12:43 PM</OutageTime>
     <EstimateTime>11/01/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.35447569</LAT>
-    <LNG>-83.383784745798</LNG>
+    <LAT>39.75939936</LAT>
+    <LNG>-84.6287901892859</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819511</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>46</total>
+    <OutageTime>11/01/2026 12:53 PM</OutageTime>
+    <EstimateTime>11/01/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.35424429</LAT>
+    <LNG>-83.3840942273641</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819503</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>45</total>
+    <total>46</total>
     <OutageTime>11/01/2026 11:52 AM</OutageTime>
     <EstimateTime>11/01/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -77,7 +88,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -154,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>45</TotalOut>
-    <Outageat>11/1/2026 1:35:31 PM</Outageat>
+    <TotalOut>46</TotalOut>
+    <Outageat>11/1/2026 1:50:31 PM</Outageat>
   </Message>
 </Incidents>
