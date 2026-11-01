@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77445192</LAT>
-    <LNG>-84.2627038022919</LNG>
+    <LAT>39.77523512</LAT>
+    <LNG>-84.2616658999222</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1819412</INCIDENTID>
     <IND>D</IND>
@@ -12,15 +12,15 @@
     <EstimateTime>10/31/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65201531</LAT>
-    <LNG>-84.227319558779</LNG>
+    <LAT>39.65279851</LAT>
+    <LNG>-84.2262836391677</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819414</INCIDENTID>
+    <INCIDENTID>1819415</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>5</total>
     <OutageTime>10/31/2026 07:24 PM</OutageTime>
-    <EstimateTime>10/31/2026 09:00 PM</EstimateTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -122,6 +122,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>5</TotalOut>
-    <Outageat>10/31/2026 8:50:32 PM</Outageat>
+    <Outageat>10/31/2026 9:05:32 PM</Outageat>
   </Message>
 </Incidents>
