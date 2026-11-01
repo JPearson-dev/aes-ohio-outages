@@ -1,8 +1,8 @@
 [
   {
     "id": 1819518,
-    "lat": 39.45868494,
-    "lng": -83.8237394787032,
+    "lat": 39.45706514,
+    "lng": -83.8258754289144,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1819519,
-    "lat": 39.80390801,
-    "lng": -83.9387687355985,
+    "lat": 39.80228821,
+    "lng": -83.9409161974442,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -20,13 +20,23 @@
     "estimate_time": "2026-11-01T21:00:00"
   },
   {
-    "id": 1819552,
-    "lat": 39.76300386,
-    "lng": -84.6240145559777,
+    "id": 1819565,
+    "lat": 39.6799043,
+    "lng": -83.9528649917295,
     "customers_affected": 1,
-    "county": "PREBLE",
+    "county": "GREENE",
     "indicator": "D",
-    "outage_time": "2026-11-01T16:25:00",
-    "estimate_time": "2026-11-01T19:00:00"
+    "outage_time": "2026-11-01T17:52:00",
+    "estimate_time": "2026-11-01T21:00:00"
+  },
+  {
+    "id": 1819566,
+    "lat": 39.82129232,
+    "lng": -84.0943354888106,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-01T17:58:00",
+    "estimate_time": "2026-11-01T21:00:00"
   }
 ]
