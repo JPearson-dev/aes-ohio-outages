@@ -1,59 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.79330521</LAT>
-    <LNG>-84.024887948561</LNG>
+    <LAT>39.79059961</LAT>
+    <LNG>-84.0284743990808</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1819491</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>10</total>
+    <total>9</total>
     <OutageTime>11/01/2026 09:29 AM</OutageTime>
     <EstimateTime>11/01/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.93555021</LAT>
-    <LNG>-84.1585270451589</LNG>
+    <LAT>39.93284461</LAT>
+    <LNG>-84.1621215155253</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1819441</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>10</total>
+    <total>9</total>
     <OutageTime>11/01/2026 08:29 AM</OutageTime>
     <EstimateTime>11/01/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65359951</LAT>
-    <LNG>-84.225224175929</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819415</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>10</total>
-    <OutageTime>10/31/2026 07:24 PM</OutageTime>
-    <EstimateTime>11/01/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.84391654</LAT>
-    <LNG>-84.1745466319129</LNG>
+    <LAT>39.84121094</LAT>
+    <LNG>-84.1781359291249</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819493</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>10</total>
+    <total>9</total>
     <OutageTime>11/01/2026 09:39 AM</OutageTime>
     <EstimateTime>11/01/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.54997465</LAT>
-    <LNG>-84.075171627355</LNG>
+    <LAT>39.65089391</LAT>
+    <LNG>-84.2288028073132</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819449</INCIDENTID>
+    <INCIDENTID>1819415</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>10</total>
-    <OutageTime>11/01/2026 09:01 AM</OutageTime>
-    <EstimateTime>11/01/2026 11:00 AM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>9</total>
+    <OutageTime>10/31/2026 07:24 PM</OutageTime>
+    <EstimateTime>11/01/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -149,12 +138,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>10</TotalOut>
-    <Outageat>11/1/2026 10:05:31 AM</Outageat>
+    <TotalOut>9</TotalOut>
+    <Outageat>11/1/2026 10:20:31 AM</Outageat>
   </Message>
 </Incidents>
