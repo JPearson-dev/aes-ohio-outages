@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.0824619743231</LAT>
-    <LNG>-83.7781283506544</LNG>
+    <LAT>40.0832807743231</LAT>
+    <LNG>-83.7770379871529</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>299391</INCIDENTID>
     <IND>T</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>11/02/2026 08:35 AM</OutageTime>
     <EstimateTime>11/02/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.5093843</LAT>
-    <LNG>-83.8281419572496</LNG>
+    <LAT>39.5102031</LAT>
+    <LNG>-83.8270613386051</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1819628</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>11/02/2026 06:29 AM</OutageTime>
     <EstimateTime>11/02/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.33402313</LAT>
-    <LNG>-84.5389772583822</LNG>
+    <LAT>40.33484193</LAT>
+    <LNG>-84.5378825244999</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819670</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>11/02/2026 09:01 AM</OutageTime>
-    <EstimateTime>11/02/2026 11:00 AM</EstimateTime>
+    <EstimateTime>11/02/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86347682</LAT>
-    <LNG>-84.2607760911234</LNG>
+    <LAT>39.79129752</LAT>
+    <LNG>-84.2205645132769</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819712</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>10</total>
+    <OutageTime>11/02/2026 11:04 AM</OutageTime>
+    <EstimateTime>11/02/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.86429562</LAT>
+    <LNG>-84.2596894856752</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1819695</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>9</total>
+    <total>10</total>
     <OutageTime>11/02/2026 09:56 AM</OutageTime>
     <EstimateTime>11/02/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -110,7 +121,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>3</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>9</TotalOut>
-    <Outageat>11/2/2026 11:05:35 AM</Outageat>
+    <TotalOut>10</TotalOut>
+    <Outageat>11/2/2026 11:20:31 AM</Outageat>
   </Message>
 </Incidents>

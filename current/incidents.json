@@ -1,8 +1,8 @@
 [
   {
     "id": 299391,
-    "lat": 40.0824619743231,
-    "lng": -83.7781283506544,
+    "lat": 40.0832807743231,
+    "lng": -83.7770379871529,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "T",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1819628,
-    "lat": 39.5093843,
-    "lng": -83.8281419572496,
+    "lat": 39.5102031,
+    "lng": -83.8270613386051,
     "customers_affected": 4,
     "county": "CLINTON",
     "indicator": "D",
@@ -21,22 +21,32 @@
   },
   {
     "id": 1819670,
-    "lat": 40.33402313,
-    "lng": -84.5389772583822,
+    "lat": 40.33484193,
+    "lng": -84.5378825244999,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-02T09:01:00",
-    "estimate_time": "2026-11-02T11:00:00"
+    "estimate_time": "2026-11-02T13:00:00"
   },
   {
     "id": 1819695,
-    "lat": 39.86347682,
-    "lng": -84.2607760911234,
+    "lat": 39.86429562,
+    "lng": -84.2596894856752,
     "customers_affected": 3,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-02T09:56:00",
     "estimate_time": "2026-11-02T12:00:00"
+  },
+  {
+    "id": 1819712,
+    "lat": 39.79129752,
+    "lng": -84.2205645132769,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-02T11:04:00",
+    "estimate_time": "2026-11-02T13:00:00"
   }
 ]
