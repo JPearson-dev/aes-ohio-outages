@@ -1,48 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.6896078</LAT>
-    <LNG>-84.040560736184</LNG>
+    <LAT>39.6893675</LAT>
+    <LNG>-84.040878747661</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819668</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>12</total>
+    <total>13</total>
     <OutageTime>11/02/2026 09:08 AM</OutageTime>
     <EstimateTime>11/02/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.36790914</LAT>
-    <LNG>-83.3699607083998</LNG>
+    <LAT>39.36766884</LAT>
+    <LNG>-83.3702771369202</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819750</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>12</total>
+    <total>13</total>
     <OutageTime>11/02/2026 03:44 PM</OutageTime>
     <EstimateTime>11/02/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77316852</LAT>
-    <LNG>-84.3773942005116</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819726</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>12</total>
-    <OutageTime>11/02/2026 12:46 PM</OutageTime>
-    <EstimateTime>11/02/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.62191028</LAT>
-    <LNG>-84.230519351513</LNG>
+    <LAT>39.62166998</LAT>
+    <LNG>-84.2308370276762</LNG>
     <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1819748</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>12</total>
+    <total>13</total>
     <OutageTime>11/02/2026 03:37 PM</OutageTime>
+    <EstimateTime>11/02/2026 10:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.8162637</LAT>
+    <LNG>-84.1202805785852</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819753</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>13</total>
+    <OutageTime>11/02/2026 04:19 PM</OutageTime>
     <EstimateTime>11/02/2026 09:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77292822</LAT>
+    <LNG>-84.377712627505</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819726</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>13</total>
+    <OutageTime>11/02/2026 12:46 PM</OutageTime>
+    <EstimateTime>11/02/2026 08:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -110,7 +121,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>10</TotOut>
+    <TotOut>11</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>12</TotalOut>
-    <Outageat>11/2/2026 6:35:31 PM</Outageat>
+    <TotalOut>13</TotalOut>
+    <Outageat>11/2/2026 6:50:31 PM</Outageat>
   </Message>
 </Incidents>
