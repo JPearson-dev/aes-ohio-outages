@@ -1,36 +1,47 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77608162</LAT>
-    <LNG>-83.6837116273911</LNG>
+    <LAT>39.77817312</LAT>
+    <LNG>-83.680939857782</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1819719</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>16</total>
+    <total>17</total>
     <OutageTime>11/02/2026 11:42 AM</OutageTime>
     <EstimateTime>11/02/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.84318194</LAT>
-    <LNG>-84.248517925062</LNG>
+    <LAT>39.84527344</LAT>
+    <LNG>-84.2457432389719</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1819721</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>16</total>
+    <total>17</total>
     <OutageTime>11/02/2026 12:13 PM</OutageTime>
     <EstimateTime>11/02/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76089605</LAT>
-    <LNG>-84.1491731578805</LNG>
+    <LAT>39.76298755</LAT>
+    <LNG>-84.1464020468932</LNG>
     <TOTALCUSTS>10</TOTALCUSTS>
     <INCIDENTID>1819724</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>16</total>
+    <total>17</total>
     <OutageTime>11/02/2026 12:33 PM</OutageTime>
+    <EstimateTime>11/02/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77182462</LAT>
+    <LNG>-84.379175032956</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819726</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>17</total>
+    <OutageTime>11/02/2026 12:46 PM</OutageTime>
     <EstimateTime>11/02/2026 03:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -99,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>14</TotOut>
+    <TotOut>15</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>16</TotalOut>
-    <Outageat>11/2/2026 12:50:31 PM</Outageat>
+    <TotalOut>17</TotalOut>
+    <Outageat>11/2/2026 1:05:33 PM</Outageat>
   </Message>
 </Incidents>
