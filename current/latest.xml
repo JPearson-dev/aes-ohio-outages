@@ -1,35 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.0828624743231</LAT>
-    <LNG>-83.7775950206808</LNG>
-    <TOTALCUSTS>10</TOTALCUSTS>
-    <INCIDENTID>299392</INCIDENTID>
-    <IND>T</IND>
-    <COUNTY>CHAMPAIGN</COUNTY>
-    <total>12</total>
-    <OutageTime>11/02/2026 11:46 AM</OutageTime>
-    <EstimateTime>11/02/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.33442363</LAT>
-    <LNG>-84.5384417907224</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819670</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>12</total>
-    <OutageTime>11/02/2026 09:01 AM</OutageTime>
-    <EstimateTime>11/02/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.77652662</LAT>
-    <LNG>-83.6831218891764</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
+    <LAT>39.77690042</LAT>
+    <LNG>-83.6826265090761</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1819719</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>12</total>
+    <total>2</total>
     <OutageTime>11/02/2026 11:42 AM</OutageTime>
     <EstimateTime>11/02/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -47,7 +25,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>10</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -59,7 +37,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -71,7 +49,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -132,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>12</TotalOut>
-    <Outageat>11/2/2026 12:05:36 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>11/2/2026 12:20:31 PM</Outageat>
   </Message>
 </Incidents>
