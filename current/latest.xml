@@ -1,90 +1,101 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.0819012743231</LAT>
-    <LNG>-83.7788750126173</LNG>
+    <LAT>40.0825509743231</LAT>
+    <LNG>-83.7780098328825</LNG>
     <TOTALCUSTS>10</TOTALCUSTS>
     <INCIDENTID>299391</INCIDENTID>
     <IND>T</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>335</total>
+    <total>336</total>
     <OutageTime>11/02/2026 08:35 AM</OutageTime>
     <EstimateTime>11/02/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.49261091</LAT>
-    <LNG>-83.8597224973895</LNG>
+    <LAT>39.49326061</LAT>
+    <LNG>-83.8588652654064</LNG>
     <TOTALCUSTS>53</TOTALCUSTS>
     <INCIDENTID>1819616</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>335</total>
+    <total>336</total>
     <OutageTime>11/02/2026 06:39 AM</OutageTime>
     <EstimateTime>11/02/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.5088236</LAT>
-    <LNG>-83.828881946104</LNG>
+    <LAT>39.5094733</LAT>
+    <LNG>-83.8280244987014</LNG>
     <TOTALCUSTS>181</TOTALCUSTS>
     <INCIDENTID>1819628</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>335</total>
+    <total>336</total>
     <OutageTime>11/02/2026 06:29 AM</OutageTime>
     <EstimateTime>11/02/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.52968418</LAT>
-    <LNG>-83.88317858629</LNG>
+    <LAT>39.53033388</LAT>
+    <LNG>-83.8823208614439</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1819603</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>335</total>
+    <total>336</total>
     <OutageTime>11/02/2026 06:30 AM</OutageTime>
-    <EstimateTime>11/02/2026 10:00 AM</EstimateTime>
+    <EstimateTime>11/02/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.67052809</LAT>
-    <LNG>-84.1645034517632</LNG>
+    <LAT>39.67117779</LAT>
+    <LNG>-84.1636438458239</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1819629</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>335</total>
+    <total>336</total>
     <OutageTime>11/02/2026 07:26 AM</OutageTime>
     <EstimateTime>11/02/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81072191</LAT>
-    <LNG>-84.2898711058474</LNG>
+    <LAT>39.81137161</LAT>
+    <LNG>-84.2890096137748</LNG>
     <TOTALCUSTS>77</TOTALCUSTS>
     <INCIDENTID>1819638</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>335</total>
+    <total>336</total>
     <OutageTime>11/02/2026 08:16 AM</OutageTime>
     <EstimateTime>11/02/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8260025</LAT>
-    <LNG>-84.2618385421257</LNG>
+    <LAT>39.8266522</LAT>
+    <LNG>-84.2609768436394</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819634</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>335</total>
+    <total>336</total>
     <OutageTime>11/02/2026 07:55 AM</OutageTime>
     <EstimateTime>11/02/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75386789</LAT>
-    <LNG>-84.621167723664</LNG>
+    <LAT>39.83410851</LAT>
+    <LNG>-84.0914739853564</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819657</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>336</total>
+    <OutageTime>11/02/2026 08:51 AM</OutageTime>
+    <EstimateTime>11/02/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.75451759</LAT>
+    <LNG>-84.620306998149</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1819643</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>335</total>
+    <total>336</total>
     <OutageTime>11/02/2026 08:23 AM</OutageTime>
     <EstimateTime>11/02/2026 10:00 AM</EstimateTime>
   </Markers>
@@ -154,7 +165,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>83</TotOut>
+    <TotOut>84</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -187,7 +198,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>335</TotalOut>
-    <Outageat>11/2/2026 8:50:31 AM</Outageat>
+    <TotalOut>336</TotalOut>
+    <Outageat>11/2/2026 9:05:36 AM</Outageat>
   </Message>
 </Incidents>
