@@ -1,8 +1,8 @@
 [
   {
     "id": 299391,
-    "lat": 40.0827912743231,
-    "lng": -83.7776898348984,
+    "lat": 40.0818211743231,
+    "lng": -83.778981678612,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "T",
@@ -10,59 +10,29 @@
     "estimate_time": "2026-11-02T11:00:00"
   },
   {
-    "id": 1819603,
-    "lat": 39.53057418,
-    "lng": -83.8820036207474,
-    "customers_affected": 4,
-    "county": "CLINTON",
-    "indicator": "D",
-    "outage_time": "2026-11-02T06:30:00",
-    "estimate_time": "2026-11-02T12:00:00"
-  },
-  {
     "id": 1819616,
-    "lat": 39.49350091,
-    "lng": -83.8585482070016,
+    "lat": 39.49253081,
+    "lng": -83.8598281835244,
     "customers_affected": 53,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-11-02T06:39:00",
-    "estimate_time": "2026-11-02T10:00:00"
+    "estimate_time": "2026-11-02T13:00:00"
   },
   {
     "id": 1819628,
-    "lat": 39.5097136,
-    "lng": -83.8277073606209,
+    "lat": 39.5087435,
+    "lng": -83.8289876587975,
     "customers_affected": 181,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-11-02T06:29:00",
-    "estimate_time": "2026-11-02T10:00:00"
-  },
-  {
-    "id": 1819634,
-    "lat": 39.8268925,
-    "lng": -84.2606581332404,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-02T07:55:00",
-    "estimate_time": "2026-11-02T11:00:00"
-  },
-  {
-    "id": 1819638,
-    "lat": 39.81161191,
-    "lng": -84.2886909797205,
-    "customers_affected": 77,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-02T08:16:00",
-    "estimate_time": "2026-11-02T10:00:00"
+    "estimate_time": "2026-11-02T14:00:00"
   },
   {
     "id": 1819666,
-    "lat": 39.70847443,
-    "lng": -84.1239825855806,
+    "lat": 39.70750433,
+    "lng": -84.1252668491888,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -71,8 +41,8 @@
   },
   {
     "id": 1819670,
-    "lat": 40.33435243,
-    "lng": -84.538536984973,
+    "lat": 40.33338233,
+    "lng": -84.5398340066379,
     "customers_affected": 40,
     "county": "DARKE",
     "indicator": "D",
@@ -81,18 +51,18 @@
   },
   {
     "id": 1819672,
-    "lat": 40.29655641,
-    "lng": -84.1712723538889,
+    "lat": 40.29558631,
+    "lng": -84.1725685932417,
     "customers_affected": 5,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-02T09:37:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-02T12:00:00"
   },
   {
     "id": 1819679,
-    "lat": 39.95310038,
-    "lng": -84.0215003520444,
+    "lat": 39.95213028,
+    "lng": -84.0227895527121,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
@@ -101,8 +71,8 @@
   },
   {
     "id": 1819680,
-    "lat": 39.64449419,
-    "lng": -84.057742751914,
+    "lat": 39.64352409,
+    "lng": -84.059025734596,
     "customers_affected": 9,
     "county": "GREENE",
     "indicator": "D",
@@ -111,8 +81,8 @@
   },
   {
     "id": 1819682,
-    "lat": 39.83434881,
-    "lng": -84.0911552376822,
+    "lat": 39.83337871,
+    "lng": -84.0924420338485,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -121,22 +91,42 @@
   },
   {
     "id": 1819692,
-    "lat": 40.29677311,
-    "lng": -84.148090877271,
+    "lat": 40.29580301,
+    "lng": -84.1493871211047,
     "customers_affected": 3,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-02T09:53:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-02T12:00:00"
   },
   {
     "id": 1819693,
-    "lat": 40.30243414,
-    "lng": -84.1531162692454,
+    "lat": 40.30146404,
+    "lng": -84.1544126301557,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-02T09:47:00",
+    "estimate_time": "2026-11-02T12:00:00"
+  },
+  {
+    "id": 1819695,
+    "lat": 39.86283602,
+    "lng": -84.2616264779958,
+    "customers_affected": 3,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-02T09:56:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1819700,
+    "lat": 39.75204733,
+    "lng": -84.2293820095015,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-02T10:10:00",
     "estimate_time": null
   }
 ]
