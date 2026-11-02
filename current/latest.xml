@@ -1,57 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.0832807743231</LAT>
-    <LNG>-83.7770379871529</LNG>
+    <LAT>40.0833341743231</LAT>
+    <LNG>-83.7769668764898</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>299391</INCIDENTID>
     <IND>T</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>10</total>
+    <total>6</total>
     <OutageTime>11/02/2026 08:35 AM</OutageTime>
     <EstimateTime>11/02/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.5102031</LAT>
-    <LNG>-83.8270613386051</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1819628</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>10</total>
-    <OutageTime>11/02/2026 06:29 AM</OutageTime>
-    <EstimateTime>11/02/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.33484193</LAT>
-    <LNG>-84.5378825244999</LNG>
+    <LAT>40.33489533</LAT>
+    <LNG>-84.5378111288119</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819670</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>10</total>
+    <total>6</total>
     <OutageTime>11/02/2026 09:01 AM</OutageTime>
-    <EstimateTime>11/02/2026 01:00 PM</EstimateTime>
+    <EstimateTime>11/02/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79129752</LAT>
-    <LNG>-84.2205645132769</LNG>
+    <LAT>39.79135092</LAT>
+    <LNG>-84.2204937287854</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819712</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>10</total>
+    <total>6</total>
     <OutageTime>11/02/2026 11:04 AM</OutageTime>
     <EstimateTime>11/02/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86429562</LAT>
-    <LNG>-84.2596894856752</LNG>
+    <LAT>39.86434902</LAT>
+    <LNG>-84.2596186201025</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1819695</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>10</total>
+    <total>6</total>
     <OutageTime>11/02/2026 09:56 AM</OutageTime>
     <EstimateTime>11/02/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -77,7 +66,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>10</TotalOut>
-    <Outageat>11/2/2026 11:20:31 AM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>11/2/2026 11:35:32 AM</Outageat>
   </Message>
 </Incidents>
