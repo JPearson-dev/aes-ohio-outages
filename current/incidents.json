@@ -1,8 +1,8 @@
 [
   {
     "id": 1819668,
-    "lat": 39.6857897,
-    "lng": -84.0456135852077,
+    "lat": 39.6857808,
+    "lng": -84.0456253634106,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -11,18 +11,18 @@
   },
   {
     "id": 1819726,
-    "lat": 39.76935042,
-    "lng": -84.3824536516284,
+    "lat": 39.76934152,
+    "lng": -84.3824654452207,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-02T12:46:00",
-    "estimate_time": "2026-11-02T19:00:00"
+    "estimate_time": "2026-11-02T20:00:00"
   },
   {
     "id": 1819748,
-    "lat": 39.61809218,
-    "lng": -84.2355668727721,
+    "lat": 39.61808328,
+    "lng": -84.2355786385559,
     "customers_affected": 9,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1819750,
-    "lat": 39.36409104,
-    "lng": -83.3749884060023,
+    "lat": 39.36408214,
+    "lng": -83.3750001255771,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1819751,
-    "lat": 39.60183184,
-    "lng": -83.7996633650585,
+    "lat": 39.60182294,
+    "lng": -83.7996751278659,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1819752,
-    "lat": 39.72172031,
-    "lng": -83.9124401221584,
+    "lat": 39.72171141,
+    "lng": -83.9124519069704,
     "customers_affected": 3,
     "county": "GREENE",
     "indicator": "D",
@@ -61,12 +61,22 @@
   },
   {
     "id": 1819757,
-    "lat": 39.71590299,
-    "lng": -84.1783027055275,
+    "lat": 39.71589409,
+    "lng": -84.1783144892686,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-02T16:58:00",
+    "estimate_time": "2026-11-02T19:00:00"
+  },
+  {
+    "id": 1819762,
+    "lat": 39.76809715,
+    "lng": -84.1146861459129,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-02T17:17:00",
     "estimate_time": "2026-11-02T19:00:00"
   }
 ]
