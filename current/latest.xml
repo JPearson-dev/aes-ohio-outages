@@ -1,48 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.33615913</LAT>
-    <LNG>-84.5361214308632</LNG>
+    <LAT>40.0828624743231</LAT>
+    <LNG>-83.7775950206808</LNG>
+    <TOTALCUSTS>10</TOTALCUSTS>
+    <INCIDENTID>299392</INCIDENTID>
+    <IND>T</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>12</total>
+    <OutageTime>11/02/2026 11:46 AM</OutageTime>
+    <EstimateTime>11/02/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.33442363</LAT>
+    <LNG>-84.5384417907224</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819670</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>6</total>
+    <total>12</total>
     <OutageTime>11/02/2026 09:01 AM</OutageTime>
     <EstimateTime>11/02/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77826212</LAT>
-    <LNG>-83.6808219101391</LNG>
+    <LAT>39.77652662</LAT>
+    <LNG>-83.6831218891764</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819719</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>6</total>
+    <total>12</total>
     <OutageTime>11/02/2026 11:42 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.86561282</LAT>
-    <LNG>-84.2579414682151</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1819695</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
-    <OutageTime>11/02/2026 09:56 AM</OutageTime>
-    <EstimateTime>11/02/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.79261472</LAT>
-    <LNG>-84.218818495821</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819712</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
-    <OutageTime>11/02/2026 11:04 AM</OutageTime>
-    <EstimateTime>11/02/2026 01:00 PM</EstimateTime>
+    <EstimateTime>11/02/2026 02:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -58,7 +47,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>10</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -110,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>11/2/2026 11:50:32 AM</Outageat>
+    <TotalOut>12</TotalOut>
+    <Outageat>11/2/2026 12:05:36 PM</Outageat>
   </Message>
 </Incidents>
