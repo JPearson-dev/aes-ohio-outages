@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.52931019</LAT>
-    <LNG>-83.5085194253196</LNG>
+    <LAT>39.52738779</LAT>
+    <LNG>-83.5110572408564</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819912</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>11/03/2026 03:52 PM</OutageTime>
     <EstimateTime>11/03/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56008699</LAT>
-    <LNG>-83.4160851635158</LNG>
+    <LAT>39.55816459</LAT>
+    <LNG>-83.4186241916632</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819910</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>11/03/2026 03:32 PM</OutageTime>
     <EstimateTime>11/03/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.71538584</LAT>
-    <LNG>-83.45872502814</LNG>
+    <LAT>39.71346344</LAT>
+    <LNG>-83.4612702047416</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819919</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>11/03/2026 04:16 PM</OutageTime>
     <EstimateTime>11/03/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.30901581</LAT>
-    <LNG>-83.8931687835893</LNG>
+    <LAT>39.72416402</LAT>
+    <LNG>-84.0491631376545</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1819922</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>5</total>
+    <OutageTime>11/03/2026 05:08 PM</OutageTime>
+    <EstimateTime>11/03/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.30709341</LAT>
+    <LNG>-83.8957379260278</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819865</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>11/03/2026 11:15 AM</OutageTime>
     <EstimateTime>11/03/2026 06:00 PM</EstimateTime>
   </Markers>
@@ -82,7 +93,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>11/3/2026 5:05:31 PM</Outageat>
+    <TotalOut>5</TotalOut>
+    <Outageat>11/3/2026 5:20:31 PM</Outageat>
   </Message>
 </Incidents>
