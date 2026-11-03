@@ -1,68 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.07220235</LAT>
-    <LNG>-83.5729669062653</LNG>
+    <LAT>40.07036005</LAT>
+    <LNG>-83.575419726701</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819860</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>77</total>
+    <total>76</total>
     <OutageTime>11/03/2026 10:41 AM</OutageTime>
     <EstimateTime>11/03/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.09035791</LAT>
-    <LNG>-83.5315518532745</LNG>
+    <LAT>40.08851561</LAT>
+    <LNG>-83.5340053786156</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1819820</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>77</total>
+    <total>76</total>
     <OutageTime>11/03/2026 09:56 AM</OutageTime>
     <EstimateTime>11/03/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.62877185</LAT>
-    <LNG>-83.8441895037242</LNG>
+    <LAT>39.62692955</LAT>
+    <LNG>-83.8466253128492</LNG>
     <TOTALCUSTS>57</TOTALCUSTS>
     <INCIDENTID>1819875</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>77</total>
+    <total>76</total>
     <OutageTime>11/03/2026 11:52 AM</OutageTime>
     <EstimateTime>11/03/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.35599632</LAT>
-    <LNG>-83.7401547235127</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1819882</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
-    <total>77</total>
-    <OutageTime>11/03/2026 12:23 PM</OutageTime>
-    <EstimateTime>11/03/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.30971001</LAT>
-    <LNG>-83.8922410377087</LNG>
+    <LAT>40.30786771</LAT>
+    <LNG>-83.8947031325456</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1819865</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>77</total>
+    <total>76</total>
     <OutageTime>11/03/2026 11:15 AM</OutageTime>
     <EstimateTime>11/03/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81464528</LAT>
-    <LNG>-84.5032222374566</LNG>
+    <LAT>39.81280298</LAT>
+    <LNG>-84.5056651294916</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1819881</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>77</total>
+    <total>76</total>
     <OutageTime>11/03/2026 12:11 PM</OutageTime>
     <EstimateTime>11/03/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -116,7 +105,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -165,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>77</TotalOut>
-    <Outageat>11/3/2026 12:35:31 PM</Outageat>
+    <TotalOut>76</TotalOut>
+    <Outageat>11/3/2026 12:50:31 PM</Outageat>
   </Message>
 </Incidents>
