@@ -1,8 +1,8 @@
 [
   {
     "id": 1819820,
-    "lat": 40.08807951,
-    "lng": -83.5345861648075,
+    "lat": 40.09035791,
+    "lng": -83.5315518532745,
     "customers_affected": 5,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-03T14:00:00"
   },
   {
-    "id": 1819839,
-    "lat": 39.66873885,
-    "lng": -84.2169610057808,
-    "customers_affected": 37,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-03T09:52:00",
-    "estimate_time": "2026-11-03T13:00:00"
-  },
-  {
     "id": 1819860,
-    "lat": 40.06992395,
-    "lng": -83.5760003460312,
+    "lat": 40.07220235,
+    "lng": -83.5729669062653,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1819865,
-    "lat": 40.30743161,
-    "lng": -83.8952859472655,
+    "lat": 40.30971001,
+    "lng": -83.8922410377087,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -40,23 +30,33 @@
     "estimate_time": "2026-11-03T13:00:00"
   },
   {
-    "id": 1819871,
-    "lat": 39.75578556,
-    "lng": -84.6093501872768,
-    "customers_affected": 1,
-    "county": "PREBLE",
-    "indicator": "D",
-    "outage_time": "2026-11-03T11:54:00",
-    "estimate_time": "2026-11-03T14:00:00"
-  },
-  {
     "id": 1819875,
-    "lat": 39.62649345,
-    "lng": -83.8472019053474,
+    "lat": 39.62877185,
+    "lng": -83.8441895037242,
     "customers_affected": 57,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-03T11:52:00",
     "estimate_time": "2026-11-03T14:00:00"
+  },
+  {
+    "id": 1819881,
+    "lat": 39.81464528,
+    "lng": -84.5032222374566,
+    "customers_affected": 12,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-11-03T12:11:00",
+    "estimate_time": "2026-11-03T14:00:00"
+  },
+  {
+    "id": 1819882,
+    "lat": 40.35599632,
+    "lng": -83.7401547235127,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-03T12:23:00",
+    "estimate_time": "2026-11-03T15:00:00"
   }
 ]
