@@ -1,8 +1,8 @@
 [
   {
     "id": 1819865,
-    "lat": 40.31066231,
-    "lng": -83.8909683606674,
+    "lat": 40.30906031,
+    "lng": -83.8931093126995,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1819910,
-    "lat": 39.56173349,
-    "lng": -83.4139105329265,
+    "lat": 39.56013149,
+    "lng": -83.416026389716,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-11-03T15:32:00",
     "estimate_time": "2026-11-03T18:00:00"
+  },
+  {
+    "id": 1819912,
+    "lat": 39.52935469,
+    "lng": -83.5084606795896,
+    "customers_affected": 1,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-11-03T15:52:00",
+    "estimate_time": null
   }
 ]
