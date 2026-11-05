@@ -1,68 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.81709996</LAT>
-    <LNG>-84.0073745887618</LNG>
+    <LAT>39.81859516</LAT>
+    <LNG>-84.0053917775307</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820312</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>6</total>
+    <total>5</total>
     <OutageTime>11/05/2026 01:53 PM</OutageTime>
     <EstimateTime>11/05/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78680479</LAT>
-    <LNG>-83.9998929979686</LNG>
+    <LAT>39.78829999</LAT>
+    <LNG>-83.9979111277344</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820247</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>6</total>
+    <total>5</total>
     <OutageTime>11/05/2026 10:00 AM</OutageTime>
     <EstimateTime>11/05/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.06339214</LAT>
-    <LNG>-84.2122129774019</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820308</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>6</total>
-    <OutageTime>11/05/2026 01:39 PM</OutageTime>
-    <EstimateTime>11/05/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.706549</LAT>
-    <LNG>-84.1115103974776</LNG>
+    <LAT>39.7080442</LAT>
+    <LNG>-84.1095310129109</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820267</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
+    <total>5</total>
     <OutageTime>11/05/2026 11:13 AM</OutageTime>
     <EstimateTime>11/05/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81470124</LAT>
-    <LNG>-84.2523413358892</LNG>
+    <LAT>39.81619644</LAT>
+    <LNG>-84.2503585992188</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820268</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
+    <total>5</total>
     <OutageTime>11/05/2026 11:06 AM</OutageTime>
     <EstimateTime>11/05/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.2494047905345</LAT>
-    <LNG>-84.3826311220417</LNG>
+    <LAT>40.2508999905345</LAT>
+    <LNG>-84.380634720011</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820311</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>6</total>
+    <total>5</total>
     <OutageTime>11/05/2026 01:40 PM</OutageTime>
     <EstimateTime>11/05/2026 05:00 PM</EstimateTime>
   </Markers>
@@ -128,7 +117,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -165,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>11/5/2026 2:20:31 PM</Outageat>
+    <TotalOut>5</TotalOut>
+    <Outageat>11/5/2026 2:35:31 PM</Outageat>
   </Message>
 </Incidents>
