@@ -1,28 +1,18 @@
 [
   {
-    "id": 1820237,
-    "lat": 39.8571469,
-    "lng": -84.3106190979121,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-05T09:25:00",
-    "estimate_time": null
-  },
-  {
     "id": 1820247,
-    "lat": 39.79028469,
-    "lng": -83.9952804309354,
+    "lat": 39.78939469,
+    "lng": -83.9964601155986,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-05T10:00:00",
-    "estimate_time": "2026-11-05T13:00:00"
+    "estimate_time": "2026-11-05T16:00:00"
   },
   {
     "id": 1820267,
-    "lat": 39.7100289,
-    "lng": -84.1069036155396,
+    "lat": 39.7091389,
+    "lng": -84.1080818206388,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,12 +21,52 @@
   },
   {
     "id": 1820268,
-    "lat": 39.81818114,
-    "lng": -84.2477267523288,
+    "lat": 39.81729114,
+    "lng": -84.2489069527278,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-05T11:06:00",
     "estimate_time": "2026-11-05T14:00:00"
+  },
+  {
+    "id": 1820290,
+    "lat": 39.77584922,
+    "lng": -84.2608520901096,
+    "customers_affected": 3,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T12:45:00",
+    "estimate_time": "2026-11-05T16:00:00"
+  },
+  {
+    "id": 1820295,
+    "lat": 40.05683339,
+    "lng": -84.1996441327664,
+    "customers_affected": 2,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-05T12:48:00",
+    "estimate_time": "2026-11-05T16:00:00"
+  },
+  {
+    "id": 1820296,
+    "lat": 40.0343734667127,
+    "lng": -84.2043820851294,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-05T12:48:00",
+    "estimate_time": "2026-11-05T15:00:00"
+  },
+  {
+    "id": 1820297,
+    "lat": 40.05953406,
+    "lng": -84.2106706443993,
+    "customers_affected": 2,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-05T12:48:00",
+    "estimate_time": "2026-11-05T16:00:00"
   }
 ]
