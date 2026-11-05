@@ -1,8 +1,18 @@
 [
   {
+    "id": 299449,
+    "lat": 40.323089170131,
+    "lng": -84.1393524198863,
+    "customers_affected": 5038,
+    "county": "SHELBY",
+    "indicator": "T",
+    "outage_time": "2026-11-05T14:41:00",
+    "estimate_time": "2026-11-05T16:00:00"
+  },
+  {
     "id": 1820247,
-    "lat": 39.78829999,
-    "lng": -83.9979111277344,
+    "lat": 39.78668909,
+    "lng": -84.0000463569748,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -11,8 +21,8 @@
   },
   {
     "id": 1820267,
-    "lat": 39.7080442,
-    "lng": -84.1095310129109,
+    "lat": 39.7064333,
+    "lng": -84.1116635641406,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +31,8 @@
   },
   {
     "id": 1820268,
-    "lat": 39.81619644,
-    "lng": -84.2503585992188,
+    "lat": 39.81458554,
+    "lng": -84.2524947619411,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +41,8 @@
   },
   {
     "id": 1820311,
-    "lat": 40.2508999905345,
-    "lng": -84.380634720011,
+    "lat": 40.2492890905345,
+    "lng": -84.3827856055322,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -40,13 +50,833 @@
     "estimate_time": "2026-11-05T17:00:00"
   },
   {
-    "id": 1820312,
-    "lat": 39.81859516,
-    "lng": -84.0053917775307,
+    "id": 1820317,
+    "lat": 40.5696028,
+    "lng": -83.8246552898507,
     "customers_affected": 1,
-    "county": "GREENE",
+    "county": "HARDIN",
     "indicator": "D",
-    "outage_time": "2026-11-05T13:53:00",
-    "estimate_time": "2026-11-05T17:00:00"
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820319,
+    "lat": 40.5052518,
+    "lng": -83.9086385030689,
+    "customers_affected": 4,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820322,
+    "lat": 40.56284339,
+    "lng": -83.8766694525286,
+    "customers_affected": 2,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820325,
+    "lat": 40.48879795,
+    "lng": -83.8715906611151,
+    "customers_affected": 6,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820330,
+    "lat": 40.47925825,
+    "lng": -83.8563578898291,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820333,
+    "lat": 40.55233674,
+    "lng": -83.9332936575358,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820334,
+    "lat": 40.51864117,
+    "lng": -83.9052924604735,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820337,
+    "lat": 40.49690049,
+    "lng": -83.8647499016886,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820338,
+    "lat": 40.52433081,
+    "lng": -83.8802996697307,
+    "customers_affected": 6,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820342,
+    "lat": 40.56594109,
+    "lng": -83.9627836364303,
+    "customers_affected": 3,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820343,
+    "lat": 40.52257896,
+    "lng": -83.7329740517656,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820344,
+    "lat": 40.4752649420856,
+    "lng": -83.873602042884,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820345,
+    "lat": 40.53827251,
+    "lng": -83.8328141166063,
+    "customers_affected": 4,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820347,
+    "lat": 40.40800596,
+    "lng": -84.1612881733344,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820348,
+    "lat": 40.40464494,
+    "lng": -84.1678269655404,
+    "customers_affected": 2,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820349,
+    "lat": 40.56283241,
+    "lng": -83.8850940646767,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820350,
+    "lat": 40.53250767,
+    "lng": -83.8615941828488,
+    "customers_affected": 5,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:41:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820353,
+    "lat": 40.49868675,
+    "lng": -84.1727632034033,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820355,
+    "lat": 40.45331815,
+    "lng": -84.1671823193093,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820357,
+    "lat": 40.51739588,
+    "lng": -83.7378547135374,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820361,
+    "lat": 40.53241058,
+    "lng": -83.8622554718137,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820362,
+    "lat": 40.47663983,
+    "lng": -83.9817055398396,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820363,
+    "lat": 40.46978873,
+    "lng": -84.1697948639525,
+    "customers_affected": 2,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820365,
+    "lat": 40.47308368,
+    "lng": -84.1692964023874,
+    "customers_affected": 2,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820366,
+    "lat": 40.5247904,
+    "lng": -83.8745181499942,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820371,
+    "lat": 40.47889852,
+    "lng": -83.8789954399008,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820372,
+    "lat": 40.56587434,
+    "lng": -84.0474961194917,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820373,
+    "lat": 40.47568189,
+    "lng": -83.7845038664078,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820378,
+    "lat": 40.4772820212931,
+    "lng": -84.0323726226939,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820379,
+    "lat": 40.52485487,
+    "lng": -83.874460367406,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820380,
+    "lat": 40.52871781,
+    "lng": -83.8801054430661,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820381,
+    "lat": 40.49126029,
+    "lng": -84.1719545512024,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820383,
+    "lat": 40.56567357,
+    "lng": -84.0324765087774,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820384,
+    "lat": 40.47588928,
+    "lng": -83.8839575460174,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820387,
+    "lat": 40.47235133,
+    "lng": -84.169722154994,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820388,
+    "lat": 40.52055864,
+    "lng": -83.7437403161781,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820390,
+    "lat": 40.50268096,
+    "lng": -83.9818248344937,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820394,
+    "lat": 40.47253174,
+    "lng": -83.8828664298643,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820398,
+    "lat": 40.40271156,
+    "lng": -84.1609745406608,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820402,
+    "lat": 40.47703168,
+    "lng": -83.8746644435203,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820404,
+    "lat": 40.47866887,
+    "lng": -83.8849563246334,
+    "customers_affected": 6,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820406,
+    "lat": 40.56583789,
+    "lng": -83.9105911966241,
+    "customers_affected": 4,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820407,
+    "lat": 40.50586937,
+    "lng": -83.8539277426061,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820412,
+    "lat": 40.47739258,
+    "lng": -83.8798395532277,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:43:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820415,
+    "lat": 40.56692757,
+    "lng": -84.0197730633943,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820417,
+    "lat": 40.5161454,
+    "lng": -83.9052615175984,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820418,
+    "lat": 40.51999757,
+    "lng": -83.9074127257044,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820419,
+    "lat": 40.47527005,
+    "lng": -83.8810831266148,
+    "customers_affected": 6,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820421,
+    "lat": 40.47929317,
+    "lng": -84.028351053027,
+    "customers_affected": 4,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820423,
+    "lat": 40.53007072,
+    "lng": -83.873504418839,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820424,
+    "lat": 40.47824681,
+    "lng": -83.8461017268436,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820427,
+    "lat": 40.51645283,
+    "lng": -83.7352136575976,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820428,
+    "lat": 40.47745749,
+    "lng": -83.880326100585,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820432,
+    "lat": 40.47996129,
+    "lng": -83.8441033428806,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820436,
+    "lat": 40.46801482,
+    "lng": -83.8854863193077,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820438,
+    "lat": 40.52267961,
+    "lng": -83.9628144821153,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820440,
+    "lat": 40.52553724,
+    "lng": -83.9217916141666,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820441,
+    "lat": 40.4981597,
+    "lng": -83.866861796171,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820442,
+    "lat": 40.53552441,
+    "lng": -83.9909619535286,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820447,
+    "lat": 40.48658566,
+    "lng": -83.87298602224,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820454,
+    "lat": 40.48221696,
+    "lng": -83.8764860034536,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820455,
+    "lat": 40.56577065,
+    "lng": -83.9450386697813,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820456,
+    "lat": 40.50667856,
+    "lng": -83.8396526247601,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820461,
+    "lat": 40.47997217,
+    "lng": -83.8783070907611,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820464,
+    "lat": 40.50381197,
+    "lng": -83.8413791839062,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820465,
+    "lat": 40.50407105,
+    "lng": -83.8404115333745,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820468,
+    "lat": 40.52483638,
+    "lng": -83.8746019810163,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820470,
+    "lat": 40.47834557,
+    "lng": -83.981711237607,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:44:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820474,
+    "lat": 40.47777907,
+    "lng": -84.0272248179494,
+    "customers_affected": 2,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820477,
+    "lat": 40.52080847,
+    "lng": -83.9028676574079,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820480,
+    "lat": 40.5412633,
+    "lng": -83.8205924221796,
+    "customers_affected": 2,
+    "county": "HARDIN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:41:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820481,
+    "lat": 40.4768690125331,
+    "lng": -83.9042246779334,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820491,
+    "lat": 40.56230728,
+    "lng": -83.9429099874143,
+    "customers_affected": 1,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820493,
+    "lat": 40.47755092,
+    "lng": -83.8597159123873,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820507,
+    "lat": 40.5333493,
+    "lng": -83.8315525584457,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:45:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820510,
+    "lat": 40.4723560222375,
+    "lng": -84.1522068630247,
+    "customers_affected": 3,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820514,
+    "lat": 40.61144175,
+    "lng": -83.8681421224065,
+    "customers_affected": 55,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820515,
+    "lat": 40.52910948,
+    "lng": -83.8781485365738,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:41:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820535,
+    "lat": 40.53518076,
+    "lng": -84.1768389306653,
+    "customers_affected": 2,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820539,
+    "lat": 40.53273633,
+    "lng": -83.8597862081833,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820555,
+    "lat": 40.45331815,
+    "lng": -84.1671823193093,
+    "customers_affected": 385,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820560,
+    "lat": 40.5298724,
+    "lng": -83.8516313975726,
+    "customers_affected": 2,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:41:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1820571,
+    "lat": 40.5656291,
+    "lng": -84.051471757479,
+    "customers_affected": 497,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-05T14:40:00",
+    "estimate_time": null
   }
 ]
