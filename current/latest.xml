@@ -1,48 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.36088637</LAT>
-    <LNG>-83.3850418212741</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820894</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>HIGHLAND</COUNTY>
-    <total>7</total>
-    <OutageTime>11/05/2026 06:43 PM</OutageTime>
-    <EstimateTime>11/05/2026 10:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.05665853</LAT>
-    <LNG>-84.1669305093571</LNG>
+    <LAT>40.05929293</LAT>
+    <LNG>-84.1634238073124</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1820645</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>7</total>
+    <total>4</total>
     <OutageTime>11/05/2026 04:25 PM</OutageTime>
     <EstimateTime>11/05/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.00534027</LAT>
-    <LNG>-84.1959748087416</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820618</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>7</total>
-    <OutageTime>11/05/2026 02:53 PM</OutageTime>
-    <EstimateTime>11/05/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.740835</LAT>
-    <LNG>-84.1336173086519</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820632</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>7</total>
-    <OutageTime>11/05/2026 03:33 PM</OutageTime>
-    <EstimateTime>11/05/2026 09:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -90,7 +57,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -106,11 +73,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>5</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>7</TotalOut>
-    <Outageat>11/5/2026 7:05:32 PM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>11/5/2026 7:20:31 PM</Outageat>
   </Message>
 </Incidents>
