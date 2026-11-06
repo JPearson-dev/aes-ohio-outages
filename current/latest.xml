@@ -1,15 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.33273583</LAT>
-    <LNG>-83.6764568534238</LNG>
+    <LAT>39.33168563</LAT>
+    <LNG>-83.6778390339165</LNG>
     <TOTALCUSTS>19</TOTALCUSTS>
     <INCIDENTID>1820932</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>19</total>
+    <total>21</total>
     <OutageTime>11/06/2026 09:53 AM</OutageTime>
-    <EstimateTime>11/06/2026 12:00 PM</EstimateTime>
+    <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.17920443</LAT>
+    <LNG>-84.1994919854396</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1820950</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>21</total>
+    <OutageTime>11/06/2026 11:58 AM</OutageTime>
+    <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.404412</LAT>
+    <LNG>-84.2412177567063</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1820949</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>21</total>
+    <OutageTime>11/06/2026 11:55 AM</OutageTime>
+    <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -73,7 +95,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -93,7 +115,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -110,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>19</TotalOut>
-    <Outageat>11/6/2026 11:50:31 AM</Outageat>
+    <TotalOut>21</TotalOut>
+    <Outageat>11/6/2026 12:05:31 PM</Outageat>
   </Message>
 </Incidents>

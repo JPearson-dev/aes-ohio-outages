@@ -1,12 +1,32 @@
 [
   {
     "id": 1820932,
-    "lat": 39.33273583,
-    "lng": -83.6764568534238,
+    "lat": 39.33168563,
+    "lng": -83.6778390339165,
     "customers_affected": 19,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-11-06T09:53:00",
-    "estimate_time": "2026-11-06T12:00:00"
+    "estimate_time": "2026-11-06T14:00:00"
+  },
+  {
+    "id": 1820949,
+    "lat": 40.404412,
+    "lng": -84.2412177567063,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-06T11:55:00",
+    "estimate_time": "2026-11-06T14:00:00"
+  },
+  {
+    "id": 1820950,
+    "lat": 40.17920443,
+    "lng": -84.1994919854396,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-06T11:58:00",
+    "estimate_time": "2026-11-06T14:00:00"
   }
 ]
