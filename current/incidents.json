@@ -1,18 +1,8 @@
 [
   {
-    "id": 1820932,
-    "lat": 39.33292273,
-    "lng": -83.6762108721497,
-    "customers_affected": 6,
-    "county": "CLINTON",
-    "indicator": "D",
-    "outage_time": "2026-11-06T09:53:00",
-    "estimate_time": "2026-11-06T16:00:00"
-  },
-  {
     "id": 1820959,
-    "lat": 39.69228433,
-    "lng": -84.483287554513,
+    "lat": 39.68948083,
+    "lng": -84.4869978871609,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1820962,
-    "lat": 40.08535893,
-    "lng": -84.1825630357611,
+    "lat": 40.08255543,
+    "lng": -84.1862963610915,
     "customers_affected": 48,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,12 +21,22 @@
   },
   {
     "id": 1820965,
-    "lat": 40.24826322,
-    "lng": -84.3884355023245,
+    "lat": 40.24545972,
+    "lng": -84.3921784955175,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-06T14:01:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-06T16:00:00"
+  },
+  {
+    "id": 1820967,
+    "lat": 39.3322942,
+    "lng": -83.6883725382504,
+    "customers_affected": 6,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-11-06T09:53:00",
+    "estimate_time": "2026-11-06T17:00:00"
   }
 ]
