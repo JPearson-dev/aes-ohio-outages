@@ -1,46 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.33174793</LAT>
-    <LNG>-83.6777570401585</LNG>
+    <LAT>39.32960303</LAT>
+    <LNG>-83.6805799681139</LNG>
     <TOTALCUSTS>19</TOTALCUSTS>
     <INCIDENTID>1820932</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>22</total>
+    <total>21</total>
     <OutageTime>11/06/2026 09:53 AM</OutageTime>
     <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.17926673</LAT>
-    <LNG>-84.1994088974795</LNG>
+    <LAT>39.77204197</LAT>
+    <LNG>-84.1210870004533</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820950</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>22</total>
-    <OutageTime>11/06/2026 11:58 AM</OutageTime>
-    <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.82097785</LAT>
-    <LNG>-84.2200779681816</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820951</INCIDENTID>
+    <INCIDENTID>1820953</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>22</total>
-    <OutageTime>11/06/2026 12:04 PM</OutageTime>
-    <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
+    <total>21</total>
+    <OutageTime>11/06/2026 12:30 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.4044743</LAT>
-    <LNG>-84.2411343697741</LNG>
+    <LAT>40.4023294</LAT>
+    <LNG>-84.2440052627276</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820949</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>22</total>
+    <total>21</total>
     <OutageTime>11/06/2026 11:55 AM</OutageTime>
     <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -106,7 +95,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>22</TotalOut>
-    <Outageat>11/6/2026 12:20:31 PM</Outageat>
+    <TotalOut>21</TotalOut>
+    <Outageat>11/6/2026 12:35:31 PM</Outageat>
   </Message>
 </Incidents>
