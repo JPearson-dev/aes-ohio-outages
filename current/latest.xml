@@ -1,48 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.32967423</LAT>
-    <LNG>-83.6804862609619</LNG>
-    <TOTALCUSTS>19</TOTALCUSTS>
+    <LAT>39.33292273</LAT>
+    <LNG>-83.6762108721497</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1820932</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>69</total>
+    <total>56</total>
     <OutageTime>11/06/2026 09:53 AM</OutageTime>
     <EstimateTime>11/06/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.08211043</LAT>
-    <LNG>-84.1868889524138</LNG>
+    <LAT>40.08535893</LAT>
+    <LNG>-84.1825630357611</LNG>
     <TOTALCUSTS>48</TOTALCUSTS>
     <INCIDENTID>1820962</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>69</total>
+    <total>56</total>
     <OutageTime>11/06/2026 01:27 PM</OutageTime>
     <EstimateTime>11/06/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68903583</LAT>
-    <LNG>-84.487586828851</LNG>
+    <LAT>39.69228433</LAT>
+    <LNG>-84.483287554513</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820959</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>69</total>
+    <total>56</total>
     <OutageTime>11/06/2026 01:19 PM</OutageTime>
     <EstimateTime>11/06/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.4024006</LAT>
-    <LNG>-84.2439099633765</LNG>
+    <LAT>40.24826322</LAT>
+    <LNG>-84.3884355023245</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820949</INCIDENTID>
+    <INCIDENTID>1820965</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>69</total>
-    <OutageTime>11/06/2026 11:55 AM</OutageTime>
-    <EstimateTime>11/06/2026 04:00 PM</EstimateTime>
+    <total>56</total>
+    <OutageTime>11/06/2026 02:01 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -66,7 +66,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>19</TotOut>
+    <TotOut>6</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -143,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>69</TotalOut>
-    <Outageat>11/6/2026 2:05:31 PM</Outageat>
+    <TotalOut>56</TotalOut>
+    <Outageat>11/6/2026 2:20:31 PM</Outageat>
   </Message>
 </Incidents>
