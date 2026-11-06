@@ -1,57 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.33359023</LAT>
-    <LNG>-83.6753323675992</LNG>
+    <LAT>39.32991453</LAT>
+    <LNG>-83.6801699993237</LNG>
     <TOTALCUSTS>19</TOTALCUSTS>
     <INCIDENTID>1820932</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>27</total>
+    <total>69</total>
     <OutageTime>11/06/2026 09:53 AM</OutageTime>
     <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.08602643</LAT>
-    <LNG>-84.1816741487777</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1820961</INCIDENTID>
+    <LAT>40.08235073</LAT>
+    <LNG>-84.1865689530998</LNG>
+    <TOTALCUSTS>48</TOTALCUSTS>
+    <INCIDENTID>1820962</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>27</total>
+    <total>69</total>
     <OutageTime>11/06/2026 01:27 PM</OutageTime>
     <EstimateTime>11/06/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77602917</LAT>
-    <LNG>-84.1158032271622</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820953</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>27</total>
-    <OutageTime>11/06/2026 12:30 PM</OutageTime>
-    <EstimateTime>11/06/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.69295183</LAT>
-    <LNG>-84.4824041419779</LNG>
+    <LAT>39.68927613</LAT>
+    <LNG>-84.4872688003383</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820959</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>27</total>
+    <total>69</total>
     <OutageTime>11/06/2026 01:19 PM</OutageTime>
     <EstimateTime>11/06/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.4063166</LAT>
-    <LNG>-84.2386684990629</LNG>
+    <LAT>40.4026409</LAT>
+    <LNG>-84.2435883280663</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820949</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>27</total>
+    <total>69</total>
     <OutageTime>11/06/2026 11:55 AM</OutageTime>
     <EstimateTime>11/06/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -117,11 +106,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>5</TotOut>
+    <TotOut>48</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>27</TotalOut>
-    <Outageat>11/6/2026 1:35:31 PM</Outageat>
+    <TotalOut>69</TotalOut>
+    <Outageat>11/6/2026 1:50:31 PM</Outageat>
   </Message>
 </Incidents>
