@@ -1,45 +1,56 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.69189512</LAT>
-    <LNG>-84.1969150487317</LNG>
+    <LAT>39.94624061</LAT>
+    <LNG>-84.0118876723396</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1820992</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLARK</COUNTY>
+    <total>18</total>
+    <OutageTime>11/06/2026 04:59 PM</OutageTime>
+    <EstimateTime>11/06/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.69069362</LAT>
+    <LNG>-84.1985051769999</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1820974</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>15</total>
+    <total>18</total>
     <OutageTime>11/06/2026 02:51 PM</OutageTime>
-    <EstimateTime>11/06/2026 05:00 PM</EstimateTime>
+    <EstimateTime>11/06/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74842897</LAT>
-    <LNG>-84.1347346144406</LNG>
+    <LAT>39.74722747</LAT>
+    <LNG>-84.1363261475386</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820987</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>15</total>
+    <total>18</total>
     <OutageTime>11/06/2026 04:18 PM</OutageTime>
     <EstimateTime>11/06/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24845012</LAT>
-    <LNG>-84.388185969445</LNG>
+    <LAT>40.24724862</LAT>
+    <LNG>-84.3897901093848</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820965</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>15</total>
+    <total>18</total>
     <OutageTime>11/06/2026 02:01 PM</OutageTime>
     <EstimateTime>11/06/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.3352846</LAT>
-    <LNG>-83.6844367060168</LNG>
+    <LAT>39.3340831</LAT>
+    <LNG>-83.6860180671821</LNG>
     <TOTALCUSTS>7</TOTALCUSTS>
     <INCIDENTID>1820967</INCIDENTID>
     <IND>D</IND>
-    <total>15</total>
+    <total>18</total>
     <OutageTime>11/06/2026 09:53 AM</OutageTime>
     <EstimateTime>11/06/2026 09:00 PM</EstimateTime>
   </Markers>
@@ -61,7 +72,7 @@
   </Counties>
   <Counties>
     <County>CLARK</County>
-    <TotOut>0</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>CLINTON</County>
@@ -142,7 +153,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>8</TotalOut>
-    <Outageat>11/6/2026 4:50:32 PM</Outageat>
+    <TotalOut>11</TotalOut>
+    <Outageat>11/6/2026 5:05:32 PM</Outageat>
   </Message>
 </Incidents>
