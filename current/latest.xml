@@ -1,8 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.69231342</LAT>
-    <LNG>-84.1963614485198</LNG>
+    <LAT>40.48415599</LAT>
+    <LNG>-83.8782334593092</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1820985</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>LOGAN</COUNTY>
+    <total>14</total>
+    <OutageTime>11/06/2026 03:48 PM</OutageTime>
+    <EstimateTime>11/06/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.69032872</LAT>
+    <LNG>-84.1989881048443</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1820974</INCIDENTID>
     <IND>D</IND>
@@ -12,30 +23,19 @@
     <EstimateTime>11/06/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24886842</LAT>
-    <LNG>-84.3876274910956</LNG>
+    <LAT>40.24688372</LAT>
+    <LNG>-84.3902772926258</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1820965</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
     <total>14</total>
     <OutageTime>11/06/2026 02:01 PM</OutageTime>
-    <EstimateTime>11/06/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.54371559</LAT>
-    <LNG>-84.0688028279086</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820980</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>14</total>
-    <OutageTime>11/06/2026 03:14 PM</OutageTime>
     <EstimateTime>11/06/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.3357029</LAT>
-    <LNG>-83.6838861580556</LNG>
+    <LAT>39.3337182</LAT>
+    <LNG>-83.6864983324249</LNG>
     <TOTALCUSTS>7</TOTALCUSTS>
     <INCIDENTID>1820967</INCIDENTID>
     <IND>D</IND>
@@ -93,7 +93,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -137,12 +137,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>7</TotalOut>
-    <Outageat>11/6/2026 3:50:33 PM</Outageat>
+    <Outageat>11/6/2026 4:05:32 PM</Outageat>
   </Message>
 </Incidents>
