@@ -1,8 +1,8 @@
 [
   {
     "id": 1820959,
-    "lat": 39.68948083,
-    "lng": -84.4869978871609,
+    "lat": 39.69068233,
+    "lng": -84.4854077445975,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-06T16:00:00"
   },
   {
-    "id": 1820962,
-    "lat": 40.08255543,
-    "lng": -84.1862963610915,
-    "customers_affected": 48,
-    "county": "MIAMI",
-    "indicator": "D",
-    "outage_time": "2026-11-06T13:27:00",
-    "estimate_time": "2026-11-06T16:00:00"
-  },
-  {
     "id": 1820965,
-    "lat": 40.24545972,
-    "lng": -84.3921784955175,
+    "lat": 40.24666122,
+    "lng": -84.3905743555776,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -31,12 +21,22 @@
   },
   {
     "id": 1820967,
-    "lat": 39.3322942,
-    "lng": -83.6883725382504,
+    "lat": 39.3334957,
+    "lng": -83.6867911770851,
     "customers_affected": 6,
     "county": null,
     "indicator": "D",
     "outage_time": "2026-11-06T09:53:00",
     "estimate_time": "2026-11-06T17:00:00"
+  },
+  {
+    "id": 1820968,
+    "lat": 39.69397781,
+    "lng": -84.1973312697913,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-06T14:43:00",
+    "estimate_time": null
   }
 ]
