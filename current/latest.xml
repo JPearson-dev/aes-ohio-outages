@@ -1,26 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.18538976</LAT>
-    <LNG>-84.4487538200374</LNG>
+    <LAT>40.18640436</LAT>
+    <LNG>-84.447400561535</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1820907</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>13</total>
+    <total>12</total>
     <OutageTime>11/05/2026 10:03 PM</OutageTime>
-    <EstimateTime>11/06/2026 01:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.64794807</LAT>
-    <LNG>-84.0498234603386</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1820911</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>13</total>
-    <OutageTime>11/06/2026 12:10 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>11/06/2026 03:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -60,7 +49,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -121,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>13</TotalOut>
-    <Outageat>11/6/2026 12:20:31 AM</Outageat>
+    <TotalOut>12</TotalOut>
+    <Outageat>11/6/2026 12:35:31 AM</Outageat>
   </Message>
 </Incidents>
