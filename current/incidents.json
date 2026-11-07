@@ -1,12 +1,22 @@
 [
   {
     "id": 1821011,
-    "lat": 40.38951958,
-    "lng": -83.7327451190539,
+    "lat": 40.38585278,
+    "lng": -83.737651753785,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
     "outage_time": "2026-11-07T06:40:00",
     "estimate_time": "2026-11-07T09:00:00"
+  },
+  {
+    "id": 1821013,
+    "lat": 39.85711201,
+    "lng": -84.1180230249443,
+    "customers_affected": 6,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-07T07:10:00",
+    "estimate_time": null
   }
 ]
