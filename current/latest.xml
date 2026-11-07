@@ -1,90 +1,79 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.45395831</LAT>
-    <LNG>-83.8129278029318</LNG>
+    <LAT>39.45520431</LAT>
+    <LNG>-83.8112847941902</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821052</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>231</total>
+    <total>230</total>
     <OutageTime>11/07/2026 03:32 PM</OutageTime>
-    <EstimateTime>11/07/2026 06:00 PM</EstimateTime>
+    <EstimateTime>11/07/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.47018104</LAT>
-    <LNG>-83.8574233603158</LNG>
+    <LAT>39.47142704</LAT>
+    <LNG>-83.8557799390251</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821049</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>231</total>
+    <total>230</total>
     <OutageTime>11/07/2026 03:10 PM</OutageTime>
     <EstimateTime>11/07/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.70944719</LAT>
-    <LNG>-84.1057345454729</LNG>
+    <LAT>39.71069319</LAT>
+    <LNG>-84.1040849990428</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1821047</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>231</total>
+    <total>230</total>
     <OutageTime>11/07/2026 02:29 PM</OutageTime>
     <EstimateTime>11/07/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74120963</LAT>
-    <LNG>-84.2513016852108</LNG>
+    <LAT>39.74318543</LAT>
+    <LNG>-84.2486846475525</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821048</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>231</total>
+    <total>230</total>
     <OutageTime>11/07/2026 03:07 PM</OutageTime>
     <EstimateTime>11/07/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8113393</LAT>
-    <LNG>-84.1829826921489</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821046</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>231</total>
-    <OutageTime>11/07/2026 02:27 PM</OutageTime>
-    <EstimateTime>11/07/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.74427218</LAT>
-    <LNG>-84.119013752256</LNG>
+    <LAT>39.74624798</LAT>
+    <LNG>-84.1163965892815</LNG>
     <TOTALCUSTS>220</TOTALCUSTS>
     <INCIDENTID>1821044</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>231</total>
+    <total>230</total>
     <OutageTime>11/07/2026 02:16 PM</OutageTime>
-    <EstimateTime>11/07/2026 04:00 PM</EstimateTime>
+    <EstimateTime>11/07/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.18822589</LAT>
-    <LNG>-83.4244882117345</LNG>
+    <LAT>39.8133151</LAT>
+    <LNG>-84.1803627798504</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821040</INCIDENTID>
+    <INCIDENTID>1821046</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>231</total>
-    <OutageTime>11/07/2026 01:51 PM</OutageTime>
-    <EstimateTime>11/07/2026 05:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>230</total>
+    <OutageTime>11/07/2026 02:27 PM</OutageTime>
+    <EstimateTime>11/07/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.23431444</LAT>
-    <LNG>-83.3547054962853</LNG>
+    <LAT>40.23629024</LAT>
+    <LNG>-83.3520680217388</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821051</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>231</total>
+    <total>230</total>
     <OutageTime>11/07/2026 03:31 PM</OutageTime>
     <EstimateTime>11/07/2026 05:00 PM</EstimateTime>
   </Markers>
@@ -174,7 +163,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -187,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>231</TotalOut>
-    <Outageat>11/7/2026 3:50:31 PM</Outageat>
+    <TotalOut>230</TotalOut>
+    <Outageat>11/7/2026 4:05:31 PM</Outageat>
   </Message>
 </Incidents>
