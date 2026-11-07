@@ -1,37 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.94699711</LAT>
-    <LNG>-84.0108824614318</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
-    <INCIDENTID>1821029</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLARK</COUNTY>
-    <total>10</total>
-    <OutageTime>11/07/2026 10:56 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
     <LAT>40.09265619</LAT>
     <LNG>-84.6184965849955</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1821027</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>10</total>
+    <total>6</total>
     <OutageTime>11/07/2026 10:39 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.93985118</LAT>
-    <LNG>-84.1555988765667</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821021</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>10</total>
-    <OutageTime>11/07/2026 09:23 AM</OutageTime>
-    <EstimateTime>11/07/2026 12:00 PM</EstimateTime>
+    <EstimateTime>11/07/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -51,7 +29,7 @@
   </Counties>
   <Counties>
     <County>CLARK</County>
-    <TotOut>3</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLINTON</County>
@@ -95,7 +73,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -132,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>10</TotalOut>
-    <Outageat>11/7/2026 11:05:31 AM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>11/7/2026 11:20:31 AM</Outageat>
   </Message>
 </Incidents>
