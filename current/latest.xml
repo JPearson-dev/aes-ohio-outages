@@ -1,5 +1,27 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
+  <Markers>
+    <LAT>39.67679096</LAT>
+    <LNG>-83.6418000993916</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821088</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>2</total>
+    <OutageTime>11/08/2026 10:29 AM</OutageTime>
+    <EstimateTime>11/08/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.2844751</LAT>
+    <LNG>-83.3596393611007</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821087</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>2</total>
+    <OutageTime>11/08/2026 10:28 AM</OutageTime>
+    <EstimateTime>11/08/2026 01:00 PM</EstimateTime>
+  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -38,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -86,7 +108,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -99,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>0</TotalOut>
-    <Outageat>11/8/2026 10:20:31 AM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>11/8/2026 10:35:30 AM</Outageat>
   </Message>
 </Incidents>
