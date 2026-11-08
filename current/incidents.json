@@ -1,22 +1,32 @@
 [
   {
     "id": 1821071,
-    "lat": 39.68384896,
-    "lng": -83.8648635547889,
+    "lat": 39.68456986,
+    "lng": -83.8639095431517,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-07T23:41:00",
-    "estimate_time": "2026-11-08T03:00:00"
+    "estimate_time": "2026-11-08T06:00:00"
   },
   {
     "id": 1821073,
-    "lat": 39.75118494,
-    "lng": -84.1897895924618,
+    "lat": 39.75190584,
+    "lng": -84.1888345768181,
     "customers_affected": 14,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-08T01:29:00",
     "estimate_time": "2026-11-08T05:00:00"
+  },
+  {
+    "id": 1821075,
+    "lat": 39.41314165,
+    "lng": -83.9743106503556,
+    "customers_affected": 1,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-11-08T03:10:00",
+    "estimate_time": null
   }
 ]
