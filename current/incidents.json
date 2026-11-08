@@ -1,8 +1,8 @@
 [
   {
     "id": 1821088,
-    "lat": 39.67658626,
-    "lng": -83.6420709498416,
+    "lat": 39.67673756,
+    "lng": -83.6418707560308,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1821096,
-    "lat": 39.77723359,
-    "lng": -84.6988551617579,
+    "lat": 39.77738489,
+    "lng": -84.6986546528758,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
     "outage_time": "2026-11-08T14:35:00",
     "estimate_time": "2026-11-08T19:00:00"
+  },
+  {
+    "id": 1821102,
+    "lat": 39.61096979,
+    "lng": -84.1461496008667,
+    "customers_affected": 2,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-08T17:31:00",
+    "estimate_time": "2026-11-08T20:00:00"
   }
 ]
