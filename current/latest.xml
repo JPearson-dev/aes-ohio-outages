@@ -1,37 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.67566956</LAT>
-    <LNG>-83.6432838888134</LNG>
+    <LAT>39.67818826</LAT>
+    <LNG>-83.6399512506678</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821088</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>3</total>
+    <total>2</total>
     <OutageTime>11/08/2026 10:29 AM</OutageTime>
     <EstimateTime>11/08/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.77631689</LAT>
-    <LNG>-84.7000700096908</LNG>
+    <LAT>39.77883559</LAT>
+    <LNG>-84.6967321265354</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821096</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>3</total>
+    <total>2</total>
     <OutageTime>11/08/2026 02:35 PM</OutageTime>
     <EstimateTime>11/08/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.47824688</LAT>
-    <LNG>-84.1879664695134</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821097</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>3</total>
-    <OutageTime>11/08/2026 03:19 PM</OutageTime>
-    <EstimateTime>11/08/2026 05:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -115,7 +104,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>11/8/2026 5:05:31 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>11/8/2026 5:20:30 PM</Outageat>
   </Message>
 </Incidents>
