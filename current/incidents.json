@@ -1,18 +1,8 @@
 [
   {
-    "id": 299489,
-    "lat": 40.2296877238892,
-    "lng": -83.3711150035976,
-    "customers_affected": 307,
-    "county": "UNION",
-    "indicator": "T",
-    "outage_time": "2026-11-09T14:10:00",
-    "estimate_time": "2026-11-09T16:00:00"
-  },
-  {
     "id": 1821156,
-    "lat": 40.08249952,
-    "lng": -83.5635114530405,
+    "lat": 40.08415492,
+    "lng": -83.5613070230364,
     "customers_affected": 17,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1821170,
-    "lat": 40.12046766,
-    "lng": -83.745613348746,
+    "lat": 40.12212306,
+    "lng": -83.743407592578,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1821177,
-    "lat": 40.26600048,
-    "lng": -83.3602206400452,
+    "lat": 40.26765588,
+    "lng": -83.3580097762631,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1821179,
-    "lat": 40.24043061,
-    "lng": -83.3721563383878,
+    "lat": 40.24208601,
+    "lng": -83.3699463748158,
     "customers_affected": 55,
     "county": "UNION",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1821185,
-    "lat": 39.63398076,
-    "lng": -84.172425616966,
+    "lat": 39.63563616,
+    "lng": -84.1702366561461,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -60,23 +50,43 @@
     "estimate_time": "2026-11-09T16:00:00"
   },
   {
-    "id": 1821187,
-    "lat": 40.2554647,
-    "lng": -83.3802635405128,
-    "customers_affected": 1,
-    "county": null,
-    "indicator": "D",
-    "outage_time": "2026-11-09T14:19:00",
-    "estimate_time": "2026-11-09T16:00:00"
-  },
-  {
     "id": 1821197,
-    "lat": 40.52214148,
-    "lng": -83.7434447689774,
+    "lat": 40.52379688,
+    "lng": -83.741224820863,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
     "outage_time": "2026-11-09T14:50:00",
     "estimate_time": "2026-11-09T17:00:00"
+  },
+  {
+    "id": 1821205,
+    "lat": 40.23996946,
+    "lng": -83.37961207084,
+    "customers_affected": 5,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-11-09T14:08:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1821215,
+    "lat": 40.24117329,
+    "lng": -83.3761006073479,
+    "customers_affected": 2,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-11-09T14:08:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1821220,
+    "lat": 40.66663271,
+    "lng": -84.6129397260974,
+    "customers_affected": 1,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-11-09T15:07:00",
+    "estimate_time": null
   }
 ]
