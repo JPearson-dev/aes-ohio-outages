@@ -1,12 +1,32 @@
 [
   {
     "id": 1821120,
-    "lat": 39.60492904,
-    "lng": -83.7955699080903,
+    "lat": 39.60382544,
+    "lng": -83.7970284962054,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-09T08:52:00",
     "estimate_time": "2026-11-09T13:00:00"
+  },
+  {
+    "id": 1821156,
+    "lat": 40.08401252,
+    "lng": -83.5614966514239,
+    "customers_affected": 17,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-11-09T11:36:00",
+    "estimate_time": "2026-11-09T14:00:00"
+  },
+  {
+    "id": 1821158,
+    "lat": 40.52365448,
+    "lng": -83.7414157841417,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-09T11:43:00",
+    "estimate_time": null
   }
 ]
