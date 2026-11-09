@@ -1,16 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
-  <Markers>
-    <LAT>39.77574729</LAT>
-    <LNG>-84.7008248666588</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821096</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>1</total>
-    <OutageTime>11/08/2026 02:35 PM</OutageTime>
-    <EstimateTime>11/08/2026 11:00 PM</EstimateTime>
-  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -85,7 +74,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -110,7 +99,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>11/8/2026 11:35:31 PM</Outageat>
+    <TotalOut>0</TotalOut>
+    <Outageat>11/8/2026 11:50:31 PM</Outageat>
   </Message>
 </Incidents>
