@@ -1,8 +1,8 @@
 [
   {
     "id": 1821170,
-    "lat": 40.12071686,
-    "lng": -83.7452812994304,
+    "lat": 40.12063676,
+    "lng": -83.7453880295675,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1821177,
-    "lat": 40.26624968,
-    "lng": -83.3598878218414,
+    "lat": 40.26616958,
+    "lng": -83.3599947991212,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1821185,
-    "lat": 39.63422996,
-    "lng": -84.1720960959824,
+    "lat": 39.63414986,
+    "lng": -84.1722020134414,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1821197,
-    "lat": 40.52239068,
-    "lng": -83.7431105832398,
+    "lat": 40.52231058,
+    "lng": -83.743218000084,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1821220,
-    "lat": 40.66522651,
-    "lng": -84.6148298368162,
+    "lat": 40.66514641,
+    "lng": -84.6149375013509,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1821222,
-    "lat": 40.0459659,
-    "lng": -84.1840034403427,
+    "lat": 40.0458858,
+    "lng": -84.1841100442657,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -61,8 +61,8 @@
   },
   {
     "id": 1821225,
-    "lat": 40.29485062,
-    "lng": -84.623494950445,
+    "lat": 40.29477052,
+    "lng": -84.6236019765157,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -71,8 +71,8 @@
   },
   {
     "id": 1821226,
-    "lat": 40.2749804,
-    "lng": -84.6231576711427,
+    "lat": 40.2749003,
+    "lng": -84.6232646633086,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -81,8 +81,8 @@
   },
   {
     "id": 1821227,
-    "lat": 39.53150702,
-    "lng": -84.0507857618816,
+    "lat": 39.53142692,
+    "lng": -84.0508915103547,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
@@ -91,12 +91,22 @@
   },
   {
     "id": 1821229,
-    "lat": 40.23978051,
-    "lng": -83.3778356780838,
+    "lat": 40.23970041,
+    "lng": -83.3779426102741,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
     "outage_time": "2026-11-09T15:53:00",
+    "estimate_time": "2026-11-09T18:00:00"
+  },
+  {
+    "id": 1821233,
+    "lat": 39.47346514,
+    "lng": -83.9567309679442,
+    "customers_affected": 1,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-11-09T16:15:00",
     "estimate_time": "2026-11-09T18:00:00"
   }
 ]
