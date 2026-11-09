@@ -1,103 +1,81 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12212306</LAT>
-    <LNG>-83.743407592578</LNG>
+    <LAT>40.12249686</LAT>
+    <LNG>-83.7429095186046</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821170</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>84</total>
+    <total>23</total>
     <OutageTime>11/09/2026 01:07 PM</OutageTime>
     <EstimateTime>11/09/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.08415492</LAT>
-    <LNG>-83.5613070230364</LNG>
+    <LAT>40.08452872</LAT>
+    <LNG>-83.5608092485194</LNG>
     <TOTALCUSTS>17</TOTALCUSTS>
     <INCIDENTID>1821156</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>84</total>
+    <total>23</total>
     <OutageTime>11/09/2026 11:36 AM</OutageTime>
     <EstimateTime>11/09/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.52379688</LAT>
-    <LNG>-83.741224820863</LNG>
+    <LAT>40.52417068</LAT>
+    <LNG>-83.7407235422565</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821197</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>84</total>
+    <total>23</total>
     <OutageTime>11/09/2026 02:50 PM</OutageTime>
     <EstimateTime>11/09/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.66663271</LAT>
-    <LNG>-84.6129397260974</LNG>
+    <LAT>40.66700651</LAT>
+    <LNG>-84.6124372916025</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821220</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>84</total>
+    <total>23</total>
     <OutageTime>11/09/2026 03:07 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.63563616</LAT>
-    <LNG>-84.1702366561461</LNG>
+    <LAT>40.0477459</LAT>
+    <LNG>-84.181634464276</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821222</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>23</total>
+    <OutageTime>11/09/2026 03:26 PM</OutageTime>
+    <EstimateTime>11/09/2026 05:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.63600996</LAT>
+    <LNG>-84.1697423746706</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821185</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>84</total>
+    <total>23</total>
     <OutageTime>11/09/2026 02:29 PM</OutageTime>
     <EstimateTime>11/09/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.26765588</LAT>
-    <LNG>-83.3580097762631</LNG>
+    <LAT>40.26802968</LAT>
+    <LNG>-83.3575105489575</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821177</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>84</total>
+    <total>23</total>
     <OutageTime>11/09/2026 02:17 PM</OutageTime>
     <EstimateTime>11/09/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.24208601</LAT>
-    <LNG>-83.3699463748158</LNG>
-    <TOTALCUSTS>55</TOTALCUSTS>
-    <INCIDENTID>1821179</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>84</total>
-    <OutageTime>11/09/2026 02:08 PM</OutageTime>
-    <EstimateTime>11/09/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.23996946</LAT>
-    <LNG>-83.37961207084</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1821205</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>84</total>
-    <OutageTime>11/09/2026 02:08 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.24117329</LAT>
-    <LNG>-83.3761006073479</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1821215</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>84</total>
-    <OutageTime>11/09/2026 02:08 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -161,7 +139,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -185,7 +163,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>63</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -198,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>84</TotalOut>
-    <Outageat>11/9/2026 3:20:31 PM</Outageat>
+    <TotalOut>23</TotalOut>
+    <Outageat>11/9/2026 3:35:31 PM</Outageat>
   </Message>
 </Incidents>
