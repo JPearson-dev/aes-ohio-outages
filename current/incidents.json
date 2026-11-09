@@ -1,18 +1,8 @@
 [
   {
-    "id": 1821113,
-    "lat": 40.11807214,
-    "lng": -83.7494528427759,
-    "customers_affected": 1,
-    "county": "CHAMPAIGN",
-    "indicator": "D",
-    "outage_time": "2026-11-09T08:19:00",
-    "estimate_time": "2026-11-09T10:00:00"
-  },
-  {
     "id": 1821116,
-    "lat": 39.45616027,
-    "lng": -83.8111795440839,
+    "lat": 39.45844757,
+    "lng": -83.8081633807671,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -20,13 +10,43 @@
     "estimate_time": "2026-11-09T11:00:00"
   },
   {
+    "id": 1821120,
+    "lat": 39.60527614,
+    "lng": -83.7951111586025,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-09T08:52:00",
+    "estimate_time": null
+  },
+  {
     "id": 1821126,
-    "lat": 39.8059388,
-    "lng": -84.1170026072892,
+    "lat": 39.8082261,
+    "lng": -84.1139699718213,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-09T09:16:00",
     "estimate_time": null
+  },
+  {
+    "id": 1821129,
+    "lat": 40.32502671,
+    "lng": -83.9040079401288,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-09T09:31:00",
+    "estimate_time": "2026-11-09T12:00:00"
+  },
+  {
+    "id": 1821131,
+    "lat": 40.01322236,
+    "lng": -84.1780232869617,
+    "customers_affected": 18,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-09T09:37:00",
+    "estimate_time": "2026-11-09T12:00:00"
   }
 ]
