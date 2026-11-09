@@ -1,8 +1,8 @@
 [
   {
     "id": 1821156,
-    "lat": 40.08452872,
-    "lng": -83.5608092485194,
+    "lat": 40.08468002,
+    "lng": -83.5606077683577,
     "customers_affected": 17,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1821170,
-    "lat": 40.12249686,
-    "lng": -83.7429095186046,
+    "lat": 40.12264816,
+    "lng": -83.7427079172344,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1821177,
-    "lat": 40.26802968,
-    "lng": -83.3575105489575,
+    "lat": 40.26818098,
+    "lng": -83.3573084807624,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1821185,
-    "lat": 39.63600996,
-    "lng": -84.1697423746706,
+    "lat": 39.63616126,
+    "lng": -84.1695423083592,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1821197,
-    "lat": 40.52417068,
-    "lng": -83.7407235422565,
+    "lat": 40.52432198,
+    "lng": -83.740520643773,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -51,8 +51,8 @@
   },
   {
     "id": 1821220,
-    "lat": 40.66700651,
-    "lng": -84.6124372916025,
+    "lat": 40.66715781,
+    "lng": -84.6122339252593,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -61,12 +61,42 @@
   },
   {
     "id": 1821222,
-    "lat": 40.0477459,
-    "lng": -84.181634464276,
+    "lat": 40.0478972,
+    "lng": -84.1814331013103,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-11-09T15:26:00",
     "estimate_time": "2026-11-09T17:00:00"
+  },
+  {
+    "id": 1821225,
+    "lat": 40.29678192,
+    "lng": -84.6209144329619,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-09T15:36:00",
+    "estimate_time": "2026-11-09T18:00:00"
+  },
+  {
+    "id": 1821226,
+    "lat": 40.2769117,
+    "lng": -84.6205779711409,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-09T15:41:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1821227,
+    "lat": 39.53343832,
+    "lng": -84.0482360486971,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-11-09T15:42:00",
+    "estimate_time": null
   }
 ]

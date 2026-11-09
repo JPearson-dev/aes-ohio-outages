@@ -1,81 +1,114 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12249686</LAT>
-    <LNG>-83.7429095186046</LNG>
+    <LAT>40.12264816</LAT>
+    <LNG>-83.7427079172344</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821170</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>23</total>
+    <total>26</total>
     <OutageTime>11/09/2026 01:07 PM</OutageTime>
     <EstimateTime>11/09/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.08452872</LAT>
-    <LNG>-83.5608092485194</LNG>
+    <LAT>40.08468002</LAT>
+    <LNG>-83.5606077683577</LNG>
     <TOTALCUSTS>17</TOTALCUSTS>
     <INCIDENTID>1821156</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>23</total>
+    <total>26</total>
     <OutageTime>11/09/2026 11:36 AM</OutageTime>
     <EstimateTime>11/09/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.52417068</LAT>
-    <LNG>-83.7407235422565</LNG>
+    <LAT>40.2769117</LAT>
+    <LNG>-84.6205779711409</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821226</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>26</total>
+    <OutageTime>11/09/2026 03:41 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.29678192</LAT>
+    <LNG>-84.6209144329619</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821225</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>26</total>
+    <OutageTime>11/09/2026 03:36 PM</OutageTime>
+    <EstimateTime>11/09/2026 06:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.52432198</LAT>
+    <LNG>-83.740520643773</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821197</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>23</total>
+    <total>26</total>
     <OutageTime>11/09/2026 02:50 PM</OutageTime>
     <EstimateTime>11/09/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.66700651</LAT>
-    <LNG>-84.6124372916025</LNG>
+    <LAT>40.66715781</LAT>
+    <LNG>-84.6122339252593</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821220</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>23</total>
+    <total>26</total>
     <OutageTime>11/09/2026 03:07 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.0477459</LAT>
-    <LNG>-84.181634464276</LNG>
+    <LAT>40.0478972</LAT>
+    <LNG>-84.1814331013103</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821222</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>23</total>
+    <total>26</total>
     <OutageTime>11/09/2026 03:26 PM</OutageTime>
     <EstimateTime>11/09/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.63600996</LAT>
-    <LNG>-84.1697423746706</LNG>
+    <LAT>39.63616126</LAT>
+    <LNG>-84.1695423083592</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821185</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>23</total>
+    <total>26</total>
     <OutageTime>11/09/2026 02:29 PM</OutageTime>
     <EstimateTime>11/09/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.26802968</LAT>
-    <LNG>-83.3575105489575</LNG>
+    <LAT>40.26818098</LAT>
+    <LNG>-83.3573084807624</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821177</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>23</total>
+    <total>26</total>
     <OutageTime>11/09/2026 02:17 PM</OutageTime>
     <EstimateTime>11/09/2026 04:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.53343832</LAT>
+    <LNG>-84.0482360486971</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821227</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>WARREN</COUNTY>
+    <total>26</total>
+    <OutageTime>11/09/2026 03:42 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -103,7 +136,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -171,12 +204,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>23</TotalOut>
-    <Outageat>11/9/2026 3:35:31 PM</Outageat>
+    <TotalOut>26</TotalOut>
+    <Outageat>11/9/2026 3:50:31 PM</Outageat>
   </Message>
 </Incidents>
