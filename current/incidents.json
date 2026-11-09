@@ -1,8 +1,8 @@
 [
   {
     "id": 299489,
-    "lat": 40.2303552238892,
-    "lng": -83.3702240416148,
+    "lat": 40.2300259238892,
+    "lng": -83.3706635828597,
     "customers_affected": 2125,
     "county": "UNION",
     "indicator": "T",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1821156,
-    "lat": 40.08316702,
-    "lng": -83.5626225699743,
+    "lat": 40.08283772,
+    "lng": -83.5630610856203,
     "customers_affected": 17,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1821170,
-    "lat": 40.12113516,
-    "lng": -83.7447239309363,
+    "lat": 40.12080586,
+    "lng": -83.7451627103891,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -30,13 +30,53 @@
     "estimate_time": "2026-11-09T15:00:00"
   },
   {
-    "id": 1821175,
-    "lat": 40.24109811,
-    "lng": -83.3712652240442,
-    "customers_affected": 6,
+    "id": 1821177,
+    "lat": 40.26633868,
+    "lng": -83.3597689581972,
+    "customers_affected": 1,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-11-09T14:17:00",
+    "estimate_time": "2026-11-09T16:00:00"
+  },
+  {
+    "id": 1821179,
+    "lat": 40.24076881,
+    "lng": -83.3717048404537,
+    "customers_affected": 55,
     "county": "UNION",
     "indicator": "D",
     "outage_time": "2026-11-09T14:08:00",
+    "estimate_time": "2026-11-09T16:00:00"
+  },
+  {
+    "id": 1821184,
+    "lat": 40.23412777,
+    "lng": -83.5399964234962,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-11-09T14:27:00",
+    "estimate_time": "2026-11-09T17:00:00"
+  },
+  {
+    "id": 1821185,
+    "lat": 39.63431896,
+    "lng": -84.1719784099168,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-09T14:29:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1821187,
+    "lat": 40.2558029,
+    "lng": -83.3798119344743,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-11-09T14:19:00",
     "estimate_time": null
   }
 ]
