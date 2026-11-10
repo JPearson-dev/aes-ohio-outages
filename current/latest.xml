@@ -1,16 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
-  <Markers>
-    <LAT>39.47326044</LAT>
-    <LNG>-83.9570009713821</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1821233</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>4</total>
-    <OutageTime>11/09/2026 04:15 PM</OutageTime>
-    <EstimateTime>11/10/2026 07:00 AM</EstimateTime>
-  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -33,7 +22,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -110,7 +99,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>11/10/2026 4:20:31 AM</Outageat>
+    <TotalOut>0</TotalOut>
+    <Outageat>11/10/2026 4:35:31 AM</Outageat>
   </Message>
 </Incidents>
