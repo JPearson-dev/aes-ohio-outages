@@ -1,52 +1,41 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.88870096</LAT>
-    <LNG>-84.0356195980049</LNG>
+    <LAT>39.88921716</LAT>
+    <LNG>-84.034934284748</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821339</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLARK</COUNTY>
     <total>6</total>
     <OutageTime>11/10/2026 12:48 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>11/10/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.05932183</LAT>
-    <LNG>-84.4630807109298</LNG>
+    <LAT>39.2480584</LAT>
+    <LNG>-83.777452991055</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821329</INCIDENTID>
+    <INCIDENTID>1821340</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
+    <COUNTY>HIGHLAND</COUNTY>
     <total>6</total>
-    <OutageTime>11/10/2026 11:41 AM</OutageTime>
-    <EstimateTime>11/10/2026 02:00 PM</EstimateTime>
+    <OutageTime>11/10/2026 01:01 PM</OutageTime>
+    <EstimateTime>11/10/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.42148967</LAT>
-    <LNG>-84.7666292643801</LNG>
+    <LAT>40.42200587</LAT>
+    <LNG>-84.7659381314875</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821322</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
     <total>6</total>
     <OutageTime>11/10/2026 10:41 AM</OutageTime>
-    <EstimateTime>11/10/2026 01:00 PM</EstimateTime>
+    <EstimateTime>11/10/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.11297128</LAT>
-    <LNG>-84.361432552908</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821319</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>6</total>
-    <OutageTime>11/10/2026 10:40 AM</OutageTime>
-    <EstimateTime>11/10/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78474132</LAT>
-    <LNG>-84.1620643025427</LNG>
+    <LAT>39.78525752</LAT>
+    <LNG>-84.1613801061165</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821330</INCIDENTID>
     <IND>D</IND>
@@ -56,9 +45,9 @@
     <EstimateTime>11/10/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.32428138</LAT>
-    <LNG>-84.1396563177266</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
+    <LAT>40.32479758</LAT>
+    <LNG>-84.1389662587396</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1821333</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
@@ -92,7 +81,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -112,7 +101,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -128,7 +117,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -148,7 +137,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -166,6 +155,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>6</TotalOut>
-    <Outageat>11/10/2026 1:05:31 PM</Outageat>
+    <Outageat>11/10/2026 1:20:31 PM</Outageat>
   </Message>
 </Incidents>

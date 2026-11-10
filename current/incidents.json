@@ -1,38 +1,18 @@
 [
   {
-    "id": 1821319,
-    "lat": 40.11297128,
-    "lng": -84.361432552908,
-    "customers_affected": 1,
-    "county": "MIAMI",
-    "indicator": "D",
-    "outage_time": "2026-11-10T10:40:00",
-    "estimate_time": "2026-11-10T13:00:00"
-  },
-  {
     "id": 1821322,
-    "lat": 40.42148967,
-    "lng": -84.7666292643801,
+    "lat": 40.42200587,
+    "lng": -84.7659381314875,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-11-10T10:41:00",
-    "estimate_time": "2026-11-10T13:00:00"
-  },
-  {
-    "id": 1821329,
-    "lat": 40.05932183,
-    "lng": -84.4630807109298,
-    "customers_affected": 1,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-11-10T11:41:00",
-    "estimate_time": "2026-11-10T14:00:00"
+    "estimate_time": "2026-11-10T15:00:00"
   },
   {
     "id": 1821330,
-    "lat": 39.78474132,
-    "lng": -84.1620643025427,
+    "lat": 39.78525752,
+    "lng": -84.1613801061165,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,9 +21,9 @@
   },
   {
     "id": 1821333,
-    "lat": 40.32428138,
-    "lng": -84.1396563177266,
-    "customers_affected": 1,
+    "lat": 40.32479758,
+    "lng": -84.1389662587396,
+    "customers_affected": 2,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-10T12:24:00",
@@ -51,12 +31,22 @@
   },
   {
     "id": 1821339,
-    "lat": 39.88870096,
-    "lng": -84.0356195980049,
+    "lat": 39.88921716,
+    "lng": -84.034934284748,
     "customers_affected": 1,
     "county": "CLARK",
     "indicator": "D",
     "outage_time": "2026-11-10T12:48:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-10T15:00:00"
+  },
+  {
+    "id": 1821340,
+    "lat": 39.2480584,
+    "lng": -83.777452991055,
+    "customers_affected": 1,
+    "county": "HIGHLAND",
+    "indicator": "D",
+    "outage_time": "2026-11-10T13:01:00",
+    "estimate_time": "2026-11-10T15:00:00"
   }
 ]
