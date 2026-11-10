@@ -1,8 +1,8 @@
 [
   {
     "id": 1821291,
-    "lat": 39.29720905,
-    "lng": -83.7545938915816,
+    "lat": 39.30036855,
+    "lng": -83.750437705081,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1821319,
-    "lat": 40.11294458,
-    "lng": -84.3614681258354,
+    "lat": 40.11610408,
+    "lng": -84.3572586627637,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1821320,
-    "lat": 40.25809861,
-    "lng": -84.1928797683318,
+    "lat": 40.26125811,
+    "lng": -84.1886605857308,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1821322,
-    "lat": 40.42146297,
-    "lng": -84.7666650126332,
+    "lat": 40.42462247,
+    "lng": -84.7624348026873,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -40,23 +40,23 @@
     "estimate_time": "2026-11-10T13:00:00"
   },
   {
-    "id": 1821325,
-    "lat": 39.83721428,
-    "lng": -84.4040864043601,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-10T11:06:00",
-    "estimate_time": "2026-11-10T13:00:00"
-  },
-  {
     "id": 1821329,
-    "lat": 40.05929513,
-    "lng": -84.4631162536561,
+    "lat": 40.06245463,
+    "lng": -84.4589103643754,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-10T11:41:00",
+    "estimate_time": "2026-11-10T14:00:00"
+  },
+  {
+    "id": 1821330,
+    "lat": 39.78787412,
+    "lng": -84.1579119380255,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-10T11:51:00",
     "estimate_time": null
   }
 ]
