@@ -1,8 +1,8 @@
 [
   {
     "id": 1821291,
-    "lat": 39.30079575,
-    "lng": -83.7498757418359,
+    "lat": 39.29720905,
+    "lng": -83.7545938915816,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-10T13:00:00"
   },
   {
-    "id": 1821314,
-    "lat": 39.64136065,
-    "lng": -84.2383984978513,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-10T10:25:00",
-    "estimate_time": "2026-11-10T12:00:00"
-  },
-  {
     "id": 1821319,
-    "lat": 40.11653128,
-    "lng": -84.3566894959259,
+    "lat": 40.11294458,
+    "lng": -84.3614681258354,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1821320,
-    "lat": 40.26168531,
-    "lng": -84.188090104703,
+    "lat": 40.25809861,
+    "lng": -84.1928797683318,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1821322,
-    "lat": 40.42504967,
-    "lng": -84.7618628306383,
+    "lat": 40.42146297,
+    "lng": -84.7666650126332,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -50,23 +40,23 @@
     "estimate_time": "2026-11-10T13:00:00"
   },
   {
-    "id": 1821324,
-    "lat": 39.66094673,
-    "lng": -83.7865049347654,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-11-10T10:43:00",
-    "estimate_time": "2026-11-10T13:00:00"
-  },
-  {
     "id": 1821325,
-    "lat": 39.84080098,
-    "lng": -84.3993285052664,
+    "lat": 39.83721428,
+    "lng": -84.4040864043601,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-10T11:06:00",
     "estimate_time": "2026-11-10T13:00:00"
+  },
+  {
+    "id": 1821329,
+    "lat": 40.05929513,
+    "lng": -84.4631162536561,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-10T11:41:00",
+    "estimate_time": null
   }
 ]
