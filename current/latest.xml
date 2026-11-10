@@ -1,35 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.6493186062633</LAT>
-    <LNG>-84.0731891420544</LNG>
+    <LAT>39.53625609</LAT>
+    <LNG>-83.4059124760743</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821290</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>40</total>
+    <OutageTime>11/10/2026 09:28 AM</OutageTime>
+    <EstimateTime>11/10/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.6527985062633</LAT>
+    <LNG>-84.0685865135159</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1821269</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>38</total>
+    <total>40</total>
     <OutageTime>11/10/2026 08:12 AM</OutageTime>
     <EstimateTime>11/10/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.82160964</LAT>
-    <LNG>-84.2783829003383</LNG>
+    <LAT>40.07148806</LAT>
+    <LNG>-84.2145002588112</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821286</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>40</total>
+    <OutageTime>11/10/2026 09:24 AM</OutageTime>
+    <EstimateTime>11/10/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.82508954</LAT>
+    <LNG>-84.2737678600942</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821281</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>38</total>
+    <total>40</total>
     <OutageTime>11/10/2026 09:08 AM</OutageTime>
     <EstimateTime>11/10/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79967456</LAT>
-    <LNG>-84.183775691098</LNG>
+    <LAT>39.80315446</LAT>
+    <LNG>-84.1791622372232</LNG>
     <TOTALCUSTS>35</TOTALCUSTS>
     <INCIDENTID>1821280</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>38</total>
+    <total>40</total>
     <OutageTime>11/10/2026 08:47 AM</OutageTime>
     <EstimateTime>11/10/2026 11:00 AM</EstimateTime>
   </Markers>
@@ -67,7 +89,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -95,7 +117,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -132,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>38</TotalOut>
-    <Outageat>11/10/2026 9:20:31 AM</Outageat>
+    <TotalOut>40</TotalOut>
+    <Outageat>11/10/2026 9:35:31 AM</Outageat>
   </Message>
 </Incidents>
