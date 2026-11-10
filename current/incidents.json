@@ -1,38 +1,18 @@
 [
   {
     "id": 1821269,
-    "lat": 39.6527985062633,
-    "lng": -84.0685865135159,
-    "customers_affected": 2,
+    "lat": 39.6511253062633,
+    "lng": -84.0707995420715,
+    "customers_affected": 5,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-10T08:12:00",
     "estimate_time": "2026-11-10T11:00:00"
   },
   {
-    "id": 1821280,
-    "lat": 39.80315446,
-    "lng": -84.1791622372232,
-    "customers_affected": 35,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-10T08:47:00",
-    "estimate_time": "2026-11-10T11:00:00"
-  },
-  {
-    "id": 1821281,
-    "lat": 39.82508954,
-    "lng": -84.2737678600942,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-10T09:08:00",
-    "estimate_time": "2026-11-10T12:00:00"
-  },
-  {
     "id": 1821286,
-    "lat": 40.07148806,
-    "lng": -84.2145002588112,
+    "lat": 40.06981486,
+    "lng": -84.2167278833431,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -41,12 +21,42 @@
   },
   {
     "id": 1821290,
-    "lat": 39.53625609,
-    "lng": -83.4059124760743,
-    "customers_affected": 1,
+    "lat": 39.53458289,
+    "lng": -83.4081214980488,
+    "customers_affected": 5,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-11-10T09:28:00",
     "estimate_time": "2026-11-10T12:00:00"
+  },
+  {
+    "id": 1821291,
+    "lat": 39.29977225,
+    "lng": -83.7512221121107,
+    "customers_affected": 1,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-11-10T09:30:00",
+    "estimate_time": "2026-11-10T11:00:00"
+  },
+  {
+    "id": 1821299,
+    "lat": 39.37007844,
+    "lng": -83.3701388607614,
+    "customers_affected": 1,
+    "county": "HIGHLAND",
+    "indicator": "D",
+    "outage_time": "2026-11-10T09:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1821300,
+    "lat": 39.53301112,
+    "lng": -84.0488000405536,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-11-10T09:43:00",
+    "estimate_time": null
   }
 ]
