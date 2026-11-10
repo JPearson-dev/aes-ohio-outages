@@ -1,30 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.2483699</LAT>
-    <LNG>-83.7770435390391</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821340</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>HIGHLAND</COUNTY>
-    <total>53</total>
-    <OutageTime>11/10/2026 01:01 PM</OutageTime>
-    <EstimateTime>11/10/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.64602028</LAT>
-    <LNG>-84.2722253073867</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
+    <LAT>39.64910858</LAT>
+    <LNG>-84.2681408378409</LNG>
+    <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1821364</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>53</total>
     <OutageTime>11/10/2026 03:14 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>11/10/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.65563201</LAT>
-    <LNG>-84.3588620238614</LNG>
+    <LAT>39.65872031</LAT>
+    <LNG>-84.3547769425165</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1821361</INCIDENTID>
     <IND>D</IND>
@@ -34,8 +23,8 @@
     <EstimateTime>11/10/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.23154484</LAT>
-    <LNG>-83.3586858019455</LNG>
+    <LAT>40.23463314</LAT>
+    <LNG>-83.3545634989266</LNG>
     <TOTALCUSTS>45</TOTALCUSTS>
     <INCIDENTID>1821359</INCIDENTID>
     <IND>D</IND>
@@ -45,8 +34,8 @@
     <EstimateTime>11/10/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.23154484</LAT>
-    <LNG>-83.3586858019455</LNG>
+    <LAT>40.23463314</LAT>
+    <LNG>-83.3545634989266</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821362</INCIDENTID>
     <IND>D</IND>
@@ -101,7 +90,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -121,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>6</TotOut>
+    <TotOut>7</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -155,6 +144,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>53</TotalOut>
-    <Outageat>11/10/2026 3:20:31 PM</Outageat>
+    <Outageat>11/10/2026 3:35:31 PM</Outageat>
   </Message>
 </Incidents>
