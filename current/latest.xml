@@ -1,57 +1,68 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.06090603</LAT>
-    <LNG>-84.4609718425017</LNG>
+    <LAT>39.88870096</LAT>
+    <LNG>-84.0356195980049</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821339</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLARK</COUNTY>
+    <total>6</total>
+    <OutageTime>11/10/2026 12:48 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.05932183</LAT>
+    <LNG>-84.4630807109298</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821329</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/10/2026 11:41 AM</OutageTime>
     <EstimateTime>11/10/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.42307387</LAT>
-    <LNG>-84.764508201365</LNG>
+    <LAT>40.42148967</LAT>
+    <LNG>-84.7666292643801</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821322</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/10/2026 10:41 AM</OutageTime>
     <EstimateTime>11/10/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.11455548</LAT>
-    <LNG>-84.359321892551</LNG>
+    <LAT>40.11297128</LAT>
+    <LNG>-84.361432552908</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821319</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/10/2026 10:40 AM</OutageTime>
     <EstimateTime>11/10/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78632552</LAT>
-    <LNG>-84.1599645273039</LNG>
+    <LAT>39.78474132</LAT>
+    <LNG>-84.1620643025427</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821330</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/10/2026 11:51 AM</OutageTime>
     <EstimateTime>11/10/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.32586558</LAT>
-    <LNG>-84.1375385504905</LNG>
+    <LAT>40.32428138</LAT>
+    <LNG>-84.1396563177266</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821333</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/10/2026 12:24 PM</OutageTime>
     <EstimateTime>11/10/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -73,7 +84,7 @@
   </Counties>
   <Counties>
     <County>CLARK</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>CLINTON</County>
@@ -154,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>11/10/2026 12:50:31 PM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>11/10/2026 1:05:31 PM</Outageat>
   </Message>
 </Incidents>
