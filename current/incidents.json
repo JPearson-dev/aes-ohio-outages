@@ -1,8 +1,8 @@
 [
   {
     "id": 1821290,
-    "lat": 39.53627389,
-    "lng": -83.4058889758405,
+    "lat": 39.53245579,
+    "lng": -83.4109297759844,
     "customers_affected": 6,
     "county": "FAYETTE",
     "indicator": "D",
@@ -10,9 +10,19 @@
     "estimate_time": "2026-11-10T12:00:00"
   },
   {
+    "id": 1821291,
+    "lat": 39.29764515,
+    "lng": -83.7540202207688,
+    "customers_affected": 1,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-11-10T09:30:00",
+    "estimate_time": "2026-11-10T11:00:00"
+  },
+  {
     "id": 1821303,
-    "lat": 39.37496842,
-    "lng": -83.3692675009652,
+    "lat": 39.37115032,
+    "lng": -83.3742957377074,
     "customers_affected": 2,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -21,8 +31,8 @@
   },
   {
     "id": 1821314,
-    "lat": 39.64202815,
-    "lng": -84.2375157890802,
+    "lat": 39.63821005,
+    "lng": -84.242564883251,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -30,43 +40,43 @@
     "estimate_time": "2026-11-10T12:00:00"
   },
   {
-    "id": 1821318,
-    "lat": 39.76940752,
-    "lng": -84.2317285909876,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-10T10:39:00",
-    "estimate_time": null
-  },
-  {
     "id": 1821319,
-    "lat": 40.11719878,
-    "lng": -84.3558001727418,
+    "lat": 40.11338068,
+    "lng": -84.360887101355,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-11-10T10:40:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-10T13:00:00"
   },
   {
     "id": 1821320,
-    "lat": 40.26235281,
-    "lng": -84.1871987280972,
+    "lat": 40.25853471,
+    "lng": -84.1922974022826,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-10T10:39:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-10T12:00:00"
   },
   {
     "id": 1821322,
-    "lat": 40.42571717,
-    "lng": -84.7609691243117,
+    "lat": 40.42189907,
+    "lng": -84.7660811244998,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-11-10T10:41:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-10T13:00:00"
+  },
+  {
+    "id": 1821324,
+    "lat": 39.65779613,
+    "lng": -83.7906725918347,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-10T10:43:00",
+    "estimate_time": "2026-11-10T13:00:00"
   }
 ]
