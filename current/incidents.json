@@ -1,8 +1,8 @@
 [
   {
     "id": 1821453,
-    "lat": 40.38974721,
-    "lng": -83.73783996607,
+    "lat": 40.38647201,
+    "lng": -83.7422225641592,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1821461,
-    "lat": 39.40908586,
-    "lng": -83.654517244503,
+    "lat": 39.40581066,
+    "lng": -83.6588327865819,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1821462,
-    "lat": 39.80227088,
-    "lng": -84.2880785228224,
+    "lat": 39.79899568,
+    "lng": -84.2924205399777,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-11T16:35:00",
     "estimate_time": "2026-11-11T19:00:00"
+  },
+  {
+    "id": 1821464,
+    "lat": 39.74866667,
+    "lng": -84.1904380796629,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-11T17:56:00",
+    "estimate_time": "2026-11-11T21:00:00"
   }
 ]
