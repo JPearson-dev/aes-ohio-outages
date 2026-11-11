@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.47633984</LAT>
-    <LNG>-83.9529391805342</LNG>
+    <LAT>39.47489804</LAT>
+    <LNG>-83.9548409438792</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821406</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,19 @@
     <EstimateTime>11/11/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80619219</LAT>
-    <LNG>-84.2103101254077</LNG>
+    <LAT>40.11252727</LAT>
+    <LNG>-84.5837561867585</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821421</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>3</total>
+    <OutageTime>11/11/2026 10:35 AM</OutageTime>
+    <EstimateTime>11/11/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80475039</LAT>
+    <LNG>-84.2122216844416</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821411</INCIDENTID>
     <IND>D</IND>
@@ -21,17 +32,6 @@
     <total>3</total>
     <OutageTime>11/11/2026 09:25 AM</OutageTime>
     <EstimateTime>11/11/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76610033</LAT>
-    <LNG>-84.2419430355392</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821420</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
-    <OutageTime>11/11/2026 10:05 AM</OutageTime>
-    <EstimateTime>11/11/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -59,7 +59,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -99,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -133,6 +133,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>3</TotalOut>
-    <Outageat>11/11/2026 10:35:31 AM</Outageat>
+    <Outageat>11/11/2026 10:50:31 AM</Outageat>
   </Message>
 </Incidents>
