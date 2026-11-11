@@ -1,19 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12871282</LAT>
-    <LNG>-83.7435714258585</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821384</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CHAMPAIGN</COUNTY>
-    <total>30</total>
-    <OutageTime>11/10/2026 06:00 PM</OutageTime>
-    <EstimateTime>11/10/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.81793671</LAT>
-    <LNG>-84.0079864799422</LNG>
+    <LAT>39.81879111</LAT>
+    <LNG>-84.0068534645532</LNG>
     <TOTALCUSTS>20</TOTALCUSTS>
     <INCIDENTID>1821386</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +12,8 @@
     <EstimateTime>11/10/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86658241</LAT>
-    <LNG>-84.095582343078</LNG>
+    <LAT>39.86743681</LAT>
+    <LNG>-84.0944484625455</LNG>
     <TOTALCUSTS>8</TOTALCUSTS>
     <INCIDENTID>1821382</INCIDENTID>
     <IND>D</IND>
@@ -34,8 +23,8 @@
     <EstimateTime>11/10/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81214998</LAT>
-    <LNG>-84.2207628159382</LNG>
+    <LAT>39.81300438</LAT>
+    <LNG>-84.2196299033181</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821376</INCIDENTID>
     <IND>D</IND>
@@ -43,6 +32,17 @@
     <total>30</total>
     <OutageTime>11/10/2026 05:21 PM</OutageTime>
     <EstimateTime>11/10/2026 08:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.66319657</LAT>
+    <LNG>-84.6182262900147</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821387</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>PREBLE</COUNTY>
+    <total>30</total>
+    <OutageTime>11/10/2026 07:05 PM</OutageTime>
+    <EstimateTime>11/10/2026 10:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -58,7 +58,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -118,7 +118,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -144,6 +144,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>30</TotalOut>
-    <Outageat>11/10/2026 7:05:31 PM</Outageat>
+    <Outageat>11/10/2026 7:20:31 PM</Outageat>
   </Message>
 </Incidents>
