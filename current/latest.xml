@@ -1,37 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.41953318</LAT>
-    <LNG>-83.8834916772496</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821394</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CLINTON</COUNTY>
-    <total>5</total>
-    <OutageTime>11/11/2026 08:05 AM</OutageTime>
-    <EstimateTime>11/11/2026 10:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.05245593</LAT>
-    <LNG>-84.2500901181173</LNG>
+    <LAT>40.05420923</LAT>
+    <LNG>-84.247756493082</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821393</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>5</total>
+    <total>10</total>
     <OutageTime>11/11/2026 07:12 AM</OutageTime>
-    <EstimateTime>11/11/2026 09:00 AM</EstimateTime>
+    <EstimateTime>11/11/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83742143</LAT>
-    <LNG>-84.1150743420793</LNG>
-    <TOTALCUSTS>3</TOTALCUSTS>
+    <LAT>39.83917473</LAT>
+    <LNG>-84.1127486067293</LNG>
+    <TOTALCUSTS>9</TOTALCUSTS>
     <INCIDENTID>1821396</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
-    <OutageTime>11/11/2026 08:42 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <total>10</total>
+    <OutageTime>11/11/2026 08:39 AM</OutageTime>
+    <EstimateTime>11/11/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -55,7 +44,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -99,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>3</TotOut>
+    <TotOut>9</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>11/11/2026 8:50:31 AM</Outageat>
+    <TotalOut>10</TotalOut>
+    <Outageat>11/11/2026 9:05:31 AM</Outageat>
   </Message>
 </Incidents>
