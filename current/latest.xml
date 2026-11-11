@@ -1,25 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.47496034</LAT>
-    <LNG>-83.9547587689198</LNG>
+    <LAT>39.47312694</LAT>
+    <LNG>-83.9571770605807</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821406</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>2</total>
+    <total>1</total>
     <OutageTime>11/11/2026 09:08 AM</OutageTime>
-    <EstimateTime>11/11/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.3663077</LAT>
-    <LNG>-83.3889927517379</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821423</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>HIGHLAND</COUNTY>
-    <total>2</total>
-    <OutageTime>11/11/2026 10:48 AM</OutageTime>
     <EstimateTime>11/11/2026 05:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -68,7 +57,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -121,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>11/11/2026 2:05:31 PM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>11/11/2026 2:20:31 PM</Outageat>
   </Message>
 </Incidents>
