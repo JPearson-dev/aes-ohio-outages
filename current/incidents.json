@@ -1,8 +1,8 @@
 [
   {
     "id": 1821406,
-    "lat": 39.47583254,
-    "lng": -83.9536083194889,
+    "lat": 39.47636654,
+    "lng": -83.9529039626945,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -11,12 +11,32 @@
   },
   {
     "id": 1821423,
-    "lat": 39.3671799,
-    "lng": -83.3878442321335,
+    "lat": 39.3677139,
+    "lng": -83.3871410568655,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
     "outage_time": "2026-11-11T10:48:00",
     "estimate_time": "2026-11-11T14:00:00"
+  },
+  {
+    "id": 1821443,
+    "lat": 40.17824092,
+    "lng": -83.5360467763244,
+    "customers_affected": 2,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-11-11T12:53:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1821444,
+    "lat": 40.19149715,
+    "lng": -83.5239251266251,
+    "customers_affected": 99,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-11-11T12:53:00",
+    "estimate_time": null
   }
 ]

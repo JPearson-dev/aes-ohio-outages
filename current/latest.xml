@@ -1,24 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.47583254</LAT>
-    <LNG>-83.9536083194889</LNG>
+    <LAT>40.17824092</LAT>
+    <LNG>-83.5360467763244</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1821443</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>103</total>
+    <OutageTime>11/11/2026 12:53 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.19149715</LAT>
+    <LNG>-83.5239251266251</LNG>
+    <TOTALCUSTS>99</TOTALCUSTS>
+    <INCIDENTID>1821444</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>103</total>
+    <OutageTime>11/11/2026 12:53 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.47636654</LAT>
+    <LNG>-83.9529039626945</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821406</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>2</total>
+    <total>103</total>
     <OutageTime>11/11/2026 09:08 AM</OutageTime>
     <EstimateTime>11/11/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.3671799</LAT>
-    <LNG>-83.3878442321335</LNG>
+    <LAT>39.3677139</LAT>
+    <LNG>-83.3871410568655</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821423</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>2</total>
+    <total>103</total>
     <OutageTime>11/11/2026 10:48 AM</OutageTime>
     <EstimateTime>11/11/2026 02:00 PM</EstimateTime>
   </Markers>
@@ -36,7 +58,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>101</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -121,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>11/11/2026 12:50:31 PM</Outageat>
+    <TotalOut>103</TotalOut>
+    <Outageat>11/11/2026 1:05:30 PM</Outageat>
   </Message>
 </Incidents>
