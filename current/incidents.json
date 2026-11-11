@@ -1,22 +1,32 @@
 [
   {
     "id": 1821406,
-    "lat": 39.47407924,
-    "lng": -83.9559209576306,
+    "lat": 39.47310914,
+    "lng": -83.9572005391405,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-11-11T09:08:00",
-    "estimate_time": "2026-11-11T12:00:00"
+    "estimate_time": "2026-11-11T13:00:00"
   },
   {
     "id": 1821423,
-    "lat": 39.3654266,
-    "lng": -83.3901529909301,
+    "lat": 39.3644565,
+    "lng": -83.3914304260003,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
     "outage_time": "2026-11-11T10:48:00",
     "estimate_time": "2026-11-11T13:00:00"
+  },
+  {
+    "id": 1821427,
+    "lat": 40.30873058,
+    "lng": -84.1424255285742,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-11T11:16:00",
+    "estimate_time": "2026-11-11T14:00:00"
   }
 ]
