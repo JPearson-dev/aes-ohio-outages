@@ -1,8 +1,8 @@
 [
   {
     "id": 1821406,
-    "lat": 39.47539644,
-    "lng": -83.9541835442044,
+    "lat": 39.47504934,
+    "lng": -83.9546413761208,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1821423,
-    "lat": 39.3667438,
-    "lng": -83.3884184919357,
+    "lat": 39.3663967,
+    "lng": -83.3888755558599,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1821427,
-    "lat": 40.31101788,
-    "lng": -84.1393686414981,
+    "lat": 40.31067078,
+    "lng": -84.1398325270855,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-11T11:16:00",
     "estimate_time": "2026-11-11T14:00:00"
+  },
+  {
+    "id": 1821433,
+    "lat": 39.95355191,
+    "lng": -84.0090634007194,
+    "customers_affected": 1,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-11-11T12:09:00",
+    "estimate_time": null
   }
 ]
