@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.47489804</LAT>
-    <LNG>-83.9548409438792</LNG>
+    <LAT>39.47257514</LAT>
+    <LNG>-83.9579048959349</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821406</INCIDENTID>
     <IND>D</IND>
@@ -12,19 +12,19 @@
     <EstimateTime>11/11/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.11252727</LAT>
-    <LNG>-84.5837561867585</LNG>
+    <LAT>39.3639225</LAT>
+    <LNG>-83.3921336012683</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821421</INCIDENTID>
+    <INCIDENTID>1821423</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
+    <COUNTY>HIGHLAND</COUNTY>
     <total>3</total>
-    <OutageTime>11/11/2026 10:35 AM</OutageTime>
-    <EstimateTime>11/11/2026 12:00 PM</EstimateTime>
+    <OutageTime>11/11/2026 10:48 AM</OutageTime>
+    <EstimateTime>11/11/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80475039</LAT>
-    <LNG>-84.2122216844416</LNG>
+    <LAT>39.80242749</LAT>
+    <LNG>-84.2153014184406</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821411</INCIDENTID>
     <IND>D</IND>
@@ -59,7 +59,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -79,7 +79,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -133,6 +133,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>3</TotalOut>
-    <Outageat>11/11/2026 10:50:31 AM</Outageat>
+    <Outageat>11/11/2026 11:05:30 AM</Outageat>
   </Message>
 </Incidents>
