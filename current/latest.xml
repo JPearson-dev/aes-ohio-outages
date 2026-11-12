@@ -1,24 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.06903237</LAT>
-    <LNG>-84.0070256479076</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821472</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CHAMPAIGN</COUNTY>
-    <total>8</total>
-    <OutageTime>11/11/2026 10:44 PM</OutageTime>
-    <EstimateTime>11/12/2026 05:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.5469877</LAT>
-    <LNG>-84.0678249682371</LNG>
-    <TOTALCUSTS>7</TOTALCUSTS>
+    <LAT>39.5439439</LAT>
+    <LNG>-84.0718442152814</LNG>
+    <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1821477</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>8</total>
+    <total>12</total>
     <OutageTime>11/12/2026 04:10 AM</OutageTime>
     <EstimateTime>11/12/2026 07:00 AM</EstimateTime>
   </Markers>
@@ -36,7 +25,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -116,12 +105,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>7</TotOut>
+    <TotOut>12</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>8</TotalOut>
-    <Outageat>11/12/2026 4:50:31 AM</Outageat>
+    <TotalOut>12</TotalOut>
+    <Outageat>11/12/2026 5:05:31 AM</Outageat>
   </Message>
 </Incidents>
