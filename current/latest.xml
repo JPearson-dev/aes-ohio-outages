@@ -1,13 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.5439439</LAT>
-    <LNG>-84.0718442152814</LNG>
+    <LAT>40.08329367</LAT>
+    <LNG>-83.5450569952219</LNG>
+    <TOTALCUSTS>6</TOTALCUSTS>
+    <INCIDENTID>1821482</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>29</total>
+    <OutageTime>11/12/2026 05:14 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.08503121</LAT>
+    <LNG>-83.5393678610676</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821480</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>29</total>
+    <OutageTime>11/12/2026 05:03 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80627985</LAT>
+    <LNG>-84.1981912541104</LNG>
+    <TOTALCUSTS>10</TOTALCUSTS>
+    <INCIDENTID>1821479</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>29</total>
+    <OutageTime>11/12/2026 05:03 AM</OutageTime>
+    <EstimateTime>11/12/2026 07:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.5434722</LAT>
+    <LNG>-84.0724670810514</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1821477</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>12</total>
+    <total>29</total>
     <OutageTime>11/12/2026 04:10 AM</OutageTime>
     <EstimateTime>11/12/2026 07:00 AM</EstimateTime>
   </Markers>
@@ -25,7 +58,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>7</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -77,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>10</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -110,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>12</TotalOut>
-    <Outageat>11/12/2026 5:05:31 AM</Outageat>
+    <TotalOut>29</TotalOut>
+    <Outageat>11/12/2026 5:20:31 AM</Outageat>
   </Message>
 </Incidents>
