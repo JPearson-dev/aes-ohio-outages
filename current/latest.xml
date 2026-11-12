@@ -1,26 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.06945957</LAT>
-    <LNG>-84.006456909358</LNG>
+    <LAT>40.06825807</LAT>
+    <LNG>-84.0080564865288</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821472</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>2</total>
+    <total>5</total>
     <OutageTime>11/11/2026 10:44 PM</OutageTime>
     <EstimateTime>11/12/2026 04:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.10333845</LAT>
-    <LNG>-84.1555689288572</LNG>
+    <LAT>40.10213695</LAT>
+    <LNG>-84.1571693640781</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821473</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>2</total>
+    <total>5</total>
     <OutageTime>11/12/2026 12:35 AM</OutageTime>
     <EstimateTime>11/12/2026 03:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.755291</LAT>
+    <LNG>-84.3696042006156</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1821474</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>5</total>
+    <OutageTime>11/12/2026 01:11 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -88,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>11/12/2026 1:05:31 AM</Outageat>
+    <TotalOut>5</TotalOut>
+    <Outageat>11/12/2026 1:20:31 AM</Outageat>
   </Message>
 </Incidents>
