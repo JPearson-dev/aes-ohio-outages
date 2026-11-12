@@ -1,5 +1,15 @@
 [
   {
+    "id": 299511,
+    "lat": 40.1077037402179,
+    "lng": -84.4711864088263,
+    "customers_affected": 1891,
+    "county": "DARKE",
+    "indicator": "T",
+    "outage_time": "2026-11-12T18:00:00",
+    "estimate_time": "2026-11-12T20:00:00"
+  },
+  {
     "id": 1821579,
     "lat": 39.70520066,
     "lng": -84.724011362881,
@@ -48,5 +58,15 @@
     "indicator": "D",
     "outage_time": "2026-11-12T17:05:00",
     "estimate_time": "2026-11-12T20:00:00"
+  },
+  {
+    "id": 1821634,
+    "lat": 40.16524992,
+    "lng": -84.4746509408303,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-12T17:57:00",
+    "estimate_time": null
   }
 ]
