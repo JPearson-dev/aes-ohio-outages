@@ -1,8 +1,8 @@
 [
   {
     "id": 299511,
-    "lat": 40.1057724402179,
-    "lng": -84.4737591308925,
+    "lat": 40.1057635402179,
+    "lng": -84.4737709867546,
     "customers_affected": 1891,
     "county": "DARKE",
     "indicator": "T",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-12T20:00:00"
   },
   {
-    "id": 1821579,
-    "lat": 39.70326936,
-    "lng": -84.7265678514192,
-    "customers_affected": 4,
-    "county": "PREBLE",
-    "indicator": "D",
-    "outage_time": "2026-11-12T16:26:00",
-    "estimate_time": "2026-11-12T19:00:00"
-  },
-  {
     "id": 1821582,
-    "lat": 40.527051,
-    "lng": -83.8714864414578,
+    "lat": 40.5270421,
+    "lng": -83.8714983773182,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1821584,
-    "lat": 39.76942776,
-    "lng": -84.6264922794665,
+    "lat": 39.76941886,
+    "lng": -84.6265040727084,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -40,19 +30,9 @@
     "estimate_time": "2026-11-12T19:00:00"
   },
   {
-    "id": 1821586,
-    "lat": 39.6993869,
-    "lng": -83.8688871888996,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-11-12T17:05:00",
-    "estimate_time": "2026-11-12T20:00:00"
-  },
-  {
     "id": 1821634,
-    "lat": 40.16331862,
-    "lng": -84.4772260117509,
+    "lat": 40.16330972,
+    "lng": -84.4772378784371,
     "customers_affected": 2,
     "county": "DARKE",
     "indicator": "D",
@@ -61,8 +41,8 @@
   },
   {
     "id": 1821635,
-    "lat": 39.61860477,
-    "lng": -84.1683577293185,
+    "lat": 39.61859587,
+    "lng": -84.1683694948344,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -71,12 +51,22 @@
   },
   {
     "id": 1821636,
-    "lat": 40.19911756,
-    "lng": -84.477815922435,
+    "lat": 40.19910866,
+    "lng": -84.4778277958713,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-12T17:57:00",
+    "estimate_time": "2026-11-12T21:00:00"
+  },
+  {
+    "id": 1821637,
+    "lat": 40.03299651,
+    "lng": -84.4326757089854,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-12T18:19:00",
     "estimate_time": "2026-11-12T21:00:00"
   }
 ]
