@@ -51,7 +51,15 @@ jobs:
             exit 0
           fi
           git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
-          git push origin data
+          # GitHub occasionally fails a push server-side ("remote: fatal error
+          # in commit_refs"). Retry; if the ref did update anyway, the retry
+          # is a harmless "Everything up-to-date".
+          for attempt in 1 2 3; do
+            git push origin data && break
+            if [ "$attempt" -eq 3 ]; then exit 1; fi
+            echo "::warning::Push attempt $attempt failed; retrying in $((attempt * 10))s"
+            sleep $((attempt * 10))
+          done
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       # jsDelivr caches the @data branch ref for hours; without this, the site

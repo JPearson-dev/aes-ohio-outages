@@ -86,9 +86,12 @@ def parse_int(val, default=None):
 
 
 def is_transient(err):
-    """True for errors worth retrying: 5xx/429 responses, connection problems, timeouts."""
+    """True for errors worth retrying: 5xx/404/429 responses, connection problems, timeouts."""
     if isinstance(err, urllib.error.HTTPError):
-        return err.code >= 500 or err.code == 429
+        # 404 is included because the upstream URL is fixed and the server
+        # serves it intermittently during backend trouble (e.g. Nov 5, 2026,
+        # where single 404s fell between successful runs).
+        return err.code >= 500 or err.code in (404, 429)
     return isinstance(err, (urllib.error.URLError, TimeoutError, ConnectionError))
 
 
