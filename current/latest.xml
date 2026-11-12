@@ -1,46 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.80046418</LAT>
-    <LNG>-84.2904737116336</LNG>
+    <LAT>39.79886218</LAT>
+    <LNG>-84.2925975243726</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1821462</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>25</total>
+    <total>23</total>
     <OutageTime>11/11/2026 04:35 PM</OutageTime>
     <EstimateTime>11/11/2026 10:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75863541</LAT>
-    <LNG>-84.6265300579456</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821467</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>25</total>
-    <OutageTime>11/11/2026 08:19 PM</OutageTime>
-    <EstimateTime>11/11/2026 11:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66756553</LAT>
-    <LNG>-84.6031917582715</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821468</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>25</total>
-    <OutageTime>11/11/2026 08:20 PM</OutageTime>
-    <EstimateTime>11/11/2026 11:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.68586535</LAT>
-    <LNG>-84.5943363261346</LNG>
+    <LAT>39.68426335</LAT>
+    <LNG>-84.5964563371469</LNG>
     <TOTALCUSTS>22</TOTALCUSTS>
     <INCIDENTID>1821469</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>25</total>
+    <total>23</total>
     <OutageTime>11/11/2026 08:15 PM</OutageTime>
     <EstimateTime>11/11/2026 11:00 PM</EstimateTime>
   </Markers>
@@ -118,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>24</TotOut>
+    <TotOut>22</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -143,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>25</TotalOut>
-    <Outageat>11/11/2026 8:35:31 PM</Outageat>
+    <TotalOut>23</TotalOut>
+    <Outageat>11/11/2026 8:50:31 PM</Outageat>
   </Message>
 </Incidents>
