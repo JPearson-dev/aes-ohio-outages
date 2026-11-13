@@ -66,8 +66,11 @@ export default defineConfig({
     // defer real work. This is one page whose charts all render on load,
     // using Chart.js and (for the distribution chart) sql.js right away, so
     // splitting them out would add requests without shortening the wait -
-    // the warning is just noise at this size.
-    chunkSizeWarningLimit: 1000,
+    // the warning is just noise at this size. The map's chunk (MapLibre,
+    // ~1.1 MB minified) is already split out and lazy-loaded; it's one
+    // library that can't usefully be split further, so the limit sits just
+    // above it rather than warning on every build.
+    chunkSizeWarningLimit: 1200,
   },
   plugins: [
     serveDirectoryIndexes(),

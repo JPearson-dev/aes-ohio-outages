@@ -21,7 +21,7 @@ import {
   Tooltip,
 } from 'chart.js'
 import { Bar, Line } from 'react-chartjs-2'
-import { formatMoment, type Moment } from '../lib/moments'
+import type { Moment } from '../lib/moments'
 import type { HistoryDbState } from '../lib/useHistoryDb'
 import {
   cumulativePoints,
@@ -32,6 +32,7 @@ import {
   type SizeDistributionBucket,
 } from '../lib/sizeDistribution'
 import { InfoTooltip } from './InfoTooltip'
+import { MomentStepper } from './MomentStepper'
 import { DistributionSettings, type DistributionMetric, type DistributionOptions } from './DistributionSettings'
 import styles from './IncidentSizeDistribution.module.css'
 
@@ -233,8 +234,6 @@ export function IncidentSizeDistribution({
     return <p className={styles.status}>No incident size data yet.</p>
   }
 
-  const latestIndex = moments.length - 1
-
   return (
     <div className={styles.wrap}>
       <div className={styles.heading}>
@@ -242,28 +241,7 @@ export function IncidentSizeDistribution({
         <DistributionSettings options={options} onChange={setOptions} />
       </div>
 
-      <div className={styles.stepper}>
-        <button
-          type="button"
-          aria-label="Previous moment"
-          disabled={selectedIndex === 0}
-          onClick={() => onSelectIndex(selectedIndex - 1)}
-        >
-          ◀
-        </button>
-        <span className={styles.momentLabel}>{formatMoment(moment)}</span>
-        <button
-          type="button"
-          aria-label="Next moment"
-          disabled={selectedIndex === latestIndex}
-          onClick={() => onSelectIndex(selectedIndex + 1)}
-        >
-          ▶
-        </button>
-        <button type="button" disabled={selectedIndex === latestIndex} onClick={() => onSelectIndex(latestIndex)}>
-          Latest
-        </button>
-      </div>
+      <MomentStepper moments={moments} selectedIndex={selectedIndex} onSelectIndex={onSelectIndex} />
 
       <div className={styles.chartWrap}>
         <InfoTooltip text="Click the heartbeat chart to pick a moment, then use the arrows to step between updates. Updates come from the history database, which is rebuilt about daily, so the latest one can lag the heartbeat chart." />

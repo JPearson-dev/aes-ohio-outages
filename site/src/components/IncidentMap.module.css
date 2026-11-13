@@ -1,0 +1,48 @@
+.wrap {
+  padding: 16px 0;
+}
+
+.heading {
+  position: relative;
+  margin: 0 0 16px;
+}
+
+.heading h2 {
+  margin: 0;
+}
+
+.summary {
+  margin: 8px 0;
+  font-size: 14px;
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+}
+
+.mapWrap {
+  height: 480px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 16px;
+  margin-top: 8px;
+  font-size: 13px;
+  color: color-mix(in srgb, var(--text) 75%, transparent);
+}
+
+.legendItem {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.status {
+  padding: 48px 16px;
+  text-align: center;
+  color: var(--text);
+}

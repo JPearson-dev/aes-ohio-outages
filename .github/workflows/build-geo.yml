@@ -1,0 +1,59 @@
+name: Build Map Boundaries
+
+# Rebuilds site/public/geo/aes-ohio-territory.geojson from PUCO's service-area
+# data and commits it to the branch this was run on. Manual only: the
+# territory changes rarely, and a refresh is worth a human look at the diff
+# (see docs/maps.md).
+#
+# GitHub only offers "Run workflow" for workflows on the default branch, but
+# it can then run against any branch. On main, the new outline is committed
+# straight to main and Deploy Site is dispatched to publish it (a push made
+# with GITHUB_TOKEN doesn't trigger workflows by itself; a dispatch does). On
+# any other branch it's just committed there, to merge as usual.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: build-geo-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build-territory:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Node
+        uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+
+      # Needs only Node built-ins plus mapshaper (fetched by npx at a pinned
+      # version), so no `npm ci` of the site's dependencies.
+      - name: Build territory outline
+        run: node site/scripts/build-territory.mjs
+
+      - name: Commit if changed
+        id: commit
+        run: |
+          git add site/public/geo/aes-ohio-territory.geojson
+          if git diff --cached --quiet; then
+            echo "Territory outline unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Rebuild AES Ohio territory outline from PUCO data"
+          git push origin "HEAD:${{ github.ref_name }}"
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Deploy the new outline
+        if: steps.commit.outputs.changed == 'true' && github.ref_name == github.event.repository.default_branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-site.yml --repo "${{ github.repository }}" --ref "${{ github.ref_name }}"
