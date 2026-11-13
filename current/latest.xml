@@ -1,8 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.79085758</LAT>
-    <LNG>-84.0591006764911</LNG>
+    <LAT>39.6758432891159</LAT>
+    <LNG>-83.9470739915356</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1821860</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>32</total>
+    <OutageTime>11/13/2026 03:45 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.79415058</LAT>
+    <LNG>-84.0547356233787</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1821767</INCIDENTID>
     <IND>D</IND>
@@ -12,26 +23,15 @@
     <EstimateTime>11/13/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.84829197</LAT>
-    <LNG>-84.123553200473</LNG>
+    <LAT>39.85158497</LAT>
+    <LNG>-84.1191842149526</LNG>
     <TOTALCUSTS>25</TOTALCUSTS>
     <INCIDENTID>1821859</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
     <total>32</total>
     <OutageTime>11/13/2026 03:20 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.55908471</LAT>
-    <LNG>-84.1527986531139</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1821803</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>32</total>
-    <OutageTime>11/13/2026 12:47 PM</OutageTime>
-    <EstimateTime>11/13/2026 05:00 PM</EstimateTime>
+    <EstimateTime>11/13/2026 06:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -71,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>6</TotOut>
+    <TotOut>7</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -127,12 +127,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>32</TotalOut>
-    <Outageat>11/13/2026 3:35:31 PM</Outageat>
+    <Outageat>11/13/2026 3:50:32 PM</Outageat>
   </Message>
 </Incidents>
