@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { lazy, Suspense, useMemo, useState } from 'react'
 import { HeartbeatChart } from './components/HeartbeatChart'
 import { SizeBucketCharts } from './components/SizeBucketCharts'
 import { IncidentSizeDistribution } from './components/IncidentSizeDistribution'
@@ -6,6 +6,10 @@ import { Footer } from './components/Footer'
 import { nearestMomentIndex, queryMoments } from './lib/moments'
 import { useHistoryDb } from './lib/useHistoryDb'
 import styles from './App.module.css'
+
+// MapLibre is most of the bundle's weight, so the map loads as its own chunk
+// rather than holding up the charts above it.
+const IncidentMap = lazy(() => import('./components/IncidentMap'))
 
 // A moment worth checking the distribution chart against: 2026-09-16 8:05 PM
 // EDT (2026-09-17T00:05:00Z), during a large outage, with a wide spread of
@@ -35,6 +39,9 @@ function App() {
         selectedIndex={selectedIndex}
         onSelectIndex={setSelected}
       />
+      <Suspense fallback={<p className={styles.loading}>Loading map…</p>}>
+        <IncidentMap dbState={dbState} moments={moments} selectedIndex={selectedIndex} onSelectIndex={setSelected} />
+      </Suspense>
       <Footer />
     </main>
   )

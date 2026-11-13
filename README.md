@@ -25,9 +25,11 @@ See [docs/local-dev.md](docs/local-dev.md).
 * The AES server returns 502 at 1:23am on Saturdays. The fetch-data Github workflow now retries a few times. We should double check if it actually fetches data in that 15min window now, or if it is being delayed into the next 15min window. If the retries don't help, we can back them off or just exit gracefully on 502.
   * This wasn't an issue on Oct 25.
 * Incident map with time-travel scrub-bar
-  * Need underlying map tiles
+  * ~~Need underlying map tiles~~ OpenFreeMap Positron (Dark in dark mode)
   * Need county boundaries
-  * Need AES area boundary
+  * AES area boundary: script and workflow are in place (see [docs/maps.md](docs/maps.md)); run **Build Map Boundaries** to produce the outline
+  * ~~Show incidents at a chosen moment~~ (shares the size distribution chart's moment and arrows)
+  * A real scrub-bar rather than the step arrows; clicking an incident for its history
 * Scan forwards/backwards to see data for a specific event, such as changes to estimated completion time, find the completion time, or see if customers impacted changed.
   * In what ways can a specific event be accessed in the UI?
 * Detect and list recent outage periods, since we assume that most major outages are detectable by a minimum, rapidly created size. This might or might not be a precomputed property. Sqlite can probably handle this. Might use customer-minutes as the metric for detecting an outage. Or require a minimum width of 4 hours above some threshold of customers impacted. Occassional spikes to 3-5k for 1 hour aren't very interesting, generally. They might belong in a second category though?

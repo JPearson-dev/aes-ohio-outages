@@ -2,7 +2,7 @@
 
 Build Tool: Vite
 Framework: **React + Zustand** (TypeScript)
-Map component: MapLibre GL JS (via `react-maplibre`/`react-map-gl`)
+Map component: MapLibre GL JS (via `@vis.gl/react-maplibre`, the renamed `react-map-gl`), lazy-loaded as its own chunk — see [maps.md](maps.md)
 Chart components: **Chart.js** (via `react-chartjs-2`)
 Hosting: GitHub Pages (automated deploy via GitHub Actions on push to `main`)
 Data access: **jsDelivr GitHub CDN**, purged on write. This is specifically for the heartbeat and current data, not for the accumulated historical data. If serving it from GitHub, it would either rapidly go stale or need a full rebuild on every update.

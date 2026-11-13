@@ -8,6 +8,13 @@
 * Build: `npm run build` (`tsc -b && vite build`) — plain `tsc --noEmit` silently no-ops here because of the project's [composite tsconfig](https://www.typescriptlang.org/docs/handbook/project-references.html) setup; use `tsc -b --noEmit` (or just `npm run build`) to actually typecheck.
 * Lint: `npm run lint` (oxlint)
 
+### Map boundaries
+
+`npm run build-geo` (from `site/`) rebuilds `site/public/geo/aes-ohio-territory.geojson`, the AES Ohio territory outline the map draws, from PUCO's service-area data (see [maps.md](maps.md)). It needs network access to `tims.dot.state.oh.us` and runs mapshaper through `npx`. The **Build Map Boundaries** workflow runs the same script in CI and commits the result; that's the usual way to refresh it.
+
+* `--input <file>` skips the fetch and uses a saved query response instead; `--raw-out <file>` keeps the unsimplified response for comparison.
+* Without the file the map still works, just with no outline.
+
 ## Ingest (`ingest/`)
 
 * **Python:** 3.9+ covers `fetch.py` and `update-data.sh` (stdlib only). Building the historical db additionally needs **Python 3.10+** (see below).
