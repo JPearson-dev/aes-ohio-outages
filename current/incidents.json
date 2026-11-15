@@ -1,8 +1,8 @@
 [
   {
     "id": 1821960,
-    "lat": 39.6859767,
-    "lng": -84.1581272032611,
+    "lat": 39.6860746,
+    "lng": -84.1579976481027,
     "customers_affected": 9,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1821966,
-    "lat": 39.66261702,
-    "lng": -84.2626475129138,
+    "lat": 39.66271492,
+    "lng": -84.2625180049419,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1821972,
-    "lat": 40.28492369,
-    "lng": -84.1710417751482,
+    "lat": 40.28502159,
+    "lng": -84.1709109903159,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-14T18:12:00",
     "estimate_time": null
+  },
+  {
+    "id": 1821974,
+    "lat": 39.91509767,
+    "lng": -84.1893772967956,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-14T18:45:00",
+    "estimate_time": "2026-11-14T21:00:00"
   }
 ]
