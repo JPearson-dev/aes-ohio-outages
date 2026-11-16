@@ -1,8 +1,18 @@
 [
   {
+    "id": 1822098,
+    "lat": 39.76935631,
+    "lng": -84.06534159632,
+    "customers_affected": 9,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-16T13:33:00",
+    "estimate_time": "2026-11-16T15:00:00"
+  },
+  {
     "id": 1822104,
-    "lat": 40.26252001,
-    "lng": -83.76987668483,
+    "lat": 40.26040181,
+    "lng": -83.7727054185041,
     "customers_affected": 14,
     "county": "CHAMPAIGN",
     "indicator": "D",
@@ -11,8 +21,8 @@
   },
   {
     "id": 1822105,
-    "lat": 39.7902807536636,
-    "lng": -84.0327656357871,
+    "lat": 39.7881625536636,
+    "lng": -84.0355733469431,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +31,8 @@
   },
   {
     "id": 1822111,
-    "lat": 39.44302002,
-    "lng": -83.7702642002588,
+    "lat": 39.44090182,
+    "lng": -83.773056778769,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -31,8 +41,8 @@
   },
   {
     "id": 1822112,
-    "lat": 39.76726495,
-    "lng": -84.1002235429114,
+    "lat": 39.76514675,
+    "lng": -84.1030302426319,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +51,8 @@
   },
   {
     "id": 1822114,
-    "lat": 39.78639758,
-    "lng": -84.2029141915314,
+    "lat": 39.78427938,
+    "lng": -84.2057217319554,
     "customers_affected": 4,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,12 +61,22 @@
   },
   {
     "id": 1822116,
-    "lat": 39.81550902,
-    "lng": -84.1952188847529,
+    "lat": 39.81339082,
+    "lng": -84.1980277059634,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-16T13:30:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-16T16:00:00"
+  },
+  {
+    "id": 1822117,
+    "lat": 39.82208317,
+    "lng": -84.1725991373299,
+    "customers_affected": 8,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-16T13:34:00",
+    "estimate_time": "2026-11-16T16:00:00"
   }
 ]
