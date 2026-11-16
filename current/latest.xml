@@ -1,48 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.65480501</LAT>
-    <LNG>-84.020282175456</LNG>
-    <TOTALCUSTS>10</TOTALCUSTS>
-    <INCIDENTID>1822077</INCIDENTID>
+    <LAT>39.66409875</LAT>
+    <LNG>-83.5415130768306</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822097</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>33</total>
-    <OutageTime>11/16/2026 10:27 AM</OutageTime>
-    <EstimateTime>11/16/2026 12:00 PM</EstimateTime>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>23</total>
+    <OutageTime>11/16/2026 11:53 AM</OutageTime>
+    <EstimateTime>11/16/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81151119</LAT>
-    <LNG>-84.2477766886429</LNG>
-    <TOTALCUSTS>11</TOTALCUSTS>
-    <INCIDENTID>1822074</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>33</total>
-    <OutageTime>11/16/2026 10:15 AM</OutageTime>
-    <EstimateTime>11/16/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.81277982</LAT>
-    <LNG>-84.2068976638353</LNG>
+    <LAT>39.81290442</LAT>
+    <LNG>-84.2067324469559</LNG>
     <TOTALCUSTS>11</TOTALCUSTS>
     <INCIDENTID>1822084</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>33</total>
+    <total>23</total>
     <OutageTime>11/16/2026 10:54 AM</OutageTime>
     <EstimateTime>11/16/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.83792705</LAT>
-    <LNG>-84.796883057679</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822093</INCIDENTID>
+    <LAT>39.81163579</LAT>
+    <LNG>-84.2476114750486</LNG>
+    <TOTALCUSTS>11</TOTALCUSTS>
+    <INCIDENTID>1822074</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>33</total>
-    <OutageTime>11/16/2026 11:30 AM</OutageTime>
-    <EstimateTime>11/16/2026 02:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>23</total>
+    <OutageTime>11/16/2026 10:15 AM</OutageTime>
+    <EstimateTime>11/16/2026 01:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -78,11 +67,11 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>10</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -118,7 +107,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>33</TotalOut>
-    <Outageat>11/16/2026 11:50:35 AM</Outageat>
+    <TotalOut>23</TotalOut>
+    <Outageat>11/16/2026 12:05:33 PM</Outageat>
   </Message>
 </Incidents>
