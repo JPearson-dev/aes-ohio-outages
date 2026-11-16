@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77277391</LAT>
-    <LNG>-84.0608128413023</LNG>
-    <TOTALCUSTS>9</TOTALCUSTS>
-    <INCIDENTID>1822098</INCIDENTID>
+    <LAT>39.76856435</LAT>
+    <LNG>-84.0985017859399</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822112</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>30</total>
-    <OutageTime>11/16/2026 01:33 PM</OutageTime>
-    <EstimateTime>11/16/2026 03:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>21</total>
+    <OutageTime>11/16/2026 01:06 PM</OutageTime>
+    <EstimateTime>11/16/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
     <LAT>39.82550077</LAT>
@@ -18,7 +18,7 @@
     <INCIDENTID>1822117</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>30</total>
+    <total>21</total>
     <OutageTime>11/16/2026 01:34 PM</OutageTime>
     <EstimateTime>11/16/2026 04:00 PM</EstimateTime>
   </Markers>
@@ -29,20 +29,9 @@
     <INCIDENTID>1822120</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>30</total>
+    <total>21</total>
     <OutageTime>11/16/2026 01:56 PM</OutageTime>
     <EstimateTime>11/16/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76856435</LAT>
-    <LNG>-84.0985017859399</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822112</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>30</total>
-    <OutageTime>11/16/2026 01:06 PM</OutageTime>
-    <EstimateTime>11/16/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
     <LAT>39.81680842</LAT>
@@ -51,7 +40,7 @@
     <INCIDENTID>1822116</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>30</total>
+    <total>21</total>
     <OutageTime>11/16/2026 01:30 PM</OutageTime>
     <EstimateTime>11/16/2026 04:00 PM</EstimateTime>
   </Markers>
@@ -93,7 +82,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>9</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>30</TotalOut>
-    <Outageat>11/16/2026 3:20:31 PM</Outageat>
+    <TotalOut>21</TotalOut>
+    <Outageat>11/16/2026 3:35:31 PM</Outageat>
   </Message>
 </Incidents>
