@@ -1,35 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.36377997</LAT>
-    <LNG>-83.3622877106126</LNG>
+    <LAT>40.09014113</LAT>
+    <LNG>-84.4352440314309</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822141</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>3</total>
+    <OutageTime>11/16/2026 04:40 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.36251617</LAT>
+    <LNG>-83.3639518249303</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822135</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>13</total>
+    <total>3</total>
     <OutageTime>11/16/2026 04:01 PM</OutageTime>
     <EstimateTime>11/16/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81992935</LAT>
-    <LNG>-84.4272271252888</LNG>
-    <TOTALCUSTS>11</TOTALCUSTS>
-    <INCIDENTID>1822120</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>13</total>
-    <OutageTime>11/16/2026 01:56 PM</OutageTime>
-    <EstimateTime>11/16/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76759425</LAT>
-    <LNG>-84.0997872072405</LNG>
+    <LAT>39.76633045</LAT>
+    <LNG>-84.1014617927881</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822112</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>13</total>
+    <total>3</total>
     <OutageTime>11/16/2026 01:06 PM</OutageTime>
     <EstimateTime>11/16/2026 05:00 PM</EstimateTime>
   </Markers>
@@ -59,7 +59,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -99,7 +99,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>12</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>13</TotalOut>
-    <Outageat>11/16/2026 4:35:31 PM</Outageat>
+    <TotalOut>3</TotalOut>
+    <Outageat>11/16/2026 4:50:31 PM</Outageat>
   </Message>
 </Incidents>
