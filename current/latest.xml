@@ -1,37 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.09014113</LAT>
-    <LNG>-84.4352440314309</LNG>
+    <LAT>40.09047043</LAT>
+    <LNG>-84.4348054661312</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822141</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>3</total>
+    <total>6</total>
     <OutageTime>11/16/2026 04:40 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>11/16/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.36251617</LAT>
-    <LNG>-83.3639518249303</LNG>
+    <LAT>39.36284547</LAT>
+    <LNG>-83.3635182176785</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822135</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>3</total>
+    <total>6</total>
     <OutageTime>11/16/2026 04:01 PM</OutageTime>
     <EstimateTime>11/16/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76633045</LAT>
-    <LNG>-84.1014617927881</LNG>
+    <LAT>39.76665975</LAT>
+    <LNG>-84.1010254571172</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822112</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
+    <total>6</total>
     <OutageTime>11/16/2026 01:06 PM</OutageTime>
-    <EstimateTime>11/16/2026 05:00 PM</EstimateTime>
+    <EstimateTime>11/16/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.31843541</LAT>
+    <LNG>-84.1271077760001</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1822142</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>6</total>
+    <OutageTime>11/16/2026 04:41 PM</OutageTime>
+    <EstimateTime>11/16/2026 07:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -115,7 +126,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>11/16/2026 4:50:31 PM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>11/16/2026 5:05:31 PM</Outageat>
   </Message>
 </Incidents>
