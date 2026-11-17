@@ -1,8 +1,8 @@
 [
   {
     "id": 1822135,
-    "lat": 39.36309467,
-    "lng": -83.3631900824609,
+    "lat": 39.36421607,
+    "lng": -83.3617134739818,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1822153,
-    "lat": 40.11393898,
-    "lng": -84.6168077763099,
+    "lat": 40.11506038,
+    "lng": -84.615313734278,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-16T21:20:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1822157,
+    "lat": 39.58055033,
+    "lng": -84.6177072710959,
+    "customers_affected": 12,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-11-17T00:52:00",
     "estimate_time": null
   }
 ]
