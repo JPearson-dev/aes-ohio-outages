@@ -1,68 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.1117278</LAT>
-    <LNG>-84.6019894177024</LNG>
+    <LAT>40.1113273</LAT>
+    <LNG>-84.6025229744616</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1822258</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>26</total>
+    <total>20</total>
     <OutageTime>11/17/2026 02:48 PM</OutageTime>
     <EstimateTime>11/17/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56064769</LAT>
-    <LNG>-83.4153446136394</LNG>
+    <LAT>39.56024719</LAT>
+    <LNG>-83.4158735778368</LNG>
     <TOTALCUSTS>13</TOTALCUSTS>
     <INCIDENTID>1822242</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>26</total>
+    <total>20</total>
     <OutageTime>11/17/2026 11:57 AM</OutageTime>
     <EstimateTime>11/17/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.38774576</LAT>
-    <LNG>-83.7266164762321</LNG>
-    <TOTALCUSTS>6</TOTALCUSTS>
-    <INCIDENTID>1822193</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
-    <total>26</total>
-    <OutageTime>11/17/2026 09:23 AM</OutageTime>
-    <EstimateTime>11/17/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.76575426</LAT>
-    <LNG>-84.2353587601068</LNG>
+    <LAT>39.76535376</LAT>
+    <LNG>-84.2358894182479</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822257</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>26</total>
+    <total>20</total>
     <OutageTime>11/17/2026 02:47 PM</OutageTime>
     <EstimateTime>11/17/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24867084</LAT>
-    <LNG>-83.3636834518466</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1822255</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>26</total>
-    <OutageTime>11/17/2026 02:33 PM</OutageTime>
-    <EstimateTime>11/17/2026 04:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.25012712</LAT>
-    <LNG>-83.3635426446129</LNG>
+    <LAT>40.24972662</LAT>
+    <LNG>-83.3640773756154</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822256</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>26</total>
+    <total>20</total>
+    <OutageTime>11/17/2026 02:33 PM</OutageTime>
+    <EstimateTime>11/17/2026 04:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.24827034</LAT>
+    <LNG>-83.3642181704492</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1822255</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>20</total>
     <OutageTime>11/17/2026 02:33 PM</OutageTime>
     <EstimateTime>11/17/2026 04:00 PM</EstimateTime>
   </Markers>
@@ -116,7 +105,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>6</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -165,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>26</TotalOut>
-    <Outageat>11/17/2026 3:20:32 PM</Outageat>
+    <TotalOut>20</TotalOut>
+    <Outageat>11/17/2026 3:35:31 PM</Outageat>
   </Message>
 </Incidents>
