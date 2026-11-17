@@ -1,8 +1,8 @@
 [
   {
     "id": 1822135,
-    "lat": 39.36342397,
-    "lng": -83.3627564752091,
+    "lat": 39.36462547,
+    "lng": -83.3611743946958,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -10,23 +10,33 @@
     "estimate_time": "2026-11-17T04:00:00"
   },
   {
-    "id": 1822153,
-    "lat": 40.11426828,
-    "lng": -84.6163690496815,
-    "customers_affected": 1,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-11-16T21:20:00",
-    "estimate_time": null
-  },
-  {
     "id": 1822157,
-    "lat": 39.57815623,
-    "lng": -84.6208702881346,
+    "lat": 39.58095973,
+    "lng": -84.6171663834239,
     "customers_affected": 12,
     "county": "PREBLE",
     "indicator": "D",
     "outage_time": "2026-11-17T00:52:00",
     "estimate_time": "2026-11-17T04:00:00"
+  },
+  {
+    "id": 1822158,
+    "lat": 39.64036754,
+    "lng": -84.0620569352982,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-17T02:42:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1822159,
+    "lat": 39.64005092,
+    "lng": -84.0604174462624,
+    "customers_affected": 2,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-17T02:44:00",
+    "estimate_time": null
   }
 ]
