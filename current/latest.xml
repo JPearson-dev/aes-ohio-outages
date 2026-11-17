@@ -1,46 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.64036754</LAT>
-    <LNG>-84.0620569352982</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822158</INCIDENTID>
+    <LAT>39.6400261</LAT>
+    <LNG>-84.0577425663401</LNG>
+    <TOTALCUSTS>41</TOTALCUSTS>
+    <INCIDENTID>1822160</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>16</total>
-    <OutageTime>11/17/2026 02:42 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <total>54</total>
+    <OutageTime>11/17/2026 02:38 AM</OutageTime>
+    <EstimateTime>11/17/2026 05:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.64005092</LAT>
-    <LNG>-84.0604174462624</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1822159</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>16</total>
-    <OutageTime>11/17/2026 02:44 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.36462547</LAT>
-    <LNG>-83.3611743946958</LNG>
+    <LAT>39.36264077</LAT>
+    <LNG>-83.3637877573215</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822135</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>16</total>
+    <total>54</total>
     <OutageTime>11/16/2026 04:01 PM</OutageTime>
     <EstimateTime>11/17/2026 04:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.58095973</LAT>
-    <LNG>-84.6171663834239</LNG>
+    <LAT>39.57897503</LAT>
+    <LNG>-84.6197885127905</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1822157</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>16</total>
+    <total>54</total>
     <OutageTime>11/17/2026 12:52 AM</OutageTime>
     <EstimateTime>11/17/2026 04:00 AM</EstimateTime>
   </Markers>
@@ -82,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>3</TotOut>
+    <TotOut>41</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>16</TotalOut>
-    <Outageat>11/17/2026 2:50:31 AM</Outageat>
+    <TotalOut>54</TotalOut>
+    <Outageat>11/17/2026 3:05:31 AM</Outageat>
   </Message>
 </Incidents>
