@@ -1,57 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.1113273</LAT>
-    <LNG>-84.6025229744616</LNG>
+    <LAT>40.1115676</LAT>
+    <LNG>-84.6022028404061</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1822258</INCIDENTID>
     <IND>D</IND>
     <COUNTY>DARKE</COUNTY>
-    <total>20</total>
+    <total>8</total>
     <OutageTime>11/17/2026 02:48 PM</OutageTime>
     <EstimateTime>11/17/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.56024719</LAT>
-    <LNG>-83.4158735778368</LNG>
-    <TOTALCUSTS>13</TOTALCUSTS>
-    <INCIDENTID>1822242</INCIDENTID>
+    <LAT>39.7674943</LAT>
+    <LNG>-84.1968637896615</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822264</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>20</total>
-    <OutageTime>11/17/2026 11:57 AM</OutageTime>
-    <EstimateTime>11/17/2026 06:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>8</total>
+    <OutageTime>11/17/2026 03:41 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.76535376</LAT>
-    <LNG>-84.2358894182479</LNG>
+    <LAT>39.76559406</LAT>
+    <LNG>-84.2355710233632</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822257</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>20</total>
+    <total>8</total>
     <OutageTime>11/17/2026 02:47 PM</OutageTime>
     <EstimateTime>11/17/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24972662</LAT>
-    <LNG>-83.3640773756154</LNG>
+    <LAT>40.24996692</LAT>
+    <LNG>-83.3637565370139</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822256</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>20</total>
+    <total>8</total>
     <OutageTime>11/17/2026 02:33 PM</OutageTime>
     <EstimateTime>11/17/2026 04:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24827034</LAT>
-    <LNG>-83.3642181704492</LNG>
+    <LAT>40.24851064</LAT>
+    <LNG>-83.3638973392876</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1822255</INCIDENTID>
     <IND>D</IND>
     <COUNTY>UNION</COUNTY>
-    <total>20</total>
+    <total>8</total>
     <OutageTime>11/17/2026 02:33 PM</OutageTime>
     <EstimateTime>11/17/2026 04:00 PM</EstimateTime>
   </Markers>
@@ -89,7 +89,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>13</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -121,7 +121,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -154,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>20</TotalOut>
-    <Outageat>11/17/2026 3:35:31 PM</Outageat>
+    <TotalOut>8</TotalOut>
+    <Outageat>11/17/2026 3:50:31 PM</Outageat>
   </Message>
 </Incidents>
