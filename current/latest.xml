@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.36366427</LAT>
-    <LNG>-83.3624400591065</LNG>
+    <LAT>40.1036013</LAT>
+    <LNG>-84.4173005144472</LNG>
+    <TOTALCUSTS>52</TOTALCUSTS>
+    <INCIDENTID>1822149</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>DARKE</COUNTY>
+    <total>54</total>
+    <OutageTime>11/16/2026 07:00 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.36177747</LAT>
+    <LNG>-83.3649245114681</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822135</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>2</total>
+    <total>54</total>
     <OutageTime>11/16/2026 04:01 PM</OutageTime>
     <EstimateTime>11/16/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.00789311</LAT>
-    <LNG>-84.3942256685988</LNG>
+    <LAT>40.00600631</LAT>
+    <LNG>-84.3967352184178</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822145</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>2</total>
+    <total>54</total>
     <OutageTime>11/16/2026 06:32 PM</OutageTime>
     <EstimateTime>11/16/2026 09:00 PM</EstimateTime>
   </Markers>
@@ -48,7 +59,7 @@
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>0</TotOut>
+    <TotOut>52</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>11/16/2026 7:05:31 PM</Outageat>
+    <TotalOut>54</TotalOut>
+    <Outageat>11/16/2026 7:20:31 PM</Outageat>
   </Message>
 </Incidents>
