@@ -1,8 +1,8 @@
 [
   {
     "id": 1822307,
-    "lat": 40.30804526,
-    "lng": -84.1266928957536,
+    "lat": 40.30837456,
+    "lng": -84.1262528079221,
     "customers_affected": 12,
     "county": "SHELBY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1822313,
-    "lat": 40.26169817,
-    "lng": -83.7549124867196,
+    "lat": 40.26202747,
+    "lng": -83.7544727240022,
     "customers_affected": 5,
     "county": "LOGAN",
     "indicator": "D",
@@ -20,19 +20,9 @@
     "estimate_time": "2026-11-18T12:00:00"
   },
   {
-    "id": 1822317,
-    "lat": 40.24899763,
-    "lng": -83.3705462794896,
-    "customers_affected": 1,
-    "county": "UNION",
-    "indicator": "D",
-    "outage_time": "2026-11-18T08:42:00",
-    "estimate_time": "2026-11-18T11:00:00"
-  },
-  {
     "id": 1822344,
-    "lat": 40.5259296,
-    "lng": -83.8729903598656,
+    "lat": 40.5262589,
+    "lng": -83.8725487330316,
     "customers_affected": 10,
     "county": "LOGAN",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1822353,
-    "lat": 39.86510163,
-    "lng": -84.7832015622006,
+    "lat": 39.86543093,
+    "lng": -84.7827645496167,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -51,12 +41,32 @@
   },
   {
     "id": 1822362,
-    "lat": 39.79417438,
-    "lng": -84.2186644980058,
+    "lat": 39.79450368,
+    "lng": -84.2182279712951,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-18T10:10:00",
+    "estimate_time": "2026-11-18T12:00:00"
+  },
+  {
+    "id": 1822370,
+    "lat": 39.76079213,
+    "lng": -84.1082045586576,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-18T10:27:00",
+    "estimate_time": "2026-11-18T12:00:00"
+  },
+  {
+    "id": 1822371,
+    "lat": 39.7665068,
+    "lng": -84.0106658523697,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-11-18T09:33:00",
     "estimate_time": null
   }
 ]
