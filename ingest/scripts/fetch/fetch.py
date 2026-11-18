@@ -25,6 +25,25 @@ USER_AGENT = "Mozilla/5.0 (AES-Ohio-Outage-Tracker; +https://github.com/JPearson
 # Gateway around 1:23am every Saturday (the 1:08 and 1:38 runs succeed), so
 # retries span ~8 minutes, short of the next 15-minute run.
 RETRY_DELAYS = (15, 45, 120, 300)
+# If the final attempts all returned 404, the feed is down upstream rather
+# than broken on our side. Exit with this code (EX_TEMPFAIL) so the workflow
+# records a message-only commit instead of failing the run.
+EXIT_UPSTREAM_UNAVAILABLE = 75
+MIN_CONSECUTIVE_404S = 2
+
+
+class UpstreamUnavailable(Exception):
+    """The feed returned 404 on several consecutive attempts."""
+
+    def __init__(self, url, consecutive_404s, attempts, elapsed_s):
+        self.url = url
+        self.consecutive_404s = consecutive_404s
+        self.attempts = attempts
+        self.elapsed_s = elapsed_s
+        super().__init__(
+            f"{url} returned HTTP 404 on {consecutive_404s} consecutive attempts "
+            f"({attempts} attempts over {elapsed_s / 60:.0f} min)"
+        )
 
 
 def parse_datetime(dt_str, date_format="%m/%d/%Y %I:%M %p"):
@@ -98,6 +117,8 @@ def is_transient(err):
 def fetch_xml(url):
     """Fetches raw XML bytes from the given URL, retrying transient failures."""
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    started = time.monotonic()
+    consecutive_404s = 0
     for attempt, delay in enumerate((*RETRY_DELAYS, None), start=1):
         try:
             with urllib.request.urlopen(req, timeout=30) as resp:
@@ -106,6 +127,12 @@ def fetch_xml(url):
                 print(f"Attempt {attempt} succeeded.", file=sys.stderr)
             return data
         except Exception as e:
+            is_404 = isinstance(e, urllib.error.HTTPError) and e.code == 404
+            consecutive_404s = consecutive_404s + 1 if is_404 else 0
+            if delay is None and consecutive_404s >= MIN_CONSECUTIVE_404S:
+                raise UpstreamUnavailable(
+                    url, consecutive_404s, attempt, time.monotonic() - started
+                ) from e
             if delay is None or not is_transient(e):
                 raise
             print(f"Attempt {attempt} failed ({e}); retrying in {delay}s...", file=sys.stderr)
@@ -282,6 +309,13 @@ def main():
     parser.add_argument("--sample", type=str, help="Path to a local XML sample file instead of fetching live.")
     parser.add_argument("--url", type=str, default=DEFAULT_URL, help=f"Source URL (default: {DEFAULT_URL}).")
     parser.add_argument("--out-dir", type=str, default=None, help="Output directory for generated files.")
+    parser.add_argument(
+        "--skip-note",
+        type=str,
+        default=None,
+        help=f"If the feed is unavailable upstream (repeated 404s), write a commit message "
+        f"describing it to this file and exit {EXIT_UPSTREAM_UNAVAILABLE}.",
+    )
     args = parser.parse_args()
 
     # Determine out_dir: default to ./test-output if running with --sample to protect production data
@@ -305,6 +339,18 @@ def main():
         print(f"Fetching from URL: {args.url}")
         try:
             xml_bytes = fetch_xml(args.url)
+        except UpstreamUnavailable as e:
+            print(f"Upstream unavailable: {e}", file=sys.stderr)
+            if args.skip_note:
+                now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+                Path(args.skip_note).write_text(
+                    f"Skipped snapshot: AES Ohio feed unavailable ({now})\n"
+                    f"\n"
+                    f"{e}.\n"
+                    f"No data was fetched; current/ and heartbeat.csv are unchanged.\n",
+                    encoding="utf-8",
+                )
+            sys.exit(EXIT_UPSTREAM_UNAVAILABLE)
         except Exception as e:
             print(f"Error fetching data: {e}", file=sys.stderr)
             sys.exit(1)

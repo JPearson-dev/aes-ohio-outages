@@ -36,8 +36,20 @@ jobs:
           ref: 'data'
           path: 'data'
 
+      # Exit 75 means the feed returned 404 on several consecutive attempts:
+      # an upstream outage, not our bug. Record it instead of failing the run.
       - name: Fetch and process outage data
-        run: python3 code/ingest/scripts/fetch/fetch.py --out-dir data
+        id: fetch
+        run: |
+          rc=0
+          python3 code/ingest/scripts/fetch/fetch.py --out-dir data \
+            --skip-note "$RUNNER_TEMP/skip-note.txt" || rc=$?
+          if [ "$rc" -eq 75 ]; then
+            echo "::warning::AES Ohio feed returned repeated 404s; recording a skipped snapshot"
+            echo "unavailable=true" >> "$GITHUB_OUTPUT"
+          elif [ "$rc" -ne 0 ]; then
+            exit "$rc"
+          fi
 
       - name: Commit and push changes
         id: commit
@@ -45,12 +57,20 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A current/ heartbeat.csv README.md
-          if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-            exit 0
+          if [ "${{ steps.fetch.outputs.unavailable }}" = "true" ]; then
+            # Message-only commit so the gap is visible in the data history.
+            # changed stays false: no files changed, so nothing to purge.
+            git commit --allow-empty -F "$RUNNER_TEMP/skip-note.txt"
+            changed=false
+          else
+            git add -A current/ heartbeat.csv README.md
+            if git diff --cached --quiet; then
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            changed=true
           fi
-          git commit -m "Auto-update: $(date -u +'%Y-%m-%d %H:%M UTC')"
           # GitHub occasionally fails a push server-side ("remote: fatal error
           # in commit_refs"). Retry; if the ref did update anyway, the retry
           # is a harmless "Everything up-to-date".
@@ -60,7 +80,7 @@ jobs:
             echo "::warning::Push attempt $attempt failed; retrying in $((attempt * 10))s"
             sleep $((attempt * 10))
           done
-          echo "changed=true" >> "$GITHUB_OUTPUT"
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
 
       # jsDelivr caches the @data branch ref for hours; without this, the site
       # (which reads current/*.json and heartbeat.csv via jsDelivr) can lag
