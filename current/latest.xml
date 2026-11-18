@@ -1,79 +1,90 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.76201107</LAT>
-    <LNG>-84.0541406280385</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
-    <INCIDENTID>1822337</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>19</total>
-    <OutageTime>11/18/2026 09:19 AM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.65955314</LAT>
-    <LNG>-84.0729697526761</LNG>
+    <LAT>39.65867204</LAT>
+    <LNG>-84.074135253239</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822397</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>19</total>
+    <total>20</total>
     <OutageTime>11/18/2026 11:47 AM</OutageTime>
+    <EstimateTime>11/18/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.76112997</LAT>
+    <LNG>-84.0553079947403</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1822337</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>20</total>
+    <OutageTime>11/18/2026 09:19 AM</OutageTime>
+    <EstimateTime>11/18/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.69286608</LAT>
+    <LNG>-84.0638076218499</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822419</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>20</total>
+    <OutageTime>11/18/2026 01:12 PM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66032705</LAT>
-    <LNG>-84.209159007052</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822386</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>19</total>
-    <OutageTime>11/18/2026 10:58 AM</OutageTime>
-    <EstimateTime>11/18/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.816237</LAT>
-    <LNG>-84.1203159833848</LNG>
+    <LAT>39.8153559</LAT>
+    <LNG>-84.1214843417722</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822409</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>19</total>
+    <total>20</total>
     <OutageTime>11/18/2026 12:26 PM</OutageTime>
     <EstimateTime>11/18/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81715552</LAT>
-    <LNG>-84.1930355573414</LNG>
+    <LAT>39.81627442</LAT>
+    <LNG>-84.1942039325508</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822413</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>19</total>
+    <total>20</total>
     <OutageTime>11/18/2026 12:41 PM</OutageTime>
     <EstimateTime>11/18/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.87163408</LAT>
-    <LNG>-84.0491013631546</LNG>
+    <LAT>39.87075298</LAT>
+    <LNG>-84.0502707375384</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822412</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>19</total>
+    <total>20</total>
     <OutageTime>11/18/2026 12:33 PM</OutageTime>
     <EstimateTime>11/18/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.31074196</LAT>
-    <LNG>-84.1230889332413</LNG>
+    <LAT>39.65944595</LAT>
+    <LNG>-84.2103245216734</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822386</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>20</total>
+    <OutageTime>11/18/2026 10:58 AM</OutageTime>
+    <EstimateTime>11/18/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.30986086</LAT>
+    <LNG>-84.1242664655473</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1822307</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>19</total>
+    <total>20</total>
     <OutageTime>11/18/2026 08:08 AM</OutageTime>
     <EstimateTime>11/18/2026 04:00 PM</EstimateTime>
   </Markers>
@@ -115,7 +126,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>3</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -176,7 +187,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>19</TotalOut>
-    <Outageat>11/18/2026 1:05:31 PM</Outageat>
+    <TotalOut>20</TotalOut>
+    <Outageat>11/18/2026 1:20:31 PM</Outageat>
   </Message>
 </Incidents>
