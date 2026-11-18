@@ -1,12 +1,22 @@
 [
   {
     "id": 1822282,
-    "lat": 39.7393043,
-    "lng": -84.1588613632632,
+    "lat": 39.7418764,
+    "lng": -84.1554545966128,
     "customers_affected": 1,
     "county": null,
     "indicator": "D",
     "outage_time": "2026-11-17T20:42:00",
-    "estimate_time": "2026-11-17T23:00:00"
+    "estimate_time": "2026-11-18T01:00:00"
+  },
+  {
+    "id": 1822284,
+    "lat": 40.24342378,
+    "lng": -83.3432810314622,
+    "customers_affected": 1,
+    "county": "UNION",
+    "indicator": "D",
+    "outage_time": "2026-11-17T22:59:00",
+    "estimate_time": "2026-11-18T01:00:00"
   }
 ]

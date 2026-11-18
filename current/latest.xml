@@ -1,14 +1,25 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.7393043</LAT>
-    <LNG>-84.1588613632632</LNG>
+    <LAT>40.24342378</LAT>
+    <LNG>-83.3432810314622</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822284</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>UNION</COUNTY>
+    <total>2</total>
+    <OutageTime>11/17/2026 10:59 PM</OutageTime>
+    <EstimateTime>11/18/2026 01:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7418764</LAT>
+    <LNG>-84.1554545966128</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822282</INCIDENTID>
     <IND>D</IND>
-    <total>1</total>
+    <total>2</total>
     <OutageTime>11/17/2026 08:42 PM</OutageTime>
-    <EstimateTime>11/17/2026 11:00 PM</EstimateTime>
+    <EstimateTime>11/18/2026 01:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -96,7 +107,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -109,7 +120,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>0</TotalOut>
-    <Outageat>11/17/2026 10:50:31 PM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>11/17/2026 11:05:31 PM</Outageat>
   </Message>
 </Incidents>
