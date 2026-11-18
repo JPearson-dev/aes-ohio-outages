@@ -1,8 +1,8 @@
 [
   {
     "id": 1822307,
-    "lat": 40.30932686,
-    "lng": -84.1249801214903,
+    "lat": 40.30956716,
+    "lng": -84.124658976316,
     "customers_affected": 18,
     "county": "SHELBY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1822311,
-    "lat": 39.76557207,
-    "lng": -84.1001052963494,
+    "lat": 39.76581237,
+    "lng": -84.0997868988254,
     "customers_affected": 6,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1822313,
-    "lat": 40.26297977,
-    "lng": -83.7532009777655,
+    "lat": 40.26322007,
+    "lng": -83.7528800698366,
     "customers_affected": 5,
     "county": "LOGAN",
     "indicator": "D",
@@ -31,42 +31,62 @@
   },
   {
     "id": 1822314,
-    "lat": 39.76416675,
-    "lng": -84.1573069605783,
+    "lat": 39.76440705,
+    "lng": -84.1569885700551,
     "customers_affected": 7,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-18T08:34:00",
-    "estimate_time": null
-  },
-  {
-    "id": 1822315,
-    "lat": 39.8993228,
-    "lng": -84.1648141041797,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-18T08:40:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-18T11:00:00"
   },
   {
     "id": 1822317,
-    "lat": 40.25027923,
-    "lng": -83.3688351167354,
+    "lat": 40.25051953,
+    "lng": -83.368514273719,
     "customers_affected": 1,
     "county": "UNION",
     "indicator": "D",
     "outage_time": "2026-11-18T08:42:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-18T11:00:00"
   },
   {
     "id": 1822319,
-    "lat": 39.43043264,
-    "lng": -83.7499747458603,
+    "lat": 39.43067294,
+    "lng": -83.749658003516,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-11-18T08:43:00",
+    "estimate_time": "2026-11-18T11:00:00"
+  },
+  {
+    "id": 1822320,
+    "lat": 39.4915222020934,
+    "lng": -83.8563288610552,
+    "customers_affected": 6,
+    "county": "CLINTON",
+    "indicator": "D",
+    "outage_time": "2026-11-18T08:49:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1822323,
+    "lat": 40.52346957,
+    "lng": -83.8992990637156,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-18T08:54:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1822326,
+    "lat": 40.13140828,
+    "lng": -83.7474776141786,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-11-18T08:59:00",
     "estimate_time": null
   }
 ]
