@@ -1,8 +1,8 @@
 [
   {
     "id": 1822307,
-    "lat": 40.30792956,
-    "lng": -84.126847521208,
+    "lat": 40.31074196,
+    "lng": -84.1230889332413,
     "customers_affected": 12,
     "county": "SHELBY",
     "indicator": "D",
@@ -10,9 +10,19 @@
     "estimate_time": "2026-11-18T16:00:00"
   },
   {
+    "id": 1822337,
+    "lat": 39.76201107,
+    "lng": -84.0541406280385,
+    "customers_affected": 2,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-18T09:19:00",
+    "estimate_time": null
+  },
+  {
     "id": 1822386,
-    "lat": 39.65751465,
-    "lng": -84.2128792355406,
+    "lat": 39.66032705,
+    "lng": -84.209159007052,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -20,19 +30,19 @@
     "estimate_time": "2026-11-18T13:00:00"
   },
   {
-    "id": 1822403,
-    "lat": 39.85147,
-    "lng": -84.1978822840939,
+    "id": 1822397,
+    "lat": 39.65955314,
+    "lng": -84.0729697526761,
     "customers_affected": 1,
-    "county": "MONTGOMERY",
+    "county": "GREENE",
     "indicator": "D",
-    "outage_time": "2026-11-18T12:15:00",
-    "estimate_time": "2026-11-18T14:00:00"
+    "outage_time": "2026-11-18T11:47:00",
+    "estimate_time": null
   },
   {
     "id": 1822409,
-    "lat": 39.8134246,
-    "lng": -84.1240452889445,
+    "lat": 39.816237,
+    "lng": -84.1203159833848,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +51,8 @@
   },
   {
     "id": 1822412,
-    "lat": 39.86882168,
-    "lng": -84.0528339116927,
+    "lat": 39.87163408,
+    "lng": -84.0491013631546,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,12 +61,12 @@
   },
   {
     "id": 1822413,
-    "lat": 39.81434312,
-    "lng": -84.1967649165956,
+    "lat": 39.81715552,
+    "lng": -84.1930355573414,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-18T12:41:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-18T15:00:00"
   }
 ]
