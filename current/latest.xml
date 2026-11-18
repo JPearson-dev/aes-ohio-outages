@@ -1,46 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.53533584</LAT>
-    <LNG>-83.4440501968826</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822402</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>FAYETTE</COUNTY>
-    <total>19</total>
-    <OutageTime>11/18/2026 12:13 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.05596331</LAT>
-    <LNG>-84.2327989793386</LNG>
-    <TOTALCUSTS>5</TOTALCUSTS>
-    <INCIDENTID>1822399</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>19</total>
-    <OutageTime>11/18/2026 11:57 AM</OutageTime>
-    <EstimateTime>11/18/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.65669585</LAT>
-    <LNG>-84.2139623400373</LNG>
+    <LAT>39.66013125</LAT>
+    <LNG>-84.2094180103012</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822386</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>19</total>
+    <total>15</total>
     <OutageTime>11/18/2026 10:58 AM</OutageTime>
     <EstimateTime>11/18/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.30711076</LAT>
-    <LNG>-84.127941793654</LNG>
+    <LAT>39.8160412</LAT>
+    <LNG>-84.120575618582</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822409</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>15</total>
+    <OutageTime>11/18/2026 12:26 PM</OutageTime>
+    <EstimateTime>11/18/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.8540866</LAT>
+    <LNG>-84.1944105425247</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822403</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>15</total>
+    <OutageTime>11/18/2026 12:15 PM</OutageTime>
+    <EstimateTime>11/18/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.31054616</LAT>
+    <LNG>-84.123350607087</LNG>
     <TOTALCUSTS>12</TOTALCUSTS>
     <INCIDENTID>1822307</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>19</total>
+    <total>15</total>
     <OutageTime>11/18/2026 08:08 AM</OutageTime>
     <EstimateTime>11/18/2026 04:00 PM</EstimateTime>
   </Markers>
@@ -78,7 +78,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -106,11 +106,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>5</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>19</TotalOut>
-    <Outageat>11/18/2026 12:20:31 PM</Outageat>
+    <TotalOut>15</TotalOut>
+    <Outageat>11/18/2026 12:35:31 PM</Outageat>
   </Message>
 </Incidents>
