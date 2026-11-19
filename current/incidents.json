@@ -1,8 +1,8 @@
 [
   {
     "id": 1822536,
-    "lat": 39.38843447,
-    "lng": -83.8363047139296,
+    "lat": 39.39138927,
+    "lng": -83.8324123273143,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-19T17:00:00"
   },
   {
-    "id": 1822635,
-    "lat": 39.81970609,
-    "lng": -84.2190396605342,
-    "customers_affected": 2,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-19T12:32:00",
-    "estimate_time": "2026-11-19T16:00:00"
-  },
-  {
     "id": 1822673,
-    "lat": 39.79806153,
-    "lng": -84.2880787238223,
+    "lat": 39.80101633,
+    "lng": -84.2841614637313,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1822674,
-    "lat": 39.8719278,
-    "lng": -84.1298581232436,
+    "lat": 39.8748826,
+    "lng": -84.1259363212004,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1822675,
-    "lat": 39.74943238,
-    "lng": -84.2081603616483,
+    "lat": 39.75238718,
+    "lng": -84.2042460821955,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,12 +41,32 @@
   },
   {
     "id": 1822677,
-    "lat": 39.7966409,
-    "lng": -84.2132630664185,
+    "lat": 39.7995957,
+    "lng": -84.2093458935095,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-19T15:28:00",
+    "estimate_time": "2026-11-19T18:00:00"
+  },
+  {
+    "id": 1822679,
+    "lat": 39.87249216,
+    "lng": -84.0787602920102,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-19T15:57:00",
+    "estimate_time": "2026-11-19T18:00:00"
+  },
+  {
+    "id": 1822680,
+    "lat": 39.83435988,
+    "lng": -83.6169225566737,
+    "customers_affected": 1,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-11-19T15:57:00",
     "estimate_time": "2026-11-19T18:00:00"
   }
 ]
