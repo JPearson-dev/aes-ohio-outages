@@ -1,19 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.7465055</LAT>
-    <LNG>-83.4681647798231</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822484</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MADISON</COUNTY>
-    <total>13</total>
-    <OutageTime>11/19/2026 08:26 AM</OutageTime>
-    <EstimateTime>11/19/2026 11:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.89446746</LAT>
-    <LNG>-84.1709631342156</LNG>
+    <LAT>39.89145036</LAT>
+    <LNG>-84.1749687952835</LNG>
     <TOTALCUSTS>8</TOTALCUSTS>
     <INCIDENTID>1822486</INCIDENTID>
     <IND>D</IND>
@@ -23,8 +12,8 @@
     <EstimateTime>11/19/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.31069746</LAT>
-    <LNG>-84.1231484045699</LNG>
+    <LAT>40.30768036</LAT>
+    <LNG>-84.127180560648</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1822487</INCIDENTID>
     <IND>D</IND>
@@ -34,8 +23,19 @@
     <EstimateTime>11/19/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.3429427</LAT>
-    <LNG>-84.0348950791936</LNG>
+    <LAT>40.30216855</LAT>
+    <LNG>-84.1641306355308</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822489</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>13</total>
+    <OutageTime>11/19/2026 08:41 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.3399256</LAT>
+    <LNG>-84.0388665054954</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822481</INCIDENTID>
     <IND>D</IND>
@@ -98,7 +98,7 @@
   </Counties>
   <Counties>
     <County>MADISON</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MERCER</County>
@@ -126,7 +126,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>3</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -144,6 +144,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>13</TotalOut>
-    <Outageat>11/19/2026 8:35:31 AM</Outageat>
+    <Outageat>11/19/2026 8:50:31 AM</Outageat>
   </Message>
 </Incidents>
