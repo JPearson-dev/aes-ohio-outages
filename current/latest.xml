@@ -1,74 +1,41 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.56459669</LAT>
-    <LNG>-83.8743166473448</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1822518</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>AUGLAIZE</COUNTY>
-    <total>18</total>
-    <OutageTime>11/19/2026 09:41 AM</OutageTime>
-    <EstimateTime>11/19/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.39033907</LAT>
-    <LNG>-83.8337957659306</LNG>
+    <LAT>39.39203007</LAT>
+    <LNG>-83.8315681952772</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822536</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>18</total>
+    <total>9</total>
     <OutageTime>11/19/2026 10:39 AM</OutageTime>
     <EstimateTime>11/19/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.68970048</LAT>
-    <LNG>-83.9224281768326</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822538</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>18</total>
-    <OutageTime>11/19/2026 10:41 AM</OutageTime>
-    <EstimateTime>11/19/2026 05:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.3646173</LAT>
-    <LNG>-83.7371754276718</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1822651</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
-    <total>18</total>
-    <OutageTime>11/19/2026 01:16 PM</OutageTime>
-    <EstimateTime>11/19/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.82161069</LAT>
-    <LNG>-84.2165138229285</LNG>
+    <LAT>39.82330169</LAT>
+    <LNG>-84.21427125683</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1822635</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>18</total>
+    <total>9</total>
     <OutageTime>11/19/2026 12:32 PM</OutageTime>
     <EstimateTime>11/19/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.30865936</LAT>
-    <LNG>-84.1258721914191</LNG>
+    <LAT>40.31035036</LAT>
+    <LNG>-84.1236122809328</LNG>
     <TOTALCUSTS>6</TOTALCUSTS>
     <INCIDENTID>1822487</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>18</total>
+    <total>9</total>
     <OutageTime>11/19/2026 08:28 AM</OutageTime>
     <EstimateTime>11/19/2026 03:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>BROWN</County>
@@ -104,7 +71,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -116,7 +83,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -165,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>18</TotalOut>
-    <Outageat>11/19/2026 2:05:31 PM</Outageat>
+    <TotalOut>9</TotalOut>
+    <Outageat>11/19/2026 2:20:31 PM</Outageat>
   </Message>
 </Incidents>
