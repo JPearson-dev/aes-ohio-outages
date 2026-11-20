@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.05648692</LAT>
-    <LNG>-83.8512342009268</LNG>
+    <LAT>40.05572152</LAT>
+    <LNG>-83.8522530242206</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822744</INCIDENTID>
     <IND>D</IND>
@@ -12,8 +12,8 @@
     <EstimateTime>11/20/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.6333379</LAT>
-    <LNG>-83.4753903230946</LNG>
+    <LAT>39.6325725</LAT>
+    <LNG>-83.4764024034478</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822864</INCIDENTID>
     <IND>D</IND>
@@ -23,9 +23,9 @@
     <EstimateTime>11/20/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79095445</LAT>
-    <LNG>-84.0014504808638</LNG>
-    <TOTALCUSTS>23</TOTALCUSTS>
+    <LAT>39.79018905</LAT>
+    <LNG>-84.0024650555274</LNG>
+    <TOTALCUSTS>24</TOTALCUSTS>
     <INCIDENTID>1822802</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
@@ -34,19 +34,8 @@
     <EstimateTime>11/20/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.0519602</LAT>
-    <LNG>-84.2357103347116</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822908</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>29</total>
-    <OutageTime>11/20/2026 12:26 PM</OutageTime>
-    <EstimateTime>11/20/2026 03:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.86116892</LAT>
-    <LNG>-84.1246783481923</LNG>
+    <LAT>39.86040352</LAT>
+    <LNG>-84.1256940406116</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1822755</INCIDENTID>
     <IND>D</IND>
@@ -93,7 +82,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>23</TotOut>
+    <TotOut>24</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -117,7 +106,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -155,6 +144,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>29</TotalOut>
-    <Outageat>11/20/2026 12:35:31 PM</Outageat>
+    <Outageat>11/20/2026 12:50:31 PM</Outageat>
   </Message>
 </Incidents>
