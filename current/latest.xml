@@ -1,48 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.05572152</LAT>
-    <LNG>-83.8522530242206</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822744</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CHAMPAIGN</COUNTY>
-    <total>29</total>
-    <OutageTime>11/20/2026 07:20 AM</OutageTime>
-    <EstimateTime>11/20/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.6325725</LAT>
-    <LNG>-83.4764024034478</LNG>
+    <LAT>39.6347975</LAT>
+    <LNG>-83.473460309398</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822864</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>29</total>
+    <total>20</total>
     <OutageTime>11/20/2026 11:38 AM</OutageTime>
     <EstimateTime>11/20/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79018905</LAT>
-    <LNG>-84.0024650555274</LNG>
-    <TOTALCUSTS>24</TOTALCUSTS>
+    <LAT>39.79241405</LAT>
+    <LNG>-83.9995157105751</LNG>
+    <TOTALCUSTS>14</TOTALCUSTS>
     <INCIDENTID>1822802</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>29</total>
+    <total>20</total>
     <OutageTime>11/20/2026 09:49 AM</OutageTime>
     <EstimateTime>11/20/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86040352</LAT>
-    <LNG>-84.1256940406116</LNG>
+    <LAT>39.86262852</LAT>
+    <LNG>-84.1227414463693</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1822755</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>29</total>
+    <total>20</total>
     <OutageTime>11/20/2026 08:56 AM</OutageTime>
     <EstimateTime>11/20/2026 03:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.37049633</LAT>
+    <LNG>-84.2816065902394</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1822909</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>20</total>
+    <OutageTime>11/20/2026 12:31 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -58,7 +58,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -82,7 +82,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>24</TotOut>
+    <TotOut>14</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -126,7 +126,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -143,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>29</TotalOut>
-    <Outageat>11/20/2026 12:50:31 PM</Outageat>
+    <TotalOut>20</TotalOut>
+    <Outageat>11/20/2026 1:05:31 PM</Outageat>
   </Message>
 </Incidents>
