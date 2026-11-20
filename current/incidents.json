@@ -1,8 +1,8 @@
 [
   {
     "id": 1822933,
-    "lat": 39.75511262,
-    "lng": -84.5591316336891,
+    "lat": 39.75544192,
+    "lng": -84.5586953911062,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-20T18:00:00"
   },
   {
-    "id": 1822935,
-    "lat": 39.76276428,
-    "lng": -84.2291886655773,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-20T16:07:00",
-    "estimate_time": "2026-11-20T18:00:00"
-  },
-  {
     "id": 1822936,
-    "lat": 40.06569194,
-    "lng": -84.1600750598579,
+    "lat": 40.06602124,
+    "lng": -84.1596366810081,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1822939,
-    "lat": 39.81576139,
-    "lng": -84.4853559856182,
+    "lat": 39.81609069,
+    "lng": -84.4849193285818,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1822940,
-    "lat": 40.38671392,
-    "lng": -83.640125073603,
+    "lat": 40.38704322,
+    "lng": -83.6396844500109,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1822942,
-    "lat": 39.73660979,
-    "lng": -84.2919814704608,
+    "lat": 39.73693909,
+    "lng": -84.2915453540601,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,12 +51,22 @@
   },
   {
     "id": 1822943,
-    "lat": 40.31775429,
-    "lng": -84.0816744027512,
+    "lat": 40.31808359,
+    "lng": -84.0812342645356,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-20T16:36:00",
+    "estimate_time": "2026-11-20T19:00:00"
+  },
+  {
+    "id": 1822944,
+    "lat": 39.78731019,
+    "lng": -84.1944672329973,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-20T16:49:00",
     "estimate_time": "2026-11-20T19:00:00"
   }
 ]
