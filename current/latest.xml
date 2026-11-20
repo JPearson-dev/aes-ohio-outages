@@ -1,13 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77689052</LAT>
-    <LNG>-84.2594721517317</LNG>
+    <LAT>40.05710992</LAT>
+    <LNG>-83.8504049261528</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822744</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CHAMPAIGN</COUNTY>
+    <total>4</total>
+    <OutageTime>11/20/2026 07:20 AM</OutageTime>
+    <EstimateTime>11/20/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.77514612</LAT>
+    <LNG>-84.2617838433733</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1822743</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
+    <total>4</total>
     <OutageTime>11/20/2026 07:03 AM</OutageTime>
     <EstimateTime>11/20/2026 11:00 AM</EstimateTime>
   </Markers>
@@ -25,7 +36,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>11/20/2026 7:20:31 AM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>11/20/2026 7:35:31 AM</Outageat>
   </Message>
 </Incidents>
