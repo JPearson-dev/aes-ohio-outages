@@ -1,8 +1,8 @@
 [
   {
     "id": 1822743,
-    "lat": 39.77572462,
-    "lng": -84.2610172109411,
+    "lat": 39.77461212,
+    "lng": -84.2624915040799,
     "customers_affected": 3,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1822744,
-    "lat": 40.05768842,
-    "lng": -83.8496348852913,
+    "lat": 40.05657592,
+    "lng": -83.851115733102,
     "customers_affected": 1,
     "county": "CHAMPAIGN",
     "indicator": "D",
     "outage_time": "2026-11-20T07:20:00",
     "estimate_time": "2026-11-20T10:00:00"
+  },
+  {
+    "id": 1822745,
+    "lat": 39.63602969,
+    "lng": -84.6569717754922,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-11-20T07:55:00",
+    "estimate_time": "2026-11-20T11:00:00"
   }
 ]
