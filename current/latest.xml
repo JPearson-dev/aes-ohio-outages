@@ -1,79 +1,101 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.05892552</LAT>
-    <LNG>-83.8479881825258</LNG>
+    <LAT>40.05879202</LAT>
+    <LNG>-83.848165884263</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822744</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CHAMPAIGN</COUNTY>
-    <total>44</total>
+    <total>46</total>
     <OutageTime>11/20/2026 07:20 AM</OutageTime>
     <EstimateTime>11/20/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.79339305</LAT>
-    <LNG>-83.9982179987961</LNG>
+    <LAT>39.79325955</LAT>
+    <LNG>-83.9983949594932</LNG>
     <TOTALCUSTS>17</TOTALCUSTS>
     <INCIDENTID>1822802</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>44</total>
+    <total>46</total>
     <OutageTime>11/20/2026 09:49 AM</OutageTime>
     <EstimateTime>11/20/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.84540277</LAT>
-    <LNG>-84.2134722242554</LNG>
+    <LAT>39.95030808</LAT>
+    <LNG>-84.1714883751072</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822811</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>46</total>
+    <OutageTime>11/20/2026 10:24 AM</OutageTime>
+    <EstimateTime>11/20/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.84526927</LAT>
+    <LNG>-84.2136493292942</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822795</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>44</total>
+    <total>46</total>
     <OutageTime>11/20/2026 09:36 AM</OutageTime>
     <EstimateTime>11/20/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86360752</LAT>
-    <LNG>-84.1214423049027</LNG>
+    <LAT>39.86347402</LAT>
+    <LNG>-84.1216194605573</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1822755</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>44</total>
+    <total>46</total>
     <OutageTime>11/20/2026 08:56 AM</OutageTime>
     <EstimateTime>11/20/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80063987</LAT>
-    <LNG>-84.2401974222578</LNG>
+    <LAT>39.80050637</LAT>
+    <LNG>-84.2403744030436</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822800</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>44</total>
+    <total>46</total>
     <OutageTime>11/20/2026 09:48 AM</OutageTime>
     <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.66773338</LAT>
-    <LNG>-84.2288736825514</LNG>
+    <LAT>39.79697623</LAT>
+    <LNG>-84.212752486693</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1822810</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>46</total>
+    <OutageTime>11/20/2026 10:19 AM</OutageTime>
+    <EstimateTime>11/20/2026 01:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.66759988</LAT>
+    <LNG>-84.2290502961141</LNG>
     <TOTALCUSTS>20</TOTALCUSTS>
     <INCIDENTID>1822806</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>44</total>
+    <total>46</total>
     <OutageTime>11/20/2026 09:56 AM</OutageTime>
     <EstimateTime>11/20/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80370598</LAT>
-    <LNG>-84.287011842694</LNG>
+    <LAT>39.80357248</LAT>
+    <LNG>-84.2871888319814</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822749</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>44</total>
+    <total>46</total>
     <OutageTime>11/20/2026 08:30 AM</OutageTime>
     <EstimateTime>11/20/2026 11:00 AM</EstimateTime>
   </Markers>
@@ -139,11 +161,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>26</TotOut>
+    <TotOut>27</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -176,7 +198,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>44</TotalOut>
-    <Outageat>11/20/2026 10:20:31 AM</Outageat>
+    <TotalOut>46</TotalOut>
+    <Outageat>11/20/2026 10:35:31 AM</Outageat>
   </Message>
 </Incidents>
