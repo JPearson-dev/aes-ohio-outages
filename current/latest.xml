@@ -1,68 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.38506742</LAT>
-    <LNG>-83.6423281915634</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822940</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>LOGAN</COUNTY>
-    <total>6</total>
-    <OutageTime>11/20/2026 04:15 PM</OutageTime>
-    <EstimateTime>11/20/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.06404544</LAT>
-    <LNG>-84.1622669541071</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822936</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>6</total>
-    <OutageTime>11/20/2026 04:11 PM</OutageTime>
-    <EstimateTime>11/20/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.73496329</LAT>
-    <LNG>-84.2941620524641</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822942</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
-    <OutageTime>11/20/2026 04:26 PM</OutageTime>
-    <EstimateTime>11/20/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.78533439</LAT>
-    <LNG>-84.1970859941797</LNG>
+    <LAT>39.78395489</LAT>
+    <LNG>-84.1989144085188</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822944</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
+    <total>2</total>
     <OutageTime>11/20/2026 04:49 PM</OutageTime>
     <EstimateTime>11/20/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75346612</LAT>
-    <LNG>-84.5613128466034</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1822933</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>6</total>
-    <OutageTime>11/20/2026 03:52 PM</OutageTime>
-    <EstimateTime>11/20/2026 06:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.31610779</LAT>
-    <LNG>-84.0838750938288</LNG>
+    <LAT>40.31472829</LAT>
+    <LNG>-84.085718916083</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1822943</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>6</total>
+    <total>2</total>
     <OutageTime>11/20/2026 04:36 PM</OutageTime>
     <EstimateTime>11/20/2026 07:00 PM</EstimateTime>
   </Markers>
@@ -116,7 +72,7 @@
   </Counties>
   <Counties>
     <County>LOGAN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MADISON</County>
@@ -128,11 +84,11 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>2</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -140,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -165,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>11/20/2026 5:20:31 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>11/20/2026 5:35:34 PM</Outageat>
   </Message>
 </Incidents>
