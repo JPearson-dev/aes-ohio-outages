@@ -1,12 +1,32 @@
 [
   {
     "id": 1823045,
-    "lat": 40.24383659,
-    "lng": -84.3819274312052,
+    "lat": 40.24445959,
+    "lng": -84.3810956822118,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-21T07:34:00",
     "estimate_time": "2026-11-21T10:00:00"
+  },
+  {
+    "id": 1823049,
+    "lat": 40.52216064,
+    "lng": -83.7415920075371,
+    "customers_affected": 3,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-21T07:59:00",
+    "estimate_time": "2026-11-21T11:00:00"
+  },
+  {
+    "id": 1823050,
+    "lat": 39.69836485,
+    "lng": -84.0716888839965,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-21T08:11:00",
+    "estimate_time": null
   }
 ]
