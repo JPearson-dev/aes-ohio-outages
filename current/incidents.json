@@ -1,8 +1,8 @@
 [
   {
     "id": 1823045,
-    "lat": 40.24627519,
-    "lng": -84.3786717280022,
+    "lat": 40.24651549,
+    "lng": -84.3783509105333,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -11,12 +11,32 @@
   },
   {
     "id": 1823061,
-    "lat": 40.08034177,
-    "lng": -84.3561389083599,
+    "lat": 40.08058207,
+    "lng": -84.3558189348165,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-11-21T10:47:00",
     "estimate_time": "2026-11-21T14:00:00"
+  },
+  {
+    "id": 1823064,
+    "lat": 40.3664497,
+    "lng": -84.0391312380424,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-21T11:05:00",
+    "estimate_time": "2026-11-21T13:00:00"
+  },
+  {
+    "id": 1823068,
+    "lat": 40.05358623,
+    "lng": -84.2485856999474,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-21T11:08:00",
+    "estimate_time": "2026-11-21T13:00:00"
   }
 ]
