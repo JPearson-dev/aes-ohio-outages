@@ -1,8 +1,8 @@
 [
   {
     "id": 1823045,
-    "lat": 40.24393449,
-    "lng": -84.381796727792,
+    "lat": 40.24497579,
+    "lng": -84.38040651876,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1823049,
-    "lat": 40.52163554,
-    "lng": -83.7422961753694,
+    "lat": 40.52267684,
+    "lng": -83.7408997747528,
     "customers_affected": 3,
     "county": "LOGAN",
     "indicator": "D",
     "outage_time": "2026-11-21T07:59:00",
+    "estimate_time": "2026-11-21T11:00:00"
+  },
+  {
+    "id": 1823053,
+    "lat": 40.70260305,
+    "lng": -84.7224370664409,
+    "customers_affected": 1,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-11-21T08:52:00",
     "estimate_time": "2026-11-21T11:00:00"
   }
 ]

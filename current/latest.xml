@@ -1,24 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.52163554</LAT>
-    <LNG>-83.7422961753694</LNG>
+    <LAT>40.52267684</LAT>
+    <LNG>-83.7408997747528</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1823049</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>11/21/2026 07:59 AM</OutageTime>
     <EstimateTime>11/21/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24393449</LAT>
-    <LNG>-84.381796727792</LNG>
+    <LAT>40.70260305</LAT>
+    <LNG>-84.7224370664409</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823053</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>5</total>
+    <OutageTime>11/21/2026 08:52 AM</OutageTime>
+    <EstimateTime>11/21/2026 11:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.24497579</LAT>
+    <LNG>-84.38040651876</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823045</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>4</total>
+    <total>5</total>
     <OutageTime>11/21/2026 07:34 AM</OutageTime>
     <EstimateTime>11/21/2026 10:00 AM</EstimateTime>
   </Markers>
@@ -80,7 +91,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -121,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>11/21/2026 8:50:32 AM</Outageat>
+    <TotalOut>5</TotalOut>
+    <Outageat>11/21/2026 9:05:31 AM</Outageat>
   </Message>
 </Incidents>
