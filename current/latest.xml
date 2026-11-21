@@ -1,41 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.04219262</LAT>
-    <LNG>-84.2197013095012</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823077</INCIDENTID>
+    <LAT>40.05057995</LAT>
+    <LNG>-84.2280244370898</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1823086</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
     <total>5</total>
-    <OutageTime>11/21/2026 11:25 AM</OutageTime>
-    <EstimateTime>11/21/2026 02:00 PM</EstimateTime>
+    <OutageTime>11/21/2026 11:41 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.05672479</LAT>
-    <LNG>-84.2340656965273</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823078</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>5</total>
-    <OutageTime>11/21/2026 11:27 AM</OutageTime>
-    <EstimateTime>11/21/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.05849091</LAT>
-    <LNG>-84.2294344584656</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823076</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>5</total>
-    <OutageTime>11/21/2026 11:24 AM</OutageTime>
-    <EstimateTime>11/21/2026 02:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.07965647</LAT>
-    <LNG>-84.3570514255022</LNG>
+    <LAT>40.07902457</LAT>
+    <LNG>-84.3578928374125</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823061</INCIDENTID>
     <IND>D</IND>
@@ -45,15 +23,15 @@
     <EstimateTime>11/21/2026 02:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.24558989</LAT>
-    <LNG>-84.379586651895</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823045</INCIDENTID>
+    <LAT>40.05785901</LAT>
+    <LNG>-84.2302755886839</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1823076</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
+    <COUNTY>MIAMI</COUNTY>
     <total>5</total>
-    <OutageTime>11/21/2026 07:34 AM</OutageTime>
-    <EstimateTime>11/21/2026 12:00 PM</EstimateTime>
+    <OutageTime>11/21/2026 11:24 AM</OutageTime>
+    <EstimateTime>11/21/2026 02:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -117,7 +95,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>4</TotOut>
+    <TotOut>5</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -137,7 +115,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -155,6 +133,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>5</TotalOut>
-    <Outageat>11/21/2026 11:35:31 AM</Outageat>
+    <Outageat>11/21/2026 11:50:31 AM</Outageat>
   </Message>
 </Incidents>
