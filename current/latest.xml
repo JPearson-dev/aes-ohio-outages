@@ -1,58 +1,47 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.67319465</LAT>
-    <LNG>-83.8217192367764</LNG>
+    <LAT>39.67329255</LAT>
+    <LNG>-83.821589707337</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823115</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>12</total>
+    <total>11</total>
     <OutageTime>11/21/2026 03:36 PM</OutageTime>
     <EstimateTime>11/21/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.72704187</LAT>
-    <LNG>-83.835871449209</LNG>
+    <LAT>39.72713977</LAT>
+    <LNG>-83.8357418108519</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823118</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>12</total>
+    <total>11</total>
     <OutageTime>11/21/2026 04:33 PM</OutageTime>
     <EstimateTime>11/21/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.36494384</LAT>
-    <LNG>-83.3635901178146</LNG>
+    <LAT>39.36504174</LAT>
+    <LNG>-83.3634612060509</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1823116</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>12</total>
+    <total>11</total>
     <OutageTime>11/21/2026 03:43 PM</OutageTime>
-    <EstimateTime>11/21/2026 06:00 PM</EstimateTime>
+    <EstimateTime>11/21/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.67498065</LAT>
-    <LNG>-84.1043846053266</LNG>
+    <LAT>39.67507855</LAT>
+    <LNG>-84.1042550722794</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1823117</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>12</total>
+    <total>11</total>
     <OutageTime>11/21/2026 04:20 PM</OutageTime>
-    <EstimateTime>11/21/2026 07:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.23455966</LAT>
-    <LNG>-83.3621872328496</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823119</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>UNION</COUNTY>
-    <total>12</total>
-    <OutageTime>11/21/2026 04:37 PM</OutageTime>
     <EstimateTime>11/21/2026 07:00 PM</EstimateTime>
   </Markers>
   <Counties>
@@ -141,7 +130,7 @@
   </Counties>
   <Counties>
     <County>UNION</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>VAN WERT</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>12</TotalOut>
-    <Outageat>11/21/2026 5:20:31 PM</Outageat>
+    <TotalOut>11</TotalOut>
+    <Outageat>11/21/2026 5:35:31 PM</Outageat>
   </Message>
 </Incidents>
