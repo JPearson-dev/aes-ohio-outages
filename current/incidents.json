@@ -1,8 +1,8 @@
 [
   {
     "id": 1823045,
-    "lat": 40.24589249,
-    "lng": -84.3791826595268,
+    "lat": 40.24438839,
+    "lng": -84.3811907392396,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1823053,
-    "lat": 40.70351975,
-    "lng": -84.7212041824117,
+    "lat": 40.70201565,
+    "lng": -84.7232270697994,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-11-21T08:52:00",
     "estimate_time": "2026-11-21T11:00:00"
+  },
+  {
+    "id": 1823058,
+    "lat": 40.12458384,
+    "lng": -84.4769376640278,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-21T09:50:00",
+    "estimate_time": null
   }
 ]
