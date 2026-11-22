@@ -1,15 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.55456097</LAT>
-    <LNG>-84.7184746515547</LNG>
+    <LAT>40.55640327</LAT>
+    <LNG>-84.716002741903</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823171</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>1</total>
+    <total>2</total>
     <OutageTime>11/22/2026 01:29 PM</OutageTime>
-    <EstimateTime>11/22/2026 04:00 PM</EstimateTime>
+    <EstimateTime>11/22/2026 07:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.51204034</LAT>
+    <LNG>-84.5433797216366</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823178</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MERCER</COUNTY>
+    <total>2</total>
+    <OutageTime>11/22/2026 03:55 PM</OutageTime>
+    <EstimateTime>11/22/2026 06:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -69,7 +80,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -110,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>1</TotalOut>
-    <Outageat>11/22/2026 3:50:31 PM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>11/22/2026 4:05:31 PM</Outageat>
   </Message>
 </Incidents>
