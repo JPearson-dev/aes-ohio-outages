@@ -1,8 +1,8 @@
 [
   {
     "id": 1823171,
-    "lat": 40.55529967,
-    "lng": -84.7174834993756,
+    "lat": 40.55539757,
+    "lng": -84.7173521418578,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1823172,
-    "lat": 39.56158027,
-    "lng": -83.4382991711159,
+    "lat": 39.56167817,
+    "lng": -83.4381698619506,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-11-22T13:52:00",
     "estimate_time": "2026-11-22T17:00:00"
+  },
+  {
+    "id": 1823174,
+    "lat": 39.8260002140923,
+    "lng": -84.0075646232039,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-22T14:32:00",
+    "estimate_time": "2026-11-22T16:00:00"
   }
 ]
