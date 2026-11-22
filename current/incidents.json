@@ -1,32 +1,32 @@
 [
   {
-    "id": 1823154,
-    "lat": 39.81138407,
-    "lng": -84.0213978768093,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-11-22T08:27:00",
-    "estimate_time": "2026-11-22T10:00:00"
-  },
-  {
-    "id": 1823156,
-    "lat": 40.03667967,
-    "lng": -84.185482423448,
-    "customers_affected": 1,
-    "county": "MIAMI",
-    "indicator": "D",
-    "outage_time": "2026-11-22T08:57:00",
-    "estimate_time": "2026-11-22T12:00:00"
-  },
-  {
     "id": 1823157,
-    "lat": 39.56263317,
-    "lng": -84.1505236544822,
+    "lat": 39.56026577,
+    "lng": -84.1536505481658,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
     "outage_time": "2026-11-22T09:07:00",
     "estimate_time": "2026-11-22T12:00:00"
+  },
+  {
+    "id": 1823160,
+    "lat": 39.60960231,
+    "lng": -84.1972890792102,
+    "customers_affected": 2,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-22T09:57:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823162,
+    "lat": 40.12309722,
+    "lng": -83.743397555994,
+    "customers_affected": 17,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-11-22T09:59:00",
+    "estimate_time": null
   }
 ]
