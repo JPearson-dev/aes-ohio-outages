@@ -1,35 +1,13 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.12671952</LAT>
-    <LNG>-83.7385707317938</LNG>
-    <TOTALCUSTS>17</TOTALCUSTS>
-    <INCIDENTID>1823162</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>CHAMPAIGN</COUNTY>
-    <total>19</total>
-    <OutageTime>11/22/2026 09:59 AM</OutageTime>
-    <EstimateTime>11/22/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.66270433</LAT>
-    <LNG>-83.9054012949936</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823164</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>GREENE</COUNTY>
-    <total>19</total>
-    <OutageTime>11/22/2026 10:36 AM</OutageTime>
-    <EstimateTime>11/22/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.73802121</LAT>
-    <LNG>-84.1158829599647</LNG>
+    <LAT>39.73613441</LAT>
+    <LNG>-84.1183818414164</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823165</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>19</total>
+    <total>1</total>
     <OutageTime>11/22/2026 10:45 AM</OutageTime>
     <EstimateTime>11/22/2026 01:00 PM</EstimateTime>
   </Markers>
@@ -47,7 +25,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>17</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -71,7 +49,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -132,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>19</TotalOut>
-    <Outageat>11/22/2026 11:05:31 AM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>11/22/2026 11:20:31 AM</Outageat>
   </Message>
 </Incidents>
