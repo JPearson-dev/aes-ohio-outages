@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.706681</LAT>
-    <LNG>-83.5147903037636</LNG>
+    <LAT>39.7087636</LAT>
+    <LNG>-83.512033323819</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823150</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/22/2026 08:14 AM</OutageTime>
     <EstimateTime>11/22/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80960407</LAT>
-    <LNG>-84.0237580669698</LNG>
+    <LAT>39.81168667</LAT>
+    <LNG>-84.020996644482</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823154</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/22/2026 08:27 AM</OutageTime>
     <EstimateTime>11/22/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.03489967</LAT>
-    <LNG>-84.1878509965478</LNG>
+    <LAT>40.03698227</LAT>
+    <LNG>-84.1850797660211</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823156</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/22/2026 08:57 AM</OutageTime>
     <EstimateTime>11/22/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55587964</LAT>
-    <LNG>-84.1238307183791</LNG>
+    <LAT>39.56293577</LAT>
+    <LNG>-84.1501239763421</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823157</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>WARREN</COUNTY>
+    <total>6</total>
+    <OutageTime>11/22/2026 09:07 AM</OutageTime>
+    <EstimateTime>11/22/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.55796224</LAT>
+    <LNG>-84.1210802048155</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1823153</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/22/2026 08:21 AM</OutageTime>
     <EstimateTime>11/22/2026 11:00 AM</EstimateTime>
   </Markers>
@@ -138,12 +149,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>2</TotOut>
+    <TotOut>3</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>11/22/2026 9:05:31 AM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>11/22/2026 9:20:31 AM</Outageat>
   </Message>
 </Incidents>
