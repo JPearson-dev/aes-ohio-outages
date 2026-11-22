@@ -1,8 +1,8 @@
 [
   {
     "id": 1823150,
-    "lat": 39.7073663,
-    "lng": -83.5138830924143,
+    "lat": 39.7079448,
+    "lng": -83.5131172646519,
     "customers_affected": 1,
     "county": "FAYETTE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1823151,
-    "lat": 40.06148207,
-    "lng": -84.4001458125111,
+    "lat": 40.06206057,
+    "lng": -84.3993757110317,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1823153,
-    "lat": 39.55656494,
-    "lng": -84.122925634856,
+    "lat": 39.55714344,
+    "lng": -84.1221616033106,
     "customers_affected": 1,
     "county": "WARREN",
     "indicator": "D",
     "outage_time": "2026-11-22T08:21:00",
-    "estimate_time": "2026-11-22T12:00:00"
+    "estimate_time": "2026-11-22T11:00:00"
+  },
+  {
+    "id": 1823154,
+    "lat": 39.81086787,
+    "lng": -84.0220823319559,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-22T08:27:00",
+    "estimate_time": "2026-11-22T10:00:00"
   }
 ]

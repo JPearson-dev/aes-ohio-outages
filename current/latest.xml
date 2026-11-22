@@ -1,37 +1,48 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.7073663</LAT>
-    <LNG>-83.5138830924143</LNG>
+    <LAT>39.7079448</LAT>
+    <LNG>-83.5131172646519</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823150</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>3</total>
+    <total>4</total>
     <OutageTime>11/22/2026 08:14 AM</OutageTime>
     <EstimateTime>11/22/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.06148207</LAT>
-    <LNG>-84.4001458125111</LNG>
+    <LAT>39.81086787</LAT>
+    <LNG>-84.0220823319559</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823154</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>4</total>
+    <OutageTime>11/22/2026 08:27 AM</OutageTime>
+    <EstimateTime>11/22/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.06206057</LAT>
+    <LNG>-84.3993757110317</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823151</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>3</total>
+    <total>4</total>
     <OutageTime>11/22/2026 08:08 AM</OutageTime>
     <EstimateTime>11/22/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.55656494</LAT>
-    <LNG>-84.122925634856</LNG>
+    <LAT>39.55714344</LAT>
+    <LNG>-84.1221616033106</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823153</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>3</total>
+    <total>4</total>
     <OutageTime>11/22/2026 08:21 AM</OutageTime>
-    <EstimateTime>11/22/2026 12:00 PM</EstimateTime>
+    <EstimateTime>11/22/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -71,7 +82,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>11/22/2026 8:35:31 AM</Outageat>
+    <TotalOut>4</TotalOut>
+    <Outageat>11/22/2026 8:50:31 AM</Outageat>
   </Message>
 </Incidents>
