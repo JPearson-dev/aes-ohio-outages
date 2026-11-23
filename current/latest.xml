@@ -1,34 +1,45 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.7864097902669</LAT>
-    <LNG>-84.112319799188</LNG>
+    <LAT>40.006928</LAT>
+    <LNG>-84.129449782421</LNG>
+    <TOTALCUSTS>76</TOTALCUSTS>
+    <INCIDENTID>1823208</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>79</total>
+    <OutageTime>11/23/2026 07:05 AM</OutageTime>
+    <EstimateTime>11/23/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.7876023902669</LAT>
+    <LNG>-84.1107390484817</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823199</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
+    <total>79</total>
     <OutageTime>11/23/2026 06:42 AM</OutageTime>
     <EstimateTime>11/23/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.47747258</LAT>
-    <LNG>-84.1890040866342</LNG>
+    <LAT>40.47866518</LAT>
+    <LNG>-84.1874059177354</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823196</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>3</total>
+    <total>79</total>
     <OutageTime>11/23/2026 05:58 AM</OutageTime>
     <EstimateTime>11/23/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.3248393</LAT>
-    <LNG>-84.1383764462701</LNG>
+    <LAT>40.3260319</LAT>
+    <LNG>-84.1367821787002</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823195</INCIDENTID>
     <IND>D</IND>
-    <total>3</total>
+    <total>79</total>
     <OutageTime>11/23/2026 05:34 AM</OutageTime>
     <EstimateTime>11/23/2026 09:00 AM</EstimateTime>
   </Markers>
@@ -94,7 +105,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>76</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -131,7 +142,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>11/23/2026 7:05:31 AM</Outageat>
+    <TotalOut>78</TotalOut>
+    <Outageat>11/23/2026 7:20:31 AM</Outageat>
   </Message>
 </Incidents>
