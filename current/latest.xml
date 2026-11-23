@@ -1,5 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
+  <Markers>
+    <LAT>40.326913</LAT>
+    <LNG>-84.1374853243016</LNG>
+    <TOTALCUSTS>2</TOTALCUSTS>
+    <INCIDENTID>1823192</INCIDENTID>
+    <IND>D</IND>
+    <total>2</total>
+    <OutageTime>11/23/2026 05:34 AM</OutageTime>
+    <EstimateTime>11/23/2026 09:00 AM</EstimateTime>
+  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -100,6 +110,6 @@
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
     <TotalOut>0</TotalOut>
-    <Outageat>11/23/2026 5:35:31 AM</Outageat>
+    <Outageat>11/23/2026 5:50:31 AM</Outageat>
   </Message>
 </Incidents>
