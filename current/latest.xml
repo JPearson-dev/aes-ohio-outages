@@ -1,24 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.0061982</LAT>
-    <LNG>-84.1304204488364</LNG>
-    <TOTALCUSTS>76</TOTALCUSTS>
-    <INCIDENTID>1823208</INCIDENTID>
+    <LAT>39.69680192</LAT>
+    <LNG>-83.9076120302734</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823221</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>77</total>
-    <OutageTime>11/23/2026 06:55 AM</OutageTime>
-    <EstimateTime>11/23/2026 10:00 AM</EstimateTime>
+    <COUNTY>GREENE</COUNTY>
+    <total>2</total>
+    <OutageTime>11/23/2026 08:37 AM</OutageTime>
+    <EstimateTime>11/23/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.47793538</LAT>
-    <LNG>-84.1883839016884</LNG>
+    <LAT>40.47938608</LAT>
+    <LNG>-84.186439860416</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823196</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>77</total>
+    <total>2</total>
     <OutageTime>11/23/2026 05:58 AM</OutageTime>
     <EstimateTime>11/23/2026 11:00 AM</EstimateTime>
   </Markers>
@@ -60,7 +60,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -84,7 +84,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>76</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -121,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>77</TotalOut>
-    <Outageat>11/23/2026 8:35:31 AM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>11/23/2026 8:50:31 AM</Outageat>
   </Message>
 </Incidents>
