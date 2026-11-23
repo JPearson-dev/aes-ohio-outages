@@ -1,8 +1,8 @@
 [
   {
     "id": 1823196,
-    "lat": 40.47938608,
-    "lng": -84.186439860416,
+    "lat": 40.47875418,
+    "lng": -84.1872866513997,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -11,12 +11,32 @@
   },
   {
     "id": 1823221,
-    "lat": 39.69680192,
-    "lng": -83.9076120302734,
+    "lat": 39.69617002,
+    "lng": -83.9084483946838,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-23T08:37:00",
+    "estimate_time": "2026-11-23T11:00:00"
+  },
+  {
+    "id": 1823224,
+    "lat": 40.1425729,
+    "lng": -84.3588391098976,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-23T08:47:00",
+    "estimate_time": "2026-11-23T12:00:00"
+  },
+  {
+    "id": 1823225,
+    "lat": 39.55565944,
+    "lng": -83.4122363545726,
+    "customers_affected": 1,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-11-23T08:51:00",
     "estimate_time": "2026-11-23T11:00:00"
   }
 ]
