@@ -1,5 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
+  <Markers>
+    <LAT>40.25891259</LAT>
+    <LNG>-84.1729438579262</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823184</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>1</total>
+    <OutageTime>11/22/2026 07:44 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -82,7 +93,7 @@
   </Counties>
   <Counties>
     <County>SHELBY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>UNION</County>
@@ -99,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>0</TotalOut>
-    <Outageat>11/22/2026 7:35:31 PM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>11/22/2026 7:50:32 PM</Outageat>
   </Message>
 </Incidents>
