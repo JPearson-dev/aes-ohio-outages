@@ -1,48 +1,37 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.99714377</LAT>
-    <LNG>-84.0821913606154</LNG>
-    <TOTALCUSTS>18</TOTALCUSTS>
-    <INCIDENTID>1823197</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MIAMI</COUNTY>
-    <total>96</total>
-    <OutageTime>11/23/2026 06:37 AM</OutageTime>
-    <EstimateTime>11/23/2026 09:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.0076133</LAT>
-    <LNG>-84.1285383029822</LNG>
+    <LAT>40.0083342</LAT>
+    <LNG>-84.1275794739621</LNG>
     <TOTALCUSTS>76</TOTALCUSTS>
     <INCIDENTID>1823208</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>96</total>
+    <total>78</total>
     <OutageTime>11/23/2026 07:05 AM</OutageTime>
     <EstimateTime>11/23/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.7882876902669</LAT>
-    <LNG>-84.1098307066579</LNG>
+    <LAT>39.7890085902669</LAT>
+    <LNG>-84.1088751782458</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823199</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>96</total>
+    <total>78</total>
     <OutageTime>11/23/2026 06:42 AM</OutageTime>
     <EstimateTime>11/23/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.47935048</LAT>
-    <LNG>-84.1864875669502</LNG>
+    <LAT>40.48007138</LAT>
+    <LNG>-84.1855215096308</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823196</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>96</total>
+    <total>78</total>
     <OutageTime>11/23/2026 05:58 AM</OutageTime>
-    <EstimateTime>11/23/2026 09:00 AM</EstimateTime>
+    <EstimateTime>11/23/2026 11:00 AM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -106,7 +95,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>94</TotOut>
+    <TotOut>76</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -143,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>96</TotalOut>
-    <Outageat>11/23/2026 8:05:31 AM</Outageat>
+    <TotalOut>78</TotalOut>
+    <Outageat>11/23/2026 8:20:31 AM</Outageat>
   </Message>
 </Incidents>
