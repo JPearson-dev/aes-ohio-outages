@@ -1,35 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.50404818</LAT>
-    <LNG>-83.6211947997637</LNG>
+    <LAT>39.50518738</LAT>
+    <LNG>-83.6196914984562</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823248</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>3</total>
+    <total>22</total>
     <OutageTime>11/23/2026 10:15 AM</OutageTime>
     <EstimateTime>11/23/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.37125841</LAT>
-    <LNG>-83.3727585865718</LNG>
+    <LAT>39.5387108464072</LAT>
+    <LNG>-83.4395481890854</LNG>
+    <TOTALCUSTS>16</TOTALCUSTS>
+    <INCIDENTID>1823266</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>22</total>
+    <OutageTime>11/23/2026 11:12 AM</OutageTime>
+    <EstimateTime>11/23/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.37239761</LAT>
+    <LNG>-83.3712583684993</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823234</INCIDENTID>
     <IND>D</IND>
     <COUNTY>HIGHLAND</COUNTY>
-    <total>3</total>
+    <total>22</total>
     <OutageTime>11/23/2026 09:14 AM</OutageTime>
     <EstimateTime>11/23/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.74162732</LAT>
-    <LNG>-84.2748938349572</LNG>
+    <LAT>39.8295398</LAT>
+    <LNG>-84.2144692191728</LNG>
+    <TOTALCUSTS>3</TOTALCUSTS>
+    <INCIDENTID>1823263</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>22</total>
+    <OutageTime>11/23/2026 11:19 AM</OutageTime>
+    <EstimateTime>11/23/2026 02:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.74276652</LAT>
+    <LNG>-84.273384964005</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823252</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>3</total>
+    <total>22</total>
     <OutageTime>11/23/2026 10:31 AM</OutageTime>
     <EstimateTime>11/23/2026 01:00 PM</EstimateTime>
   </Markers>
@@ -67,7 +89,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>16</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -99,7 +121,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>4</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>3</TotalOut>
-    <Outageat>11/23/2026 11:20:31 AM</Outageat>
+    <TotalOut>22</TotalOut>
+    <Outageat>11/23/2026 11:35:31 AM</Outageat>
   </Message>
 </Incidents>
