@@ -1,18 +1,8 @@
 [
   {
-    "id": 1823196,
-    "lat": 40.47875418,
-    "lng": -84.1872866513997,
-    "customers_affected": 1,
-    "county": "SHELBY",
-    "indicator": "D",
-    "outage_time": "2026-11-23T05:58:00",
-    "estimate_time": "2026-11-23T11:00:00"
-  },
-  {
     "id": 1823221,
-    "lat": 39.69617002,
-    "lng": -83.9084483946838,
+    "lat": 39.69651712,
+    "lng": -83.9079889832471,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1823224,
-    "lat": 40.1425729,
-    "lng": -84.3588391098976,
+    "lat": 40.14292,
+    "lng": -84.3583764601582,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -30,13 +20,33 @@
     "estimate_time": "2026-11-23T12:00:00"
   },
   {
-    "id": 1823225,
-    "lat": 39.55565944,
-    "lng": -83.4122363545726,
+    "id": 1823230,
+    "lat": 39.64196666,
+    "lng": -84.1436687627272,
     "customers_affected": 1,
-    "county": "FAYETTE",
+    "county": "MONTGOMERY",
     "indicator": "D",
-    "outage_time": "2026-11-23T08:51:00",
-    "estimate_time": "2026-11-23T11:00:00"
+    "outage_time": "2026-11-23T09:06:00",
+    "estimate_time": "2026-11-23T12:00:00"
+  },
+  {
+    "id": 1823231,
+    "lat": 39.76005782,
+    "lng": -84.3779309683039,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-23T09:11:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823234,
+    "lat": 39.37109821,
+    "lng": -83.3729695547382,
+    "customers_affected": 1,
+    "county": "HIGHLAND",
+    "indicator": "D",
+    "outage_time": "2026-11-23T09:14:00",
+    "estimate_time": null
   }
 ]
