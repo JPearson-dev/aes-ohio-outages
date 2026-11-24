@@ -1,8 +1,8 @@
 [
   {
     "id": 1823361,
-    "lat": 39.53116661,
-    "lng": -83.8332904973846,
+    "lat": 39.53078391,
+    "lng": -83.8337957389558,
     "customers_affected": 8,
     "county": "CLINTON",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1823376,
-    "lat": 40.40235366,
-    "lng": -84.5583044898868,
+    "lat": 40.40197096,
+    "lng": -84.5588167176008,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1823436,
-    "lat": 39.66644679,
-    "lng": -83.6956663319151,
+    "lat": 39.66606409,
+    "lng": -83.6961726376479,
     "customers_affected": 5,
     "county": "GREENE",
     "indicator": "D",
@@ -30,19 +30,9 @@
     "estimate_time": "2026-11-24T13:00:00"
   },
   {
-    "id": 1823438,
-    "lat": 39.8351069,
-    "lng": -84.2173456930236,
-    "customers_affected": 4,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-24T10:21:00",
-    "estimate_time": "2026-11-24T13:00:00"
-  },
-  {
     "id": 1823458,
-    "lat": 39.76960741,
-    "lng": -84.1542291227884,
+    "lat": 39.76922471,
+    "lng": -84.1547362450608,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -50,33 +40,23 @@
     "estimate_time": "2026-11-24T13:00:00"
   },
   {
-    "id": 1823479,
-    "lat": 39.65584338,
-    "lng": -84.0569827400942,
-    "customers_affected": 2,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-11-24T10:47:00",
-    "estimate_time": "2026-11-24T13:00:00"
-  },
-  {
-    "id": 1823482,
-    "lat": 40.76009157,
-    "lng": -84.777072967424,
-    "customers_affected": 1,
-    "county": "VAN WERT",
-    "indicator": "D",
-    "outage_time": "2026-11-24T10:55:00",
-    "estimate_time": "2026-11-24T13:00:00"
-  },
-  {
     "id": 1823490,
-    "lat": 39.80407426,
-    "lng": -83.9010050215412,
+    "lat": 39.80369156,
+    "lng": -83.901512417604,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-24T11:10:00",
     "estimate_time": "2026-11-24T13:00:00"
+  },
+  {
+    "id": 1823495,
+    "lat": 40.0647006,
+    "lng": -84.0080179007167,
+    "customers_affected": 1,
+    "county": "CHAMPAIGN",
+    "indicator": "D",
+    "outage_time": "2026-11-24T11:36:00",
+    "estimate_time": "2026-11-24T14:00:00"
   }
 ]
