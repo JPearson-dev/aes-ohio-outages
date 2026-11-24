@@ -1,8 +1,8 @@
 [
   {
     "id": 1823560,
-    "lat": 39.79141402,
-    "lng": -84.2502840513199,
+    "lat": 39.78888642,
+    "lng": -84.2536344206209,
     "customers_affected": 6,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1823573,
-    "lat": 40.2114758,
-    "lng": -84.2350304876464,
+    "lat": 40.2089482,
+    "lng": -84.2384031402996,
     "customers_affected": 4,
     "county": "SHELBY",
     "indicator": "D",
     "outage_time": "2026-11-24T17:03:00",
+    "estimate_time": "2026-11-24T20:00:00"
+  },
+  {
+    "id": 1823575,
+    "lat": 40.19437444,
+    "lng": -84.2534314152497,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-24T17:21:00",
     "estimate_time": "2026-11-24T20:00:00"
   }
 ]
