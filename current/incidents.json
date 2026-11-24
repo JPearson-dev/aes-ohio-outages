@@ -1,8 +1,8 @@
 [
   {
     "id": 1823361,
-    "lat": 39.53350731,
-    "lng": -83.8302002989376,
+    "lat": 39.53424601,
+    "lng": -83.8292250652071,
     "customers_affected": 8,
     "county": "CLINTON",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1823367,
-    "lat": 39.61522363,
-    "lng": -84.1542701173712,
+    "lat": 39.61596233,
+    "lng": -84.1532936445956,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,12 +21,22 @@
   },
   {
     "id": 1823375,
-    "lat": 40.10806234,
-    "lng": -84.6144183888114,
-    "customers_affected": 33,
+    "lat": 40.10880104,
+    "lng": -84.6134343305763,
+    "customers_affected": 14,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-24T09:09:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-24T12:00:00"
+  },
+  {
+    "id": 1823376,
+    "lat": 40.40543306,
+    "lng": -84.5541828436296,
+    "customers_affected": 1,
+    "county": "MERCER",
+    "indicator": "D",
+    "outage_time": "2026-11-24T09:19:00",
+    "estimate_time": "2026-11-24T12:00:00"
   }
 ]
