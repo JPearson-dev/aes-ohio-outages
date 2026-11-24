@@ -3,7 +3,7 @@
     "id": 1823361,
     "lat": 39.53022321,
     "lng": -83.8345359766067,
-    "customers_affected": 6,
+    "customers_affected": 8,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-11-24T07:41:00",
@@ -18,5 +18,15 @@
     "indicator": "D",
     "outage_time": "2026-11-24T07:51:00",
     "estimate_time": "2026-11-24T11:00:00"
+  },
+  {
+    "id": 1823367,
+    "lat": 39.61193953,
+    "lng": -84.1586113035666,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-24T08:20:00",
+    "estimate_time": null
   }
 ]
