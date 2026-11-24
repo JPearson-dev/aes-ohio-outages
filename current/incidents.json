@@ -1,32 +1,32 @@
 [
   {
     "id": 1823361,
-    "lat": 39.53167391,
-    "lng": -83.8326207585577,
+    "lat": 39.53350731,
+    "lng": -83.8302002989376,
     "customers_affected": 8,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-11-24T07:41:00",
-    "estimate_time": "2026-11-24T10:00:00"
-  },
-  {
-    "id": 1823362,
-    "lat": 40.2835929,
-    "lng": -83.7483481360162,
-    "customers_affected": 1,
-    "county": "LOGAN",
-    "indicator": "D",
-    "outage_time": "2026-11-24T07:51:00",
     "estimate_time": "2026-11-24T11:00:00"
   },
   {
     "id": 1823367,
-    "lat": 39.61339023,
-    "lng": -84.156693652212,
+    "lat": 39.61522363,
+    "lng": -84.1542701173712,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-24T08:20:00",
     "estimate_time": "2026-11-24T11:00:00"
+  },
+  {
+    "id": 1823375,
+    "lat": 40.10806234,
+    "lng": -84.6144183888114,
+    "customers_affected": 33,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-24T09:09:00",
+    "estimate_time": null
   }
 ]
