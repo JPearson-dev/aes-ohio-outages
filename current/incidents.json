@@ -1,12 +1,22 @@
 [
   {
     "id": 1823361,
-    "lat": 39.53105981,
-    "lng": -83.8334314950324,
+    "lat": 39.53153151,
+    "lng": -83.8328087554214,
     "customers_affected": 6,
     "county": "CLINTON",
     "indicator": "D",
     "outage_time": "2026-11-24T07:41:00",
+    "estimate_time": "2026-11-24T10:00:00"
+  },
+  {
+    "id": 1823362,
+    "lat": 40.2834505,
+    "lng": -83.7485383694842,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-24T07:51:00",
     "estimate_time": null
   }
 ]
