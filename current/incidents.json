@@ -1,8 +1,8 @@
 [
   {
     "id": 1823273,
-    "lat": 39.84134909,
-    "lng": -84.2535544538969,
+    "lat": 39.83834979,
+    "lng": -84.2575331740353,
     "customers_affected": 9,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-23T18:00:00"
   },
   {
-    "id": 1823286,
-    "lat": 39.64604684,
-    "lng": -84.0772454862145,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-11-23T13:09:00",
-    "estimate_time": "2026-11-23T22:00:00"
-  },
-  {
     "id": 1823317,
-    "lat": 39.63152707,
-    "lng": -83.8283724506609,
+    "lat": 39.62852777,
+    "lng": -83.8323381442174,
     "customers_affected": 19,
     "county": "GREENE",
     "indicator": "D",
@@ -30,19 +20,9 @@
     "estimate_time": "2026-11-23T18:00:00"
   },
   {
-    "id": 1823334,
-    "lat": 39.36728827,
-    "lng": -83.5276018460644,
-    "customers_affected": 33,
-    "county": "HIGHLAND",
-    "indicator": "D",
-    "outage_time": "2026-11-23T16:48:00",
-    "estimate_time": "2026-11-23T19:00:00"
-  },
-  {
     "id": 1823338,
-    "lat": 39.86756693,
-    "lng": -84.7799298733967,
+    "lat": 39.86456763,
+    "lng": -84.7839102312556,
     "customers_affected": 1,
     "county": "PREBLE",
     "indicator": "D",
@@ -51,8 +31,8 @@
   },
   {
     "id": 1823340,
-    "lat": 39.8159761,
-    "lng": -84.2056300027416,
+    "lat": 39.8129768,
+    "lng": -84.2096071400595,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -61,12 +41,22 @@
   },
   {
     "id": 1823342,
-    "lat": 39.8475606,
-    "lng": -84.2751027275188,
+    "lat": 39.8445613,
+    "lng": -84.2790818354626,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-23T18:18:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823346,
+    "lat": 39.76500766,
+    "lng": -84.2518984660367,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-23T18:56:00",
     "estimate_time": null
   }
 ]
