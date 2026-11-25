@@ -1,18 +1,8 @@
 [
   {
-    "id": 1823589,
-    "lat": 39.44421522,
-    "lng": -83.6142964024614,
-    "customers_affected": 70,
-    "county": "CLINTON",
-    "indicator": "D",
-    "outage_time": "2026-11-25T03:22:00",
-    "estimate_time": "2026-11-25T10:00:00"
-  },
-  {
     "id": 1823597,
-    "lat": 39.81860871,
-    "lng": -84.1684734005662,
+    "lat": 39.81893801,
+    "lng": -84.1680367199579,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +11,8 @@
   },
   {
     "id": 1823601,
-    "lat": 40.3485608,
-    "lng": -84.0648479854875,
+    "lat": 40.3488901,
+    "lng": -84.0644076264582,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1823604,
-    "lat": 39.4670307,
-    "lng": -83.5960014863372,
+    "lat": 39.46736,
+    "lng": -83.5955671906619,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1823609,
-    "lat": 40.03158845,
-    "lng": -84.6775270025409,
+    "lat": 40.03191775,
+    "lng": -84.6770888558307,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -51,12 +41,62 @@
   },
   {
     "id": 1823611,
-    "lat": 40.11670917,
-    "lng": -84.6082034692392,
+    "lat": 40.11703847,
+    "lng": -84.6077647320138,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-25T08:34:00",
     "estimate_time": "2026-11-25T11:00:00"
+  },
+  {
+    "id": 1823617,
+    "lat": 39.82210666,
+    "lng": -84.2094248491286,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-25T08:50:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823618,
+    "lat": 39.64088911,
+    "lng": -84.1746608463606,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-25T08:52:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823620,
+    "lat": 39.78970826,
+    "lng": -84.5948232954606,
+    "customers_affected": 1,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-11-25T08:54:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823623,
+    "lat": 40.30480295,
+    "lng": -84.160610242521,
+    "customers_affected": 2,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-25T08:58:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823624,
+    "lat": 39.88669352,
+    "lng": -84.0215567585697,
+    "customers_affected": 1,
+    "county": "CLARK",
+    "indicator": "D",
+    "outage_time": "2026-11-25T09:00:00",
+    "estimate_time": null
   }
 ]
