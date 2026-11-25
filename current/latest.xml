@@ -1,70 +1,81 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.11365647</LAT>
-    <LNG>-84.6122706818958</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823611</INCIDENTID>
+    <LAT>39.46829041</LAT>
+    <LNG>-83.8105478559065</LNG>
+    <TOTALCUSTS>60</TOTALCUSTS>
+    <INCIDENTID>1823635</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>DARKE</COUNTY>
-    <total>12</total>
-    <OutageTime>11/25/2026 08:34 AM</OutageTime>
+    <COUNTY>CLINTON</COUNTY>
+    <total>72</total>
+    <OutageTime>11/25/2026 09:32 AM</OutageTime>
     <EstimateTime>11/25/2026 11:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.03091609</LAT>
-    <LNG>-84.2064132267108</LNG>
+    <LAT>39.52993022</LAT>
+    <LNG>-83.4263679705439</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823643</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>FAYETTE</COUNTY>
+    <total>72</total>
+    <OutageTime>11/25/2026 09:44 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.03210869</LAT>
+    <LNG>-84.2048263654355</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823631</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>12</total>
+    <total>72</total>
     <OutageTime>11/25/2026 09:25 AM</OutageTime>
     <EstimateTime>11/25/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81555601</LAT>
-    <LNG>-84.1725215478265</LNG>
+    <LAT>39.81674861</LAT>
+    <LNG>-84.1709400558939</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1823597</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>12</total>
+    <total>72</total>
     <OutageTime>11/25/2026 06:36 AM</OutageTime>
     <EstimateTime>11/25/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.78632626</LAT>
-    <LNG>-84.5993060698356</LNG>
+    <LAT>39.78751886</LAT>
+    <LNG>-84.5977253020297</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823620</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>12</total>
+    <total>72</total>
     <OutageTime>11/25/2026 08:54 AM</OutageTime>
     <EstimateTime>11/25/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.3455081</LAT>
-    <LNG>-84.0689302327052</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823601</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>SHELBY</COUNTY>
-    <total>12</total>
-    <OutageTime>11/25/2026 06:56 AM</OutageTime>
-    <EstimateTime>11/25/2026 10:00 AM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>40.30142095</LAT>
-    <LNG>-84.1651296659796</LNG>
+    <LAT>40.30261355</LAT>
+    <LNG>-84.1635359745494</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1823623</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>12</total>
+    <total>72</total>
     <OutageTime>11/25/2026 08:58 AM</OutageTime>
     <EstimateTime>11/25/2026 12:00 PM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.3056512</LAT>
+    <LNG>-84.1533725392915</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823642</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>SHELBY</COUNTY>
+    <total>72</total>
+    <OutageTime>11/25/2026 09:40 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -88,11 +99,11 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>0</TotOut>
+    <TotOut>60</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>DELAWARE</County>
@@ -100,7 +111,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -165,7 +176,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>12</TotalOut>
-    <Outageat>11/25/2026 9:35:31 AM</Outageat>
+    <TotalOut>72</TotalOut>
+    <Outageat>11/25/2026 9:50:31 AM</Outageat>
   </Message>
 </Incidents>
