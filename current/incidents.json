@@ -1,8 +1,8 @@
 [
   {
     "id": 1823575,
-    "lat": 40.19449904,
-    "lng": -84.2532651962395,
+    "lat": 40.19683084,
+    "lng": -84.250154526191,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -11,12 +11,22 @@
   },
   {
     "id": 1823579,
-    "lat": 39.58886137,
-    "lng": -83.79662957141,
+    "lat": 39.59119317,
+    "lng": -83.7935483758257,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-24T19:04:00",
     "estimate_time": "2026-11-24T21:00:00"
+  },
+  {
+    "id": 1823580,
+    "lat": 39.53212852,
+    "lng": -83.423465842662,
+    "customers_affected": 2,
+    "county": "FAYETTE",
+    "indicator": "D",
+    "outage_time": "2026-11-24T20:28:00",
+    "estimate_time": null
   }
 ]
