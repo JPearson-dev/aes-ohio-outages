@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.67046841</LAT>
-    <LNG>-84.0462653242703</LNG>
+    <LAT>39.66697961</LAT>
+    <LNG>-84.0508810503802</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823681</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/25/2026 12:16 PM</OutageTime>
     <EstimateTime>11/25/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.37262928</LAT>
-    <LNG>-83.721191653771</LNG>
+    <LAT>39.76608091</LAT>
+    <LNG>-84.0207478964768</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823692</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>GREENE</COUNTY>
+    <total>6</total>
+    <OutageTime>11/25/2026 02:14 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>40.36914048</LAT>
+    <LNG>-83.7258588488935</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1823683</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/25/2026 12:32 PM</OutageTime>
     <EstimateTime>11/25/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.91129689</LAT>
-    <LNG>-84.1565767950843</LNG>
+    <LAT>39.90780809</LAT>
+    <LNG>-84.1612099624502</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823689</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/25/2026 01:12 PM</OutageTime>
     <EstimateTime>11/25/2026 03:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.72675994</LAT>
-    <LNG>-84.7029568935683</LNG>
+    <LAT>39.72327114</LAT>
+    <LNG>-84.7075766768788</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823687</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>5</total>
+    <total>6</total>
     <OutageTime>11/25/2026 01:01 PM</OutageTime>
     <EstimateTime>11/25/2026 03:00 PM</EstimateTime>
   </Markers>
@@ -82,7 +93,7 @@
   </Counties>
   <Counties>
     <County>GREENE</County>
-    <TotOut>1</TotOut>
+    <TotOut>2</TotOut>
   </Counties>
   <Counties>
     <County>HARDIN</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>5</TotalOut>
-    <Outageat>11/25/2026 2:05:31 PM</Outageat>
+    <TotalOut>6</TotalOut>
+    <Outageat>11/25/2026 2:20:31 PM</Outageat>
   </Message>
 </Incidents>
