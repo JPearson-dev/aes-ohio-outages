@@ -1,57 +1,68 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.44431312</LAT>
-    <LNG>-83.6141673330975</LNG>
+    <LAT>39.44146512</LAT>
+    <LNG>-83.6179220782276</LNG>
     <TOTALCUSTS>70</TOTALCUSTS>
     <INCIDENTID>1823589</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>102</total>
+    <total>103</total>
     <OutageTime>11/25/2026 03:22 AM</OutageTime>
     <EstimateTime>11/25/2026 08:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.50678439</LAT>
-    <LNG>-83.6185396025792</LNG>
+    <LAT>39.4642806</LAT>
+    <LNG>-83.5996284421126</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823604</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>CLINTON</COUNTY>
+    <total>103</total>
+    <OutageTime>11/25/2026 07:30 AM</OutageTime>
+    <EstimateTime>11/25/2026 10:00 AM</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.50393639</LAT>
+    <LNG>-83.6222979810178</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823603</INCIDENTID>
     <IND>D</IND>
     <COUNTY>CLINTON</COUNTY>
-    <total>102</total>
+    <total>103</total>
     <OutageTime>11/25/2026 07:22 AM</OutageTime>
-    <EstimateTime>11/25/2026 11:00 AM</EstimateTime>
+    <EstimateTime>11/25/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81870661</LAT>
-    <LNG>-84.1683435766016</LNG>
+    <LAT>39.81585861</LAT>
+    <LNG>-84.172120273754</LNG>
     <TOTALCUSTS>5</TOTALCUSTS>
     <INCIDENTID>1823597</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>102</total>
+    <total>103</total>
     <OutageTime>11/25/2026 06:36 AM</OutageTime>
     <EstimateTime>11/25/2026 09:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.3486587</LAT>
-    <LNG>-84.0647170679383</LNG>
+    <LAT>40.3458107</LAT>
+    <LNG>-84.0685255784621</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823601</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>102</total>
+    <total>103</total>
     <OutageTime>11/25/2026 06:56 AM</OutageTime>
     <EstimateTime>11/25/2026 10:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.35076162</LAT>
-    <LNG>-84.0537019783399</LNG>
+    <LAT>40.34791362</LAT>
+    <LNG>-84.0575106168634</LNG>
     <TOTALCUSTS>25</TOTALCUSTS>
     <INCIDENTID>1823600</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>102</total>
+    <total>103</total>
     <OutageTime>11/25/2026 06:46 AM</OutageTime>
     <EstimateTime>11/25/2026 09:00 AM</EstimateTime>
   </Markers>
@@ -77,7 +88,7 @@
   </Counties>
   <Counties>
     <County>CLINTON</County>
-    <TotOut>71</TotOut>
+    <TotOut>72</TotOut>
   </Counties>
   <Counties>
     <County>DARKE</County>
@@ -154,7 +165,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>102</TotalOut>
-    <Outageat>11/25/2026 7:35:31 AM</Outageat>
+    <TotalOut>103</TotalOut>
+    <Outageat>11/25/2026 7:50:31 AM</Outageat>
   </Message>
 </Incidents>
