@@ -1,48 +1,59 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.68290678</LAT>
-    <LNG>-83.9556618928471</LNG>
+    <LAT>39.68250628</LAT>
+    <LNG>-83.9561918882835</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823695</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>6</total>
+    <total>7</total>
     <OutageTime>11/25/2026 02:37 PM</OutageTime>
     <EstimateTime>11/25/2026 05:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.36946978</LAT>
-    <LNG>-83.7254183228233</LNG>
+    <LAT>40.36906928</LAT>
+    <LNG>-83.7259540977736</LNG>
     <TOTALCUSTS>3</TOTALCUSTS>
     <INCIDENTID>1823683</INCIDENTID>
     <IND>D</IND>
     <COUNTY>LOGAN</COUNTY>
-    <total>6</total>
+    <total>7</total>
     <OutageTime>11/25/2026 12:32 PM</OutageTime>
     <EstimateTime>11/25/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.8877202</LAT>
-    <LNG>-84.1774101802233</LNG>
+    <LAT>40.14720639</LAT>
+    <LNG>-84.4002612788007</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823703</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MIAMI</COUNTY>
+    <total>7</total>
+    <OutageTime>11/25/2026 03:55 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.8873197</LAT>
+    <LNG>-84.177941878208</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823701</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>6</total>
+    <total>7</total>
     <OutageTime>11/25/2026 03:22 PM</OutageTime>
     <EstimateTime>11/25/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.30112894</LAT>
-    <LNG>-84.1484657848086</LNG>
+    <LAT>40.30072844</LAT>
+    <LNG>-84.1490009751464</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823702</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>6</total>
+    <total>7</total>
     <OutageTime>11/25/2026 03:42 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>11/25/2026 06:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -106,7 +117,7 @@
   </Counties>
   <Counties>
     <County>MIAMI</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>6</TotalOut>
-    <Outageat>11/25/2026 3:50:31 PM</Outageat>
+    <TotalOut>7</TotalOut>
+    <Outageat>11/25/2026 4:05:31 PM</Outageat>
   </Message>
 </Incidents>
