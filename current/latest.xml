@@ -1,35 +1,35 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.53212852</LAT>
-    <LNG>-83.423465842662</LNG>
-    <TOTALCUSTS>2</TOTALCUSTS>
+    <LAT>39.52951192</LAT>
+    <LNG>-83.4269201973068</LNG>
+    <TOTALCUSTS>11</TOTALCUSTS>
     <INCIDENTID>1823580</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>4</total>
+    <total>13</total>
     <OutageTime>11/24/2026 08:28 PM</OutageTime>
-    <EstimateTime>null</EstimateTime>
+    <EstimateTime>11/24/2026 11:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.59119317</LAT>
-    <LNG>-83.7935483758257</LNG>
+    <LAT>39.58857657</LAT>
+    <LNG>-83.7970059006417</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823579</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>4</total>
+    <total>13</total>
     <OutageTime>11/24/2026 07:04 PM</OutageTime>
     <EstimateTime>11/24/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.19683084</LAT>
-    <LNG>-84.250154526191</LNG>
+    <LAT>40.19421424</LAT>
+    <LNG>-84.2536451254057</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823575</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>4</total>
+    <total>13</total>
     <OutageTime>11/24/2026 05:21 PM</OutageTime>
     <EstimateTime>11/24/2026 10:00 PM</EstimateTime>
   </Markers>
@@ -67,7 +67,7 @@
   </Counties>
   <Counties>
     <County>FAYETTE</County>
-    <TotOut>2</TotOut>
+    <TotOut>11</TotOut>
   </Counties>
   <Counties>
     <County>GREENE</County>
@@ -132,7 +132,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>4</TotalOut>
-    <Outageat>11/24/2026 8:35:31 PM</Outageat>
+    <TotalOut>13</TotalOut>
+    <Outageat>11/24/2026 8:50:31 PM</Outageat>
   </Message>
 </Incidents>
