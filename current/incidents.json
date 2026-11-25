@@ -1,8 +1,8 @@
 [
   {
     "id": 1823660,
-    "lat": 39.75189535,
-    "lng": -84.371499604616,
+    "lat": 39.75078285,
+    "lng": -84.3729733742541,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1823662,
-    "lat": 39.84278219,
-    "lng": -84.3263880922935,
+    "lat": 39.84166969,
+    "lng": -84.327863961754,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1823673,
-    "lat": 40.48142287,
-    "lng": -83.8763629464485,
+    "lat": 40.48031037,
+    "lng": -83.8778538546637,
     "customers_affected": 1,
     "county": "LOGAN",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1823677,
-    "lat": 39.46489636,
-    "lng": -83.8013238576648,
+    "lat": 39.46378386,
+    "lng": -83.802791061302,
     "customers_affected": 1,
     "county": "CLINTON",
     "indicator": "D",
@@ -41,12 +41,32 @@
   },
   {
     "id": 1823681,
-    "lat": 39.66849261,
-    "lng": -84.0488793324243,
+    "lat": 39.66738011,
+    "lng": -84.0503511838624,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-25T12:16:00",
     "estimate_time": "2026-11-25T15:00:00"
+  },
+  {
+    "id": 1823683,
+    "lat": 40.36954098,
+    "lng": -83.7253230739432,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-25T12:40:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823686,
+    "lat": 40.00608195,
+    "lng": -84.1963038383992,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-25T12:43:00",
+    "estimate_time": null
   }
 ]
