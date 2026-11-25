@@ -1,35 +1,46 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.53204842</LAT>
-    <LNG>-83.4235715882124</LNG>
+    <LAT>39.53000142</LAT>
+    <LNG>-83.4262739744991</LNG>
     <TOTALCUSTS>11</TOTALCUSTS>
     <INCIDENTID>1823580</INCIDENTID>
     <IND>D</IND>
     <COUNTY>FAYETTE</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>11/24/2026 08:28 PM</OutageTime>
     <EstimateTime>11/25/2026 04:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.59111307</LAT>
-    <LNG>-83.7936542184221</LNG>
+    <LAT>39.58906607</LAT>
+    <LNG>-83.7963590847748</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823579</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>11/24/2026 07:04 PM</OutageTime>
     <EstimateTime>11/25/2026 05:00 AM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.568908</LAT>
-    <LNG>-84.1189007966809</LNG>
+    <LAT>39.76801501</LAT>
+    <LNG>-84.228120347766</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823586</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>14</total>
+    <OutageTime>11/25/2026 01:29 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.566861</LAT>
+    <LNG>-84.1216047297724</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823585</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>13</total>
+    <total>14</total>
     <OutageTime>11/25/2026 01:05 AM</OutageTime>
     <EstimateTime>11/25/2026 04:00 AM</EstimateTime>
   </Markers>
@@ -99,7 +110,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>13</TotalOut>
-    <Outageat>11/25/2026 1:20:31 AM</Outageat>
+    <TotalOut>14</TotalOut>
+    <Outageat>11/25/2026 1:35:31 AM</Outageat>
   </Message>
 </Incidents>
