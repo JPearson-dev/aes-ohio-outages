@@ -1,22 +1,32 @@
 [
   {
     "id": 1823579,
-    "lat": 39.59085497,
-    "lng": -83.7939952667883,
+    "lat": 39.59111307,
+    "lng": -83.7936542184221,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-24T19:04:00",
-    "estimate_time": "2026-11-25T01:00:00"
+    "estimate_time": "2026-11-25T05:00:00"
   },
   {
     "id": 1823580,
-    "lat": 39.53179032,
-    "lng": -83.4239123238746,
+    "lat": 39.53204842,
+    "lng": -83.4235715882124,
     "customers_affected": 11,
     "county": "FAYETTE",
     "indicator": "D",
     "outage_time": "2026-11-24T20:28:00",
+    "estimate_time": "2026-11-25T04:00:00"
+  },
+  {
+    "id": 1823585,
+    "lat": 39.568908,
+    "lng": -84.1189007966809,
+    "customers_affected": 1,
+    "county": "WARREN",
+    "indicator": "D",
+    "outage_time": "2026-11-25T01:05:00",
     "estimate_time": "2026-11-25T04:00:00"
   }
 ]
