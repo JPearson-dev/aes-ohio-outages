@@ -1,8 +1,8 @@
 [
   {
     "id": 1823589,
-    "lat": 39.44291582,
-    "lng": -83.616009504927,
+    "lat": 39.44127822,
+    "lng": -83.6181684833768,
     "customers_affected": 70,
     "county": "CLINTON",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1823596,
-    "lat": 40.37112215,
-    "lng": -84.1607858818216,
+    "lat": 40.36948455,
+    "lng": -84.1629766109463,
     "customers_affected": 1,
     "county": "SHELBY",
     "indicator": "D",
@@ -21,12 +21,32 @@
   },
   {
     "id": 1823597,
-    "lat": 39.81730931,
-    "lng": -84.170196518642,
+    "lat": 39.81567171,
+    "lng": -84.1723681195046,
     "customers_affected": 5,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-25T06:36:00",
     "estimate_time": "2026-11-25T09:00:00"
+  },
+  {
+    "id": 1823600,
+    "lat": 40.34772672,
+    "lng": -84.0577605587664,
+    "customers_affected": 25,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-25T06:46:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823601,
+    "lat": 40.3456238,
+    "lng": -84.0687755119652,
+    "customers_affected": 1,
+    "county": "SHELBY",
+    "indicator": "D",
+    "outage_time": "2026-11-25T06:56:00",
+    "estimate_time": null
   }
 ]
