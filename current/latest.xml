@@ -1,5 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
+  <Markers>
+    <LAT>39.36028956</LAT>
+    <LNG>-83.381335381039</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823731</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>HIGHLAND</COUNTY>
+    <total>1</total>
+    <OutageTime>11/26/2026 10:43 AM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
   <Counties>
     <County>AUGLAIZE</County>
     <TotOut>0</TotOut>
@@ -46,7 +57,7 @@
   </Counties>
   <Counties>
     <County>HIGHLAND</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>LOGAN</County>
@@ -99,7 +110,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>0</TotalOut>
-    <Outageat>11/26/2026 10:35:31 AM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>11/26/2026 10:50:31 AM</Outageat>
   </Message>
 </Incidents>
