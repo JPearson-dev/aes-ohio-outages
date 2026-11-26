@@ -1,12 +1,62 @@
 [
   {
+    "id": 299652,
+    "lat": 40.0865795876725,
+    "lng": -84.5996566769718,
+    "customers_affected": 3102,
+    "county": "DARKE",
+    "indicator": "T",
+    "outage_time": "2026-11-26T14:52:00",
+    "estimate_time": "2026-11-26T16:00:00"
+  },
+  {
     "id": 1823759,
-    "lat": 40.56890353,
-    "lng": -84.067716067375,
+    "lat": 40.56628693,
+    "lng": -84.0712274872034,
     "customers_affected": 345,
     "county": "AUGLAIZE",
     "indicator": "D",
     "outage_time": "2026-11-26T13:08:00",
     "estimate_time": "2026-11-26T15:00:00"
+  },
+  {
+    "id": 1823766,
+    "lat": 39.91169848,
+    "lng": -84.077580068641,
+    "customers_affected": 1,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-26T14:50:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823814,
+    "lat": 39.79605479,
+    "lng": -84.2497207847922,
+    "customers_affected": 1,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-26T14:56:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823815,
+    "lat": 40.18200692,
+    "lng": -84.5901203897854,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-26T14:56:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823816,
+    "lat": 40.10651699,
+    "lng": -84.6204452166517,
+    "customers_affected": 1,
+    "county": "DARKE",
+    "indicator": "D",
+    "outage_time": "2026-11-26T14:59:00",
+    "estimate_time": null
   }
 ]
