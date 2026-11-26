@@ -1,8 +1,8 @@
 [
   {
     "id": 299652,
-    "lat": 40.0865795876725,
-    "lng": -84.5996566769718,
+    "lat": 40.0881192876725,
+    "lng": -84.5976062017565,
     "customers_affected": 3102,
     "county": "DARKE",
     "indicator": "T",
@@ -11,52 +11,62 @@
   },
   {
     "id": 1823759,
-    "lat": 40.56628693,
-    "lng": -84.0712274872034,
+    "lat": 40.56782663,
+    "lng": -84.0691612435629,
     "customers_affected": 345,
     "county": "AUGLAIZE",
     "indicator": "D",
     "outage_time": "2026-11-26T13:08:00",
-    "estimate_time": "2026-11-26T15:00:00"
+    "estimate_time": "2026-11-26T17:00:00"
   },
   {
     "id": 1823766,
-    "lat": 39.91169848,
-    "lng": -84.077580068641,
+    "lat": 39.91323818,
+    "lng": -84.0755352444786,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-11-26T14:50:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-26T17:00:00"
   },
   {
     "id": 1823814,
-    "lat": 39.79605479,
-    "lng": -84.2497207847922,
+    "lat": 39.79759449,
+    "lng": -84.24767966934,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-26T14:56:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-26T17:00:00"
   },
   {
     "id": 1823815,
-    "lat": 40.18200692,
-    "lng": -84.5901203897854,
+    "lat": 40.18354662,
+    "lng": -84.5880668091715,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-26T14:56:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-26T17:00:00"
   },
   {
     "id": 1823816,
-    "lat": 40.10651699,
-    "lng": -84.6204452166517,
+    "lat": 40.10805669,
+    "lng": -84.6183940939093,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-26T14:59:00",
-    "estimate_time": null
+    "estimate_time": "2026-11-26T17:00:00"
+  },
+  {
+    "id": 1823822,
+    "lat": 40.1110555,
+    "lng": -84.609714787516,
+    "customers_affected": 1,
+    "county": null,
+    "indicator": "D",
+    "outage_time": "2026-11-26T15:04:00",
+    "estimate_time": "2026-11-26T17:00:00"
   }
 ]
