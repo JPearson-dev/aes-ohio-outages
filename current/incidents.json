@@ -1,22 +1,32 @@
 [
   {
-    "id": 1823735,
-    "lat": 39.77934875,
-    "lng": -84.1546496866147,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-26T11:42:00",
-    "estimate_time": "2026-11-26T14:00:00"
-  },
-  {
     "id": 1823738,
-    "lat": 39.80102605,
-    "lng": -84.197428474644,
+    "lat": 39.80176475,
+    "lng": -84.196449135848,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
     "outage_time": "2026-11-26T12:03:00",
     "estimate_time": "2026-11-26T14:00:00"
+  },
+  {
+    "id": 1823752,
+    "lat": 39.7123729,
+    "lng": -83.907288882976,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-26T13:14:00",
+    "estimate_time": null
+  },
+  {
+    "id": 1823759,
+    "lat": 40.56708793,
+    "lng": -84.0701525627661,
+    "customers_affected": 345,
+    "county": "AUGLAIZE",
+    "indicator": "D",
+    "outage_time": "2026-11-26T13:08:00",
+    "estimate_time": null
   }
 ]
