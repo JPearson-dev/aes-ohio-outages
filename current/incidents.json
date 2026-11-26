@@ -1,8 +1,8 @@
 [
   {
     "id": 1823766,
-    "lat": 39.91299788,
-    "lng": -84.0758543788855,
+    "lat": 39.91197438,
+    "lng": -84.0772136550628,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-26T20:00:00"
   },
   {
-    "id": 1823815,
-    "lat": 40.18330632,
-    "lng": -84.5883873101922,
-    "customers_affected": 1,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-11-26T14:56:00",
-    "estimate_time": "2026-11-26T19:00:00"
-  },
-  {
     "id": 1823858,
-    "lat": 39.86174234,
-    "lng": -84.7930376625951,
+    "lat": 39.86071884,
+    "lng": -84.7943958442604,
     "customers_affected": 16,
     "county": "PREBLE",
     "indicator": "D",
@@ -30,19 +20,9 @@
     "estimate_time": "2026-11-26T19:00:00"
   },
   {
-    "id": 1823859,
-    "lat": 40.1104791,
-    "lng": -84.6140984121029,
-    "customers_affected": 1,
-    "county": "DARKE",
-    "indicator": "D",
-    "outage_time": "2026-11-26T15:53:00",
-    "estimate_time": "2026-11-26T18:00:00"
-  },
-  {
     "id": 1823861,
-    "lat": 40.56758633,
-    "lng": -84.069483720894,
+    "lat": 40.56656283,
+    "lng": -84.0708572354527,
     "customers_affected": 1,
     "county": "AUGLAIZE",
     "indicator": "D",
@@ -51,12 +31,22 @@
   },
   {
     "id": 1823862,
-    "lat": 40.06258567,
-    "lng": -84.3986766958427,
+    "lat": 40.06156217,
+    "lng": -84.4000391830755,
     "customers_affected": 51,
     "county": "MIAMI",
     "indicator": "D",
     "outage_time": "2026-11-26T16:50:00",
+    "estimate_time": "2026-11-26T19:00:00"
+  },
+  {
+    "id": 1823863,
+    "lat": 39.75109523,
+    "lng": -84.0786426545009,
+    "customers_affected": 1,
+    "county": "GREENE",
+    "indicator": "D",
+    "outage_time": "2026-11-26T17:13:00",
     "estimate_time": null
   }
 ]
