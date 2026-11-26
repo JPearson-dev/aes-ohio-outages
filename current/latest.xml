@@ -1,63 +1,52 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.56693663</LAT>
-    <LNG>-84.0703556040487</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823861</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>AUGLAIZE</COUNTY>
-    <total>23</total>
-    <OutageTime>11/26/2026 04:56 PM</OutageTime>
-    <EstimateTime>11/26/2026 08:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.71930711</LAT>
-    <LNG>-84.0400215427081</LNG>
+    <LAT>39.71805221</LAT>
+    <LNG>-84.0416830979066</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823870</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>23</total>
+    <total>22</total>
     <OutageTime>11/26/2026 06:07 PM</OutageTime>
     <EstimateTime>11/26/2026 09:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.75146903</LAT>
-    <LNG>-84.0781474743056</LNG>
+    <LAT>39.75021413</LAT>
+    <LNG>-84.0798098649611</LNG>
     <TOTALCUSTS>4</TOTALCUSTS>
     <INCIDENTID>1823863</INCIDENTID>
     <IND>D</IND>
     <COUNTY>GREENE</COUNTY>
-    <total>23</total>
+    <total>22</total>
     <OutageTime>11/26/2026 05:06 PM</OutageTime>
     <EstimateTime>11/26/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.91234818</LAT>
-    <LNG>-84.0767172237633</LNG>
+    <LAT>39.91109328</LAT>
+    <LNG>-84.0783838145546</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823766</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MIAMI</COUNTY>
-    <total>23</total>
+    <total>22</total>
     <OutageTime>11/26/2026 02:50 PM</OutageTime>
     <EstimateTime>11/26/2026 08:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.86109264</LAT>
-    <LNG>-84.7938998126957</LNG>
+    <LAT>39.85983774</LAT>
+    <LNG>-84.7955650615201</LNG>
     <TOTALCUSTS>16</TOTALCUSTS>
     <INCIDENTID>1823858</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>23</total>
+    <total>22</total>
     <OutageTime>11/26/2026 04:08 PM</OutageTime>
     <EstimateTime>11/26/2026 08:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>BROWN</County>
@@ -154,7 +143,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>23</TotalOut>
-    <Outageat>11/26/2026 6:35:31 PM</Outageat>
+    <TotalOut>22</TotalOut>
+    <Outageat>11/26/2026 6:50:31 PM</Outageat>
   </Message>
 </Incidents>
