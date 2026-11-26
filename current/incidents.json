@@ -1,8 +1,8 @@
 [
   {
     "id": 299652,
-    "lat": 40.0873449876725,
-    "lng": -84.5986373655931,
+    "lat": 40.0889469876725,
+    "lng": -84.5965039231725,
     "customers_affected": 3102,
     "county": "DARKE",
     "indicator": "T",
@@ -10,19 +10,9 @@
     "estimate_time": "2026-11-26T17:00:00"
   },
   {
-    "id": 1823759,
-    "lat": 40.56705233,
-    "lng": -84.0702003371856,
-    "customers_affected": 345,
-    "county": "AUGLAIZE",
-    "indicator": "D",
-    "outage_time": "2026-11-26T13:08:00",
-    "estimate_time": "2026-11-26T17:00:00"
-  },
-  {
     "id": 1823766,
-    "lat": 39.91246388,
-    "lng": -84.0765635664563,
+    "lat": 39.91406588,
+    "lng": -84.0744360037439,
     "customers_affected": 1,
     "county": "MIAMI",
     "indicator": "D",
@@ -31,8 +21,8 @@
   },
   {
     "id": 1823814,
-    "lat": 39.79682019,
-    "lng": -84.2487061262437,
+    "lat": 39.79842219,
+    "lng": -84.246582422305,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -41,8 +31,8 @@
   },
   {
     "id": 1823815,
-    "lat": 40.18277232,
-    "lng": -84.5890995346825,
+    "lat": 40.18437432,
+    "lng": -84.5869628612115,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -51,8 +41,8 @@
   },
   {
     "id": 1823816,
-    "lat": 40.10728239,
-    "lng": -84.6194255833809,
+    "lat": 40.10888439,
+    "lng": -84.6172914672327,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
@@ -61,8 +51,8 @@
   },
   {
     "id": 1823823,
-    "lat": 39.81735862,
-    "lng": -84.3113153744066,
+    "lat": 39.81896062,
+    "lng": -84.3091909868405,
     "customers_affected": 1,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -70,23 +60,23 @@
     "estimate_time": "2026-11-26T18:00:00"
   },
   {
-    "id": 1823824,
-    "lat": 40.567596,
-    "lng": -84.0488321976882,
-    "customers_affected": 125,
-    "county": "AUGLAIZE",
-    "indicator": "D",
-    "outage_time": "2026-11-26T15:31:00",
-    "estimate_time": "2026-11-26T18:00:00"
-  },
-  {
     "id": 1823854,
-    "lat": 40.1099451,
-    "lng": -84.6148098141628,
+    "lat": 40.1115471,
+    "lng": -84.612675607983,
     "customers_affected": 1,
     "county": "DARKE",
     "indicator": "D",
     "outage_time": "2026-11-26T15:53:00",
     "estimate_time": "2026-11-26T18:00:00"
+  },
+  {
+    "id": 1823858,
+    "lat": 39.86281034,
+    "lng": -84.7916204295531,
+    "customers_affected": 16,
+    "county": "PREBLE",
+    "indicator": "D",
+    "outage_time": "2026-11-26T16:08:00",
+    "estimate_time": null
   }
 ]
