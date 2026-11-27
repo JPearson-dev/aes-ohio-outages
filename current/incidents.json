@@ -1,8 +1,8 @@
 [
   {
     "id": 1823858,
-    "lat": 39.86184914,
-    "lng": -84.7928959392909,
+    "lat": 39.86073664,
+    "lng": -84.7943722237098,
     "customers_affected": 16,
     "county": "PREBLE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1823863,
-    "lat": 39.75222553,
-    "lng": -84.0771453239105,
+    "lat": 39.75111303,
+    "lng": -84.0786190744916,
     "customers_affected": 4,
     "county": "GREENE",
     "indicator": "D",
@@ -20,33 +20,33 @@
     "estimate_time": "2026-11-26T23:00:00"
   },
   {
-    "id": 1823870,
-    "lat": 39.72006361,
-    "lng": -84.0390198959572,
-    "customers_affected": 1,
-    "county": "GREENE",
-    "indicator": "D",
-    "outage_time": "2026-11-26T18:07:00",
-    "estimate_time": "2026-11-26T22:00:00"
-  },
-  {
     "id": 1823871,
-    "lat": 40.70305471,
-    "lng": -84.6510816099138,
+    "lat": 40.70194221,
+    "lng": -84.6525778274793,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
     "outage_time": "2026-11-26T19:09:00",
-    "estimate_time": "2026-11-26T21:00:00"
+    "estimate_time": "2026-11-26T23:00:00"
   },
   {
     "id": 1823872,
-    "lat": 39.36517326,
-    "lng": -83.3890795606979,
+    "lat": 39.36406076,
+    "lng": -83.3905444795244,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
     "outage_time": "2026-11-26T19:15:00",
     "estimate_time": "2026-11-26T22:00:00"
+  },
+  {
+    "id": 1823875,
+    "lat": 39.64534564,
+    "lng": -84.1107895808784,
+    "customers_affected": 28,
+    "county": "MONTGOMERY",
+    "indicator": "D",
+    "outage_time": "2026-11-26T20:59:00",
+    "estimate_time": null
   }
 ]
