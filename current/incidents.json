@@ -1,8 +1,8 @@
 [
   {
     "id": 1823871,
-    "lat": 40.70376671,
-    "lng": -84.6501240306719,
+    "lat": 40.70211131,
+    "lng": -84.6523504024094,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1823885,
-    "lat": 39.89237792,
-    "lng": -84.1913920456922,
+    "lat": 39.89072252,
+    "lng": -84.1935897861392,
     "customers_affected": 17,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -20,23 +20,23 @@
     "estimate_time": "2026-11-27T09:00:00"
   },
   {
-    "id": 1823886,
-    "lat": 39.89529736,
-    "lng": -84.1786080519484,
-    "customers_affected": 1,
-    "county": "MONTGOMERY",
-    "indicator": "D",
-    "outage_time": "2026-11-26T23:39:00",
-    "estimate_time": "2026-11-27T09:00:00"
-  },
-  {
     "id": 1823900,
-    "lat": 39.71924905,
-    "lng": -84.5450196501846,
+    "lat": 39.71759365,
+    "lng": -84.5472114366923,
     "customers_affected": 16,
     "county": "PREBLE",
     "indicator": "D",
     "outage_time": "2026-11-27T05:21:00",
     "estimate_time": "2026-11-27T09:00:00"
+  },
+  {
+    "id": 1823902,
+    "lat": 40.29427444,
+    "lng": -83.6712377200569,
+    "customers_affected": 1,
+    "county": "LOGAN",
+    "indicator": "D",
+    "outage_time": "2026-11-27T06:08:00",
+    "estimate_time": "2026-11-27T10:00:00"
   }
 ]
