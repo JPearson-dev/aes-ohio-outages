@@ -1,26 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.43459274</LAT>
-    <LNG>-84.6336961133671</LNG>
+    <LAT>40.43174474</LAT>
+    <LNG>-84.6375098126351</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823931</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MERCER</COUNTY>
-    <total>2</total>
+    <total>1</total>
     <OutageTime>11/27/2026 10:37 AM</OutageTime>
     <EstimateTime>11/27/2026 01:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.3969807</LAT>
-    <LNG>-84.0033856518243</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823924</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>WARREN</COUNTY>
-    <total>2</total>
-    <OutageTime>11/27/2026 09:24 AM</OutageTime>
-    <EstimateTime>11/27/2026 12:00 PM</EstimateTime>
   </Markers>
   <Counties>
     <County>AUGLAIZE</County>
@@ -116,12 +105,12 @@
   </Counties>
   <Counties>
     <County>WARREN</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>2</TotalOut>
-    <Outageat>11/27/2026 11:05:31 AM</Outageat>
+    <TotalOut>1</TotalOut>
+    <Outageat>11/27/2026 11:20:31 AM</Outageat>
   </Message>
 </Incidents>
