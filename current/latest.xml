@@ -1,35 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.77105454</LAT>
-    <LNG>-84.2341241422347</LNG>
-    <TOTALCUSTS>1</TOTALCUSTS>
-    <INCIDENTID>1823923</INCIDENTID>
-    <IND>D</IND>
-    <COUNTY>MONTGOMERY</COUNTY>
-    <total>18</total>
-    <OutageTime>11/27/2026 09:21 AM</OutageTime>
-    <EstimateTime>11/27/2026 12:00 PM</EstimateTime>
-  </Markers>
-  <Markers>
-    <LAT>39.71699735</LAT>
-    <LNG>-84.548000951187</LNG>
+    <LAT>39.71795855</LAT>
+    <LNG>-84.5467283009568</LNG>
     <TOTALCUSTS>16</TOTALCUSTS>
     <INCIDENTID>1823900</INCIDENTID>
     <IND>D</IND>
     <COUNTY>PREBLE</COUNTY>
-    <total>18</total>
+    <total>17</total>
     <OutageTime>11/27/2026 05:21 AM</OutageTime>
     <EstimateTime>11/27/2026 12:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.3939992</LAT>
-    <LNG>-84.0073134740654</LNG>
+    <LAT>39.3949604</LAT>
+    <LNG>-84.0060471910742</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823924</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>18</total>
+    <total>17</total>
     <OutageTime>11/27/2026 09:24 AM</OutageTime>
     <EstimateTime>11/27/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -99,7 +88,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>1</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -132,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>18</TotalOut>
-    <Outageat>11/27/2026 10:05:31 AM</Outageat>
+    <TotalOut>17</TotalOut>
+    <Outageat>11/27/2026 10:20:31 AM</Outageat>
   </Message>
 </Incidents>
