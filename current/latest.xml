@@ -1,46 +1,57 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>40.2374482</LAT>
-    <LNG>-83.5430654517833</LNG>
-    <TOTALCUSTS>4</TOTALCUSTS>
-    <INCIDENTID>1823950</INCIDENTID>
+    <LAT>39.68256813</LAT>
+    <LNG>-84.1502795385965</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823958</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>CHAMPAIGN</COUNTY>
-    <total>9</total>
-    <OutageTime>11/27/2026 03:17 PM</OutageTime>
-    <EstimateTime>11/27/2026 06:00 PM</EstimateTime>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>7</total>
+    <OutageTime>11/27/2026 04:42 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.80749503</LAT>
-    <LNG>-84.2939199699072</LNG>
+    <LAT>39.80935336</LAT>
+    <LNG>-84.2919398705324</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823957</INCIDENTID>
+    <IND>D</IND>
+    <COUNTY>MONTGOMERY</COUNTY>
+    <total>7</total>
+    <OutageTime>11/27/2026 04:34 PM</OutageTime>
+    <EstimateTime>null</EstimateTime>
+  </Markers>
+  <Markers>
+    <LAT>39.80956873</LAT>
+    <LNG>-84.291170437719</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1823956</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>9</total>
+    <total>7</total>
     <OutageTime>11/27/2026 04:23 PM</OutageTime>
     <EstimateTime>11/27/2026 07:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.81937436</LAT>
-    <LNG>-84.2130482979554</LNG>
+    <LAT>39.82144806</LAT>
+    <LNG>-84.2102982537318</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823951</INCIDENTID>
     <IND>D</IND>
     <COUNTY>MONTGOMERY</COUNTY>
-    <total>9</total>
+    <total>7</total>
     <OutageTime>11/27/2026 03:40 PM</OutageTime>
     <EstimateTime>11/27/2026 06:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>40.31561583</LAT>
-    <LNG>-84.1374154105305</LNG>
+    <LAT>40.31768953</LAT>
+    <LNG>-84.1346436912474</LNG>
     <TOTALCUSTS>2</TOTALCUSTS>
     <INCIDENTID>1823947</INCIDENTID>
     <IND>D</IND>
     <COUNTY>SHELBY</COUNTY>
-    <total>9</total>
+    <total>7</total>
     <OutageTime>11/27/2026 02:19 PM</OutageTime>
     <EstimateTime>11/27/2026 05:00 PM</EstimateTime>
   </Markers>
@@ -58,7 +69,7 @@
   </Counties>
   <Counties>
     <County>CHAMPAIGN</County>
-    <TotOut>4</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>CLARK</County>
@@ -110,7 +121,7 @@
   </Counties>
   <Counties>
     <County>MONTGOMERY</County>
-    <TotOut>3</TotOut>
+    <TotOut>5</TotOut>
   </Counties>
   <Counties>
     <County>PICKAWAY</County>
@@ -143,7 +154,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>9</TotalOut>
-    <Outageat>11/27/2026 4:35:31 PM</Outageat>
+    <TotalOut>7</TotalOut>
+    <Outageat>11/27/2026 4:50:31 PM</Outageat>
   </Message>
 </Incidents>
