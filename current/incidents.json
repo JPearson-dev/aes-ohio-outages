@@ -1,8 +1,8 @@
 [
   {
     "id": 1823858,
-    "lat": 39.86045184,
-    "lng": -84.794750152521,
+    "lat": 39.85943724,
+    "lng": -84.7960965239109,
     "customers_affected": 16,
     "county": "PREBLE",
     "indicator": "D",
@@ -11,8 +11,8 @@
   },
   {
     "id": 1823863,
-    "lat": 39.75082823,
-    "lng": -84.0789963546404,
+    "lat": 39.74981363,
+    "lng": -84.0803404151702,
     "customers_affected": 4,
     "county": "GREENE",
     "indicator": "D",
@@ -21,8 +21,8 @@
   },
   {
     "id": 1823871,
-    "lat": 40.70165741,
-    "lng": -84.6529608591761,
+    "lat": 40.70064281,
+    "lng": -84.6543254095958,
     "customers_affected": 1,
     "county": "MERCER",
     "indicator": "D",
@@ -31,8 +31,8 @@
   },
   {
     "id": 1823872,
-    "lat": 39.36377596,
-    "lng": -83.390919498744,
+    "lat": 39.36276136,
+    "lng": -83.3922555047138,
     "customers_affected": 1,
     "county": "HIGHLAND",
     "indicator": "D",
@@ -41,8 +41,8 @@
   },
   {
     "id": 1823875,
-    "lat": 39.64506084,
-    "lng": -84.1111662386775,
+    "lat": 39.64404624,
+    "lng": -84.1125080820867,
     "customers_affected": 28,
     "county": "MONTGOMERY",
     "indicator": "D",
@@ -51,12 +51,22 @@
   },
   {
     "id": 1823876,
-    "lat": 39.64233131,
-    "lng": -84.0954081757428,
+    "lat": 39.64131671,
+    "lng": -84.0967499620961,
     "customers_affected": 1,
     "county": "GREENE",
     "indicator": "D",
     "outage_time": "2026-11-26T21:06:00",
     "estimate_time": "2026-11-27T00:00:00"
+  },
+  {
+    "id": 1823879,
+    "lat": 40.11147063,
+    "lng": -84.3798026341561,
+    "customers_affected": 2,
+    "county": "MIAMI",
+    "indicator": "D",
+    "outage_time": "2026-11-26T21:15:00",
+    "estimate_time": "2026-11-27T01:00:00"
   }
 ]
