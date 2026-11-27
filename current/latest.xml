@@ -1,24 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <Incidents>
   <Markers>
-    <LAT>39.71979195</LAT>
-    <LNG>-84.5443008384805</LNG>
-    <TOTALCUSTS>16</TOTALCUSTS>
-    <INCIDENTID>1823900</INCIDENTID>
+    <LAT>40.43339124</LAT>
+    <LNG>-84.6353050177458</LNG>
+    <TOTALCUSTS>1</TOTALCUSTS>
+    <INCIDENTID>1823931</INCIDENTID>
     <IND>D</IND>
-    <COUNTY>PREBLE</COUNTY>
-    <total>17</total>
-    <OutageTime>11/27/2026 05:21 AM</OutageTime>
-    <EstimateTime>11/27/2026 12:00 PM</EstimateTime>
+    <COUNTY>MERCER</COUNTY>
+    <total>2</total>
+    <OutageTime>11/27/2026 10:37 AM</OutageTime>
+    <EstimateTime>11/27/2026 01:00 PM</EstimateTime>
   </Markers>
   <Markers>
-    <LAT>39.3967938</LAT>
-    <LNG>-84.003631873517</LNG>
+    <LAT>39.3957792</LAT>
+    <LNG>-84.0049685055632</LNG>
     <TOTALCUSTS>1</TOTALCUSTS>
     <INCIDENTID>1823924</INCIDENTID>
     <IND>D</IND>
     <COUNTY>WARREN</COUNTY>
-    <total>17</total>
+    <total>2</total>
     <OutageTime>11/27/2026 09:24 AM</OutageTime>
     <EstimateTime>11/27/2026 12:00 PM</EstimateTime>
   </Markers>
@@ -80,7 +80,7 @@
   </Counties>
   <Counties>
     <County>MERCER</County>
-    <TotOut>0</TotOut>
+    <TotOut>1</TotOut>
   </Counties>
   <Counties>
     <County>MIAMI</County>
@@ -96,7 +96,7 @@
   </Counties>
   <Counties>
     <County>PREBLE</County>
-    <TotOut>16</TotOut>
+    <TotOut>0</TotOut>
   </Counties>
   <Counties>
     <County>ROSS</County>
@@ -121,7 +121,7 @@
   <Message>
     <UMTime>null</UMTime>
     <UMessage>null</UMessage>
-    <TotalOut>17</TotalOut>
-    <Outageat>11/27/2026 10:35:31 AM</Outageat>
+    <TotalOut>2</TotalOut>
+    <Outageat>11/27/2026 10:50:31 AM</Outageat>
   </Message>
 </Incidents>
